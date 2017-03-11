@@ -4,7 +4,7 @@ UniverseNaiveImporter
 
 
 
-A naive importer for the universe framework.
+A naive importer for the [universe](https://github.com/karayabin/universe-snapshot) framework.
 
 Why naive? Because it doesn't care about version numbers, it always take the latest version.
 
