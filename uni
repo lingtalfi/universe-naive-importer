@@ -1,0 +1,862 @@
+#!/usr/bin/env php
+<?php
+
+namespace UniverseNaiveImporter {
+
+
+    use UniverseNaiveImporter\Exception\UniverseNaiveImporterException;
+    use UniverseNaiveImporter\Importer\UniverseImporterInterface;
+    use UniverseNaiveImporter\ImportSummary\ImportSummary;
+    use UniverseNaiveImporter\ImportSummary\ImportSummaryInterface;
+
+    class UniverseNaiveImporter
+    {
+
+
+        private $appDir;
+        private $planetsRelativePath;
+        /**
+         *
+         * By default, the value is false, which means that the import is skipped
+         * if the planet is already there.
+         * However, sometimes you want to upgrade from an older to a new version for a given planet.
+         * In that case, you can put this flag to true; it will upgrade every planet and dependencies.
+         *
+         * bool,
+         */
+        private $_forceImport;
+
+
+        /**
+         * @var UniverseImporterInterface[]
+         */
+        private $importers;
+
+
+        public function __construct()
+        {
+            $this->planetsRelativePath = "class-planets";
+            $this->importers = [];
+            $this->_forceImport = false;
+        }
+
+        public static function create()
+        {
+            return new static();
+        }
+
+        public function setAppDir($appDir)
+        {
+            $this->appDir = $appDir;
+            return $this;
+        }
+
+        public function setPlanetsRelativePath($planetsRelativePath)
+        {
+            $this->planetsRelativePath = $planetsRelativePath;
+            return $this;
+        }
+
+        public function addImporter(UniverseImporterInterface $importer)
+        {
+            $this->importers[] = $importer;
+            return $this;
+        }
+
+        public function forceImport($forceImport)
+        {
+            $this->_forceImport = $forceImport;
+            return $this;
+        }
+
+
+        /**
+         * Import a planet and its dependencies.
+         * Returns a boolean indicating whether or not the planet was successfully imported.
+         *
+         *
+         *
+         * Universe is passed to avoid ambiguity, in case multiple planets have the same name.
+         *
+         * @return ImportSummaryInterface
+         */
+        public function import($planets, $universe = null)
+        {
+            if (null === $this->appDir) {
+                throw new UniverseNaiveImporterException("appDir not set");
+            }
+
+
+            $planetsDir = $this->appDir . "/" . $this->planetsRelativePath;
+
+            if (is_array($planets)) {
+
+                $all = [];
+                foreach ($this->importers as $importer) {
+                    $importer->forceImport($this->_forceImport);
+
+
+                    $className = get_class($importer);
+
+                    $all[$className]["instance"] = $importer;
+                    foreach ($planets as $planetName) {
+                        if (true === $importer->canImport($planetName, $universe)) {
+                            $all[$className]["planets"][] = $planetName;
+                            continue;
+                        }
+                    }
+                }
+
+
+                $uber = [
+                    'successful' => true,
+                    'reinstalledPlanets' => [],
+                    'alreadyInstalledPlanets' => [],
+                    'uninstalledPlanets' => [],
+                ];
+                foreach ($all as $className => $info) {
+                    /**
+                     * @var UniverseImporterInterface $importer
+                     */
+                    $importer = $info['instance'];
+                    $planets = $info['planets'];
+                    $summary = $importer->import($planetsDir, $planets);
+                    if (false === $summary->isSuccessful()) {
+                        $uber['successful'] = false;
+                    }
+                    $uber['reinstalledPlanets'] = array_merge($uber['reinstalledPlanets'], $summary->getReinstalledPlanets());
+                    $uber['alreadyInstalledPlanets'] = array_merge($uber['alreadyInstalledPlanets'], $summary->getAlreadyInstalledPlanets());
+                    $uber['uninstalledPlanets'] = array_merge($uber['uninstalledPlanets'], $summary->getUninstalledPlanets());
+                }
+
+                $o = new ImportSummary();
+                $o->setSuccessful($uber['successful']);
+                $o->setReinstalledPlanets($uber['reinstalledPlanets']);
+                $o->setAlreadyInstalledPlanets($uber['alreadyInstalledPlanets']);
+                $o->setUninstalledPlanets($uber['uninstalledPlanets']);
+                return $o;
+
+            } elseif (is_string($planets)) {
+                $planetName = $planets;
+                foreach ($this->importers as $importer) {
+                    $importer->forceImport($this->_forceImport);
+                    if (true === $importer->canImport($planetName, $universe)) {
+                        $summary = $importer->import($planetsDir, $planetName, $universe);
+                        return $summary;
+                    }
+                }
+                $summary = ImportSummary::create();
+                $summary->setSuccessful(false);
+                $summary->setUninstalledPlanets([$planetName]);
+                return $summary;
+            }
+        }
+
+    }
+}
+
+
+namespace UniverseNaiveImporter\ImportSummary {
+
+
+    interface ImportSummaryInterface
+    {
+
+        public function isSuccessful();
+
+        /**
+         * Planets which have actually been replaced (overwritten)
+         */
+        public function getReinstalledPlanets();
+
+        public function getAlreadyInstalledPlanets();
+
+
+        public function getUninstalledPlanets();
+    }
+
+
+    class ImportSummary implements ImportSummaryInterface
+    {
+        private $successful;
+        private $reinstalledPlanets;
+        private $alreadyInstalledPlanets;
+        private $uninstalledPlanets;
+
+
+        public function __construct()
+        {
+            $this->reinstalledPlanets = [];
+            $this->uninstalledPlanets = [];
+            $this->alreadyInstalledPlanets = [];
+            $this->successful = false;
+        }
+
+        public static function create()
+        {
+            return new static();
+        }
+
+
+        public function isSuccessful()
+        {
+            return $this->successful;
+        }
+
+        /**
+         * Planets which have actually been replaced (overwritten)
+         */
+        public function getReinstalledPlanets()
+        {
+            return $this->reinstalledPlanets;
+        }
+
+
+        public function getUninstalledPlanets()
+        {
+            return $this->uninstalledPlanets;
+        }
+
+        public function getAlreadyInstalledPlanets()
+        {
+            return $this->alreadyInstalledPlanets;
+        }
+
+
+        //--------------------------------------------
+        //
+        //--------------------------------------------
+        public function setSuccessful($successful)
+        {
+            $this->successful = $successful;
+            return $this;
+        }
+
+        public function setReinstalledPlanets(array $reinstalledPlanets)
+        {
+            $this->reinstalledPlanets = $reinstalledPlanets;
+            return $this;
+        }
+
+        public function setUninstalledPlanets(array $uninstalledPlanets)
+        {
+            $this->uninstalledPlanets = $uninstalledPlanets;
+            return $this;
+        }
+
+        public function setAlreadyInstalledPlanets(array $alreadyInstalledPlanets)
+        {
+            $this->alreadyInstalledPlanets = $alreadyInstalledPlanets;
+            return $this;
+        }
+
+        //--------------------------------------------
+        //
+        //--------------------------------------------
+        public function addAlreadyInstalledPlanet($planet)
+        {
+            $this->alreadyInstalledPlanets[] = $planet;
+            return $this;
+        }
+
+        public function addUninstalledPlanet($planet)
+        {
+            $this->uninstalledPlanets[] = $planet;
+            return $this;
+        }
+
+        public function addReinstalledPlanet($planet)
+        {
+            $this->reinstalledPlanets[] = $planet;
+            return $this;
+        }
+
+
+    }
+}
+
+
+namespace UniverseNaiveImporter\Exception {
+
+
+    class UniverseNaiveImporterException extends \Exception
+    {
+
+    }
+}
+
+
+namespace UniverseNaiveImporter\Importer {
+
+
+    use UniverseNaiveImporter\ImportSummary\ImportSummaryInterface;
+
+    interface UniverseImporterInterface
+    {
+
+        public function canImport($planetName, $universe = null);
+
+        /**
+         * See UniverseNaiveImporter.forceImport documentation
+         */
+        public function forceImport($forceImport);
+
+        /**
+         * Import the given planet(s) to the planets directory.
+         * $planets can be a string or an array
+         *
+         * It overwrites existing planets if forceImport option is set to true
+         *
+         * @return ImportSummaryInterface
+         */
+        public function import($planetsDir, $planets);
+    }
+
+
+    use UniverseNaiveImporter\UniverseNaiveImporter;
+
+    interface UniverseNaiveImporterAwareImporterInterface
+    {
+
+        public function setUniverseNaiveImporter(UniverseNaiveImporter $uni);
+    }
+
+
+    use Bat\FileSystemTool;
+    use UniverseNaiveImporter\ImportSummary\ImportSummary;
+
+
+    class LingUniverseImporter implements UniverseImporterInterface, UniverseNaiveImporterAwareImporterInterface
+    {
+
+        private static $dependencyMap = [
+            "AdminTable" => ["QuickPdo"],
+            "ApplicationLog" => ["Bat"],
+            "ArrayExport" => ["ArrayToString"],
+            "ArrayStore" => ["ArrayExport", "Bat"],
+            "ArrayToString" => [],
+            "ArrayToTable" => ["Bat"],
+            "AssetLoader" => [],
+            "AssetsList" => ["Bat"],
+            "BabyDash" => ["IndentedLines"],
+            "BabyYaml" => ["Bat"],
+            "Bat" => ["CopyDir", "Tiphaine"],
+            "Bate" => ["Bat"],
+            "Beauty" => ["DirScanner"],
+            "BullSheet" => ["Bat", "DirScanner", "QuickPdo"],
+            "BumbleBee" => [],
+            "Colis" => ["Bat", "YouTubeUtils", "Tim", "UploadHandler"],
+            "CommandLineManiac" => [],
+            "ConventionGuy" => [],
+            "CopyDir" => [],
+            "Csv" => [],
+            "DirScanner" => ["Bat"],
+            "DirTransformer" => ["Bat"],
+            "Dreamer" => [],
+            "Escaper" => ["Bat"],
+            "Explorer" => [],
+            "Ffmpeg" => [],
+            "FileCleaner" => [],
+            "FileCreator" => [],
+            "GetFileSize" => [],
+            "Here" => [],
+            "HtmlTemplate" => [],
+            "Icons" => [],
+            "IndentedLines" => ["Bat", "Bate", "Quoter"],
+            "Installer" => ["Bat"],
+            "InstantLog" => ["Bat"],
+            "JAjaxLoader" => [],
+            "JChronometer" => [],
+            "JCookie" => [],
+            "JDragSlider" => [],
+            "JFullScreen" => [],
+            "JGoodies" => [],
+            "JImageRotator" => [],
+            "JInfiniteSlider" => [],
+            "JItemSlider" => [],
+            "JQuery" => [],
+            "JVideoPlayer" => [],
+            "JqueryUrlWithDropZone" => ["Jquery"],
+            "Linker" => [],
+            "LogSlicer" => ["Bat"],
+            "Lys" => [],
+            "Meredith" => ["Bat", "QuickPdo", "Tim", "StringFormatter", "SuspiciousException"],
+            "MikeMagicTools" => [],
+            "MySimpleXmlElement" => [],
+            "MysqlTabular" => [],
+            "NotationFan" => [],
+            "Observer" => [],
+            "Ornella" => [],
+            "Pea" => [],
+            "PermsHiker" => ["Bat", "DirScanner"],
+            "PhpBeast" => ["ArrayToTable"],
+            "PhpTemplate" => [],
+            "Privilege" => [],
+            "PublicException" => [],
+            "QuickForm" => ["Bat", "QuickPdo"],
+            "QuickLog" => ["Bat"],
+            "QuickPdo" => [],
+            "Quoter" => ["Bat", "WrappedString", "Escaper"],
+            "ReflectionRepresentation" => ["VariableToString"],
+            "RssUtil" => ["MySimpleXmlElement"],
+            "ScreenDebug" => [],
+            "SecureImageUploader" => ["Bat", "ThumbnailTools"],
+            "SelectChain" => ["Tim"],
+            "SequenceMatcher" => [],
+            "SitemapBuilderBox" => ["Bat"],
+            "SitemapSlicer" => ["Bat", "SitemapBuilderBox"],
+            "StringFormatter" => ["ArrayToString", "VariableToString"],
+            "SuspiciousException" => [],
+            "SvgGridGenerator" => [],
+            "TheAnarchist" => [],
+            "TheBar" => [],
+            "TheScientist" => [],
+            "ThumbnailTools" => ["Bat"],
+            "Tim" => ["Jquery"],
+            "TimeFileUtil" => [],
+            "Tiphaine" => [],
+            "TokenFun" => ["Bat", "DirScanner"],
+            "Tokens" => [],
+            "TreeListHelper" => ["Bat"],
+            "Umail" => ["DirScanner"],
+            "UniqueNameGenerator" => ["Bat"],
+            "Updf" => [], // requires https://github.com/tecnickcom/tcpdf
+            "Uploader" => [],
+            "UploaderHandler" => [],
+            "UrlFriendlyListHelper" => ["Bat", "Jquery", "QuickPdo"],
+            "VSwitch" => [],
+            "VariableToString" => ["ArrayToString", "ReflectionRepresentation"],
+            "VideoSubtitles" => [],
+            "WrappedString" => ["Escaper"],
+            "YouTubeUtils" => [],
+            "Zoli" => [],
+
+
+        ];
+
+
+        private $_forceImport;
+
+        public function __construct()
+        {
+            $this->_forceImport = false;
+        }
+
+        public function forceImport($forceImport)
+        {
+            $this->_forceImport = $forceImport;
+            return $this;
+        }
+
+
+        public function canImport($planetName, $universe = null)
+        {
+            if (null === $universe || 'ling' == $universe) {
+                return array_key_exists($planetName, self::$dependencyMap);
+            } else {
+                return false;
+            }
+        }
+
+        public function import($planetsDir, $planets)
+        {
+            $success = false;
+            $summary = ImportSummary::create();
+            if (is_dir($planetsDir)) {
+                $success = true;
+
+
+                $tree = [];
+                $this->collectDependencyTree($planets, $tree);
+                foreach ($tree as $planet) {
+                    $output = [];
+                    $returnVar = 0;
+                    if (file_exists($planetsDir . "/" . $planet)) {
+                        if (true === $this->_forceImport) {
+                            FileSystemTool::remove($planetsDir . "/" . $planet);
+                        } else {
+                            $summary->addAlreadyInstalledPlanet($planet);
+                            continue;
+                        }
+                    }
+
+                    $cmd = 'cd "' . $planetsDir . '"; git clone https://github.com/lingtalfi/' . $planet . '.git';
+                    exec($cmd, $output, $returnVar);
+                    if (0 === $returnVar) {
+                        $summary->addReinstalledPlanet($planet);
+                    } else {
+                        $success = false;
+                        $summary->addUninstalledPlanet($planet);
+                    }
+                }
+            }
+            $summary->setSuccessful($success);
+            return $summary;
+        }
+
+        public function setUniverseNaiveImporter(UniverseNaiveImporter $uni)
+        {
+            // TODO: Implement setUniverseNaiveImporter() method.
+        }
+
+
+        //--------------------------------------------
+        //
+        //--------------------------------------------
+        private function collectDependencyTree($planets, array &$tree)
+        {
+            if (is_string($planets)) {
+                $planetName = $planets;
+                $tree[] = $planetName;
+                if (array_key_exists($planetName, self::$dependencyMap)) {
+                    $deps = self::$dependencyMap[$planetName];
+                    foreach ($deps as $dep) {
+                        if (!in_array($dep, $tree, true)) {
+                            self::collectDependencyTree($dep, $tree);
+                        }
+                    }
+                }
+            } elseif (is_array($planets)) {
+                foreach ($planets as $planetName) {
+                    $this->collectDependencyTree($planetName, $tree);
+                }
+            }
+        }
+    }
+}
+
+
+namespace Bat {
+
+
+    class FileSystemTool
+    {
+
+        /**
+         * Removes an entry from the filesystem.
+         * The entry can be:
+         *
+         * - a link, then the link only is removed (not the target)
+         * - a file, then the file is removed
+         * - a directory, the the directory is removed recursively
+         *
+         * It is considered a success when the entry doesn't exist on the filesystem at the end,
+         * and a failure otherwise.
+         *
+         * By default, the method throws an exception in case of failure.
+         *
+         * If you set the throwEx flag to false, then this method will return true in case of success,
+         * and false in case of failure.
+         *
+         */
+        public static function remove($file, $throwEx = true)
+        {
+            if (false === is_link($file)) {
+                if (file_exists($file)) {
+                    return self::_remove($file, $throwEx);
+                } else {
+                    return true;
+                }
+            } else {
+                if (false === unlink($file)) {
+                    return self::_oops("Cannot remove link $file", $throwEx);
+                }
+                return true;
+            }
+        }
+
+
+
+        //------------------------------------------------------------------------------/
+        //
+        //------------------------------------------------------------------------------/
+        private static function _oops($m, $throwEx = true)
+        {
+            if (true === $throwEx) {
+                throw new \Exception($m);
+            }
+            return false;
+        }
+
+        private static function _remove($file, $throwEx = true)
+        {
+            if (is_dir($file) && !is_link($file)) {
+                if (is_readable($file)) {
+                    $files = new \FilesystemIterator($file,
+                        \FilesystemIterator::KEY_AS_PATHNAME |
+                        \FilesystemIterator::CURRENT_AS_FILEINFO |
+                        \FilesystemIterator::SKIP_DOTS
+                    );
+                    foreach ($files as $f) {
+                        self::_remove($f, $throwEx);
+                    }
+                    if (false === rmdir($file)) {
+                        return self::_oops("Cannot remove dir $file", $throwEx);
+                    }
+                    return true;
+                } else {
+                    return self::_oops("Cannot remove unreadable dir $file", $throwEx);
+                }
+            } else {
+                if (true === is_file($file) || true === is_link($file)) {
+                    if (false === unlink($file)) {
+                        if (true === is_link($file)) {
+                            return self::_oops("Cannot remove link $file", $throwEx);
+                        }
+                        return self::_oops("Cannot remove file $file", $throwEx);
+                    }
+                    return true;
+                }
+            }
+        }
+    }
+
+
+}
+
+
+namespace {
+
+
+    use UniverseNaiveImporter\Importer\LingUniverseImporter;
+    use UniverseNaiveImporter\UniverseNaiveImporter;
+
+
+    if (!function_exists('a')) {
+        function a()
+        {
+            foreach (func_get_args() as $arg) {
+                ob_start();
+                var_dump($arg);
+                $output = ob_get_clean();
+                if ('1' !== ini_get('xdebug.default_enable')) {
+                    $output = preg_replace("!\]\=\>\n(\s+)!m", "] => ", $output);
+                }
+                if ('cli' === PHP_SAPI) {
+                    echo $output;
+                } else {
+                    echo '<pre>' . $output . '</pre>';
+                }
+            }
+        }
+
+        function az()
+        {
+            call_user_func_array('a', func_get_args());
+            exit;
+        }
+    }
+
+    function error($msg, $br = true)
+    {
+        echo "\e[31m$msg\e[0m";
+        if (true === $br) {
+            echo PHP_EOL;
+        }
+    }
+
+    function success($msg, $br = true)
+    {
+        echo "\e[32m$msg\e[0m";
+        if (true === $br) {
+            echo PHP_EOL;
+        }
+    }
+
+    function help()
+    {
+        echo <<<HELP
+\e[34m        
+Usage
+-------
+uni import {planetName} {universe}?
+uni import -f {planetName} {universe}?
+
+For instance: 
+    uni import Bat
+    uni import Bat ling
+    uni import -f Bat
+    
+Options
+-------------
+-f: force overwriting of existing planets and dependencies. If not set, the Importer will skip existing planets/dependencies.    
+    
+
+\e[0m
+HELP;
+    }
+
+
+    function say($msg, $br = true)
+    {
+        echo $msg;
+        if (true === $br) {
+            echo PHP_EOL;
+        }
+    }
+
+
+    $force = false;
+    if (array_key_exists(2, $argv) && '-f' === $argv[2]) {
+        $force = true;
+        unset($argv[2]);
+        $argv = array_merge($argv);
+    }
+
+
+    if (array_key_exists(1, $argv) && 'import' === $argv[1] && array_key_exists(2, $argv)) {
+
+
+        $universe = null;
+        $planetName = $argv[2];
+
+        if (array_key_exists(3, $argv)) {
+            $universe = $argv[3];
+        }
+
+
+        $appDir = getcwd();
+        $planetsRelativePath = 'class-planets';
+
+
+        $planetsDir = $appDir . "/" . $planetsRelativePath;
+
+        if (false === file_exists($planetsDir)) {
+            @mkdir($planetsDir, 0777, true);
+        }
+
+
+        if (file_exists($planetsDir)) {
+
+
+            $summary = UniverseNaiveImporter::create()
+                ->forceImport($force)
+                ->setAppDir($appDir)
+                ->addImporter(new LingUniverseImporter())
+                ->setPlanetsRelativePath($planetsRelativePath)
+                ->import($planetName, $universe);
+
+
+            $successfull = $summary->isSuccessful();
+            if (true === $successfull) {
+                success("The import was successful");
+            } else {
+                error("The import was not successful");
+            }
+            $alreadyInstalled = $summary->getAlreadyInstalledPlanets();
+            $reinstalled = $summary->getReinstalledPlanets();
+            $uninstalled = $summary->getUninstalledPlanets();
+
+
+            $cAlready = count($alreadyInstalled);
+            say("$cAlready planets were already installed", false);
+            if ($cAlready > 0) {
+                say(": " . implode(", ", $alreadyInstalled));
+            } else {
+                say("");
+            }
+
+            $cReinstalled = count($reinstalled);
+            say("$cReinstalled planets have been re-installed", false);
+            if ($cReinstalled > 0) {
+                say(": " . implode(", ", $reinstalled));
+            } else {
+                say("");
+            }
+
+            $cUninstalled = count($uninstalled);
+            say("$cUninstalled planets couldn't be installed", false);
+            if ($cUninstalled > 0) {
+                say(": " . implode(", ", $uninstalled));
+            } else {
+                say("");
+            }
+
+
+            $bigbangString = <<<'BIGBANG'
+<?php
+
+
+
+//------------------------------------------------------------------------------/
+// THIS IS BIG BANG SCRIPT, from whence the universe can be used
+//------------------------------------------------------------------------------/
+use BumbleBee\Autoload\ButineurAutoloader;
+
+
+require_once __DIR__ . '/BumbleBee/Autoload/BeeAutoloader.php';
+require_once __DIR__ . '/BumbleBee/Autoload/ButineurAutoloader.php';
+
+
+
+if (!isset($__butineurStart)) {
+    $__butineurStart = true;
+}
+
+ButineurAutoloader::getInst()
+    ->addLocation(__DIR__);
+// ->addLocation(__DIR__ . "/myclasses") // we could use multiple directories if needed
+//
+//
+if (true === $__butineurStart) {
+    ButineurAutoloader::getInst()->start();
+}
+
+//------------------------------------------------------------------------------/
+// BONUS FUNCTIONS, SO HANDFUL... (a huge time saver in the end)
+//------------------------------------------------------------------------------/
+if (!function_exists('a')) {
+    function a()
+    {
+        foreach (func_get_args() as $arg) {
+            ob_start();
+            var_dump($arg);
+            $output = ob_get_clean();
+            if ('1' !== ini_get('xdebug.default_enable')) {
+                $output = preg_replace("!\]\=\>\n(\s+)!m", "] => ", $output);
+            }
+            if ('cli' === PHP_SAPI) {
+                echo $output;
+            }
+            else {
+                echo '<pre>' . $output . '</pre>';
+            }
+        }
+    }
+    function az()
+    {
+        call_user_func_array('a', func_get_args());
+        exit;
+    }
+}
+BIGBANG;
+
+
+            $bigbangFile = $planetsDir . "/bigbang.php";
+
+
+            if (file_exists($bigbangFile) && false === $force) {
+                success('bigbang script is already in place');
+            } else {
+                if (false !== file_put_contents($bigbangFile, $bigbangString)) {
+                    success('bigbang script has been created successfully');
+                } else {
+                    error("bigbang script couldn't be created");
+                }
+            }
+
+
+        } else {
+            error("Cannot create the planets directory: $planetsDir");
+        }
+
+    } else {
+        say("");
+        error("Invalid arguments");
+        help();
+    }
+
+}
+
+
+
