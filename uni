@@ -377,6 +377,7 @@ namespace UniverseNaiveImporter\Importer {
             "JQuery" => [],
             "JVideoPlayer" => [],
             "JqueryUrlWithDropZone" => ["Jquery"],
+            "Kamille" => [],
             "Linker" => [],
             "LogSlicer" => ["Bat"],
             "Lys" => [],
