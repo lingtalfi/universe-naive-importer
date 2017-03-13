@@ -9,6 +9,21 @@ namespace UniverseNaiveImporter {
     use UniverseNaiveImporter\ImportSummary\ImportSummary;
     use UniverseNaiveImporter\ImportSummary\ImportSummaryInterface;
 
+    /**
+     * This is the naive importer for the universe framework.
+     * It is naive because it doesn't try to deal with version numbers (when importing a planet),
+     * it just uses the latest version available.
+     *
+     *
+     * What you can do with this class is:
+     *
+     *
+     * - import planet(s)
+     * - list available planets
+     *
+     *
+     *
+     */
     class UniverseNaiveImporter
     {
 
@@ -149,6 +164,21 @@ namespace UniverseNaiveImporter {
                 $summary->setSuccessful(false);
                 $summary->setUninstalledPlanets([$planetName]);
                 return $summary;
+            }
+        }
+
+
+        public function listPlanets($universe = null)
+        {
+            foreach ($this->importers as $importer) {
+
+                $planets = $importer->getAvailablePlanets($universe);
+                if (count($planets) > 0) {
+                    echo "Importer " . $importer->getName() . ":" . PHP_EOL;
+                    foreach ($planets as $info) {
+                        echo "- " . $info[0] . " (" . $info[1] . ")" . PHP_EOL;
+                    }
+                }
             }
         }
 
@@ -310,6 +340,16 @@ namespace UniverseNaiveImporter\Importer {
          * @return ImportSummaryInterface
          */
         public function import($planetsDir, $planets);
+
+        public function getName();
+
+        /**
+         * @return array of items.
+         * Each item is an array with two entries:
+         *      - 0: the planet name
+         *      - 1: the universe name
+         */
+        public function getAvailablePlanets($universe = null);
     }
 
 
@@ -443,6 +483,26 @@ namespace UniverseNaiveImporter\Importer {
             $this->_forceImport = false;
         }
 
+
+        public function getName()
+        {
+            return "LingUniverseImporter";
+        }
+
+        public function getAvailablePlanets($universe = null)
+        {
+
+            $ret = [];
+            if (null === $universe || "ling" === $universe) {
+                $planets = array_keys(self::$dependencyMap);
+                foreach ($planets as $planet) {
+                    $ret[] = [$planet, "ling"];
+                }
+            }
+            return $ret;
+        }
+
+
         public function forceImport($forceImport)
         {
             $this->_forceImport = $forceImport;
@@ -494,6 +554,7 @@ namespace UniverseNaiveImporter\Importer {
             $summary->setSuccessful($success);
             return $summary;
         }
+
 
         public function setUniverseNaiveImporter(UniverseNaiveImporter $uni)
         {
@@ -619,6 +680,7 @@ namespace Bat {
 namespace {
 
 
+    use ProgramPrinter\ProgramPrinter;
     use UniverseNaiveImporter\Importer\LingUniverseImporter;
     use UniverseNaiveImporter\UniverseNaiveImporter;
 
@@ -648,53 +710,7 @@ namespace {
         }
     }
 
-    function error($msg, $br = true)
-    {
-        echo "\e[31m$msg\e[0m";
-        if (true === $br) {
-            echo PHP_EOL;
-        }
-    }
-
-    function success($msg, $br = true)
-    {
-        echo "\e[32m$msg\e[0m";
-        if (true === $br) {
-            echo PHP_EOL;
-        }
-    }
-
-    function help()
-    {
-        echo <<<HELP
-\e[34m        
-Usage
--------
-uni import {planetName} {universe}?
-uni import -f {planetName} {universe}?
-
-For instance: 
-    uni import Bat
-    uni import Bat ling
-    uni import -f Bat
-    
-Options
--------------
--f: force overwriting of existing planets and dependencies. If not set, the Importer will skip existing planets/dependencies.    
-    
-
-\e[0m
-HELP;
-    }
-
-
-    function say($msg, $br = true)
-    {
-        echo $msg;
-        if (true === $br) {
-            echo PHP_EOL;
-        }
-    }
+    $printer = ProgramPrinter::create();
 
 
     $force = false;
@@ -705,6 +721,9 @@ HELP;
     }
 
 
+    //--------------------------------------------
+    // IMPORT
+    //--------------------------------------------
     if (array_key_exists(1, $argv) && 'import' === $argv[1] && array_key_exists(2, $argv)) {
 
 
@@ -740,9 +759,9 @@ HELP;
 
             $successfull = $summary->isSuccessful();
             if (true === $successfull) {
-                success("The import was successful");
+                $printer->success("The import was successful");
             } else {
-                error("The import was not successful");
+                $printer->error("The import was not successful");
             }
             $alreadyInstalled = $summary->getAlreadyInstalledPlanets();
             $reinstalled = $summary->getReinstalledPlanets();
@@ -750,27 +769,27 @@ HELP;
 
 
             $cAlready = count($alreadyInstalled);
-            say("$cAlready planets were already installed", false);
+            $printer->say("$cAlready planets were already installed", false);
             if ($cAlready > 0) {
-                say(": " . implode(", ", $alreadyInstalled));
+                $printer->say(": " . implode(", ", $alreadyInstalled));
             } else {
-                say("");
+                $printer->say("");
             }
 
             $cReinstalled = count($reinstalled);
-            say("$cReinstalled planets have been re-installed", false);
+            $printer->say("$cReinstalled planets have been re-installed", false);
             if ($cReinstalled > 0) {
-                say(": " . implode(", ", $reinstalled));
+                $printer->say(": " . implode(", ", $reinstalled));
             } else {
-                say("");
+                $printer->say("");
             }
 
             $cUninstalled = count($uninstalled);
-            say("$cUninstalled planets couldn't be installed", false);
+            $printer->say("$cUninstalled planets couldn't be installed", false);
             if ($cUninstalled > 0) {
-                say(": " . implode(", ", $uninstalled));
+                $printer->say(": " . implode(", ", $uninstalled));
             } else {
-                say("");
+                $printer->say("");
             }
 
 
@@ -837,24 +856,37 @@ BIGBANG;
 
 
             if (file_exists($bigbangFile) && false === $force) {
-                success('bigbang script is already in place');
+                $printer->success('bigbang script is already in place');
             } else {
                 if (false !== file_put_contents($bigbangFile, $bigbangString)) {
-                    success('bigbang script has been created successfully');
+                    $printer->success('bigbang script has been created successfully');
                 } else {
-                    error("bigbang script couldn't be created");
+                    $printer->error("bigbang script couldn't be created");
                 }
             }
 
 
         } else {
-            error("Cannot create the planets directory: $planetsDir");
+            $printer->error("Cannot create the planets directory: $planetsDir");
         }
 
+    }
+    //--------------------------------------------
+    // LIST
+    //--------------------------------------------
+    elseif (array_key_exists(1, $argv) && 'list' === $argv[1]) {
+        $universe = null;
+        if (array_key_exists(2, $argv)) {
+            $universe = $argv[2];
+        }
+        UniverseNaiveImporter::create()
+            ->addImporter(new LingUniverseImporter())
+            ->listPlanets($universe);
+
     } else {
-        say("");
-        error("Invalid arguments");
-        help();
+        $printer->say("");
+        $printer->error("Invalid arguments");
+        $printer->help();
     }
 
 }
