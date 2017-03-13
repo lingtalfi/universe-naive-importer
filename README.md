@@ -101,116 +101,12 @@ From your app, now include the bigbang script and you can use the planets.
 
 So now, you can basically import any planets :)
 
-Here is the current list of planets (note: if you want to download them all at once, please check the [universe snapshot project](https://github.com/karayabin/universe-snapshot): 
+If you want to download them all at once, please check the [universe snapshot project](https://github.com/karayabin/universe-snapshot).
+Or, just use the command:
 
-
-- AdminTable
-- ApplicationLog
-- ArrayExport
-- ArrayStore
-- ArrayToString
-- ArrayToTable
-- AssetLoader
-- AssetsList
-- BabyDash
-- BabyYaml
-- Bat
-- Bate
-- Beauty
-- BullSheet
-- BumbleBee
-- Colis
-- CommandLineManiac
-- ConventionGuy
-- CopyDir
-- Csv
-- DirScanner
-- DirTransformer
-- Dreamer
-- Escaper
-- Explorer
-- Ffmpeg
-- FileCleaner
-- FileCreator
-- GetFileSize
-- Here
-- HtmlTemplate
-- Icons
-- IndentedLines
-- Installer
-- InstantLog
-- JAjaxLoader
-- JChronometer
-- JCookie
-- JDragSlider
-- JFullScreen
-- JGoodies
-- JImageRotator
-- JInfiniteSlider
-- JItemSlider
-- JQuery
-- JVideoPlayer
-- JqueryUrlWithDropZone
-- Linker
-- LogSlicer
-- Lys
-- Meredith
-- MikeMagicTools
-- MySimpleXmlElement
-- MysqlTabular
-- NotationFan
-- Observer
-- Ornella
-- Pea
-- PermsHiker
-- PhpBeast
-- PhpTemplate
-- Privilege
-- PublicException
-- QuickForm
-- QuickLog
-- QuickPdo
-- Quoter
-- ReflectionRepresentation
-- RssUtil
-- ScreenDebug
-- SecureImageUploader
-- SelectChain
-- SequenceMatcher
-- SitemapBuilderBox
-- SitemapSlicer
-- StringFormatter
-- SuspiciousException
-- SvgGridGenerator
-- TheAnarchist
-- TheBar
-- TheScientist
-- ThumbnailTools
-- Tim
-- TimeFileUtil
-- Tiphaine
-- TokenFun
-- Tokens
-- TreeListHelper
-- Umail
-- UniqueNameGenerator
-- Updf
-- Uploader
-- UploaderHandler
-- UrlFriendlyListHelper
-- VSwitch
-- VariableToString
-- VideoSubtitles
-- WrappedString
-- YouTubeUtils
-- Zoli
-
-
-
-
-
-
-
+```php
+uni list
+```
 
 
 
