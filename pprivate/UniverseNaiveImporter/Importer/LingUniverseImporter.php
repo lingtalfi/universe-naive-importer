@@ -27,7 +27,7 @@ class LingUniverseImporter implements UniverseImporterInterface, UniverseNaiveIm
         "Beauty" => ["DirScanner"],
         "BullSheet" => ["Bat", "DirScanner", "QuickPdo"],
         "BumbleBee" => [],
-        "Colis" => ["Bat", "YouTubeUtils", "Tim", "UploadHandler"],
+        "Colis" => ["Bat", "YouTubeUtils", "Tim", "UploaderHandler"],
         "CommandLineManiac" => [],
         "ConventionGuy" => [],
         "CopyDir" => [],
@@ -126,6 +126,13 @@ class LingUniverseImporter implements UniverseImporterInterface, UniverseNaiveIm
     }
 
 
+    public static function create()
+    {
+        return new static();
+    }
+
+
+
     public function getName()
     {
         return "LingUniverseImporter";
@@ -171,6 +178,9 @@ class LingUniverseImporter implements UniverseImporterInterface, UniverseNaiveIm
 
             $tree = [];
             $this->collectDependencyTree($planets, $tree);
+            $tree = array_unique($tree);
+
+
             foreach ($tree as $planet) {
                 $output = [];
                 $returnVar = 0;

@@ -6,5 +6,5 @@ namespace ProgramPrinter;
 
 interface ProgramPrinterAwareInterface
 {
-    public function setProgramPrinterAware(ProgramPrinterInterface $printer);
+    public function setProgramPrinter(ProgramPrinterInterface $printer);
 }

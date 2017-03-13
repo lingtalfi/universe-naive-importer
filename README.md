@@ -15,6 +15,22 @@ It imports the planets dependencies though (otherwise it would be close to usele
 
 
 
+What can it do for you?
+=================
+Although I first intended to do only an importer tool, I added a few features.
+So, now the uni command can do the following (see Usage section for more info):
+
+- import a planet
+- import all planets
+- list all planets
+- transform planets to symlinks to the local universe
+- transform planets to directories from the local universe
+- clean the planets directories (remove the .git, .gitignore, .DS_Store and .idea files)
+
+
+
+
+
 Setup
 ==========
 
@@ -40,13 +56,32 @@ Then call the uni command.
 Below is the synopsis (from the help of the command)
 
 ```txt
-uni import {planetName} {universe}?
-uni import -f {planetName} {universe}?
+Usage
+-------
+uni import {planetName} {universe}?                 # import one planet and dependencies, skip already existing planet(s)/dependencies
+uni import -f {planetName} {universe}?              # import one planet and dependencies, replace already existing planet(s)/dependencies
+uni import -f _all_ {universe}?                      # import all planets and dependencies, replace already existing planet(s)/dependencies
+uni list {universe}?                                # list available planets
+uni setlocaluniverse {localUniversePath}            # set the local universe path
+uni getlocaluniverse                                # get the local universe path
+uni tosymlink                                       # converts the planets of the application to symlinks (to the local universe)
+uni todir                                           # converts the planets of the application to directories (copied from the local universe)
+uni clean                                           # removes the .git, .gitignore, .idea and .DS_Store files at the top level of your application's planet directories
 
 For instance: 
     uni import Bat
     uni import Bat ling
     uni import -f Bat
+    uni import -f _all_
+    uni import -f _all_ ling    
+    uni list
+    uni list ling
+    uni setlocaluniverse /myphp/universe
+    uni getlocaluniverse
+    uni tosymlink
+    uni todir
+    uni clean
+    
     
 Options
 -------------

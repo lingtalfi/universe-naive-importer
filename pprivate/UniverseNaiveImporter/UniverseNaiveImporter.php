@@ -4,6 +4,8 @@
 namespace UniverseNaiveImporter;
 
 
+use ProgramPrinter\ProgramPrinter;
+use ProgramPrinter\ProgramPrinterInterface;
 use UniverseNaiveImporter\Exception\UniverseNaiveImporterException;
 use UniverseNaiveImporter\Importer\UniverseImporterInterface;
 use UniverseNaiveImporter\ImportSummary\ImportSummary;
@@ -20,6 +22,9 @@ use UniverseNaiveImporter\ImportSummary\ImportSummaryInterface;
  *
  * - import planet(s)
  * - list available planets
+ * - get available planets
+ *
+ *
  *
  *
  *
@@ -40,6 +45,7 @@ class UniverseNaiveImporter
      * bool,
      */
     private $_forceImport;
+    private $printer;
 
 
     /**
@@ -72,6 +78,13 @@ class UniverseNaiveImporter
         return $this;
     }
 
+    public function setProgramPrinter(ProgramPrinterInterface $printer)
+    {
+        $this->printer = $printer;
+        return $this;
+    }
+
+
     public function addImporter(UniverseImporterInterface $importer)
     {
         $this->importers[] = $importer;
@@ -88,7 +101,6 @@ class UniverseNaiveImporter
     /**
      * Import a planet and its dependencies.
      * Returns a boolean indicating whether or not the planet was successfully imported.
-     *
      *
      *
      * Universe is passed to avoid ambiguity, in case multiple planets have the same name.
@@ -170,11 +182,12 @@ class UniverseNaiveImporter
 
     public function listPlanets($universe = null)
     {
+        $printer = $this->getPrinter();
         foreach ($this->importers as $importer) {
 
             $planets = $importer->getAvailablePlanets($universe);
             if (count($planets) > 0) {
-                echo "Importer " . $importer->getName() . ":" . PHP_EOL;
+                echo $printer->info("Importer " . $importer->getName() . ":");
                 foreach ($planets as $info) {
                     echo "- " . $info[0] . " (" . $info[1] . ")" . PHP_EOL;
                 }
@@ -182,4 +195,84 @@ class UniverseNaiveImporter
         }
     }
 
+    /**
+     * @param null $universe
+     * @return array, array of planets.
+     * If $sortByUniverse=false, then an array of items is returned.
+     *      Each item has two entries:
+     *      - 0: planetName
+     *      - 1: universe
+     * If $sortByUniverse=true, then an array of universe => planetNames is returned
+     *
+     *
+     *
+     *
+     */
+    public function getAllPlanets($universe = null, $sortByUniverse = false)
+    {
+        $planets = [];
+        foreach ($this->importers as $importer) {
+            $planets = array_merge($planets, $importer->getAvailablePlanets($universe));
+        }
+        if (false === $sortByUniverse) {
+            return $planets;
+        } else {
+            $ret = [];
+            foreach ($planets as $item) {
+                if (!array_key_exists($item[1], $ret)) {
+                    $ret[$item[1]] = [];
+                }
+                if (!in_array($item[0], $ret[$item[1]], true)) {
+                    $ret[$item[1]][] = $item[0];
+                }
+            }
+            return $ret;
+        }
+    }
+
+
+    public function mergeSummaries(array $summaries)
+    {
+        $isSuccessful = true;
+
+        $alreadyInstalledPlanets = [];
+        $reinstalledPlanets = [];
+        $uninstalledPlanets = [];
+
+        foreach ($summaries as $summary) {
+            /**
+             * @var ImportSummaryInterface $summary
+             */
+            if (false === $summary->isSuccessful()) {
+                $isSuccessful = false;
+            }
+
+            $alreadyInstalledPlanets = array_merge($alreadyInstalledPlanets, $summary->getAlreadyInstalledPlanets());
+            $reinstalledPlanets = array_merge($reinstalledPlanets, $summary->getReinstalledPlanets());
+            $uninstalledPlanets = array_merge($uninstalledPlanets, $summary->getUninstalledPlanets());
+
+        }
+
+
+        $summar = ImportSummary::create();
+        $summar->setSuccessful($isSuccessful);
+        $summar->setAlreadyInstalledPlanets($alreadyInstalledPlanets);
+        $summar->setReinstalledPlanets($reinstalledPlanets);
+        $summar->setUninstalledPlanets($uninstalledPlanets);
+        return $summar;
+    }
+
+    //--------------------------------------------
+    //
+    //--------------------------------------------
+    /**
+     * @return ProgramPrinterInterface
+     */
+    private function getPrinter()
+    {
+        if (null === $this->printer) {
+            $this->printer = new ProgramPrinter();
+        }
+        return $this->printer;
+    }
 }
