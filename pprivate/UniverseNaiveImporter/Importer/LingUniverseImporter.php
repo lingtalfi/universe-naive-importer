@@ -60,6 +60,7 @@ class LingUniverseImporter implements UniverseImporterInterface, UniverseNaiveIm
         "JVideoPlayer" => [],
         "JqueryUrlWithDropZone" => ["Jquery"],
         "Kamille" => [],
+        "KamilleWidgets" => ["Kamille"],
         "Linker" => [],
         "LogSlicer" => ["Bat"],
         "Lys" => [],
