@@ -30,6 +30,7 @@ class LingUniverseImporter implements UniverseImporterInterface, UniverseNaiveIm
         "Colis" => ["Bat", "YouTubeUtils", "Tim", "UploaderHandler"],
         "CommandLineManiac" => [],
         "ConventionGuy" => [],
+        "ConsoleTool" => [],
         "CopyDir" => [],
         "Csv" => [],
         "DirScanner" => ["Bat"],
