@@ -651,6 +651,7 @@ namespace UniverseNaiveImporter\Importer {
             "JqueryUrlWithDropZone" => ["Jquery"],
             "Kamille" => [],
             "KamilleWidgets" => ["Kamille"],
+            "Kaminos" => ["CopyDir", "Output"],
             "Linker" => [],
             "LogSlicer" => ["Bat"],
             "Lys" => [],
