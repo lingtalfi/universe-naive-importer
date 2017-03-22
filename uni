@@ -619,6 +619,7 @@ namespace UniverseNaiveImporter\Importer {
             "Colis" => ["Bat", "YouTubeUtils", "Tim", "UploaderHandler"],
             "CommandLineManiac" => [],
             "ConventionGuy" => [],
+            "ConsoleTool" => [],
             "CopyDir" => [],
             "Csv" => [],
             "DirScanner" => ["Bat"],
