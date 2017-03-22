@@ -62,7 +62,7 @@ class LingUniverseImporter implements UniverseImporterInterface, UniverseNaiveIm
         "JqueryUrlWithDropZone" => ["Jquery"],
         "Kamille" => [],
         "KamilleWidgets" => ["Kamille"],
-        "Kaminos" => ["CopyDir", "Output"],
+        "KaminosUtils" => ["CopyDir", "Output"],
         "Linker" => [],
         "LogSlicer" => ["Bat"],
         "Lys" => [],
