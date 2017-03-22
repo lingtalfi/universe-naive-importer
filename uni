@@ -661,6 +661,7 @@ namespace UniverseNaiveImporter\Importer {
             "NotationFan" => [],
             "Observer" => [],
             "Ornella" => [],
+            "Output" => [],
             "Pea" => [],
             "PermsHiker" => ["Bat", "DirScanner"],
             "PhpBeast" => ["ArrayToTable"],
