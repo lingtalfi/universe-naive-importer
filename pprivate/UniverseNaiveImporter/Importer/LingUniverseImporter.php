@@ -74,7 +74,7 @@ class LingUniverseImporter implements UniverseImporterInterface, UniverseNaiveIm
         "Observer" => [],
         "Ornella" => [],
         "Output" => [],
-        "Packer" => [],
+        "Packer" => ["DirSscanner", "TokenFun"],
         "Pea" => [],
         "PermsHiker" => ["Bat", "DirScanner"],
         "PhpBeast" => ["ArrayToTable"],
