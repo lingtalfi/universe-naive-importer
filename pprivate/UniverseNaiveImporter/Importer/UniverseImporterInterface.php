@@ -3,36 +3,42 @@
 
 namespace UniverseNaiveImporter\Importer;
 
-
-use UniverseNaiveImporter\ImportSummary\ImportSummaryInterface;
-
+/**
+ *
+ * An universe importer can import all planets and dependencies of a given universe.
+ *
+ */
 interface UniverseImporterInterface
 {
 
-    public function canImport($planetName, $universe = null);
-
-    /**
-     * See UniverseNaiveImporter.forceImport documentation
-     */
-    public function forceImport($forceImport);
-
-    /**
-     * Import the given planet(s) to the planets directory.
-     * $planets can be a string or an array
-     *
-     * It overwrites existing planets if forceImport option is set to true
-     *
-     * @return ImportSummaryInterface
-     */
-    public function import($planetsDir, $planets);
-
     public function getName();
+
+
+    public function canImport($planetName);
+
+    public function getUniverse();
+
+    /**
+     * Import the given planet to the planets directory.
+     * If the directory already exists, it does nothing.
+     */
+    public function import($planetName, $planetsDir);
+
 
     /**
      * @return array of items.
-     * Each item is an array with two entries:
+     * Each item is an array with three entries:
      *      - 0: the planet name
-     *      - 1: the universe name
+     *      - 1: the description of the planet
      */
-    public function getAvailablePlanets($universe = null);
+    public function getAvailablePlanets();
+
+
+    /**
+     * @return array of flattened (cycling references resolved) dependencies for the given planet;
+     * the dependency tree includes the given planetName itself.
+     *
+     * The order is not considered important.
+     */
+    public function getDependencyTree($planetName);
 }
