@@ -306,6 +306,9 @@ class LingUniverseImporter extends AbstractGithubUniverseImporter
             case 'Meredith':
                 return "Php plugin for implementing a crud strategy based on the jquery datatables plugin.";
                 break;
+            case 'MethodInjector':
+                return "A tool for injecting methods from a class to another.";
+                break;
             case 'MikeMagicTools':
                 return "This is a set of various tools.";
                 break;
