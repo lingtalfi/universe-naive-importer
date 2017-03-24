@@ -39,16 +39,19 @@ require_once __DIR__ . '/class-planets/BumbleBee/Autoload/BeeAutoloader.php';
 require_once __DIR__ . '/class-planets/BumbleBee/Autoload/ButineurAutoloader.php';
 ButineurAutoloader::getInst()
     ->addLocation(__DIR__ . "/class-planets")
-->start();
+    ->start();
 
 
 $d = __DIR__ . "/../pprivate";
 $packer = new Packer();
 $c = $packer->addDroppedNamespace("BumbleBee/Autoload")->pack($d);
+$script = file_get_contents(__DIR__ . "/assets/unitpl.php");
 
-$destFile = __DIR__ . "/../packed.txt";
-file_put_contents($destFile, $c);
+$script = str_replace('//replace', $c, $script);
 
+
+$destFile = __DIR__ . "/../uni";
+file_put_contents($destFile, $script);
 echo "ok";
 
 

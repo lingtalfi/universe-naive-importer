@@ -65,6 +65,7 @@ class LingUniverseImporter extends AbstractGithubUniverseImporter
             "LogSlicer" => ["Bat"],
             "Lys" => [],
             "Meredith" => ["Bat", "QuickPdo", "Tim", "StringFormatter", "SuspiciousException"],
+            "MethodInjector" => ["Bat"],
             "MikeMagicTools" => [],
             "MySimpleXmlElement" => [],
             "MysqlTabular" => [],
