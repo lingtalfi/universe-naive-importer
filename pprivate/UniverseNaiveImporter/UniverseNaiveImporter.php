@@ -132,20 +132,21 @@ class UniverseNaiveImporter
     /**
      * @return array, list of all available full planet names
      */
-    public function getAllPlanets()
+    public function getAllPlanets($universe = null)
     {
         $ret = [];
         foreach ($this->importers as $importer) {
-
             /**
              * @var UniverseImporterInterface $importer
              */
             $planets = $importer->getAvailablePlanets();
-            $universe = $importer->getUniverse();
-            foreach ($planets as $planet) {
-                list($name, $desc) = $planet;
-                $fullPlanetName = $universe . "." . $name;
-                $ret[] = $fullPlanetName;
+            $importerUniverse = $importer->getUniverse();
+            if (null === $universe || $universe === $importerUniverse) {
+                foreach ($planets as $planet) {
+                    list($name, $desc) = $planet;
+                    $fullPlanetName = $importerUniverse . "." . $name;
+                    $ret[] = $fullPlanetName;
+                }
             }
         }
         return $ret;

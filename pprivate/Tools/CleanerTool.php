@@ -6,8 +6,6 @@ namespace Tools;
 
 use Bat\FileSystemTool;
 use Output\ProgramOutputInterface;
-use ProgramPrinter\ProgramPrinter;
-use ProgramPrinter\ProgramPrinterInterface;
 
 class CleanerTool
 {
@@ -69,6 +67,9 @@ class CleanerTool
     //--------------------------------------------
     private function cleanDir($dir, $recursive = false)
     {
+        if (false === $this->useSymlinks && is_link($dir)) {
+            return;
+        }
         foreach ($this->filesToBeCleaned as $_f) {
             $f = $dir . "/$_f";
             if (file_exists($f)) {
