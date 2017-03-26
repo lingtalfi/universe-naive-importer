@@ -58,7 +58,7 @@ class LingUniverseImporter extends AbstractGithubUniverseImporter
             "JQuery" => [],
             "JVideoPlayer" => [],
             "JqueryUrlWithDropZone" => ["Jquery"],
-            "Kamille" => [],
+            "Kamille" => ["Bat", "Output"],
             "KamilleWidgets" => ["Kamille"],
             "KaminosUtils" => ["CopyDir", "Output"],
             "Linker" => [],
