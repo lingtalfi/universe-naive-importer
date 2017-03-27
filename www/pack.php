@@ -35,10 +35,10 @@ if (!function_exists('a')) {
         exit;
     }
 }
-require_once __DIR__ . '/class-planets/BumbleBee/Autoload/BeeAutoloader.php';
-require_once __DIR__ . '/class-planets/BumbleBee/Autoload/ButineurAutoloader.php';
+require_once __DIR__ . '/planets/BumbleBee/Autoload/BeeAutoloader.php';
+require_once __DIR__ . '/planets/BumbleBee/Autoload/ButineurAutoloader.php';
 ButineurAutoloader::getInst()
-    ->addLocation(__DIR__ . "/class-planets")
+    ->addLocation(__DIR__ . "/planets")
     ->start();
 
 

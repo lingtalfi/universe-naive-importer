@@ -66,10 +66,10 @@ uni import -f {fullPlanetName}                  # remove the planet and its depe
 uni import _all_ {universe}?                    # import all planets and dependencies, but skip already existing planet(s)/dependencies. You need to be in your application directory first
 uni import -f _all_ {universe}?                 # remove all planets and dependencies, then re-import them one by one. You need to be in your application directory first
 
-uni importp {fullPlanetName}                    # like import, but in the import in the current directory (import in place) rather than in the class-planets directory
-uni importp -f {fullPlanetName}                 # like import, but in the import in the current directory (import in place) rather than in the class-planets directory
-uni importp _all_ {universe}?                   # like import, but in the import in the current directory (import in place) rather than in the class-planets directory
-uni importp -f _all_ {universe}?                # like import, but in the import in the current directory (import in place) rather than in the class-planets directory
+uni importp {fullPlanetName}                    # like import, but in the import in the current directory (import in place) rather than in the planets directory
+uni importp -f {fullPlanetName}                 # like import, but in the import in the current directory (import in place) rather than in the planets directory
+uni importp _all_ {universe}?                   # like import, but in the import in the current directory (import in place) rather than in the planets directory
+uni importp -f _all_ {universe}?                # like import, but in the import in the current directory (import in place) rather than in the planets directory
 
 uni list {universe}?                            # list available planets
 uni listd {universe}?                           # list available planets, with description
