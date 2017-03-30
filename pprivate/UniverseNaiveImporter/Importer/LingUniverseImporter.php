@@ -11,6 +11,7 @@ class LingUniverseImporter extends AbstractGithubUniverseImporter
     {
         return [
             "AdminTable" => ["QuickPdo"],
+            "ApplicationItemInstaller" => ["Bat", "Output", "Program", "CommandLineInput"],
             "ApplicationLog" => ["Bat"],
             "ArrayExport" => ["ArrayToString"],
             "ArrayStore" => ["ArrayExport", "Bat"],
@@ -148,6 +149,9 @@ class LingUniverseImporter extends AbstractGithubUniverseImporter
         switch ($planetName) {
             case 'AdminTable':
                 return "An object to display administrable list of rows.";
+                break;
+            case 'ApplicationItemInstaller':
+                return "A planet to help creating certain types of module management console program";
                 break;
             case 'ApplicationLog':
                 return "Lightweight object to quickly send a message to a log file.";
