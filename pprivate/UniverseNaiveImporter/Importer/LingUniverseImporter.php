@@ -80,6 +80,10 @@ class LingUniverseImporter extends AbstractGithubUniverseImporter
             "PhpBeast" => ["ArrayToTable"],
             "PhpTemplate" => [],
             "Privilege" => [],
+            "Program" => [
+                "CommandLineInput",
+                "Output",
+            ],
             "PublicException" => [],
             "QuickForm" => ["Bat", "QuickPdo"],
             "QuickLog" => ["Bat"],
@@ -192,6 +196,9 @@ class LingUniverseImporter extends AbstractGithubUniverseImporter
                 break;
             case 'CommandLineManiac':
                 return "Tools for command line scripts written in php.";
+                break;
+            case 'CommandLineInput':
+                return "Api to access command line options and parameters.";
                 break;
             case 'ConventionGuy':
                 return "Check out my conventions. Tools can use them as references.";
@@ -348,6 +355,9 @@ class LingUniverseImporter extends AbstractGithubUniverseImporter
                 break;
             case 'Privilege':
                 return "Grant privileges to your users.";
+                break;
+            case 'Program':
+                return "A class to help creating console programs";
                 break;
             case 'PublicException':
                 return "An exception for the gui user.";
