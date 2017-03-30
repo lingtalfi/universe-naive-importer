@@ -38,7 +38,6 @@ abstract class AbstractGithubUniverseImporter implements UniverseImporterInterfa
         } else {
             return false;
         }
-
     }
 
     public function getAvailablePlanets()

@@ -26,6 +26,7 @@ class LingUniverseImporter extends AbstractGithubUniverseImporter
             "BullSheet" => ["Bat", "DirScanner", "QuickPdo"],
             "BumbleBee" => [],
             "Colis" => ["Bat", "YouTubeUtils", "Tim", "UploaderHandler"],
+            "CommandLineInput" => ["Output"],
             "CommandLineManiac" => [],
             "ConventionGuy" => [],
             "ConsoleTool" => [],

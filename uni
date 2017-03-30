@@ -1110,7 +1110,6 @@ abstract class AbstractGithubUniverseImporter implements UniverseImporterInterfa
         } else {
             return false;
         }
-
     }
 
     public function getAvailablePlanets()
@@ -1211,6 +1210,7 @@ class LingUniverseImporter extends AbstractGithubUniverseImporter
             "BullSheet" => ["Bat", "DirScanner", "QuickPdo"],
             "BumbleBee" => [],
             "Colis" => ["Bat", "YouTubeUtils", "Tim", "UploaderHandler"],
+            "CommandLineInput" => ["Output"],
             "CommandLineManiac" => [],
             "ConventionGuy" => [],
             "ConsoleTool" => [],
