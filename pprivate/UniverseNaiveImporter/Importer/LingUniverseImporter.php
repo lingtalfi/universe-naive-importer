@@ -11,7 +11,12 @@ class LingUniverseImporter extends AbstractGithubUniverseImporter
     {
         return [
             "AdminTable" => ["QuickPdo"],
-            "ApplicationItemManager" => ["Bat", "Output", "Program", "CommandLineInput"],
+            "ApplicationItemManager" => [
+                "Bat",
+                "Output",
+                "Program",
+                "CommandLineInput",
+            ],
             "ApplicationLog" => ["Bat"],
             "ArrayExport" => ["ArrayToString"],
             "ArrayStore" => ["ArrayExport", "Bat"],
@@ -33,6 +38,7 @@ class LingUniverseImporter extends AbstractGithubUniverseImporter
             "ConsoleTool" => [],
             "CopyDir" => [],
             "Csv" => [],
+            "DirectoryCleaner" => ["Bat"],
             "DirScanner" => ["Bat"],
             "DirTransformer" => ["Bat"],
             "Dreamer" => [],
@@ -215,6 +221,9 @@ class LingUniverseImporter extends AbstractGithubUniverseImporter
                 break;
             case 'Csv':
                 return "Csv utility tools.";
+                break;
+            case 'DirectoryCleaner':
+                return "A tool to remove undesirable entries from a directory.";
                 break;
             case 'DirScanner':
                 return "Utility to scan a directory recursively and do something on every entry.";
