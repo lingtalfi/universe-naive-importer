@@ -38,6 +38,7 @@ class LingUniverseImporter extends AbstractGithubUniverseImporter
             "ConsoleTool" => [],
             "CopyDir" => [],
             "Csv" => [],
+            "Dir2Symlink" => ["Bat", "Output"],
             "DirectoryCleaner" => ["Bat"],
             "DirScanner" => ["Bat"],
             "DirTransformer" => ["Bat"],
@@ -221,6 +222,9 @@ class LingUniverseImporter extends AbstractGithubUniverseImporter
                 break;
             case 'Csv':
                 return "Csv utility tools.";
+                break;
+            case 'Dir2Symlink':
+                return "Converts directories to symlinks, and vice versa.";
                 break;
             case 'DirectoryCleaner':
                 return "A tool to remove undesirable entries from a directory.";
