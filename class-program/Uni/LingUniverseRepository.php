@@ -1,8 +1,10 @@
 <?php
 
 
-namespace ApplicationItemManager\Repository;
+namespace Uni;
 
+
+use ApplicationItemManager\Repository\AbstractRepository;
 
 class LingUniverseRepository extends AbstractRepository
 {

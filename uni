@@ -8,9 +8,10 @@ use ApplicationItemManager\Importer\GithubImporter;
 use ApplicationItemManager\LingApplicationItemManager;
 use ApplicationItemManager\Program\ApplicationItemManagerProgram;
 
-use ApplicationItemManager\Repository\LingUniverseRepository;
+
 use CommandLineInput\ProgramOutputAwareCommandLineInput;
 use Output\ProgramOutput;
+use Uni\LingUniverseRepository;
 
 //--------------------------------------------
 // UNIVERSE PROGRAM
