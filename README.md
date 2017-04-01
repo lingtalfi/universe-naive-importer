@@ -50,15 +50,23 @@ The uni script is just a php script inside the repo, and you could call it direc
 php -f /myphp/universe-naive-importer/uni -- help
 ```
 
+Or we can even call it directly, like this:
 
-But that's a long command to type, so instead you should put it in your $PATH. 
-We can use an alias to do that, like this for instance:
+
+```bash
+/myphp/universe-naive-importer/uni -- help
+```
+
+You might need the execute permissions on the uni script (chmod u+x uni) though.
+
+
+But in both cases that's too long to type, so instead you should put it in your $PATH.
+ 
+We can use a simple symlink for instance, like this:
 
 ```bash
 ln -s /myphp/universe-naive-importer/uni /usr/local/bin/uni
 ```
-
-You might also need to execution permissions on the uni script (chmod u+x uni).
 
 Now, you can use the uni command anywhere on your machine:
  
