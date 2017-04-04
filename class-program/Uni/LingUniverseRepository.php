@@ -348,6 +348,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Paginate your log file for display.',
             ],
+            'Logger' => [
+                'deps' => [
+                    'ling.Bat',
+                ],
+                'description' => 'A simple logger that dispatches messages to listeners',
+            ],
             'Lys' => [
                 'deps' => [
                 ],
