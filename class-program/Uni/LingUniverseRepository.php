@@ -215,6 +215,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Create a file, line by line, or block by block.',
             ],
+            'FormRenderer' => [
+                'deps' => [
+                    "ling.Bat"
+                ],
+                'description' => 'This planet helps rendering a form, based on an array.',
+            ],
             'GetFileSize' => [
                 'deps' => [
                 ],
