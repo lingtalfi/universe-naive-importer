@@ -35,6 +35,7 @@ uni tolink                              # converts the top level items of the im
 
 # utilities
 uni clean                               # removes the .git, .gitignore, .idea and .DS_Store files in your items directories, recursively
+uni update                              # update the uni command with the latest definitions (it does a simple git pull, so is assumes you cloned the uni command in the first place)
 
 
 
@@ -69,3 +70,4 @@ For instance:
     uni tolink
     uni todir
     uni clean
+    uni update
