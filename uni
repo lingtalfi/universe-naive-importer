@@ -11,6 +11,7 @@ use ApplicationItemManager\Program\ApplicationItemManagerProgram;
 
 use CommandLineInput\ProgramOutputAwareCommandLineInput;
 use Output\ProgramOutput;
+use Uni\LingUniverseProgram;
 use Uni\LingUniverseRepository;
 
 //--------------------------------------------
@@ -44,7 +45,7 @@ $input = ProgramOutputAwareCommandLineInput::create($argv)
     ->addFlag("f")
     ->addFlag("v");
 
-ApplicationItemManagerProgram::create()
+LingUniverseProgram::create()
     ->setHelpFile($helpFile)
     ->setDefaultCommand("help")
     ->setManager($manager)
