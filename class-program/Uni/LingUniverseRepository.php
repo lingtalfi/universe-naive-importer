@@ -215,6 +215,10 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Create a file, line by line, or block by block.',
             ],
+            'FormModel' => [
+                'deps' => [],
+                'description' => 'An object to create a form model.',
+            ],
             'FormRenderer' => [
                 'deps' => [
                     "ling.Bat"
