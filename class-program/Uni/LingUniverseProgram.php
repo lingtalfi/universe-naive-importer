@@ -20,10 +20,12 @@ class LingUniverseProgram extends ApplicationItemManagerProgram
 
             $d = realpath(__DIR__ . "/../..");
 
-            $output = [];
+            $out = [];
             $returnVar = 0;
             $cmd = 'cd "' . $d . '"; git pull';
-            exec($cmd, $output, $returnVar);
+            exec($cmd, $out, $returnVar);
+            $output->notice(implode(PHP_EOL, $out));
+
 
             if (0 === $returnVar) {
                 return true;
