@@ -75,6 +75,13 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'A helper class to manage assets in your website.',
             ],
+            'Authenticate' => [
+                'deps' => [
+                    'ling.ArrayToString',
+                    'ling.Bat',
+                ],
+                'description' => 'A system to handle permissions in your application.',
+            ],
             'BabyDash' => [
                 'deps' => [
                     'ling.IndentedLines',
