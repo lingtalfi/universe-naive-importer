@@ -126,6 +126,10 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Simple BSR-0 autoloader for a php project.',
             ],
+            'ClassCooker' => [
+                'deps' => [],
+                'description' => 'A tool to add/remove/update methods in a class.',
+            ],
             'Colis' => [
                 'deps' => [
                     'ling.Bat',
