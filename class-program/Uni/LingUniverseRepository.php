@@ -401,6 +401,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'This is a set of various tools.',
             ],
+            'Models' => [
+                'deps' => [
+                ],
+                'description' => 'Models for your templates',
+            ],
             'MySimpleXmlElement' => [
                 'deps' => [
                 ],
