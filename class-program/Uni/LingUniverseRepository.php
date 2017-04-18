@@ -348,6 +348,7 @@ class LingUniverseRepository extends AbstractRepository
             'KamillePacker' => [
                 'deps' => [
                     'ling.Bat',
+                    'ling.DirScanner',
                 ],
                 'description' => 'A kamille developer companion',
             ],
