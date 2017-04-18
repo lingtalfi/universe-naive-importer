@@ -345,6 +345,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'My first implementation of the kam framework.',
             ],
+            'KamillePacker' => [
+                'deps' => [
+                    'ling.Bat',
+                ],
+                'description' => 'A kamille developer companion',
+            ],
             'KamilleWidgets' => [
                 'deps' => [
                     'ling.Kamille',
