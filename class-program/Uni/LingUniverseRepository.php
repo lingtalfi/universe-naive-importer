@@ -369,6 +369,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'A planet to help implementing the kaminos admin system.',
             ],
+            'LinearFile' => [
+                'deps' => [
+                ],
+                'description' => "Manipulate your file as a stack of lines.",
+            ],
             'Linker' => [
                 'deps' => [
                 ],
