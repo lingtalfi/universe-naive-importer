@@ -422,6 +422,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Models for your templates',
             ],
+            'ModelRenderers' => [
+                'deps' => [
+                ],
+                'description' => 'Some renderers for your models.',
+            ],
             'MySimpleXmlElement' => [
                 'deps' => [
                 ],
