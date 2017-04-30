@@ -536,6 +536,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Class to help with representation of \\Reflection elements.',
             ],
+            'RowsGenerator' => [
+                'deps' => [
+                    'ling.QuickPdo',
+                ],
+                'description' => "Generating rows for a dataTable like widget.",
+            ],
             'RssUtil' => [
                 'deps' => [
                     'ling.MySimpleXmlElement',
