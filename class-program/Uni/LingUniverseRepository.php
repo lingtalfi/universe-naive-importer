@@ -346,6 +346,7 @@ class LingUniverseRepository extends AbstractRepository
                     'ling.ClassCooker',
                     'ling.ApplicationItemManager',
                     'ling.ArrayExport',
+                    'ling.Loader',
                 ],
                 'description' => 'My first implementation of the kam framework.',
             ],
