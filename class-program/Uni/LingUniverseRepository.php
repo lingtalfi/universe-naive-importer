@@ -430,6 +430,7 @@ class LingUniverseRepository extends AbstractRepository
             ],
             'ModelRenderers' => [
                 'deps' => [
+                    'ling.Bat',
                 ],
                 'description' => 'Some renderers for your models.',
             ],
