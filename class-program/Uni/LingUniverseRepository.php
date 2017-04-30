@@ -379,6 +379,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Tool to help manage application symlinks.',
             ],
+            'Loader' => [
+                'deps' => [
+                ],
+                'description' => 'Some loaders for your applications.',
+            ],
             'LogSlicer' => [
                 'deps' => [
                     'ling.Bat',
