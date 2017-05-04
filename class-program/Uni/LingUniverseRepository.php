@@ -165,6 +165,13 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Utility to copy a dir recursively.',
             ],
+            'CrudWithFile' => [
+                'deps' => [
+                    "ling.Bat",
+                    "ling.ArrayToString",
+                ],
+                'description' => 'An object to do simple crud request on a file containing rows.',
+            ],
             'Csv' => [
                 'deps' => [
                 ],
