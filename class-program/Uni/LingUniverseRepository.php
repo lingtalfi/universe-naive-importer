@@ -241,6 +241,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Php service to get the size of the file.',
             ],
+            'GetRowsInterface' => [
+                'deps' => [
+                ],
+                'description' => 'An interface to getRows.',
+            ],
             'Here' => [
                 'deps' => [
                 ],
