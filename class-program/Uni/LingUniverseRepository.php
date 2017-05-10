@@ -165,6 +165,15 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Utility to copy a dir recursively.',
             ],
+            'CrudGeneratorTools' => [
+                'deps' => [
+                    "ling.Bat",
+                    "ling.ArrayToString",
+                    "ling.QuickPdo",
+                    "ling.Kamille",
+                ],
+                'description' => 'Tools to generate an admin like phpMyAdmin.',
+            ],
             'CrudWithFile' => [
                 'deps' => [
                     "ling.Bat",
