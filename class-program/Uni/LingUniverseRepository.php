@@ -495,6 +495,14 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'PermsHiker helps migrating permissions from a server to another.',
             ],
+            'PersistentRowCollection' => [
+                'deps' => [
+                    'ling.FormModel',
+                    'ling.QuickPdo',
+                    'ling.RowsGenerator',
+                ],
+                'description' => 'A base object for a crud system.',
+            ],
             'PhpBeast' => [
                 'deps' => [
                     'ling.ArrayToTable',
