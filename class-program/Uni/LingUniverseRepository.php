@@ -756,6 +756,14 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Tools to manipulate Youtube Apis.',
             ],
+            'XiaoApi' => [
+                'deps' => [
+                    'ling.Bat',
+                    'ling.QuickPdo',
+                    'ling.ArrayToString',
+                ],
+                'description' => 'Create a consistent api based on a crud model.',
+            ],
             'Zoli' => [
                 'deps' => [
                 ],
