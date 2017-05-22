@@ -375,6 +375,7 @@ class LingUniverseRepository extends AbstractRepository
                     'ling.Logger',
                     'ling.Output',
                     'ling.TokenFun',
+                    'ling.BeeFramework',
                 ],
                 'description' => 'My first implementation of the kam framework.',
             ],
