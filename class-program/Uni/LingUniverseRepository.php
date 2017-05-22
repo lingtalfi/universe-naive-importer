@@ -113,7 +113,7 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Beauty searches for your test pages and executes them.',
             ],
-            'Bee' => [
+            'BeeFramework' => [
                 'deps' => [
                     'ling.Komin',
                 ],
