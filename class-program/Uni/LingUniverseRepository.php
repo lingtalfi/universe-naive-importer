@@ -650,6 +650,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Create css grid lines.',
             ],
+            'TabathaCache' => [
+                'deps' => [
+                    "ling.Bat",
+                ],
+                'description' => "A cache system based on identifier invalidation.",
+            ],
             'TheAnarchist' => [
                 'deps' => [
                 ],
