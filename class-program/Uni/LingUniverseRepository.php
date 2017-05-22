@@ -113,6 +113,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Beauty searches for your test pages and executes them.',
             ],
+            'Bee' => [
+                'deps' => [
+                    'ling.Komin',
+                ],
+                'description' => 'A php framework.',
+            ],
             'BullSheet' => [
                 'deps' => [
                     'ling.Bat',
@@ -391,6 +397,11 @@ class LingUniverseRepository extends AbstractRepository
                     'ling.Output',
                 ],
                 'description' => 'A planet to help implementing the kaminos admin system.',
+            ],
+            'Komin' => [
+                'deps' => [
+                ],
+                'description' => 'An extension of the bee planet.',
             ],
             'LinearFile' => [
                 'deps' => [
