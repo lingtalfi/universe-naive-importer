@@ -278,6 +278,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'A simple template system to work with jquery.',
             ],
+            'Http4All' => [
+                'deps' => [
+                ],
+                'description' => 'Some tools related to http.',
+            ],
             'Icons' => [
                 'deps' => [
                 ],
