@@ -258,6 +258,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'This planet helps rendering a form, based on an array.',
             ],
+            'FormTools' => [
+                'deps' => [
+                ],
+                'description' => 'Some form tools that I use.',
+            ],
             'GetFileSize' => [
                 'deps' => [
                 ],
