@@ -499,6 +499,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'I\'m an eye of the universe. I observe patterns emerging while the universe is being created.',
             ],
+            'OnTheFlyForm' => [
+                'deps' => [
+                    "ling.FormTools",
+                ],
+                'description' => "A quick dirty form strategy for your front forms.",
+            ],
             'Ornella' => [
                 'deps' => [
                 ],
