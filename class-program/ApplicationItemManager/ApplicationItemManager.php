@@ -6,6 +6,7 @@ namespace ApplicationItemManager;
 
 use ApplicationItemManager\Exception\ApplicationItemManagerException;
 use ApplicationItemManager\Importer\Exception\ImporterException;
+use ApplicationItemManager\Importer\GithubImporter;
 use ApplicationItemManager\Importer\ImporterInterface;
 use ApplicationItemManager\Installer\InstallerInterface;
 use ApplicationItemManager\Repository\RepositoryInterface;
@@ -276,6 +277,22 @@ class ApplicationItemManager implements ApplicationItemManagerInterface
         }
     }
 
+    public function updateAll($repoId = null)
+    {
+
+        $all = $this->getAllDeps($repoId);
+        $allOk = true;
+        foreach ($all as $item) {
+            $itemName = $this->getItemNameByItem($item);
+            $repoId = $this->getRepoIdByItemId($item);
+            $importer = $this->findImporter($repoId);
+            if($importer instanceof GithubImporter){
+                $importer->update($itemName, $this->importDirectory);
+
+            }
+        }
+        return $allOk;
+    }
 
     //--------------------------------------------
     //

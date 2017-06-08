@@ -94,7 +94,7 @@ The word item is defined like this:
 - itemId: repositoryId.itemName | repositoryAlias.itemName
 
 
-# import/install
+# import/install/update
 uni import {item}                       # import an item and its dependencies, skip already existing item(s)/dependencies
 uni import -f {item}                    # import an item and its dependencies, replace already existing item(s)/dependencies
 uni importall {repoId}?                 # import all items at once, skip already existing item(s)/dependencies
@@ -104,6 +104,7 @@ uni install -f {item}                   # install an item and its dependencies, 
 uni installall {repoId}?                # install all items at once, will import them if necessary, skip already existing item(s)/dependencies
 uni installall {repoId}? -f             # install all items at once, will import them if necessary, replace already existing item(s)/dependencies
 uni uninstall {item}                    # call the uninstall method on the given item and dependencies
+uni updateall {repoId}?                 # update all items (much faster than importall -f), but only available for github importer for now
 
 
 # list/search
@@ -143,6 +144,8 @@ For instance:
     uni installall -f
     uni uninstall Connexion
     uni uninstall km.Connexion
+    uni updateall
+    uni updateall ling
     uni list
     uni list km
     uni listd
@@ -170,6 +173,11 @@ or, just use the command:
 
 ```php
 uni importall
+```
+
+Or to update all items at once
+```php
+uni updateall
 ```
 
 
