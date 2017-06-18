@@ -494,6 +494,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Planet about user notation.',
             ],
+            'Notifier' => [
+                'deps' => [
+                ],
+                'description' => 'A simple observer with php callable.',
+            ],
             'Observer' => [
                 'deps' => [
                 ],
