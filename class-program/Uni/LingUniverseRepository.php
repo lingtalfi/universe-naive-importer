@@ -613,6 +613,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => "Generating rows for a dataTable like widget.",
             ],
+            'RowsGeneratorWidget' => [
+                'deps' => [
+                    'ling.RowsGenerator',
+                ],
+                'description' => "A system to display list on a front end.",
+            ],
             'RssUtil' => [
                 'deps' => [
                     'ling.MySimpleXmlElement',
