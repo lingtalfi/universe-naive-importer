@@ -192,6 +192,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Csv utility tools.',
             ],
+            'Dash2Array' => [
+                'deps' => [
+                ],
+                'description' => 'Convert a dash tree to an array.',
+            ],
             'Dir2Symlink' => [
                 'deps' => [
                     'ling.Bat',
