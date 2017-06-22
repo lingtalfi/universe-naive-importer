@@ -430,6 +430,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Tool to help manage application symlinks.',
             ],
+            'ListModifier' => [
+                'deps' => [
+                ],
+                'description' => 'A system to shape a list of items in a mvc multi-widgets environment.',
+            ],
             'Loader' => [
                 'deps' => [
                 ],
