@@ -306,6 +306,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Convert lists in indentedLines format to php arrays.',
             ],
+            'Ingenico' => [
+                'deps' => [
+                    'ling.Bat',
+                ],
+                'description' => 'Helper tools for implementing ingenico payment solutions.',
+            ],
             'Installer' => [
                 'deps' => [
                     'ling.Bat',
