@@ -446,6 +446,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Some loaders for your applications.',
             ],
+            'Localys' => [
+                'deps' => [
+                ],
+                'description' => 'A locale helper for your apps.',
+            ],
             'LogSlicer' => [
                 'deps' => [
                     'ling.Bat',
