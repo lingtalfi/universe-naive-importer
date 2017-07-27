@@ -278,6 +278,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'An interface to getRows.',
             ],
+            'GreekTodoList' => [
+                'deps' => [
+                ],
+                'description' => 'A simple todolist tool for small projects.',
+            ],
             'Here' => [
                 'deps' => [
                 ],
