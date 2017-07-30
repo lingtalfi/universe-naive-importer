@@ -32,7 +32,7 @@ class ApplicationItemManager implements ApplicationItemManagerInterface
      * @var RepositoryInterface[]
      */
     protected $repositories;
-    private $importDirectory;
+    protected $importDirectory;
 
     private $favoriteRepositoryId;
     private $debugMode;
@@ -286,13 +286,15 @@ class ApplicationItemManager implements ApplicationItemManagerInterface
             $itemName = $this->getItemNameByItem($item);
             $repoId = $this->getRepoIdByItemId($item);
             $importer = $this->findImporter($repoId);
-            if($importer instanceof GithubImporter){
+            if ($importer instanceof GithubImporter) {
                 $importer->update($itemName, $this->importDirectory);
 
             }
         }
         return $allOk;
     }
+
+
 
     //--------------------------------------------
     //
@@ -353,7 +355,6 @@ class ApplicationItemManager implements ApplicationItemManagerInterface
         }
         return false;
     }
-
 
     /**
      * @return ImporterInterface|false
@@ -584,7 +585,7 @@ class ApplicationItemManager implements ApplicationItemManagerInterface
         throw new ApplicationItemManagerException("Invalid itemId syntax: $itemId. itemId=repoId.itemName");
     }
 
-    private function getRepoId($item)
+    protected function getRepoId($item)
     {
         $this->msg("checkingRepo", $item);
         $repoId = $this->findRepo($item, $this->favoriteRepositoryId);
@@ -633,24 +634,30 @@ class ApplicationItemManager implements ApplicationItemManagerInterface
     }
 
 
-    private function handleProcedure($type, $item, $repoId, $force)
+    protected function handleProcedure($type, $item, $repoId, $force, array $procedure = null)
     {
 
-        if ('install' === $type) {
-            $method = 'doInstall';
-            $msgType = "installingDependencyItem";
-            $depMethod = "getDependencies";
-            $depMsgType = "checkingDependencies";
-        } elseif ('uninstall' === $type) {
-            $method = 'doUninstall';
-            $msgType = "uninstallingDependencyItem";
-            $depMethod = "getHardDependencies";
-            $depMsgType = "checkingHardDependencies";
+        if (false !== $procedure) {
+            list($method, $msgType, $depMethod, $depMsgType) = $procedure;
         } else {
-            $depMethod = "getDependencies";
-            $depMsgType = "checkingDependencies";
-            $method = 'doImport';
-            $msgType = "importingDependencyItem";
+
+
+            if ('install' === $type) {
+                $method = 'doInstall';
+                $msgType = "installingDependencyItem";
+                $depMethod = "getDependencies";
+                $depMsgType = "checkingDependencies";
+            } elseif ('uninstall' === $type) {
+                $method = 'doUninstall';
+                $msgType = "uninstallingDependencyItem";
+                $depMethod = "getHardDependencies";
+                $depMsgType = "checkingHardDependencies";
+            } else {
+                $method = 'doImport';
+                $msgType = "importingDependencyItem";
+                $depMethod = "getDependencies";
+                $depMsgType = "checkingDependencies";
+            }
         }
 
         $itemName = $this->getItemNameByItem($item);

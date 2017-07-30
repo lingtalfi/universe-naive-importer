@@ -22,9 +22,9 @@ class ApplicationItemManagerProgram extends Program
     /**
      * @var ApplicationItemManagerInterface
      */
-    private $manager;
-    private $importDirectory;
-    private $helpFile;
+    protected $manager;
+    protected $importDirectory;
+    protected $helpFile;
 
     public function __construct()
     {
@@ -152,32 +152,7 @@ class ApplicationItemManagerProgram extends Program
                 DirectoryCleaner::create()->setUseSymlinks(false)->clean($dir, $recursive);
                 $output->notice("ok");
             })
-            ->addCommand("setlocalrepo", function (CommandLineInputInterface $input, ProgramOutputInterface $output, ProgramInterface $program) use ($itemType) {
-
-                $path = $input->getParameter(2);
-                $file = $this->getFile();
-                if (true === FileSystemTool::mkfile($file, $path)) {
-                    $output->notice("ok");
-                } else {
-                    $output->error("couldn't create the file $file");
-                }
-            })
-            ->addCommand("getlocalrepo", function (CommandLineInputInterface $input, ProgramOutputInterface $output, ProgramInterface $program) use ($itemType) {
-                if (false !== ($content = $this->getLocalRepository($output))) {
-                    $output->notice($content);
-                }
-            })
-            ->addCommand("todir", function (CommandLineInputInterface $input, ProgramOutputInterface $output, ProgramInterface $program) use ($itemType) {
-                $this->dir2Symlink("toDirectories", $output);
-            })
-            ->addCommand("tolink", function (CommandLineInputInterface $input, ProgramOutputInterface $output, ProgramInterface $program) use ($itemType) {
-                $this->dir2Symlink("toSymlinks", $output);
-            })
-            ->addCommand("flash", function (CommandLineInputInterface $input, ProgramOutputInterface $output, ProgramInterface $program) use ($itemType) {
-                $asLink = $input->getFlagValue("l");
-                $force = $input->getFlagValue("f");
-                $this->flash($this->importDirectory, $asLink, $force, $output);
-            });
+        ;
 
         $this->helpFile = __DIR__ . "/help.txt";
 
@@ -247,29 +222,7 @@ class ApplicationItemManagerProgram extends Program
         return 4;
     }
 
-    //--------------------------------------------
-    //
-    //--------------------------------------------
-    private function getFile()
-    {
-        if (null !== $this->importDirectory) {
-            return $this->importDirectory . "/aimp.txt";
-        } else {
-            throw new ApplicationItemManagerException("importDirectory not set");
-        }
-    }
-
-    private function getLocalRepository(ProgramOutputInterface $output)
-    {
-        $file = $this->getFile();
-        if (file_exists($file)) {
-            return trim(file_get_contents($file));
-        }
-        $output->error("file does not exist: " . $file . ", you should probably use the setlocalrepo command first");
-        return false;
-    }
-
-    private function getImportDirectory()
+    protected function getImportDirectory()
     {
         if (null !== $this->importDirectory) {
             if (is_dir($this->importDirectory)) {
@@ -283,36 +236,6 @@ class ApplicationItemManagerProgram extends Program
     }
 
 
-    private function dir2Symlink($method, ProgramOutputInterface $output)
-    {
-        $importDir = $this->getImportDirectory();
-        if (false !== ($localRepoDir = $this->getLocalRepository($output))) {
-            if (is_dir($localRepoDir)) {
-                if (true === ProgramOutputAwareDir2Symlink::create()->setProgramOutput($output)->$method($localRepoDir, $importDir)) {
-                    $output->notice("ok");
-                } else {
-                    $output->error("Couldn't convert all the entries in $importDir to directories, sorry");
-                }
-            } else {
-                $output->error("Local repository is not a dir: $localRepoDir. Use the setlocalrepo command to update the value");
-            }
-        }
-    }
 
-
-    private function flash($importDir, $asLink = true, $force = false, ProgramOutputInterface $output)
-    {
-        if (false !== ($localRepoDir = $this->getLocalRepository($output))) {
-            if (is_dir($localRepoDir)) {
-                if (true === ProgramOutputAwareDir2Symlink::create()->setProgramOutput($output)->equalize($localRepoDir, $importDir, $force, $asLink)) {
-                    $output->notice("ok");
-                } else {
-                    $output->error("Couldn't equalize all the entries from local repository $localRepoDir to import dir $importDir, sorry");
-                }
-            } else {
-                $output->error("Local repository is not a dir: $localRepoDir. Use the setlocalrepo command to update the value");
-            }
-        }
-    }
 }
 

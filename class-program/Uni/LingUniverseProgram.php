@@ -5,11 +5,12 @@ namespace Uni;
 
 
 use ApplicationItemManager\Program\ApplicationItemManagerProgram;
+use ApplicationItemManager\Program\LocalAwareApplicationItemManagerProgram;
 use CommandLineInput\CommandLineInputInterface;
 use Output\ProgramOutputInterface;
 use Program\ProgramInterface;
 
-class LingUniverseProgram extends ApplicationItemManagerProgram
+class LingUniverseProgram extends LocalAwareApplicationItemManagerProgram
 {
     public function __construct()
     {

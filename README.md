@@ -1,6 +1,6 @@
 UniverseNaiveImporter
 =========================
-2017-03-11 --> 2017-04-01
+2017-03-11 --> 2017-07-30
 
 
 
@@ -94,7 +94,7 @@ The word item is defined like this:
 - itemId: repositoryId.itemName | repositoryAlias.itemName
 
 
-# import/install/update
+# import/install
 uni import {item}                       # import an item and its dependencies, skip already existing item(s)/dependencies
 uni import -f {item}                    # import an item and its dependencies, replace already existing item(s)/dependencies
 uni importall {repoId}?                 # import all items at once, skip already existing item(s)/dependencies
@@ -104,7 +104,8 @@ uni install -f {item}                   # install an item and its dependencies, 
 uni installall {repoId}?                # install all items at once, will import them if necessary, skip already existing item(s)/dependencies
 uni installall {repoId}? -f             # install all items at once, will import them if necessary, replace already existing item(s)/dependencies
 uni uninstall {item}                    # call the uninstall method on the given item and dependencies
-uni updateall {repoId}?                 # update all items (much faster than importall -f), but only available for github importer for now
+uni zimport {item}                      # import an item and its dependencies (skip already existing items) by creating a symlink to the local repo instead of fetching the planet on the web (an order of magnitude faster)
+uni zimport {item} -f                   # import an item and its dependencies (replace already existing items) by creating a symlink to the local repo instead of fetching the planet on the web (an order of magnitude faster)
 
 
 # list/search
@@ -144,8 +145,8 @@ For instance:
     uni installall -f
     uni uninstall Connexion
     uni uninstall km.Connexion
-    uni updateall
-    uni updateall ling
+    uni zimport Connexion
+    uni zimport Connexion -f
     uni list
     uni list km
     uni listd
@@ -162,7 +163,6 @@ For instance:
     uni todir
     uni clean
     uni update
-
 ```
 
 
@@ -180,6 +180,12 @@ Or to update all items at once
 uni updateall
 ```
 
+
+Once your items are on your machine, you can use the zimport function which is the fastest.
+
+```php
+uni zimport BumbleBee
+```
 
 
 
