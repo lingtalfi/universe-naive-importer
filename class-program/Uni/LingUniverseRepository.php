@@ -227,6 +227,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'This is a blog about my dreams.',
             ],
+            'EkomEssentialTools' => [
+                'deps' => [
+                    'ling.Bat',
+                ],
+                'description' => 'Tools to help with Ekom development.',
+            ],
             'Escaper' => [
                 'deps' => [
                     'ling.Bat',
