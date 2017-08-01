@@ -227,12 +227,6 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'This is a blog about my dreams.',
             ],
-            'EkomEssentialTools' => [
-                'deps' => [
-                    'ling.Bat',
-                ],
-                'description' => 'Tools to help with Ekom development.',
-            ],
             'Escaper' => [
                 'deps' => [
                     'ling.Bat',
@@ -411,6 +405,12 @@ class LingUniverseRepository extends AbstractRepository
                     'ling.Umail',
                 ],
                 'description' => 'My first implementation of the kam framework.',
+            ],
+            'KamilleEssentialTools' => [
+                'deps' => [
+                    'ling.Bat',
+                ],
+                'description' => 'Tools to help with Kamille development.',
             ],
             'KamillePacker' => [
                 'deps' => [
