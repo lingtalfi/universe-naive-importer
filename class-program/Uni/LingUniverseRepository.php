@@ -452,6 +452,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'A system to shape a list of items in a mvc multi-widgets environment.',
             ],
+            'ListParams' => [
+                'deps' => [
+                ],
+                'description' => 'A simple tool to help shaping front-end lists in a MVC environment.',
+            ],
             'Loader' => [
                 'deps' => [
                 ],
