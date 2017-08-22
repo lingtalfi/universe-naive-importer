@@ -698,6 +698,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Generate a sitemap index and its related sitemaps using data from your database.',
             ],
+            'StepFormBuilder' => [
+                'deps' => [
+                    'ling.Bat',
+                ],
+                'description' => 'A helper to implement a form composed of multiple steps.',
+            ],
             'StringFormatter' => [
                 'deps' => [
                     'ling.ArrayToString',
