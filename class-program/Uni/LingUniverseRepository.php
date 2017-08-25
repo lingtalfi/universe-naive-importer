@@ -547,6 +547,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => "A quick dirty form strategy for your front forms.",
             ],
+            'Options' => [
+                'deps' => [
+                ],
+                'description' => 'An options object that you can pass instead of an options array.',
+            ],
             'Ornella' => [
                 'deps' => [
                 ],
