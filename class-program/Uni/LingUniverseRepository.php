@@ -552,6 +552,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'An options object that you can pass instead of an options array.',
             ],
+            'OrmTools' => [
+                'deps' => [
+                ],
+                'description' => 'Some tools helping with construction of orms.',
+            ],
             'Ornella' => [
                 'deps' => [
                 ],
