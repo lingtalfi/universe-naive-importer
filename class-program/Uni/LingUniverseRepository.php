@@ -672,6 +672,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'RssUtil contains utilities related to rss.',
             ],
+            'SaveOrm' => [
+                'deps' => [
+                ],
+                'description' => 'Generate an orm that helps you inserting/updating data in your database.',
+            ],
             'ScreenDebug' => [
                 'deps' => [
                 ],
