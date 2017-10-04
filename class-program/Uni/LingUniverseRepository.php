@@ -622,6 +622,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'An exception for the gui user.',
             ],
+            'QueryFilterBox' => [
+                'deps' => [
+                    'ling.ListParams',
+                ],
+                'description' => 'An other tool for handling list based on a sql query.',
+            ],
             'QuickForm' => [
                 'deps' => [
                     'ling.Bat',
