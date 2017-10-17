@@ -600,6 +600,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'This is a php implementation of the Beast component of the Beauty n Beast pattern.',
             ],
+            'PhpExcelTool' => [
+                'deps' => [
+//                    'PHPOffice/PHPExcel', // ?
+                ],
+                'description' => 'A personal helper for using the PHPOffice/PHPExcel library.',
+            ],
             'PhpTemplate' => [
                 'deps' => [
                 ],
