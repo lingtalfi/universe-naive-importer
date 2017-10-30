@@ -725,6 +725,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Generate a sitemap index and its related sitemaps using data from your database.',
             ],
+            'SokoForm' => [
+                'deps' => [
+                    'ling.Bat',
+                ],
+                'description' => 'SokoForm is a system that helps you creating your forms.',
+            ],
             'StepFormBuilder' => [
                 'deps' => [
                     'ling.Bat',
