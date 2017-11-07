@@ -156,6 +156,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Tools for command line scripts written in php.',
             ],
+            'ConditionResolver' => [
+                'deps' => [
+                ],
+                'description' => 'Util to interpret a simple condition language for your applications.',
+            ],
             'ConventionGuy' => [
                 'deps' => [
                 ],
