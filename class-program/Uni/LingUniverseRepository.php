@@ -303,6 +303,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Some tools related to http.',
             ],
+            'HybridList' => [
+                'deps' => [
+                ],
+                'description' => 'A helper for building a list system in your app.',
+            ],
             'Icons' => [
                 'deps' => [
                 ],
