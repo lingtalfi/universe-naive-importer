@@ -202,6 +202,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Convert a dash tree to an array.',
             ],
+            'DerbyCache' => [
+                'deps' => [
+                ],
+                'description' => 'A persistent cache system. Daily rebuild using cron.',
+            ],
             'Dir2Symlink' => [
                 'deps' => [
                     'ling.Bat',
