@@ -209,6 +209,7 @@ class LingUniverseRepository extends AbstractRepository
             ],
             'DerbyCache' => [
                 'deps' => [
+                    'ling.Bat',
                 ],
                 'description' => 'A persistent cache system. Daily rebuild using cron.',
             ],
