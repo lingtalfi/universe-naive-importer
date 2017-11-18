@@ -132,6 +132,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Simple BSR-0 autoloader for a php project.',
             ],
+            'Chronos' => [
+                'deps' => [
+                ],
+                'description' => 'A simple chronometer to measure your app\'s timings.',
+            ],
             'ClassCooker' => [
                 'deps' => [],
                 'description' => 'A tool to add/remove/update methods in a class.',
