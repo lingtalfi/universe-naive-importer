@@ -243,6 +243,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'This is a blog about my dreams.',
             ],
+            'Ecp' => [
+                'deps' => [
+                ],
+                'description' => 'A simple communication protocol for your app\'s ajax requests.',
+            ],
             'Escaper' => [
                 'deps' => [
                     'ling.Bat',
