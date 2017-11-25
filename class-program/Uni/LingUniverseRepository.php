@@ -238,6 +238,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'DirTransformer creates a modified copy of a given directory.',
             ],
+            'Dispatcher' => [
+                'deps' => [
+                ],
+                'description' => 'Some dispatchers for your app.',
+            ],
             'Dreamer' => [
                 'deps' => [
                 ],
