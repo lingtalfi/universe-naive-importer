@@ -309,6 +309,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'A simple todolist tool for small projects.',
             ],
+            'GuiAdminTable' => [
+                'deps' => [
+                ],
+                'description' => 'An object to display administrable list of rows.',
+            ],
             'Here' => [
                 'deps' => [
                 ],
