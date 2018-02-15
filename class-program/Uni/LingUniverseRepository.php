@@ -643,7 +643,9 @@ class LingUniverseRepository extends AbstractRepository
                 'description' => 'A personal helper for using the PHPOffice/PHPExcel library.',
             ],
             'PhpFile' => [
-                'deps' => [],
+                'deps' => [
+                    'ling.Bat',
+                ],
                 'description' => 'An helper object to create a php file from scratch.',
             ],
             'PhpTemplate' => [
