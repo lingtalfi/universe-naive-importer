@@ -207,6 +207,10 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Convert a dash tree to an array.',
             ],
+            'DebugLogger' => [
+                'deps' => [],
+                'description' => 'A debug logger for your own tools.',
+            ],
             'DerbyCache' => [
                 'deps' => [
                     'ling.Bat',
