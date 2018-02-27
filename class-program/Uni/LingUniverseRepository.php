@@ -730,8 +730,17 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'RssUtil contains utilities related to rss.',
             ],
+            'SafeUploader' => [
+                'deps' => [
+
+                ],
+                'description' => 'Secure "server side ajax upload handling" using configuration file.',
+            ],
             'SaveOrm' => [
                 'deps' => [
+                    'ling.Bat',
+                    'ling.BeeFramework',
+                    'ling.ThumbnailTools',
                 ],
                 'description' => 'Generate an orm that helps you inserting/updating data in your database.',
             ],
