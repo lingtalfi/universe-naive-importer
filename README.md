@@ -30,7 +30,7 @@ So, now the uni command can do the following (see Usage section for more info):
 - transform planets to symlinks to the local universe (advanced)
 - transform planets to directories from the local universe (advanced)
 - clean the planets directories (remove the .git, .gitignore, .DS_Store and .idea files) recursively 
-
+- ...and more
 
 
 
@@ -83,6 +83,10 @@ Usage
 =============
 
 Once the setup is done, you can use the uni command.
+
+You need to be in the directory **CONTAINING** the **planets** directory (which has to be named **planets** by default) to execute the commands below (or at least
+that's the main way to use the uni command).
+
 Below is the synopsis (from the help of the command, just type uni to see the help below).
 
 ```txt
