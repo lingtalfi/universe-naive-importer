@@ -98,6 +98,7 @@ class LingUniverseRepository extends AbstractRepository
                 'deps' => [
                     'ling.CopyDir',
                     'ling.Tiphaine',
+                    'ling.BeeFramework',
                 ],
                 'description' => 'Bat (Basic Tools) is an ensemble of basic tools that one can use to hopefully do a job faster (from the coding point of view, not performance).',
             ],
