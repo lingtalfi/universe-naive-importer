@@ -103,6 +103,7 @@ uni import {item}                       # import an item and its dependencies, s
 uni import -f {item}                    # import an item and its dependencies, replace already existing item(s)/dependencies
 uni importall {repoId}?                 # import all items at once, skip already existing item(s)/dependencies
 uni importall {repoId}? -f              # import all items at once, replace already existing item(s)/dependencies
+uni reimport-existing {repoId}?         # re-import all existing items at once, replace already existing item(s)/dependencies
 uni install {item}                      # install an item and its dependencies, will import them if necessary, skip already existing item(s)/dependencies
 uni install -f {item}                   # install an item and its dependencies, will import them if necessary, replace already existing item(s)/dependencies
 uni installall {repoId}?                # install all items at once, will import them if necessary, skip already existing item(s)/dependencies
@@ -131,6 +132,7 @@ uni tolink                              # converts the top level items of the im
 # utilities
 uni clean                               # removes the .git, .gitignore, .idea and .DS_Store files in your items directories, recursively
 uni update                              # update the uni command with the latest definitions (it does a simple git pull, so is assumes you cloned the uni command in the first place)
+uni reimport-existing                              # update the uni command with the latest definitions (it does a simple git pull, so is assumes you cloned the uni command in the first place)
 
 
 
@@ -143,6 +145,7 @@ For instance:
     uni importall
     uni importall -f
     uni updateall
+    uni reimport-existing
     uni install Connexion
     uni install km.Connexion
     uni install -f Connexion
