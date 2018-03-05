@@ -11,6 +11,7 @@ use ApplicationItemManager\Program\ApplicationItemManagerProgram;
 
 use CommandLineInput\ProgramOutputAwareCommandLineInput;
 use Output\ProgramOutput;
+use Output\WebProgramOutput;
 use Uni\LingUniverseProgram;
 use Uni\LingUniverseRepository;
 
@@ -31,7 +32,24 @@ $importDir = $appDir . "/planets";
 $helpFile = __DIR__ . "/class-program/help.txt";
 
 
-$output = ProgramOutput::create();
+$shortopts = '';
+$longopts = array(
+    "output-type-web",
+);
+$options = getopt($shortopts, $longopts);
+/**
+ * You might need this option if a program --called from the web by the user--
+ * calls a program internally (but you still need to display the output of the uni command
+ * to the web screen).
+ */
+
+if (array_key_exists("output-type-web", $options)) {
+    $output = WebProgramOutput::create();
+} else {
+    $output = ProgramOutput::create();
+}
+
+
 $manager = LingApplicationItemManager::create()
     ->setOutput($output)
     ->addRepository(LingUniverseRepository::create())
