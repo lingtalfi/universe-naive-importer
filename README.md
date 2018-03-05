@@ -197,6 +197,13 @@ uni zimport BumbleBee
 ```
 
 
+Or to re-import all items at once (in case of conflicts for instance)
+
+```php
+uni reimport-existing
+```
+
+
 
 
 
