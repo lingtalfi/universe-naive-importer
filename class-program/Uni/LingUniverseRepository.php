@@ -437,6 +437,7 @@ class LingUniverseRepository extends AbstractRepository
                     'ling.ArrayExport',
                     'ling.Bat',
                     'ling.ClassCooker',
+                    'ling.DirScanner',
                     'ling.LinearFile',
                     'ling.Loader',
                     'ling.Logger',
