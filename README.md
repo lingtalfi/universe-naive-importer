@@ -110,6 +110,7 @@ uni installall {repoId}? -f             # install all items at once, will import
 uni uninstall {item}                    # call the uninstall method on the given item and dependencies
 uni zimport {item}                      # import an item and its dependencies (skip already existing items) by creating a symlink to the local repo instead of fetching the planet on the web (an order of magnitude faster)
 uni zimport {item} -f                   # import an item and its dependencies (replace already existing items) by creating a symlink to the local repo instead of fetching the planet on the web (an order of magnitude faster)
+uni updateall                           # update all items at once
 
 
 # list/search
@@ -141,6 +142,7 @@ For instance:
     uni import -f km.Connexion
     uni importall
     uni importall -f
+    uni updateall
     uni install Connexion
     uni install km.Connexion
     uni install -f Connexion

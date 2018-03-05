@@ -4,6 +4,7 @@ namespace ApplicationItemManager\Installer;
 
 
 use ApplicationItemManager\Exception\ApplicationItemManagerException;
+use ApplicationItemManager\Helper\KamilleApplicationItemManagerHelper;
 use ApplicationItemManager\Installer\Exception\InstallerException;
 use Output\ProgramOutputAwareInterface;
 use Output\ProgramOutputInterface;
@@ -75,9 +76,12 @@ abstract class LingAbstractItemInstaller implements InstallerInterface
     public function install($itemName)
     {
         if (false !== ($oClass = $this->getInstallerInstance($itemName))) {
+
             if ($oClass instanceof ProgramOutputAwareInterface) {
                 $oClass->setProgramOutput($this->output);
             }
+            $this->prepareItemInstaller($oClass);
+
             $installMethod = $this->installMethod;
             $oClass->$installMethod();
 
@@ -102,21 +106,30 @@ abstract class LingAbstractItemInstaller implements InstallerInterface
 
     public function uninstall($itemName)
     {
-        if (false !== ($oClass = $this->getInstallerInstance($itemName))) {
+        if (false !== ($oClass = $this->getInstallerInstance($itemName, false))) {
             if ($oClass instanceof ProgramOutputAwareInterface) {
                 $oClass->setProgramOutput($this->output);
             }
+
+            $this->prepareItemInstaller($oClass);
             $uninstallMethod = $this->uninstallMethod;
             $oClass->$uninstallMethod();
 
-            $this->msg("uninstalled", $itemName);
-            $list = $this->getList();
-            if (false !== ($pos = array_search($itemName, $list))) {
-                unset($list[$pos]);
+        }
 
-                if (false !== $this->writeList($list)) {
-                    return true;
-                }
+        /**
+         * If the item instance is not there, maybe it was not imported in the first place,
+         * we don't want to alarm the user with that, just proceed to uninstalling
+         * the item from the list...
+         */
+
+        $this->msg("uninstalled", $itemName);
+        $list = $this->getList();
+        if (false !== ($pos = array_search($itemName, $list))) {
+            unset($list[$pos]);
+
+            if (false !== $this->writeList($list)) {
+                return true;
             }
         }
         return false;
@@ -145,6 +158,10 @@ abstract class LingAbstractItemInstaller implements InstallerInterface
         }
     }
 
+    protected function prepareItemInstaller($object)
+    {
+
+    }
 
 
     //--------------------------------------------
@@ -156,13 +173,13 @@ abstract class LingAbstractItemInstaller implements InstallerInterface
         return file_put_contents($f, implode(PHP_EOL, $list));
     }
 
-    private function getInstallerInstance($item)
+    private function getInstallerInstance($item, $throwEx = true)
     {
-        $class = $this->getInstallerClass($item);
-        if (class_exists($class)) {
-            return new $class;
+        try {
+            return KamilleApplicationItemManagerHelper::getInstallerInstance($item, $throwEx);
+        } catch (\Exception $e) {
+            throw new InstallerException($e->getMessage());
         }
-        throw new InstallerException("Instance of $class not found");
     }
 
 }

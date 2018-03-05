@@ -1,6 +1,6 @@
 ApplicationItemManager
 ========================
-2017-03-30 -> 2017-04-01
+2017-03-30 -> 2017-07-30
 
 
 
@@ -177,7 +177,7 @@ The word item is defined like this:
 - itemId: repositoryId.itemName | repositoryAlias.itemName
 
 
-# import/install
+# import/install/update
 myprog import {item}                       # import an item and its dependencies, skip already existing item(s)/dependencies
 myprog import -f {item}                    # import an item and its dependencies, replace already existing item(s)/dependencies
 myprog importall {repoId}?                 # import all items at once, skip already existing item(s)/dependencies
@@ -187,6 +187,7 @@ myprog install -f {item}                   # install an item and its dependencie
 myprog installall {repoId}?                # install all items at once, will import them if necessary, skip already existing item(s)/dependencies
 myprog installall {repoId}? -f             # install all items at once, will import them if necessary, replace already existing item(s)/dependencies
 myprog uninstall {item}                    # call the uninstall method on the given item and dependencies
+myprog updateall {repoId}?                  # update all item (much faster than importall -f, but only available for github importer for now
 
 
 # list/search
@@ -196,12 +197,6 @@ myprog listimported                        # list imported items
 myprog listinstalled                       # list installed items
 myprog search {term} {repoAlias}?          # search through available items names
 myprog searchd {term} {repoAlias}?         # search through available items names and/or description
-
-# local (shared) repo
-myprog setlocalrepo {repoPath}             # set the local repository path
-myprog getlocalrepo                        # print the local repository path
-myprog todir                               # converts the top level items of the import directory to directories (based on the directories in local repo)
-myprog tolink                              # converts the top level items of the import directory to symlinks to the directories in local repo
 
 
 # utilities
@@ -225,6 +220,8 @@ For instance:
     myprog installall -f
     myprog uninstall Connexion
     myprog uninstall km.Connexion
+    myprog updateall 
+    myprog updateall ling 
     myprog list
     myprog list km
     myprog listd
@@ -235,15 +232,34 @@ For instance:
     myprog search ling km
     myprog searchd kaminos
     myprog searchd kaminos km
-    myprog setlocalrepo /path/to/local/repo
-    myprog getlocalrepo
-    myprog tolink
-    myprog todir
     myprog clean
+    
 ```
 
 
 
+The LocalAwareApplicationItemManager, which let you have a local proxy on your machine (instead of fetching the items
+on an external machine) has a few more methods:
+
+```txt
+
+# local (shared) repo
+myprog setlocalrepo {repoPath}             # set the local repository path
+myprog getlocalrepo                        # print the local repository path
+myprog todir                               # converts the top level items of the import directory to directories (based on the directories in local repo)
+myprog tolink                              # converts the top level items of the import directory to symlinks to the directories in local repo
+
+
+# utilities
+myprog flash                               # equalizes the items from the local repository to the import directory (so that the import directory contains the same items as the local repository)
+
+
+myprog setlocalrepo /path/to/local/repo
+    myprog getlocalrepo
+    myprog tolink
+    myprog todir
+    myprog flash
+```
 
 
 
@@ -367,8 +383,60 @@ such as when you uninstall item A, item B is also uninstalled (assuming B depend
 
 
 
+
+
 History Log
 ------------------
+    
+- 1.18.1 -- 2018-03-05
+
+    - fix ApplicationItemManager not installing dependencies when the module is installed for the first time
+    
+- 1.18.0 -- 2017-07-31
+
+    - fix ApplicationItemManager bug
+    
+- 1.17.0 -- 2017-07-30
+
+    - add zimport command
+    - add LocalAwareApplicationItemManager
+    - add LocalAwareApplicationItemManagerProgram
+    
+- 1.16.0 -- 2017-06-08
+
+    - add updateall command
+    
+- 1.15.1 -- 2017-04-11
+
+    - ApplicationItemManagerProgram t flag now triggers the trace
+    
+- 1.15.0 -- 2017-04-11
+
+    - ApplicationItemManager messages with exceptions work in sync with trace
+    
+- 1.14.0 -- 2017-04-09
+
+    - ApplicationItemManager.install now calls uninstall if -f flag was on
+    
+- 1.13.0 -- 2017-04-05
+
+    - add ApplicationItemManagerAwareInterface
+    
+- 1.12.0 -- 2017-04-05
+
+    - add LingAbstractItemInstaller.prepareItemInstaller method
+    
+- 1.11.0 -- 2017-04-05
+
+    - fix LingAbstractItemInstaller.uninstall method, more permissive
+    
+- 1.10.0 -- 2017-04-05
+
+    - add ApplicationItemManagerProgram.setShowTraceException method
+    
+- 1.9.0 -- 2017-04-01
+
+    - add ApplicationItemManagerProgram.handleDebug hook
     
 - 1.8.0 -- 2017-04-01
 
