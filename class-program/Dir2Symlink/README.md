@@ -111,6 +111,10 @@ a(ProgramOutputAwareDir2Symlink::create()->setProgramOutput($output)->toSymlinks
 History Log
 ------------------
     
+- 1.2.0 -- 2017-04-01
+
+    - add equalize method
+    
 - 1.1.0 -- 2017-03-31
 
     - fix no error returned when sourceEntry not a directory

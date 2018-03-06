@@ -48,7 +48,7 @@ DirectoryCleaner::create()->clean($d, $recursive);
 History Log
 ------------------
     
-- 1.0.à -- 2017-03-31
+- 1.0.0 -- 2017-03-31
 
     - initial commit
     

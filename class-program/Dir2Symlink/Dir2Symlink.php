@@ -16,6 +16,66 @@ class Dir2Symlink
         return new static();
     }
 
+
+    /**
+     * Take all directories at the top level of sourceDir, and place them into targetDir.
+     * If force if false, will not replace an existing entry in the targetDir.
+     * If force if true, will not remove/replace an existing entry in the targetDir.
+     *
+     * If asLink is true, will create symlinks from the sourceDir to the targetDir instead of copying directories.
+     * If asLink is false, will copy directories from the sourceDir to the targetDir.
+     *
+     * In the end, the targetDir will contain the same top level directories as the sourceDir (either as links
+     * or directories).
+     *
+     *
+     * @return bool, whether or not the process was executed without error.
+     *
+     */
+    public function equalize($sourceDir, $targetDir, $force = false, $asLink = true)
+    {
+        $ret = true;
+        if (is_dir($sourceDir)) {
+            if (is_dir($targetDir)) {
+                $sourceFiles = scandir($sourceDir);
+                foreach ($sourceFiles as $f) {
+                    if ('.' !== $f && '..' !== $f) {
+                        $sourceD = $sourceDir . "/" . $f;
+                        $targetD = $targetDir . "/" . $f;
+
+
+                        if (true === $force || false === file_exists($targetD)) {
+
+                            if (true === $force) {
+                                if (file_exists($targetD)) {
+                                    if (is_link($targetD)) {
+                                        unlink($targetD);
+                                    } else {
+                                        FileSystemTool::remove($targetD);
+                                    }
+                                }
+                            }
+
+                            if (true === $asLink) {
+                                symlink($sourceD, $targetD);
+                            } else {
+                                FileSystemTool::copyDir($sourceD, $targetD);
+                            }
+                        }
+                    }
+                }
+            } else {
+                $this->error("targetDirectoryNotFound", $targetDir);
+                $ret = false;
+            }
+        } else {
+            $this->error("sourceDirectoryNotFound", $sourceDir);
+            $ret = false;
+        }
+        return $ret;
+    }
+
+
     /**
      * Converts the top directories of the $targetDir to symlinks referencing the $sourceDir equivalent top directories (if exist)
      * @return bool, true if EVERY item in the targetDir could be converted successfully

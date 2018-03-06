@@ -51,6 +51,10 @@ So, if you don't understand what I'm trying to explain, this probably means that
 History Log
 ------------------
     
+- 1.5.0 -- 2017-04-01
+
+    - change warn color code from red to yellow
+    
 - 1.4.0 -- 2017-03-31
 
     - fix WebProgramOutput nl2br

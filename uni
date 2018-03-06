@@ -29,6 +29,11 @@ require_once __DIR__ . "/class-program/bigbang.php";
 
 $appDir = getcwd();
 $importDir = $appDir . "/planets";
+if (!is_dir($importDir) && $appDir === __DIR__) {
+    $importDir = $appDir . "/class-program";
+}
+
+
 $helpFile = __DIR__ . "/class-program/help.txt";
 
 
