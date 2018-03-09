@@ -284,6 +284,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Create a file, line by line, or block by block.',
             ],
+            'FileDeletor' => [
+                'deps' => [
+                ],
+                'description' => 'A tool for deleting entries.',
+            ],
             'FormModel' => [
                 'deps' => [],
                 'description' => 'An object to create a form model.',
