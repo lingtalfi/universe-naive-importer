@@ -1,0 +1,24 @@
+This planet uses universe framework.
+If you are going to extend a dependency planet, like Bat for instance,
+and if you have a local universe in place, then consider the following technique:
+
+
+
+
+Summary:
+--------------
+- before working: uni tolink
+- after working: uni todir; uni clean
+- commit: guu
+
+
+
+Long explanations:
+---------------------
+- start syncing your planets with your local universe with: uni tolink
+- then, update your code (it will obviously make changes in your local universe bat, so that you can commit bat planet: no duplicate...)
+- when done, put back all planets of this repository as dirs, because otherwise the new user downloading this planet will only have symlinks,
+        do: uni todir
+- don't forget to remove your .git .gitignore stuff before committing (otherwise the commit won't push the files): uni clean
+- now you can safely commit: guu
+
