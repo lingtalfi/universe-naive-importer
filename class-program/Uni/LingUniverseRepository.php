@@ -94,6 +94,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'php implementation of a babyYaml reader.',
             ],
+            'BashColorTool' => [
+                'deps' => [
+                    '',
+                ],
+                'description' => 'A tool to create quick colored messages in console.',
+            ],
             'Bat' => [
                 'deps' => [
                     'ling.CopyDir',
