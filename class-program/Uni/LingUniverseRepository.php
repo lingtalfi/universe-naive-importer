@@ -182,6 +182,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Utility to copy a dir recursively.',
             ],
+            'CronTaskBot' => [
+                'deps' => [
+                ],
+                'description' => 'A helper to monitor your cron tasks with a database.',
+            ],
             'CrudGeneratorTools' => [
                 'deps' => [
                     "ling.Bat",
