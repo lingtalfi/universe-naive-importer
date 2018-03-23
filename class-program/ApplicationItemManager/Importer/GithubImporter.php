@@ -61,7 +61,8 @@ class GithubImporter implements ImporterInterface
         $dir = $importDirectory . "/$item";
         $output = [];
         $returnVar = 0;
-        $cmd = '[ -d "' . $dir . '" ] || mkdir -p "' . $dir . '"; cd "' . $dir . '"; git pull';
+        $cmd = 'cd "' . $dir . '"; git pull';
+//        $cmd = '[ -d "' . $dir . '" ] || mkdir -p "' . $dir . '"; cd "' . $dir . '"; git pull'; // bad idea...
         a($cmd);
         exec($cmd, $output, $returnVar);
 
