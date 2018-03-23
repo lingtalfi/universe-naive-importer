@@ -669,6 +669,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'An helper object to create a php file from scratch.',
             ],
+            'PhpTailer' => [
+                'deps' => [
+                    'ling.Bat'
+                ],
+                'description' => 'A php wrapper for the unix tail command.',
+            ],
             'PhpTemplate' => [
                 'deps' => [
                 ],
