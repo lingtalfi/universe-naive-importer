@@ -96,7 +96,6 @@ class LingUniverseRepository extends AbstractRepository
             ],
             'BashColorTool' => [
                 'deps' => [
-                    '',
                 ],
                 'description' => 'A tool to create quick colored messages in console.',
             ],
