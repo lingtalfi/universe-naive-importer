@@ -209,8 +209,7 @@ class LingUniverseRepository extends AbstractRepository
                 'description' => 'An object to do simple crud request on a file containing rows.',
             ],
             'Csv' => [
-                'deps' => [
-                ],
+                'deps' => [],
                 'description' => 'Csv utility tools.',
             ],
             'Dash2Array' => [
@@ -808,6 +807,10 @@ class LingUniverseRepository extends AbstractRepository
                     'ling.Bat',
                 ],
                 'description' => 'SokoForm is a system that helps you creating your forms.',
+            ],
+            'SqlQuery' => [
+                'deps' => [],
+                'description' => 'An oop sql query object.',
             ],
             'StepFormBuilder' => [
                 'deps' => [
