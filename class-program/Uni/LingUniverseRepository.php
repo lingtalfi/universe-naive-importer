@@ -592,6 +592,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'A simple observer with php callable.',
             ],
+            'NumericKeyArray' => [
+                'deps' => [
+                ],
+                'description' => 'An api to update a numericKeyArray.',
+            ],
             'Observer' => [
                 'deps' => [
                 ],
