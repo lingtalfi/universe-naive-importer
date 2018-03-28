@@ -162,6 +162,10 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Api to access command line options and parameters.',
             ],
+            'CommandLineOutput' => [
+                'deps' => [],
+                'description' => 'A tool for displaying messages on the console. It handles bashhtml format.',
+            ],
             'CommandLineManiac' => [
                 'deps' => [
                 ],
