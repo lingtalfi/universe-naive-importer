@@ -266,6 +266,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'This is a blog about my dreams.',
             ],
+            'Echarts' => [
+                'deps' => [
+                    'ling.Bat',
+                ],
+                'description' => 'A php wrapper for the js echarts library.',
+            ],
             'Ecp' => [
                 'deps' => [
                 ],
