@@ -827,6 +827,13 @@ class LingUniverseRepository extends AbstractRepository
                 'deps' => [],
                 'description' => 'An oop sql query object.',
             ],
+            'SqlQueryWrapper' => [
+                'deps' => [
+                    "ling.SqlQuery",
+                    "ling.QuickPdo",
+                ],
+                'description' => 'A wrapper for the SqlQuery planet, used to display lists in a front',
+            ],
             'StepFormBuilder' => [
                 'deps' => [
                     'ling.Bat',
