@@ -597,6 +597,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Planet about user notation.',
             ],
+            'Notificator' => [
+                'deps' => [
+                ],
+                'description' => 'A general notification system for your app.',
+            ],
             'Notifier' => [
                 'deps' => [
                 ],
