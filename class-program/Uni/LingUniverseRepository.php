@@ -923,6 +923,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Creates an array representing a directory (tree view).',
             ],
+            'UltimateUploadHandler' => [
+                'deps' => [
+                    'ling.Bat',
+                ],
+                'description' => 'An upload handler for your ajax services.',
+            ],
             'Umail' => [
                 'deps' => [
                     'ling.DirScanner',
