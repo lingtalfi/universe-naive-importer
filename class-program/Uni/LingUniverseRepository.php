@@ -221,6 +221,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Convert a dash tree to an array.',
             ],
+            'DatePickerHelper' => [
+                'deps' => [
+                ],
+                'description' => 'Convert between jquery date picker date format and php date format.',
+            ],
             'DebugLogger' => [
                 'deps' => [],
                 'description' => 'A debug logger for your own tools.',
