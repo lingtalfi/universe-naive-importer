@@ -597,6 +597,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Generate a mysql table with the "console" format.',
             ],
+            'NaturallySimpleXmlElement' => [
+                'deps' => [
+                ],
+                'description' => 'A subclass of php\'s SimpleXMLElement class.',
+            ],
             'NotationFan' => [
                 'deps' => [
                 ],
