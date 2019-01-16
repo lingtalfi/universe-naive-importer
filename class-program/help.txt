@@ -7,7 +7,8 @@ The word item is defined like this:
 
 
 # import/install
-uni import {item}                       # import an item and its dependencies, skip already existing item(s)/dependencies
+uni init                                # creates the universe/bigbang.php file and the universe/BumbleBee dir if they don't exist
+uni import {item}                       # import an item and its dependencies, skip already existing item(s)/dependencies (use uni list to see the available items)
 uni import -f {item}                    # import an item and its dependencies, replace already existing item(s)/dependencies
 uni importall {repoId}?                 # import all items at once, skip already existing item(s)/dependencies
 uni importall {repoId}? -f              # import all items at once, replace already existing item(s)/dependencies
@@ -45,23 +46,16 @@ uni reimport-existing                              # update the uni command with
 
 
 
-For instance:
-    uni import Connexion
-    uni import km.Connexion
-    uni import -f Connexion
-    uni import -f km.Connexion
+Examples:
+    uni init
+    uni import BabyYaml
+    uni import ling.BabyYaml
+    uni import -f BabyYaml
+    uni import -f ling.BabyYaml
     uni importall
     uni importall -f
     uni updateall
     uni reimport-existing
-    uni install Connexion
-    uni install km.Connexion
-    uni install -f Connexion
-    uni install -f km.Connexion
-    uni installall
-    uni installall -f
-    uni uninstall Connexion
-    uni uninstall km.Connexion
     uni zimport Connexion
     uni zimport Connexion -f
     uni list

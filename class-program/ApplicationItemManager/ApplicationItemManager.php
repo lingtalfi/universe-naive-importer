@@ -687,7 +687,6 @@ class ApplicationItemManager implements ApplicationItemManagerInterface
             } elseif (array_key_exists($repoId, $this->repositories)) {
                 $itemName = $this->getItemNameByItem($item);
 
-
                 /**
                  * Here we first try to ask the module if it knows its own dependencies (which it SHOULD by the way,
                  * but in the original conception it wasn't...).
@@ -702,12 +701,15 @@ class ApplicationItemManager implements ApplicationItemManagerInterface
                  */
                 $knowItsDependencies = false;
                 $oInstance = KamilleApplicationItemManagerHelper::getInstallerInstance($itemName, false);
+
+
                 if (false !== $oInstance) {
                     if ($oInstance instanceof DependencyAwareModuleInterface) {
                         $deps = $oInstance->getDependencies();
                         $knowItsDependencies = true;
                     }
                 }
+
                 if (false === $knowItsDependencies) {
                     $repo = $this->repositories[$repoId];
                     $deps = $repo->$depMethod($itemName);

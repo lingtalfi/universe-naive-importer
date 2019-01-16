@@ -84,10 +84,44 @@ Usage
 
 Once the setup is done, you can use the uni command.
 
-You need to be in the directory **CONTAINING** the **planets** directory (which has to be named **planets** by default) to execute the commands below (or at least
-that's the main way to use the uni command).
 
-Below is the synopsis (from the help of the command, just type uni to see the help below).
+
+If it's your first time
+-----------------------
+You should first initialize the universe for your app:
+
+```bash
+cd /your_app
+uni init
+```
+
+This will create the following assets in your app (unless they already exist in which case it will do nothing):
+
+- /your_app/universe/bigbang.php
+- /your_app/universe/BumbleBee
+
+The **bigbang.php** script contains the "a" and "az" debug functions, and also boots the BumbleBee autoloader.
+The **BumbleBee** directory is a planet used by the **bigbang.php** script. It's an autoloader.
+
+By default, the "bigbang.php" script will load any class inside the **/your_app/universe** dir,
+and any class inside the **/your_app/class** dir, provided that the classes respect
+the [bsr-0 naming convention](https://github.com/lingtalfi/BumbleBee/blob/master/Autoload/convention.bsr0.eng.md).
+
+The **universe** dir contains the planets (which you can now import using the **uni import PlanetName** command),
+and the **class** dir contains your application's class.
+
+Note: if you don't like this behaviour, just change the corresponding line in the **universe/bigbang.php** script.
+
+
+
+
+
+The other uni commands
+----------------------
+
+To use any uni command, you must be in your app directory, and this directory should contain the universe directory (if not, use the **uni init** to create it for you).
+
+Below is the synopsis of the commands you can use (from the help of the command, just type uni to see the help below).
 
 ```txt
 Usage
@@ -99,7 +133,8 @@ The word item is defined like this:
 
 
 # import/install
-uni import {item}                       # import an item and its dependencies, skip already existing item(s)/dependencies
+uni init                                # creates the universe/bigbang.php file and the universe/BumbleBee dir if they don't exist
+uni import {item}                       # import an item and its dependencies, skip already existing item(s)/dependencies (use uni list to see the available items)
 uni import -f {item}                    # import an item and its dependencies, replace already existing item(s)/dependencies
 uni importall {repoId}?                 # import all items at once, skip already existing item(s)/dependencies
 uni importall {repoId}? -f              # import all items at once, replace already existing item(s)/dependencies
@@ -137,23 +172,16 @@ uni reimport-existing                              # update the uni command with
 
 
 
-For instance:
-    uni import Connexion
-    uni import km.Connexion
-    uni import -f Connexion
-    uni import -f km.Connexion
+Examples:
+    uni init
+    uni import BabyYaml
+    uni import ling.BabyYaml
+    uni import -f BabyYaml
+    uni import -f ling.BabyYaml
     uni importall
     uni importall -f
     uni updateall
     uni reimport-existing
-    uni install Connexion
-    uni install km.Connexion
-    uni install -f Connexion
-    uni install -f km.Connexion
-    uni installall
-    uni installall -f
-    uni uninstall Connexion
-    uni uninstall km.Connexion
     uni zimport Connexion
     uni zimport Connexion -f
     uni list
@@ -190,10 +218,13 @@ uni updateall
 ```
 
 
+
+Developers
+------------------
 Once your items are on your machine, you can use the zimport function which is the fastest.
 
 ```php
-uni zimport BumbleBee
+uni zimport BabyYaml
 ```
 
 

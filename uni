@@ -33,7 +33,11 @@ $appDir = getcwd();
 $importDir = $appDir . "/class-program";
 if (!is_dir($importDir)) {
     $importDir = $appDir . "/planets";
+    if (!is_dir($importDir)) {
+        $importDir = $appDir . "/universe";
+    }
 }
+
 
 
 $helpFile = __DIR__ . "/class-program/help.txt";
@@ -55,6 +59,7 @@ if (array_key_exists("output-type-web", $options)) {
 } else {
     $output = ProgramOutput::create();
 }
+
 
 
 $manager = LingApplicationItemManager::create()

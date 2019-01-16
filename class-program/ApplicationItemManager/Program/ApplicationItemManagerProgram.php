@@ -23,7 +23,7 @@ class ApplicationItemManagerProgram extends Program
      * @var ApplicationItemManagerInterface
      */
     protected $manager;
-    private $importDirectory;
+    protected $importDirectory;
     private $helpFile;
 
     public function __construct()

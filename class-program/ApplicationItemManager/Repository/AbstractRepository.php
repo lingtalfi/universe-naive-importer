@@ -161,7 +161,8 @@ abstract class AbstractRepository implements RepositoryInterface
                     $tree[] = $dep;
                     // we can only recurse on items in our repository
                     if (0 === strpos($dep, $repoName . ".")) {
-                        $this->collectDependencyTree($dep, $tree, $collectHardOnly);
+                        $repoDep = substr($dep, strlen($repoName . "."));
+                        $this->collectDependencyTree($repoDep, $tree, $collectHardOnly);
                     }
                 }
             }
