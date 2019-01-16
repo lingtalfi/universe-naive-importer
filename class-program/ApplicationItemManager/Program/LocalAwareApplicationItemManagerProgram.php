@@ -33,7 +33,11 @@ class LocalAwareApplicationItemManagerProgram extends ApplicationItemManagerProg
             ->addCommand("setlocalrepo", function (CommandLineInputInterface $input, ProgramOutputInterface $output, ProgramInterface $program) {
 
                 $path = $input->getParameter(2);
-                $this->getLocalAwareManager($output)->setLocalRepo($path);
+                if ($path) {
+                    $this->getLocalAwareManager($output)->setLocalRepo($path);
+                } else {
+                    $output->error("You must specify the path: uni setlocalrepo {path}");
+                }
             })
             ->addCommand("getlocalrepo", function (CommandLineInputInterface $input, ProgramOutputInterface $output, ProgramInterface $program) {
                 $this->getLocalAwareManager($output)->getLocalRepo();
