@@ -434,6 +434,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'simple image rotator for jquery.',
             ],
+            'Jin' => [
+                'deps' => [
+                ],
+                'description' => 'A framework to build web apps.',
+            ],
             'JInfiniteSlider' => [
                 'deps' => [
                 ],
