@@ -769,6 +769,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Class to help with representation of \\Reflection elements.',
             ],
+            'Registry' => [
+                'deps' => [
+                ],
+                'description' => 'A simple registry.',
+            ],
             'RowsGenerator' => [
                 'deps' => [
                     'ling.QuickPdo',
