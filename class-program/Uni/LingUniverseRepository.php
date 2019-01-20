@@ -714,6 +714,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Simple php template system.',
             ],
+            'PhpUploadFileFix' => [
+                'deps' => [
+                ],
+                'description' => 'This planet flattens the $_FILES array.',
+            ],
             'Privilege' => [
                 'deps' => [
                 ],
