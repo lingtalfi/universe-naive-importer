@@ -966,6 +966,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Tool to generate unique names.',
             ],
+            'UniversalTemplateEngine' => [
+                'deps' => [
+                ],
+                'description' => 'Defines a generic template engine interface for planets of the universe to implement.',
+            ],
             'Updf' => [
                 'deps' => [
                 ],
