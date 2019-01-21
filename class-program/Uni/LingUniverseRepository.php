@@ -1030,7 +1030,7 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Create a consistent api based on a crud model.',
             ],
-            'Zeus' => [
+            'ZeusTemplateEngine' => [
                 'deps' => [
                     "ling.UniversalTemplateEngine",
                 ],
