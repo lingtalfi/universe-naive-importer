@@ -691,6 +691,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'This is a php implementation of the Beast component of the Beauty n Beast pattern.',
             ],
+            'PhpErrorName' => [
+                'deps' => [
+                ],
+                'description' => 'Converts a php error code to a human name.',
+            ],
             'PhpExcelTool' => [
                 'deps' => [
 //                    'PHPOffice/PHPExcel', // ?
