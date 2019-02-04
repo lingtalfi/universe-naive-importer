@@ -845,6 +845,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Utilities to create basic sitemaps.',
             ],
+            'SimplePdoWrapper' => [
+                'deps' => [
+                ],
+                'description' => 'A simple wrapper around the php\'s PDO object.',
+            ],
             'SitemapSlicer' => [
                 'deps' => [
                     'ling.Bat',
