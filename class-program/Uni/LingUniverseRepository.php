@@ -872,7 +872,12 @@ class LingUniverseRepository extends AbstractRepository
                     "ling.SqlQuery",
                     "ling.QuickPdo",
                 ],
-                'description' => 'A wrapper for the SqlQuery planet, used to display lists in a front',
+                'description' => 'A wrapper for the SqlQuery planet, used to display lists in a front.',
+            ],
+            'SqlWizard' => [
+                'deps' => [
+                ],
+                'description' => 'The SqlWizard planet contains various tools to work with mysql databases.',
             ],
             'StepFormBuilder' => [
                 'deps' => [
