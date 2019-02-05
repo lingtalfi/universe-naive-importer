@@ -46,6 +46,13 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'This class can export a php array containing closures (aka anonymous functions).',
             ],
+            'ArrayRefResolver' => [
+                'deps' => [
+                    'ling.ArrayToString',
+                    'ling.Bat',
+                ],
+                'description' => 'Walks an array recursively and resolves the references.',
+            ],
             'ArrayStore' => [
                 'deps' => [
                     'ling.ArrayExport',
