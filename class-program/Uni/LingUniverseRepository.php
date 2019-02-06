@@ -846,16 +846,22 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Find/replace a pattern in a sequence of things.',
             ],
-            'SitemapBuilderBox' => [
+            'SicTools' => [
                 'deps' => [
-                    'ling.Bat',
+                    "ling.ArrayToString",
                 ],
-                'description' => 'Utilities to create basic sitemaps.',
+                'description' => 'Tools for implementing the sic notation in a php application.',
             ],
             'SimplePdoWrapper' => [
                 'deps' => [
                 ],
                 'description' => 'A simple wrapper around the php\'s PDO object.',
+            ],
+            'SitemapBuilderBox' => [
+                'deps' => [
+                    'ling.Bat',
+                ],
+                'description' => 'Utilities to create basic sitemaps.',
             ],
             'SitemapSlicer' => [
                 'deps' => [
