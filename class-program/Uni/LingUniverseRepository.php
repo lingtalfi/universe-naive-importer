@@ -645,6 +645,13 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'I\'m an eye of the universe. I observe patterns emerging while the universe is being created.',
             ],
+            'Octopus' => [
+                'deps' => [
+                    "ling.SicTools",
+                    "ling.ClassCreator",
+                ],
+                'description' => 'A service container for your php apps.',
+            ],
             'OnTheFlyForm' => [
                 'deps' => [
                     "ling.FormTools",
