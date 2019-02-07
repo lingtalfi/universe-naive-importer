@@ -154,6 +154,12 @@ class LingUniverseRepository extends AbstractRepository
                 'deps' => [],
                 'description' => 'A tool to add/remove/update methods in a class.',
             ],
+            'ClassCreator' => [
+                'deps' => [
+                    "ling.Bat",
+                ],
+                'description' => 'A tool to create well-formatted php classes.',
+            ],
             'Colis' => [
                 'deps' => [
                     'ling.Bat',
