@@ -1012,6 +1012,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Defines a generic template engine interface for planets of the universe to implement.',
             ],
+            'UniverseTools' => [
+                'deps' => [
+                    "ling.BabyYaml",
+                ],
+                'description' => 'General tools to work with the universe.',
+            ],
             'Updf' => [
                 'deps' => [
                 ],
