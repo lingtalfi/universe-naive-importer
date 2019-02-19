@@ -685,6 +685,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'A tool to pack multiple files into one.',
             ],
+            'ParseDown' => [
+                'deps' => [
+                ],
+                'description' => 'A markdown parser.',
+            ],
             'Pea' => [
                 'deps' => [
                 ],
