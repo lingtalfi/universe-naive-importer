@@ -279,6 +279,20 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Some dispatchers for your app.',
             ],
+            'DocTools' => [
+                'deps' => [
+                    "ling.Bat",
+                    "ling.TokenFun",
+                    "ling.DirScanner",
+                    "ling.UniverseTools",
+//                    "ling.ReflectionMethod",
+                    "ling.ArrayToString",
+                    "ling.ArrayToTable",
+                    "ling.ZeusTemplateEngine",
+                    "ling.ParseDown",
+                ],
+                'description' => 'A tool to help creating consistent documentation.',
+            ],
             'Dreamer' => [
                 'deps' => [
                 ],
