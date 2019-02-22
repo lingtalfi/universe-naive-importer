@@ -1077,6 +1077,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Tools to work with subtitles.',
             ],
+            'WebBox' => [
+                'deps' => [
+                    'ling.Bat',
+                ],
+                'description' => 'Some tools to build common php based webservices.',
+            ],
             'WrappedString' => [
                 'deps' => [
                     'ling.Escaper',
