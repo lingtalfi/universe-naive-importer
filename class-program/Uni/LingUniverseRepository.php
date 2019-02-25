@@ -1026,6 +1026,11 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'Tool to generate unique names.',
             ],
+            'UniversalLogger' => [
+                'deps' => [
+                ],
+                'description' => 'A generic logger interface to use in the universe and elsewhere.',
+            ],
             'UniversalTemplateEngine' => [
                 'deps' => [
                 ],
