@@ -160,6 +160,12 @@ class LingUniverseRepository extends AbstractRepository
                 ],
                 'description' => 'A tool to create well-formatted php classes.',
             ],
+            'CliTools' => [
+                'deps' => [
+                    "ling.UniversalLogger",
+                ],
+                'description' => 'Suite of tools for creating cli programs.',
+            ],
             'Colis' => [
                 'deps' => [
                     'ling.Bat',
