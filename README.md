@@ -1,246 +1,76 @@
 UniverseNaiveImporter
 =========================
-2017-03-11 --> 2019-03-06
-
-
-
-CURRENTLY NOT WORKING!
-CURRENTLY IN PROGRESS...
-THE NEW UNI-TOOL IS COMING... HOLD ON, COME BACK IN A FEW DAYS...
-
-
-
-
+2017-03-11 --> 2019-03-12
 
 
 A naive importer for the [universe](https://github.com/karayabin/universe-snapshot) framework.
 
-Why naive? Because it doesn't care about version numbers, it always take the latest version.
 
-(and also, I liked the UNI acronym, which is how I wanted to name the command).
+This is a console tool to manage the dependencies of the [universe framework](https://github.com/karayabin/universe-snapshot).
 
-
-It imports the planets dependencies though (otherwise this project would be close to useless).
-
-
-
-What can it do for you?
-=================
-Although I first intended to do only an importer tool, I added a few features along the way.
-
-So, now the uni command can do the following (see Usage section for more info):
-
-- import a planet
-- import all planets
-- list all planets
-- search in planet names
-- search in planet descriptions
-- transform planets to symlinks to the local universe (advanced)
-- transform planets to directories from the local universe (advanced)
-- clean the planets directories (remove the .git, .gitignore, .DS_Store and .idea files) recursively 
-- ...and more
+This is a wrapper for the [Uni2 planet](https://github.com/lingtalfi/Uni2). Please refer to the Uni2 planet
+for more documentation.
 
 
 
+Summary
+===========
+- [Installation](#installation)
+    - [Installing uni on Mac or Linux](#installing-uni-on-mac-or-linux)
+    - [Installing uni on Windows or manually](#installing-uni-on-windows)
 
-Setup
-==========
 
-Before you can use the uni command, you need to install it on your computer.
 
-First, download the whole repo, and move it where you want.
+Installation
+==============
 
-From there you could already use the uni script.
 
-The uni script is just a php script inside the repo, and you could call it directly like this:
+Installing uni on Mac or Linux
+------------
 
-```bash
-php -f /myphp/universe-naive-importer/uni -- help
-```
-
-Or we can even call it directly, like this:
+Open a terminal and copy paste that line:
 
 
 ```bash
-/myphp/universe-naive-importer/uni -- help
-```
-
-You might need the execute permissions on the uni script (chmod u+x uni) though.
-
-
-But in both cases that's too long to type, so instead you should put it in your $PATH.
- 
-We can use a simple symlink for instance, like this:
-
-```bash
-ln -s /myphp/universe-naive-importer/uni /usr/local/bin/uni
-```
-
-Now, you can use the uni command anywhere on your machine:
- 
-```bash
-uni import AdminTable
-``` 
-
-Enjoy ;)
-
-
-
-
-Usage
-=============
-
-Once the setup is done, you can use the uni command.
-
-
-
-If it's your first time
------------------------
-You should first initialize the universe for your app:
-
-```bash
-cd /your_app
-uni init
-```
-
-This will create the following assets in your app (unless they already exist in which case it will do nothing):
-
-- /your_app/universe/bigbang.php
-- /your_app/universe/BumbleBee
-
-The **bigbang.php** script contains the "a" and "az" debug functions, and also boots the BumbleBee autoloader.
-The **BumbleBee** directory is a planet used by the **bigbang.php** script. It's an autoloader.
-
-By default, the "bigbang.php" script will load any class inside the **/your_app/universe** dir,
-and any class inside the **/your_app/class** dir, provided that the classes respect
-the [bsr-0 naming convention](https://github.com/lingtalfi/BumbleBee/blob/master/Autoload/convention.bsr0.eng.md).
-
-The **universe** dir contains the planets (which you can now import using the **uni import PlanetName** command),
-and the **class** dir contains your application's class.
-
-Note: if you don't like this behaviour, just change the corresponding line in the **universe/bigbang.php** script.
-
-
-
-
-
-The other uni commands
-----------------------
-
-To use any uni command, you must be in your app directory, and this directory should contain the universe directory (if not, use the **uni init** to create it for you).
-
-Below is the synopsis of the commands you can use (from the help of the command, just type uni to see the help below).
-
-```txt
-Usage
--------
-
-The word item is defined like this:
-- item: itemId | itemName
-- itemId: repositoryId.itemName | repositoryAlias.itemName
-
-
-# import/install
-uni init                                # creates the universe/bigbang.php file and the universe/BumbleBee dir if they don't exist
-uni import {item}                       # import an item and its dependencies, skip already existing item(s)/dependencies (use uni list to see the available items)
-uni import -f {item}                    # import an item and its dependencies, replace already existing item(s)/dependencies
-uni importall {repoId}?                 # import all items at once, skip already existing item(s)/dependencies
-uni importall {repoId}? -f              # import all items at once, replace already existing item(s)/dependencies
-uni reimport-existing {repoId}?         # re-import all existing items at once, replace already existing item(s)/dependencies
-uni install {item}                      # install an item and its dependencies, will import them if necessary, skip already existing item(s)/dependencies
-uni install -f {item}                   # install an item and its dependencies, will import them if necessary, replace already existing item(s)/dependencies
-uni installall {repoId}?                # install all items at once, will import them if necessary, skip already existing item(s)/dependencies
-uni installall {repoId}? -f             # install all items at once, will import them if necessary, replace already existing item(s)/dependencies
-uni uninstall {item}                    # call the uninstall method on the given item and dependencies
-uni zimport {item}                      # import an item and its dependencies (skip already existing items) by creating a symlink to the local repo instead of fetching the planet on the web (an order of magnitude faster)
-uni zimport {item} -f                   # import an item and its dependencies (replace already existing items) by creating a symlink to the local repo instead of fetching the planet on the web (an order of magnitude faster)
-uni updateall                           # update all items at once
-
-
-# list/search
-uni list {repoAlias}?                   # list available items
-uni listd {repoAlias}?                  # list available items with their description if any
-uni listimported                        # list imported items
-uni listinstalled                       # list installed items
-uni search {term} {repoAlias}?          # search through available items names
-uni searchd {term} {repoAlias}?         # search through available items names and/or description
-
-# local (shared) repo
-uni setlocalrepo {repoPath}             # set the local repository path
-uni getlocalrepo                        # print the local repository path
-uni todir                               # converts the top level items of the import directory to directories (based on the directories in local repo)
-uni tolink                              # converts the top level items of the import directory to symlinks to the directories in local repo
-
-
-# utilities
-uni clean                               # removes the .git, .gitignore, .idea and .DS_Store files in your items directories, recursively
-uni update                              # update the uni command with the latest definitions (it does a simple git pull, so is assumes you cloned the uni command in the first place)
-uni reimport-existing                              # update the uni command with the latest definitions (it does a simple git pull, so is assumes you cloned the uni command in the first place)
-
-
-
-
-Examples:
-    uni init
-    uni import BabyYaml
-    uni import ling.BabyYaml
-    uni import -f BabyYaml
-    uni import -f ling.BabyYaml
-    uni importall
-    uni importall -f
-    uni updateall
-    uni reimport-existing
-    uni zimport Connexion
-    uni zimport Connexion -f
-    uni list
-    uni list km
-    uni listd
-    uni listd km
-    uni listimported
-    uni listinstalled
-    uni search ling
-    uni search ling km
-    uni searchd kaminos
-    uni searchd kaminos km
-    uni setlocalrepo /path/to/local/repo
-    uni getlocalrepo
-    uni tolink
-    uni todir
-    uni clean
-    uni update
+temp_file=$(mktemp); curl -fsSL https://raw.githubusercontent.com/lingtalfi/universe-naive-importer/master/installer.php > $temp_file; sudo php -f $temp_file;
 ```
 
 
-So now, you can basically import any planets :)
+This was tested successfully on macOS Sierra 10.12.6, and ubuntu xenial 16.04.
 
-If you want to download them all at once, you can either check the [universe snapshot project](https://github.com/karayabin/universe-snapshot),
-or, just use the command:
-
-```php
-uni importall
-```
-
-Or to update all items at once
-```php
-uni updateall
-```
+If the one-liner doesn't work for your machine, please use the manual install described in the next section.
 
 
 
-Developers
-------------------
-Once your items are on your machine, you can use the zimport function which is the fastest.
+Installing uni on Windows or manually
+------------
 
-```php
-uni zimport BabyYaml
-```
+Unfortunately, there is no one-liner install for Windows users.
+
+So the following procedure should be performed manually.
+
+Note: you just need to do this once, after which you can use the [upgrade](https://github.com/lingtalfi/Uni2#help) command
+to upgrade.
 
 
-Or to re-import all items at once (in case of conflicts for instance)
 
-```php
-uni reimport-existing
-```
+- Define a directory to contain the uni-tool directory. I will choose **/usr/local/etc/uni**
+- Define a path to contain the uni-tool program. I will choose **/usr/local/bin/uni**
+- Cd to a system temporary directory. Mine will be /tmp
+- Download this archive: https://github.com/lingtalfi/universe-naive-importer/archive/master.zip
+- Extract the archive, you should have a **universe-naive-importer-master** directory
+- Move the **/tmp/universe-naive-importer-master/uni** directory to your chosen uni-tool directory (**/usr/local/etc/uni** in my case)
+- Optionally chmod the **/usr/local/etc/uni** so that user has the necessary permissions on it
+- Remove any symlink **/usr/local/bin/uni** which might exist from previous installation
+- Create a symlink, the link being the chosen path to the uni-tool program (**/usr/local/bin/uni** in my case), and the target being **/usr/local/etc/uni/uni.php**
+- Type **uni help** to check that everything worked
+
+
+
+Now you can check the [Uni2 documentation](https://github.com/lingtalfi/Uni2) for more information.
+
+
+
 
 
 
@@ -250,8 +80,13 @@ uni reimport-existing
 History Log
 =================
         
+- 2.0.0 -- 2019-03-12
+
+    - second version based on Uni2
+
+
 - 1.0.0 -- 2017-03-11
 
     - initial commit
-    
+
 

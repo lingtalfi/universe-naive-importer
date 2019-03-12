@@ -1,11 +1,22 @@
 #!/usr/bin/env php
 <?php
+
+
 /**
- * temp_file=$(mktemp); curl -fsSL https://raw.githubusercontent.com/lingtalfi/universe-naive-importer/master/installer.php > $temp_file; php -f $temp_file;
+ * temp_file=$(mktemp); curl -fsSL https://raw.githubusercontent.com/lingtalfi/universe-naive-importer/master/installer.php > $temp_file; sudo php -f $temp_file;
  */
 
 
 /**
+ *
+ * Notes:
+ *
+ * - mac: you shouldn't need sudo (I didn't on macOS Sierra 10.12.6)
+ * - linux: you should need sudo (I did on Ubuntu 16.04 xenial)
+ * - windows: sorry, no support
+ *
+ *
+ *
  * Install procedure:
  *
  *
@@ -67,6 +78,11 @@ function error($msg, $indent = 0, $br = true)
 
 function info($msg, $indent = 0, $br = true)
 {
+    /**
+     * black, because then we can insert inline bold/path inside of it.
+     * Otherwise the bold/path tags define the stop tag which breaks all the formatting, including the info formatting.
+     * But if it's black, the user won't notice.
+     */
     return msg($msg, "30", $indent, $br);
 }
 
@@ -87,6 +103,15 @@ function bold($msg)
 }
 
 
+function path($msg)
+{
+    /**
+     * magenta, because more contrast with black.
+     */
+    return "\033[35m" . $msg . "\033[0m";
+}
+
+
 function checkWritableDir($dir)
 {
     if (is_dir($dir)) {
@@ -102,13 +127,55 @@ function checkWritableDir($dir)
 }
 
 
+function hasProgram($program)
+{
+    ob_start();
+    $cmd = 'which ' . $program;
+    passthru($cmd);
+    $programPath = trim(ob_get_clean());
+    return ('' !== $programPath);
+}
+
+
 function download($url, $file)
 {
-    $cmd = 'curl -Ls ' . $url . ' --output "' . $file . '"';
-    $return = 0;
-    $output = [];
-    exec($cmd, $output, $return);
-    return (0 === $return);
+
+
+    $useCurl = hasProgram('curl');
+    $useWget = hasProgram('wget');
+    /**
+     * Switch between curl/wget, depending on what the machine has.
+     */
+
+    if (true === $useWget) {
+        $cmd = 'wget ' . $url . ' -O "' . $file . '" -q';
+        $return = 0;
+        $output = [];
+        exec($cmd, $output, $return);
+        return (0 === $return);
+
+    } elseif (true === $useCurl) {
+
+        /**
+         * Personal notes:
+         * from my computer (mac), the curl command went to a bug that I couldn't fix yet because it disappeared magically when I
+         * used the verbose flag.
+         * But it's there, and it has to do with open_ssl.
+         * More on this next time I see it...
+         */
+        if (true === IS_VERBOSE) {
+            $cmd = 'curl -Lv ' . $url . ' --output "' . $file . '"';
+        } else {
+            $cmd = 'curl -Ls ' . $url . ' --output "' . $file . '"';
+        }
+//    echo $cmd . PHP_EOL;
+        $return = 0;
+        $output = [];
+        exec($cmd, $output, $return);
+        return (0 === $return);
+    } else {
+        return false;
+    }
 }
 
 function unzip($zipFile, $targetDir)
@@ -129,7 +196,7 @@ function unzip($zipFile, $targetDir)
         $unzipPath = trim(ob_get_clean());
 
         if ("" !== $unzipPath) {
-            $cmd = '"' . $unzipPath . '" -qq "' . $zipFile . '" -d "' . $targetDir . '"';
+            $cmd = '"' . $unzipPath . '" -qq -o "' . $zipFile . '" -d "' . $targetDir . '"';
             $output = [];
             $returnVar = 0;
             exec($cmd, $output, $returnVar);
@@ -138,6 +205,14 @@ function unzip($zipFile, $targetDir)
 
     }
     return false;
+}
+
+
+function getCmdOutput($cmd)
+{
+    ob_start();
+    passthru($cmd);
+    return trim(ob_get_clean());
 }
 
 
@@ -150,80 +225,143 @@ function execCmd($cmd)
 }
 
 
-$uni2Url = "https://github.com/lingtalfi/Uni2/archive/master.zip"; // will extract as Uni2-master
+$arguments = [];
+if (array_key_exists('argv', $_SERVER) && is_array($_SERVER['argv'])) {
+    $arguments = $_SERVER['argv'];
+    array_shift($arguments);
+}
+if (in_array('-v', $arguments, true)) {
+    define("IS_VERBOSE", true);
+} else {
+    define("IS_VERBOSE", false);
+}
 
-$tmpDir = sys_get_temp_dir() . "/uni-tools-tmp";
+
+$uniToolUrl = "https://github.com/lingtalfi/universe-naive-importer/archive/master.zip"; // will extract as universe-naive-importer-master
+
+$tmpDir = rtrim(sys_get_temp_dir(), '/') . "/uni-tools-tmp";
 @mkdir($tmpDir, 0777, true);
 
 
-/**
- * Todo check that curl exist, if not exit...
- */
 //--------------------------------------------
 // FIRST TRY TO GET THE TYPE OF MACHINE (Mac, Linux, Windows, Unknown)
 //--------------------------------------------
 $phpOs = PHP_OS;
-if ('Darwin' === $phpOs) {
+
+
+/**
+ * I believe that /usr/local is reliable...
+ * https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch04s09.html
+ */
+if (is_dir('/usr/local')) {
+
+
+    //--------------------------------------------
+    // GET USER AND GROUP
+    //--------------------------------------------
+    // https://stackoverflow.com/questions/4598001/how-do-you-find-the-original-user-through-multiple-sudo-and-su-commands
+    $userName = getCmdOutput('logname');
+
+
+    if (false === "use user group") {
+        $sGroups = getCmdOutput('groups ' . $userName);
+        $groups = explode(' ', $sGroups);
+
+        $userGroup = "";
+        if ('Darwin' === $phpOs && in_array('staff', $groups, true)) {
+            $userGroup = "staff";
+        } elseif (in_array($userName, $groups, true)) {
+            $userGroup = $userName;
+        } else {
+            $userGroup = array_shift($groups);
+        }
+
+        if ('' !== $userGroup) {
+        } else {
+            echo error("Cannot find the user group for user $userName.");
+        }
+    }
+
+
     echo info('Installing ' . bold('uni-tool') . ' on ' . $phpOs . ' os...');
     $uniTargetDir = "/usr/local/etc/uni";
-    $uniProgram = "/usr/local/etc/uni";
-
+    $uniProgramDstPath = "/usr/local/bin/uni";
 
     if (true === checkWritableDir(dirname($uniTargetDir))) {
-        @mkdir($uniTargetDir, 0777, true);
+//        @mkdir($uniTargetDir, 0777, true);
 
-        $uni2Zip = $tmpDir . '/master.zip';
-
-
-        echo info('Downloading Uni2 from github.com...', 1, false);
+        $uniToolZip = $tmpDir . '/master.zip';
 
 
-        if (true === download($uni2Url, $uni2Zip)) {
+        echo info('Downloading uni-tool from github.com...', 1, false);
+
+
+        if (true === download($uniToolUrl, $uniToolZip)) {
             echo success('ok');
 
 
-            echo info('Extracting ' . $uni2Zip . "...", 1, false);
+            echo info('Extracting ' . path($uniToolZip) . "...", 1, false);
 
 
-            if (unzip($uni2Zip, $tmpDir)) {
+            if (unzip($uniToolZip, $tmpDir)) {
                 echo success('ok');
 
 
-                $uni2ExtractedDir = $tmpDir . '/Uni2-master';
-                $uni2DestDir = $uniTargetDir . '/Uni2';
-                echo info('Moving "' . $uni2ExtractedDir . '" to "' . $uni2DestDir . '"...', 1, false);
+                $uni2ExtractedDir = $tmpDir . '/universe-naive-importer-master/uni';
+                $uni2DestDir = $uniTargetDir;
+                echo info('Moving ' . path($uni2ExtractedDir) . ' to ' . path($uni2DestDir) . '...', 1, false);
 
 
                 $uni2DirOk = false;
-                if (is_dir($uni2DestDir)) {
-                    echo PHP_EOL;
-                    echo info("The " . bold($uni2DestDir) . " directory already exists. Do you want to overwrite it and loose your current configuration? (y/n) ", 1, false);
 
-                    $answer = strtolower(trim(fgets(STDIN)));
-                    while ($answer !== 'y' && $answer !== 'n') {
-                        echo info("I'm sorry I didn't understand. Do you want to overwrite the directory " . bold($uni2DestDir) . " and loose your current configuration? (y/n) ", 1, false);
+
+                if (false === "old_system_with_prompt") {
+                    /**
+                     * I figured that I don't like prompt, but I keep this code just in case...
+                     */
+                    if (is_dir($uni2DestDir)) {
+                        echo PHP_EOL;
+                        echo info("The " . path($uni2DestDir) . " directory already exists. Do you want to overwrite it and loose your current configuration? (y/n) ", 1, false);
+
                         $answer = strtolower(trim(fgets(STDIN)));
+                        while ($answer !== 'y' && $answer !== 'n') {
+                            echo info("I'm sorry I didn't understand. Do you want to overwrite the directory " . path($uni2DestDir) . " and loose your current configuration? (y/n) ", 1, false);
+                            $answer = strtolower(trim(fgets(STDIN)));
 
-                    }
-                    if ('y' === $answer) {
-                        echo info("Removing directory " . bold($uni2DestDir) . "...", 1, false);
-                        if (true === execCmd('rm -rf "' . $uni2DestDir . '"')) {
-                            echo success('ok');
-
-                            echo info('Moving "' . $uni2ExtractedDir . '" to "' . $uni2DestDir . '"...', 1, false);
-                            if (true === rename($uni2ExtractedDir, $uni2DestDir)) {
+                        }
+                        if ('y' === $answer) {
+                            echo info("Removing directory " . path($uni2DestDir) . "...", 1, false);
+                            if (true === execCmd('rm -rf "' . $uni2DestDir . '"')) {
                                 echo success('ok');
+
+                                echo info('Moving "' . $uni2ExtractedDir . '" to "' . $uni2DestDir . '"...', 1, false);
+                                if (true === rename($uni2ExtractedDir, $uni2DestDir)) {
+                                    echo success('ok');
+                                } else {
+                                    echo error('oops');
+                                    echo error("Couldn't rename \"$uni2ExtractedDir\" to \"$uni2DestDir\"");
+                                }
                             } else {
                                 echo error('oops');
-                                echo error("Couldn't rename \"$uni2ExtractedDir\" to \"$uni2DestDir\"");
+                                echo warning("Couldn't remove the directory \"$uni2DestDir\". The script will continue.");
                             }
+                        }
+                        $uni2DirOk = true;
+                    } else {
+                        if (true === rename($uni2ExtractedDir, $uni2DestDir)) {
+                            echo success('ok');
+                            $uni2DirOk = true;
                         } else {
                             echo error('oops');
-                            echo warning("Couldn't remove the directory \"$uni2DestDir\". The script will continue.");
+                            echo error("Couldn't rename \"$uni2ExtractedDir\" to \"$uni2DestDir\"");
                         }
                     }
-                    $uni2DirOk = true;
                 } else {
+                    if (is_dir($uni2DestDir)) {
+                        execCmd('rm -rf "' . $uni2DestDir . '"');
+                    }
+
+
                     if (true === rename($uni2ExtractedDir, $uni2DestDir)) {
                         echo success('ok');
                         $uni2DirOk = true;
@@ -235,21 +373,69 @@ if ('Darwin' === $phpOs) {
 
 
                 if (true === $uni2DirOk) {
+                    $uniProgramSrcPath = $uni2DestDir . "/uni.php";
+                    if (file_exists($uniProgramSrcPath)) {
 
-                    echo info('Extracting the uni program to ' . $uniProgram, 1);
 
+                        echo info('Assigning "' . path($uni2DestDir) . '" to user ' . bold($userName) . '...', 1, false);
+                        if (true === execCmd('chown -R ' . $userName . ': "' . $uni2DestDir . '"')) {
+                            echo success('ok');
+                        } else {
+                            echo error('oops');
+                            echo error("Couldn't assign the directory to user " . bold($userName) . ". Try again with higher privileges.", 2);
+                        }
+
+
+                        echo info('Adding execute permissions to the uni.php script (' . path($uniProgramSrcPath) . ')...', 1, false);
+                        if (true === execCmd('chmod u+x "' . $uniProgramSrcPath . '"')) {
+                            echo success('ok');
+
+
+                            $createSymlink = true;
+                            if (true === file_exists($uniProgramDstPath)) {
+                                if (is_link($uniProgramDstPath)) {
+                                    unlink($uniProgramDstPath);
+                                } else {
+                                    $createSymlink = false;
+                                    echo error("Error: a non-link entry named $uniProgramDstPath already exist. Remove it manually and retry to install the uni tool on this machine.");
+                                }
+                            }
+
+
+                            if (true === $createSymlink) {
+
+                                echo info('Creating symbolic link ' . path($uniProgramDstPath) . ' with target ' . path($uniProgramSrcPath) . '...', 1, false);
+                                if (true === symlink($uniProgramSrcPath, $uniProgramDstPath)) {
+                                    echo success('ok');
+                                    echo success("Congrats! You can now use the uni command.", 1);
+                                    echo info("Type " . bold("uni help") . " to get started.", 1);
+                                } else {
+                                    echo error('oops');
+                                    echo error("Couldn't create the symlink. Do you have the permissions to do so?", 2);
+                                }
+                            }
+
+                        } else {
+                            echo error('oops');
+                            echo error("Unable to give the execute permissions to the \"$uniProgramSrcPath\" script. Consider retrying with higher privileges.", 2);
+                        }
+                    } else {
+                        echo error('oops');
+                        echo error("Bad assertion: Uni program File not found in \"$uniProgramSrcPath\".", 2);
+                    }
                 }
 
 
             } else {
                 echo error('oops');
-                echo error("Couldn't unzip the " . bold($uni2Zip) . error(" archive. No unzip command found, and no php zip extension found: https://secure.php.net/manual/en/zip.installation.php", 0, false), 2);
+                echo error("Couldn't unzip the " . path($uniToolZip) . error(" archive. No unzip command found, and no php zip extension found: https://secure.php.net/manual/en/zip.installation.php", 0, false), 2);
             }
 
 
         } else {
             echo error('oops');
-            echo error("Couldn't download Uni2 from url " . bold($uni2Url), 2);
+            echo error("Couldn't download uni-tool from url " . path($uniToolUrl) . ".", 2);
+            echo error("Install curl or wget and retry.", 2);
         }
     }
 
@@ -257,3 +443,6 @@ if ('Darwin' === $phpOs) {
 } else {
     echo error("I don't know how to install the uni-tool on this machine (os=$phpOs), sorry.");
 }
+
+
+execCmd('rm -rf "' . $tmpDir . '"');
