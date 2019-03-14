@@ -1045,6 +1045,11 @@ galaxies:
             
             post_install: []
         
+        SimpleCurl: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         SimplePdoWrapper: 
             version: 1.0.0
             dependencies: []

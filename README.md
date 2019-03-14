@@ -95,6 +95,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.9 -- 2019-03-14
+
+    - Ling/SimpleCurl  --> 1.0.0
+
+
 - 2.0.8 -- 2019-03-14
 
     - Ling/PlanetSitemap  --> 1.0.1
