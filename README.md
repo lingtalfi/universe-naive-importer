@@ -95,6 +95,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.5 -- 2019-03-14
+
+    - Ling/LingTalfi 1.1.0 --> 1.1.1
+
+
 - 2.0.4 -- 2019-03-14
 
     - universe minor increment
