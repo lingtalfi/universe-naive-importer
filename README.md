@@ -95,6 +95,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.17 -- 2019-03-14
+
+    - Ling/LingTalfi 1.3.1 --> 1.3.2
+
+
 - 2.0.16 -- 2019-03-14
 
     - Ling/UniverseTools 1.11.1 --> 1.11.3
