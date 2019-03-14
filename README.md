@@ -95,6 +95,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.8 -- 2019-03-14
+
+    - Ling/PlanetSitemap  --> 1.0.1
+
+
 - 2.0.7 -- 2019-03-14
 
     - Ling/DocTools 1.5.1 --> 1.5.2

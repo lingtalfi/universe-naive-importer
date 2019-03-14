@@ -876,6 +876,16 @@ galaxies:
             dependencies: []
             post_install: []
         
+        PlanetSitemap: 
+            version: 1.0.1
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - DirScanner
+                
+            
+            post_install: []
+        
         Privilege: 
             version: 1.2.0
             dependencies: []
