@@ -25,6 +25,19 @@ Installation
 ==============
 
 
+Requirements
+------------
+
+Before you start, make sure your machine meets the following requirements:
+
+- php 7 or higher is available on your machine
+- the git command is available on your machine
+
+
+
+
+
+
 Installing uni on Mac or Linux
 ------------
 
@@ -79,7 +92,18 @@ Now you can check the [Uni2 documentation](https://github.com/lingtalfi/Uni2) fo
 
 History Log
 =================
-        
+
+**&nbsp;**
+
+- 2.0.1 -- 2019-03-14
+
+    - Ling/CliTools 1.1.0 --> 1.5.0
+    - Ling/DocTools 1.3.0 --> 1.5.1
+    - Ling/LingTalfi  --> 1.0.0
+    - Ling/Uni2  --> 1.0.0
+    - Ling/UniverseTools 1.3.0 --> 1.11.0
+
+
 - 2.0.0 -- 2019-03-12
 
     - second version based on Uni2
