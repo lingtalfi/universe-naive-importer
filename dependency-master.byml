@@ -328,7 +328,7 @@ galaxies:
             post_install: []
         
         DocTools: 
-            version: 1.5.1
+            version: 1.5.2
             dependencies: 
                 Ling: 
                     - Bat
@@ -606,7 +606,7 @@ galaxies:
             post_install: []
         
         LingTalfi: 
-            version: 1.1.1
+            version: 1.2.0
             dependencies: 
                 Ling: 
                     - DocTools
