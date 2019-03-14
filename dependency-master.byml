@@ -182,7 +182,7 @@ galaxies:
             post_install: []
         
         CliTools: 
-            version: 1.5.1
+            version: 1.5.2
             dependencies: 
                 Ling: 
                     - UniversalLogger
