@@ -95,6 +95,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.11 -- 2019-03-14
+
+    - Ling/LingTalfi 1.2.0 --> 1.3.0
+
+
 - 2.0.10 -- 2019-03-14
 
     - Ling/SimpleCurl 1.0.0 --> 1.0.1
