@@ -95,6 +95,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.19 -- 2019-03-18
+
+    - Ling/LingTalfi 1.3.2 --> 1.3.3
+
+
 - 2.0.18 -- 2019-03-18
 
     - Ling/DirScanner 1.7.0 --> 1.8.0
