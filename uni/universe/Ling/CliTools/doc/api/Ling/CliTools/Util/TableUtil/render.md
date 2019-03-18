@@ -7,7 +7,7 @@ TableUtil::render
 
 
 
-TableUtil::render — | 960-425-059-0 | The Lord of the Rings | J.
+TableUtil::render — Writes a html like table to the given $output.
 
 
 
@@ -21,8 +21,12 @@ public [TableUtil::render](https://github.com/lingtalfi/CliTools/blob/master/doc
 
 
 
-Renders a table like this:
+Writes a html like table to the given $output.
 
+The table will look like this:
+
+
+```txt
 +---------------+-----------------------+------------------+
 | ISBN          | Title                 | Author           |
 +---------------+-----------------------+------------------+
@@ -30,6 +34,7 @@ Renders a table like this:
 | 9971-5-0210-0 | A Tale of Two Cities  | Charles Dickens  |
 | 960-425-059-0 | The Lord of the Rings | J. R. R. Tolkien |
 +---------------+-----------------------+------------------+
+```
 
 
 

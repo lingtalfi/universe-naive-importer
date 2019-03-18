@@ -95,6 +95,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.22 -- 2019-03-18
+
+    - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.6.0 --> 1.7.0
+
+
 - 2.0.21 -- 2019-03-18
 
     - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.5.2 --> 1.6.0

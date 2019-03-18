@@ -15,6 +15,8 @@ use Ling\CliTools\Output\OutputInterface;
  *
  * Example:
  *
+ *
+ * ```txt
  *     +---------------+-----------------------+------------------+
  *     | ISBN          | Title                 | Author           |
  *     +---------------+-----------------------+------------------+
@@ -22,6 +24,9 @@ use Ling\CliTools\Output\OutputInterface;
  *     | 9971-5-0210-0 | A Tale of Two Cities  | Charles Dickens  |
  *     | 960-425-059-0 | The Lord of the Rings | J. R. R. Tolkien |
  *     +---------------+-----------------------+------------------+
+ * ```
+ *
+ *
  */
 class TableUtil
 {
@@ -65,6 +70,19 @@ class TableUtil
 
 
     /**
+     * This property holds the options for this instance.
+     * It's used to customize the look'n'feel of the rendered table.
+     * It's an array with the following entries:
+     *
+     * - use_row_separator: bool=true. If false, no separator line will be rendered between two consecutive rows.
+     *
+     *
+     * @var array
+     */
+    protected $options;
+
+
+    /**
      * Builds the TableUtil instance.
      */
     public function __construct()
@@ -76,6 +94,7 @@ class TableUtil
             "horizontal" => "-",
             "vertical" => "|",
         ];
+        $this->options = [];
         $this->horizontalPadding = 1;
     }
 
@@ -90,6 +109,17 @@ class TableUtil
     }
 
     /**
+     * Sets the options.
+     *
+     * @param array $options
+     */
+    public function setOptions(array $options)
+    {
+        $this->options = $options;
+    }
+
+
+    /**
      * Sets the rows.
      *
      * @param array $rows
@@ -101,8 +131,12 @@ class TableUtil
 
 
     /**
-     * Renders a table like this:
+     * Writes a html like table to the given $output.
      *
+     * The table will look like this:
+     *
+     *
+     * ```txt
      *     +---------------+-----------------------+------------------+
      *     | ISBN          | Title                 | Author           |
      *     +---------------+-----------------------+------------------+
@@ -110,6 +144,7 @@ class TableUtil
      *     | 9971-5-0210-0 | A Tale of Two Cities  | Charles Dickens  |
      *     | 960-425-059-0 | The Lord of the Rings | J. R. R. Tolkien |
      *     +---------------+-----------------------+------------------+
+     * ```
      *
      * @param OutputInterface $output
      */
@@ -124,7 +159,6 @@ class TableUtil
             $v = $v + ($this->horizontalPadding * 2);
         });
 
-
         //--------------------------------------------
         // RENDER THE TABLE
         //--------------------------------------------
@@ -132,22 +166,33 @@ class TableUtil
         $h = $this->symbols['horizontal'];
 
 
+
         // first create the separator
         $sep = '';
         $sep .= $j;
-        foreach ($this->headers as $index => $colName) {
+        foreach ($colWidths as $index => $any) {
             $sep .= str_repeat($h, $colWidths[$index]);
             $sep .= $j;
         }
         $sep .= PHP_EOL;
 
+        $use_row_separator = $this->options['use_row_separator'] ?? true;
 
         // now render the table
+        if ($this->headers) {
+            $output->write($sep);
+            $this->writeRow($output, $this->headers, $colWidths);
+        }
         $output->write($sep);
-        $this->writeRow($output, $this->headers, $colWidths);
-        $output->write($sep);
+
+
         foreach ($this->rows as $row) {
             $this->writeRow($output, $row, $colWidths);
+            if (true === $use_row_separator) {
+                $output->write($sep);
+            }
+        }
+        if (false === $use_row_separator) {
             $output->write($sep);
         }
     }
