@@ -606,15 +606,15 @@ galaxies:
             post_install: []
         
         LingTalfi: 
-            version: 1.4.0
+            version: 1.5.0
             dependencies: 
                 Ling: 
                     - DocTools
                     - CliTools
+                    - Uni2
                     - Bat
                     - UniverseTools
                     - BabyYaml
-                    - Uni2
                     - PlanetSitemap
                     - SimpleCurl
                     - DirScanner
