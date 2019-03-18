@@ -95,6 +95,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.20 -- 2019-03-18
+
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.3.3 --> 1.4.0
+
+
 - 2.0.19 -- 2019-03-18
 
     - Ling/LingTalfi 1.3.2 --> 1.3.3
