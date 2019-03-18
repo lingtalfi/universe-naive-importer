@@ -903,6 +903,17 @@ galaxies:
             
             post_install: []
         
+        ProjectInfo: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - DirScanner
+                    - TokenFun
+                
+            
+            post_install: []
+        
         PublicException: 
             version: 1.0.0
             dependencies: []
