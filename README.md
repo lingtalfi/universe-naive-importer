@@ -95,6 +95,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.26 -- 2019-03-19
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.155 --> 1.156
+
+
 - 2.0.25 -- 2019-03-18
 
     - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.5.0 --> 1.6.0
