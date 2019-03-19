@@ -95,6 +95,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.29 -- 2019-03-19
+
+    - [Ling/Uni2](https://github.com/lingtalfi/Uni2) 1.1.0 --> 1.2.0
+
+
 - 2.0.28 -- 2019-03-19
 
     - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.1.1 --> 1.2.1
