@@ -95,6 +95,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.27 -- 2019-03-19
+
+    - universe minor increment
+
+
 - 2.0.26 -- 2019-03-19
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.155 --> 1.156
