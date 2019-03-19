@@ -95,6 +95,10 @@ History Log
 
 **&nbsp;**
 
+- 2.1.0 -- 2019-03-19
+
+    - installer script now restore old configuration if found
+
 - 2.0.29 -- 2019-03-19
 
     - [Ling/Uni2](https://github.com/lingtalfi/Uni2) 1.1.0 --> 1.2.0

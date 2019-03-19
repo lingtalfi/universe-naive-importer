@@ -315,60 +315,37 @@ if (is_dir('/usr/local')) {
                 $uni2DirOk = false;
 
 
-                if (false === "old_system_with_prompt") {
-                    /**
-                     * I figured that I don't like prompt, but I keep this code just in case...
-                     */
-                    if (is_dir($uni2DestDir)) {
-                        echo PHP_EOL;
-                        echo info("The " . path($uni2DestDir) . " directory already exists. Do you want to overwrite it and loose your current configuration? (y/n) ", 1, false);
+                // saving old conf if exists
+                $oldConfContent = null;
 
-                        $answer = strtolower(trim(fgets(STDIN)));
-                        while ($answer !== 'y' && $answer !== 'n') {
-                            echo info("I'm sorry I didn't understand. Do you want to overwrite the directory " . path($uni2DestDir) . " and loose your current configuration? (y/n) ", 1, false);
-                            $answer = strtolower(trim(fgets(STDIN)));
+                if (is_dir($uni2DestDir)) {
+                    $oldConfFile = $uni2DestDir . "/universe/Ling/Uni2/info/configuration/conf.byml";
+                    if (file_exists($oldConfFile)) {
+                        $oldConfContent = file_get_contents($oldConfFile);
+                    }
+                    execCmd('rm -rf "' . $uni2DestDir . '"');
+                }
 
-                        }
-                        if ('y' === $answer) {
-                            echo info("Removing directory " . path($uni2DestDir) . "...", 1, false);
-                            if (true === execCmd('rm -rf "' . $uni2DestDir . '"')) {
-                                echo success('ok');
 
-                                echo info('Moving "' . $uni2ExtractedDir . '" to "' . $uni2DestDir . '"...', 1, false);
-                                if (true === rename($uni2ExtractedDir, $uni2DestDir)) {
-                                    echo success('ok');
-                                } else {
-                                    echo error('oops');
-                                    echo error("Couldn't rename \"$uni2ExtractedDir\" to \"$uni2DestDir\"");
-                                }
-                            } else {
-                                echo error('oops');
-                                echo warning("Couldn't remove the directory \"$uni2DestDir\". The script will continue.");
-                            }
-                        }
-                        $uni2DirOk = true;
-                    } else {
-                        if (true === rename($uni2ExtractedDir, $uni2DestDir)) {
+                if (true === rename($uni2ExtractedDir, $uni2DestDir)) {
+                    echo success('ok');
+                    $uni2DirOk = true;
+
+
+                    if (null !== $oldConfContent) {
+                        echo info('Restoring old configuration...', 1, false);
+                        if (file_put_contents($oldConfFile, $oldConfContent)) {
                             echo success('ok');
-                            $uni2DirOk = true;
                         } else {
                             echo error('oops');
-                            echo error("Couldn't rename \"$uni2ExtractedDir\" to \"$uni2DestDir\"");
+                            echo error("Couldn't restore old configuration.");
                         }
                     }
+
+
                 } else {
-                    if (is_dir($uni2DestDir)) {
-                        execCmd('rm -rf "' . $uni2DestDir . '"');
-                    }
-
-
-                    if (true === rename($uni2ExtractedDir, $uni2DestDir)) {
-                        echo success('ok');
-                        $uni2DirOk = true;
-                    } else {
-                        echo error('oops');
-                        echo error("Couldn't rename \"$uni2ExtractedDir\" to \"$uni2DestDir\"");
-                    }
+                    echo error('oops');
+                    echo error("Couldn't rename \"$uni2ExtractedDir\" to \"$uni2DestDir\".");
                 }
 
 
