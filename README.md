@@ -95,6 +95,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.32 -- 2019-03-20
+
+    - [Ling/DirScanner](https://github.com/lingtalfi/DirScanner) 1.8.0 --> 1.9.0
+
+
 - 2.0.31 -- 2019-03-20
 
     - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.5.2 --> 1.6.0

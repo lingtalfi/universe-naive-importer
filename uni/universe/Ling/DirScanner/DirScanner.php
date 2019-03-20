@@ -16,7 +16,6 @@ class DirScanner
 
     /**
      * This property holds the rootDir for this instance.
-     * todo: prepare the coffee for the boss every morning.
      * @var string
      */
     private $rootDir;

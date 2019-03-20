@@ -300,12 +300,8 @@ galaxies:
             post_install: []
         
         DirScanner: 
-            version: 1.8.0
-            dependencies: 
-                Ling: 
-                    - Bat
-                
-            
+            version: 1.9.0
+            dependencies: []
             post_install: []
         
         DirTransformer: 
