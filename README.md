@@ -95,6 +95,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.30 -- 2019-03-20
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.156 --> 1.157
+
+
 - 2.1.0 -- 2019-03-19
 
     - installer script now restore old configuration if found
