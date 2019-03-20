@@ -95,6 +95,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.33 -- 2019-03-20
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.157 --> 1.158
+
+
 - 2.0.32 -- 2019-03-20
 
     - [Ling/DirScanner](https://github.com/lingtalfi/DirScanner) 1.8.0 --> 1.9.0
