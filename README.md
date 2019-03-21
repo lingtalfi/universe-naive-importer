@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.41 -- 2019-03-21
+
+    - [Ling/Uni2](https://github.com/lingtalfi/Uni2) 1.4.0 --> 1.5.0
+
+
 - 2.0.40 -- 2019-03-21
 
     - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.7.0 --> 1.9.0
