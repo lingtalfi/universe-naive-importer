@@ -53,6 +53,8 @@ This was tested successfully on macOS Sierra 10.12.6, and ubuntu xenial 16.04.
 
 If the one-liner doesn't work for your machine, please use the manual install described in the next section.
 
+This one-liner should take less than 10 seconds, if it takes more than that, just abort and retry (it happens sometime, I believe it's a network problem...).
+
 
 
 Installing uni on Windows or manually
@@ -94,6 +96,11 @@ History Log
 =================
 
 **&nbsp;**
+
+- 2.0.39 -- 2019-03-21
+
+    - [Ling/Uni2](https://github.com/lingtalfi/Uni2) 1.3.0 --> 1.4.0
+
 
 - 2.0.38 -- 2019-03-21
 
