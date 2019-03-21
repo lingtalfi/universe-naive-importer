@@ -55,6 +55,12 @@ If the one-liner doesn't work for your machine, please use the manual install de
 
 This one-liner should take less than 10 seconds, if it takes more than that, just abort and retry (it happens sometime, I believe it's a network problem...).
 
+If it's stuck, the last line you'll see is:
+
+- "Downloading uni-tool from github.com..."
+
+
+
 
 
 Installing uni on Windows or manually
@@ -96,6 +102,11 @@ History Log
 =================
 
 **&nbsp;**
+
+- 2.0.40 -- 2019-03-21
+
+    - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.7.0 --> 1.9.0
+
 
 - 2.0.39 -- 2019-03-21
 
