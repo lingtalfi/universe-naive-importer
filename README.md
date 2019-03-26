@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.45 -- 2019-03-26
+
+    - [Ling/DirScanner](https://github.com/lingtalfi/DirScanner) 1.10.0 --> 1.11.0
+
+
 - 2.0.44 -- 2019-03-26
 
     - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.9.0 --> 1.10.0
