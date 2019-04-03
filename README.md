@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.58 -- 2019-04-03
+
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.11.3 --> 1.12.0
+
+
 - 2.0.57 -- 2019-04-03
 
     - [Ling/EasyConsoleMenu](https://github.com/lingtalfi/EasyConsoleMenu)  --> 1.0.0
