@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.57 -- 2019-04-03
+
+    - [Ling/EasyConsoleMenu](https://github.com/lingtalfi/EasyConsoleMenu)  --> 1.0.0
+
+
 - 2.0.56 -- 2019-04-03
 
     - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.6.0 --> 1.7.0

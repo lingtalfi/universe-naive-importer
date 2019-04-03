@@ -349,6 +349,18 @@ galaxies:
             dependencies: []
             post_install: []
         
+        EasyConsoleMenu: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - BabyYaml
+                    - Bat
+                    - CliTools
+                    - KrankenStein
+                
+            
+            post_install: []
+        
         EchartsWrapper: 
             version: 1.3.0
             dependencies: 
