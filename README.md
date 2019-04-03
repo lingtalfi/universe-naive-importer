@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.55 -- 2019-04-03
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.168 --> 1.169
+
+
 - 2.0.54 -- 2019-04-02
 
     - [Ling/KrankenStein](https://github.com/lingtalfi/KrankenStein)  --> 1.0.0
