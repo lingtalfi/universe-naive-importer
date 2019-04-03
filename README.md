@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.59 -- 2019-04-03
+
+    - [Ling/Uni2](https://github.com/lingtalfi/Uni2) 1.5.0 --> 1.6.0
+
+
 - 2.0.58 -- 2019-04-03
 
     - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.11.3 --> 1.12.0
