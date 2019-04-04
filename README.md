@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.67 -- 2019-04-04
+
+    - [Ling/Deploy](https://github.com/lingtalfi/Deploy)  --> 1.0.0
+
+
 - 2.0.66 -- 2019-04-04
 
     - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.6.0 --> 1.6.1

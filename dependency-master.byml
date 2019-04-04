@@ -278,6 +278,19 @@ galaxies:
             dependencies: []
             post_install: []
         
+        Deploy: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - BabyYaml
+                    - Bat
+                    - CliTools
+                    - DirScanner
+                    - EasyConsoleMenu
+                
+            
+            post_install: []
+        
         DerbyCache: 
             version: 1.5.0
             dependencies: 
