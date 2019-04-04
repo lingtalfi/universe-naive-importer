@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.66 -- 2019-04-04
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.6.0 --> 1.6.1
+
+
 - 2.0.65 -- 2019-04-04
 
     - [Ling/TokenFun](https://github.com/lingtalfi/TokenFun) 1.1.0 --> 1.2.0
