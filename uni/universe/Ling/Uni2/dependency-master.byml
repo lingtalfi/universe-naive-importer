@@ -645,6 +645,11 @@ galaxies:
             
             post_install: []
         
+        Light_PrettyError: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         LinearFile: 
             version: 1.0.0
             dependencies: []
