@@ -632,6 +632,19 @@ galaxies:
             
             post_install: []
         
+        Light: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - BabyYaml
+                    - Bat
+                    - DirScanner
+                    - Octopus
+                    - PhpUploadFileFix
+                
+            
+            post_install: []
+        
         LinearFile: 
             version: 1.0.0
             dependencies: []

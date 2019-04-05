@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.71 -- 2019-04-05
+
+    - [Ling/Light](https://github.com/lingtalfi/Light)  --> 1.0.0
+
+
 - 2.0.70 -- 2019-04-05
 
     - [Ling/Uni2](https://github.com/lingtalfi/Uni2) 1.7.0 --> 1.7.1
