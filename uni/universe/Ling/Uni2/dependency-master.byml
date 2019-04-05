@@ -648,7 +648,11 @@ galaxies:
         Light_PrettyError: 
             version: 1.0.0
             dependencies: []
-            post_install: []
+            post_install: 
+                composer: 
+                    - require filp/whoops
+                
+            
         
         LinearFile: 
             version: 1.0.0
@@ -1323,7 +1327,7 @@ galaxies:
             post_install: []
         
         UniverseTools: 
-            version: 1.12.1
+            version: 1.13.0
             dependencies: 
                 Ling: 
                     - BabyYaml
