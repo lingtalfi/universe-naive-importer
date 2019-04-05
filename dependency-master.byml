@@ -1105,10 +1105,13 @@ galaxies:
             post_install: []
         
         SicTools: 
-            version: 1.1.0
+            version: 1.2.0
             dependencies: 
                 Ling: 
                     - ArrayToString
+                    - BabyYaml
+                    - Bat
+                    - DirScanner
                 
             
             post_install: []
