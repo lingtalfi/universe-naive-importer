@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.70 -- 2019-04-05
+
+    - [Ling/Uni2](https://github.com/lingtalfi/Uni2) 1.7.0 --> 1.7.1
+
+
 - 2.0.69 -- 2019-04-05
 
     - [Ling/Octopus](https://github.com/lingtalfi/Octopus) 1.2.0 --> 1.2.1
