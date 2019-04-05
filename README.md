@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.79 -- 2019-04-05
+
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.13.0 --> 1.14.0
+
+
 - 2.0.78 -- 2019-04-05
 
     - [Ling/Light_Initializer](https://github.com/lingtalfi/Light_Initializer)  --> 1.0.0
