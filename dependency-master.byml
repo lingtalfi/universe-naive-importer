@@ -658,11 +658,7 @@ galaxies:
         
         Light_PrettyError: 
             version: 1.1.0
-            dependencies: 
-                Whoops: 
-                    - Exception
-                
-            
+            dependencies: []
             post_install: 
                 map: true
                 composer: 
@@ -1346,7 +1342,7 @@ galaxies:
             post_install: []
         
         UniverseTools: 
-            version: 1.15.0
+            version: 1.15.1
             dependencies: 
                 Ling: 
                     - BabyYaml
