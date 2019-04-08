@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.80 -- 2019-04-08
+
+    - [Ling/Light_PrettyError](https://github.com/lingtalfi/Light_PrettyError) 1.0.0 --> 1.1.0
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.14.0 --> 1.15.0
+
+
 - 2.0.79 -- 2019-04-05
 
     - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.13.0 --> 1.14.0
