@@ -672,6 +672,15 @@ galaxies:
                 
             
         
+        Light_ZephyrTemplate: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - ZephyrTemplateEngine
+                
+            
+            post_install: []
+        
         LinearFile: 
             version: 1.0.0
             dependencies: []
