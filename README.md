@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.83 -- 2019-04-09
+
+    - [Ling/UniversalTemplateEngine](https://github.com/lingtalfi/UniversalTemplateEngine) 1.0.0 --> 1.1.0
+
+
 - 2.0.82 -- 2019-04-09
 
     - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.2.1 --> 1.3.0
