@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.86 -- 2019-04-09
+
+    - [Ling/Light_PrettyError](https://github.com/lingtalfi/Light_PrettyError) 1.1.0 --> 1.2.0
+
+
 - 2.0.85 -- 2019-04-09
 
     - [Ling/ZephyrTemplateEngine](https://github.com/lingtalfi/ZephyrTemplateEngine)  --> 1.0.0
