@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.82 -- 2019-04-09
+
+    - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.2.1 --> 1.3.0
+
+
 - 2.0.81 -- 2019-04-08
 
     - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.15.0 --> 1.15.1
