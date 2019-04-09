@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.84 -- 2019-04-09
+
+    - [Ling/ZeusTemplateEngine](https://github.com/lingtalfi/ZeusTemplateEngine) 1.2.0 --> 1.3.0
+
+
 - 2.0.83 -- 2019-04-09
 
     - [Ling/UniversalTemplateEngine](https://github.com/lingtalfi/UniversalTemplateEngine) 1.0.0 --> 1.1.0
