@@ -672,6 +672,16 @@ galaxies:
                 
             
         
+        Light_ReverseRouter: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                    - Light_Initializer
+                
+            
+            post_install: []
+        
         Light_ZephyrTemplate: 
             version: 1.0.0
             dependencies: 
