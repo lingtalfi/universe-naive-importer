@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.89 -- 2019-04-11
+
+    - [Ling/CSRFTools](https://github.com/lingtalfi/CSRFTools)  --> 1.0.0
+
+
 - 2.0.88 -- 2019-04-10
 
     - [Ling/Light_ReverseRouter](https://github.com/lingtalfi/Light_ReverseRouter)  --> 1.0.0

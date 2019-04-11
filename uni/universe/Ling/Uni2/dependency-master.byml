@@ -164,6 +164,11 @@ galaxies:
             dependencies: []
             post_install: []
         
+        CSRFTools: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         Chronos: 
             version: 1.0.0
             dependencies: []
