@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.90 -- 2019-04-12
+
+    - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform)  --> 1.0.0
+
+
 - 2.0.89 -- 2019-04-11
 
     - [Ling/CSRFTools](https://github.com/lingtalfi/CSRFTools)  --> 1.0.0
