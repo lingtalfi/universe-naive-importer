@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.108 -- 2019-04-18
+
+    - [Ling/Deploy](https://github.com/lingtalfi/Deploy) 1.0.0 --> 1.1.0
+
+
 - 2.0.107 -- 2019-04-18
 
     - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.6.6 --> 1.6.7
