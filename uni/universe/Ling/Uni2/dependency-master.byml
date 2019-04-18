@@ -170,7 +170,7 @@ galaxies:
             post_install: []
         
         Chloroform: 
-            version: 1.6.1
+            version: 1.6.2
             dependencies: 
                 Ling: 
                     - CSRFTools
