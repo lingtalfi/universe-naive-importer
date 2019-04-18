@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.111 -- 2019-04-18
+
+    - [Ling/Deploy](https://github.com/lingtalfi/Deploy) 1.1.0 --> 1.1.1
+
+
 - 2.0.110 -- 2019-04-18
 
     - [Ling/Octopus](https://github.com/lingtalfi/Octopus) 1.2.1 --> 1.3.0
