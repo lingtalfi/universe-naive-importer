@@ -484,6 +484,16 @@ galaxies:
             dependencies: []
             post_install: []
         
+        HashMap: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - DirScanner
+                
+            
+            post_install: []
+        
         Here: 
             version: 2.2.0
             dependencies: []

@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.112 -- 2019-04-18
+
+    - [Ling/HashMap](https://github.com/lingtalfi/HashMap)  --> 1.0.0
+
+
 - 2.0.111 -- 2019-04-18
 
     - [Ling/Deploy](https://github.com/lingtalfi/Deploy) 1.1.0 --> 1.1.1
