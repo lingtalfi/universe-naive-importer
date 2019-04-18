@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.110 -- 2019-04-18
+
+    - [Ling/Octopus](https://github.com/lingtalfi/Octopus) 1.2.1 --> 1.3.0
+
+
 - 2.0.109 -- 2019-04-18
 
     - [Ling/Chloroform_HydrogenRenderer](https://github.com/lingtalfi/Chloroform_HydrogenRenderer) 1.0.0 --> 1.0.1
