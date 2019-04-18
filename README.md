@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.104 -- 2019-04-18
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.6.1 --> 1.6.2
+
+
 - 2.0.103 -- 2019-04-18
 
     - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.6.4 --> 1.6.5
