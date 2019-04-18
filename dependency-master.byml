@@ -180,6 +180,16 @@ galaxies:
             
             post_install: []
         
+        Chloroform_HydrogenRenderer: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - Chloroform
+                
+            
+            post_install: []
+        
         Chronos: 
             version: 1.0.0
             dependencies: []
