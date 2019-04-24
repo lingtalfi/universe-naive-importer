@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.116 -- 2019-04-24
+
+    - [Ling/Kit](https://github.com/lingtalfi/Kit) 1.1.0 --> 1.2.0
+
+
 - 2.0.115 -- 2019-04-24
 
     - [Ling/Kit](https://github.com/lingtalfi/Kit) 1.0.0 --> 1.1.0
