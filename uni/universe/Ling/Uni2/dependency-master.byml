@@ -499,6 +499,11 @@ galaxies:
             dependencies: []
             post_install: []
         
+        HtmlPageTools: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         HtmlTemplate: 
             version: 3.4.0
             dependencies: []

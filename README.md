@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.113 -- 2019-04-24
+
+    - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools)  --> 1.0.0
+
+
 - 2.0.112 -- 2019-04-18
 
     - [Ling/HashMap](https://github.com/lingtalfi/HashMap)  --> 1.0.0
