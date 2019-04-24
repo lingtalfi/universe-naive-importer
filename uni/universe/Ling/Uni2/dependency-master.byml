@@ -668,6 +668,17 @@ galaxies:
             
             post_install: []
         
+        Kit_PicassoWidget: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Kit
+                    - ZephyrTemplateEngine
+                    - HtmlPageTools
+                
+            
+            post_install: []
+        
         Komin: 
             version: 1.0.0
             dependencies: []

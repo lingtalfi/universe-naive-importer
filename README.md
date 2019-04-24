@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.119 -- 2019-04-24
+
+    - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget)  --> 1.0.0
+
+
 - 2.0.118 -- 2019-04-24
 
     - [Ling/ZephyrTemplateEngine](https://github.com/lingtalfi/ZephyrTemplateEngine) 1.0.0 --> 1.1.0
