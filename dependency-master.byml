@@ -659,6 +659,15 @@ galaxies:
             
             post_install: []
         
+        Kit: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - HtmlPageTools
+                
+            
+            post_install: []
+        
         Komin: 
             version: 1.0.0
             dependencies: []
