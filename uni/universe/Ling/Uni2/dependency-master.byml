@@ -679,6 +679,16 @@ galaxies:
             
             post_install: []
         
+        Kit_PrototypeWidget: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - HtmlPageTools
+                    - Kit
+                
+            
+            post_install: []
+        
         Komin: 
             version: 1.0.0
             dependencies: []
