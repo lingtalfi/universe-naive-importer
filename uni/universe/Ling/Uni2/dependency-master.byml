@@ -735,7 +735,9 @@ galaxies:
                     - Kit
                 
             
-            post_install: []
+            post_install: 
+                map: true
+            
         
         Light_PrettyError: 
             version: 1.2.0
@@ -1448,7 +1450,7 @@ galaxies:
             post_install: []
         
         UniverseTools: 
-            version: 1.15.1
+            version: 1.16.0
             dependencies: 
                 Ling: 
                     - BabyYaml
