@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.127 -- 2019-04-25
+
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.7.0 --> 1.8.0
+
+
 - 2.0.126 -- 2019-04-25
 
     - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.15.1 --> 1.16.0
