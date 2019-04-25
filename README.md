@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.120 -- 2019-04-25
+
+    - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.3.0 --> 1.4.0
+
+
 - 2.0.119 -- 2019-04-24
 
     - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget)  --> 1.0.0
