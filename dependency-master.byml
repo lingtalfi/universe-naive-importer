@@ -739,6 +739,11 @@ galaxies:
                 map: true
             
         
+        Light_Kit_Demo: 
+            version: 0.0.0
+            dependencies: []
+            post_install: []
+        
         Light_PrettyError: 
             version: 1.2.0
             dependencies: 
