@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.134 -- 2019-04-29
+
+    - [Ling/Light_Kit_Demo](https://github.com/lingtalfi/Light_Kit_Demo) 0.1.0 --> 0.2.0
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.16.0 --> 1.16.1
+
+
 - 2.0.133 -- 2019-04-26
 
     - [Ling/Light_Kit_Demo](https://github.com/lingtalfi/Light_Kit_Demo) 0.0.0 --> 0.1.0
