@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.140 -- 2019-04-29
+
+    - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget) 1.0.0 --> 1.1.0
+
+
 - 2.0.139 -- 2019-04-29
 
     - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.16.1 --> 1.16.2
