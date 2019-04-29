@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.139 -- 2019-04-29
+
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.16.1 --> 1.16.2
+
+
 - 2.0.138 -- 2019-04-29
 
     - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 1.1.0 --> 1.2.0
