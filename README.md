@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.146 -- 2019-04-30
+
+    - [Ling/TokenFun](https://github.com/lingtalfi/TokenFun) 1.2.0 --> 1.3.0
+
+
 - 2.0.145 -- 2019-04-30
 
     - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget) 1.4.0 --> 1.5.0
