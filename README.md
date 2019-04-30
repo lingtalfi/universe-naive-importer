@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.141 -- 2019-04-30
+
+    - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget) 1.1.0 --> 1.2.0
+    - [Ling/Light_Kit_WebsiteBuilder](https://github.com/lingtalfi/Light_Kit_WebsiteBuilder)  --> 1.0.0
+
+
 - 2.0.140 -- 2019-04-29
 
     - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget) 1.0.0 --> 1.1.0
