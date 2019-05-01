@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.149 -- 2019-05-01
+
+    - [Ling/Light_Kit_Demo](https://github.com/lingtalfi/Light_Kit_Demo) 0.4.0 --> 0.5.0
+
+
 - 2.0.148 -- 2019-04-30
 
     - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget) 1.5.0 --> 1.6.0
