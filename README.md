@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.156 -- 2019-05-02
+
+    - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 1.3.0 --> 1.4.0
+
+
 - 2.0.155 -- 2019-05-02
 
     - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 1.2.0 --> 1.3.0
