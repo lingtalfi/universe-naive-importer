@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.159 -- 2019-05-02
+
+    - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.0.0 --> 1.1.0
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.9.0 --> 1.10.0
+
+
 - 2.0.158 -- 2019-05-02
 
     - [Ling/Octopus](https://github.com/lingtalfi/Octopus) 1.3.0 --> 1.4.0
