@@ -743,8 +743,12 @@ galaxies:
             
         
         Light_Kit_BootstrapWidgetLibrary: 
-            version: 0.0.0
-            dependencies: []
+            version: 0.1.0
+            dependencies: 
+                Ling: 
+                    - Kit_PicassoWidget
+                
+            
             post_install: []
         
         Light_Kit_Demo: 
