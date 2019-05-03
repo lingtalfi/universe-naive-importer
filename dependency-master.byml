@@ -746,10 +746,11 @@ galaxies:
             
         
         Light_Kit_BootstrapWidgetLibrary: 
-            version: 0.5.0
+            version: 0.6.0
             dependencies: 
                 Ling: 
                     - Kit_PicassoWidget
+                    - HtmlPageTools
                 
             
             post_install: 
