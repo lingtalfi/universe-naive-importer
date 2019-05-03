@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.166 -- 2019-05-03
+
+    - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget) 1.11.0 --> 1.12.0
+
+
 - 2.0.165 -- 2019-05-03
 
     - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.3.2 --> 1.3.3
