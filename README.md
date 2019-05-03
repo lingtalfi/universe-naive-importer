@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.178 -- 2019-05-03
+
+    - [Ling/Light_Kit_Demo](https://github.com/lingtalfi/Light_Kit_Demo) 0.6.0 --> 0.6.1
+
+
 - 2.0.177 -- 2019-05-03
 
     - [Ling/Light_Kit_Demo](https://github.com/lingtalfi/Light_Kit_Demo) 0.5.0 --> 0.6.0
