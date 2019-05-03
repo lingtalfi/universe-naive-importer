@@ -670,15 +670,15 @@ galaxies:
             post_install: []
         
         Kit_PicassoWidget: 
-            version: 1.15.0
+            version: 1.16.0
             dependencies: 
                 Ling: 
                     - Kit
                     - BabyYaml
                     - Bat
                     - DirScanner
-                    - ZephyrTemplateEngine
                     - HtmlPageTools
+                    - ZephyrTemplateEngine
                 
             
             post_install: []
