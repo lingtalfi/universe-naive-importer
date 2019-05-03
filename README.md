@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.182 -- 2019-05-03
+
+    - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 1.4.0 --> 1.5.0
+
+
 - 2.0.181 -- 2019-05-03
 
     - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget) 1.15.0 --> 1.16.0
