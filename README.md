@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.176 -- 2019-05-03
+
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.10.0 --> 1.11.0
+
+
 - 2.0.175 -- 2019-05-03
 
     - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 0.4.1 --> 0.5.0
