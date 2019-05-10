@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.189 -- 2019-05-10
+
+    - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.3.4 --> 1.3.5
+
+
 - 2.0.188 -- 2019-05-10
 
     - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.3.3 --> 1.3.4
