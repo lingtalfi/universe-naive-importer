@@ -802,6 +802,17 @@ galaxies:
                 map: true
             
         
+        Light_UserManager: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light_User
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_ZephyrTemplate: 
             version: 1.0.0
             dependencies: 
