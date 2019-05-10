@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.188 -- 2019-05-10
+
+    - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.3.3 --> 1.3.4
+    - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 0.7.0 --> 0.8.0
+
+
 - 2.0.187 -- 2019-05-06
 
     - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget) 1.17.0 --> 1.18.0

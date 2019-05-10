@@ -95,7 +95,7 @@ galaxies:
             post_install: []
         
         BabyYaml: 
-            version: 1.3.3
+            version: 1.3.4
             dependencies: 
                 Ling: 
                     - Bat
@@ -746,7 +746,7 @@ galaxies:
             
         
         Light_Kit_BootstrapWidgetLibrary: 
-            version: 0.7.0
+            version: 0.8.0
             dependencies: 
                 Ling: 
                     - Kit_PicassoWidget
