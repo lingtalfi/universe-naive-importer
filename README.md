@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.209 -- 2019-05-14
+
+    - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 1.5.0 --> 1.6.0
+
+
 - 2.0.208 -- 2019-05-14
 
     - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 0.16.0 --> 0.17.0
