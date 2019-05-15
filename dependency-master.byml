@@ -741,12 +741,13 @@ galaxies:
             
         
         Light_Kit: 
-            version: 1.3.0
+            version: 1.4.0
             dependencies: 
                 Ling: 
                     - Bat
                     - HtmlPageTools
                     - Kit
+                    - ArrayVariableResolver
                     - Light
                 
             
