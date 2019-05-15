@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.217 -- 2019-05-15
+
+    - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.4.2 --> 1.4.3
+
+
 - 2.0.216 -- 2019-05-15
 
     - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 0.24.0 --> 0.25.0
