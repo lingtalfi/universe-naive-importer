@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.219 -- 2019-05-15
+
+    - [Ling/ArrayVariableResolver](https://github.com/lingtalfi/ArrayVariableResolver) 1.0.0 --> 1.0.1
+
+
 - 2.0.218 -- 2019-05-15
 
     - [Ling/ArrayVariableResolver](https://github.com/lingtalfi/ArrayVariableResolver)  --> 1.0.0
