@@ -61,6 +61,15 @@ galaxies:
             
             post_install: []
         
+        ArrayVariableResolver: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                
+            
+            post_install: []
+        
         AssetLoader: 
             version: 1.6.0
             dependencies: []

@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.218 -- 2019-05-15
+
+    - [Ling/ArrayVariableResolver](https://github.com/lingtalfi/ArrayVariableResolver)  --> 1.0.0
+
+
 - 2.0.217 -- 2019-05-15
 
     - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.4.2 --> 1.4.3
