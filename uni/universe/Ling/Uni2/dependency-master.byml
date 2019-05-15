@@ -669,7 +669,7 @@ galaxies:
             post_install: []
         
         Kit: 
-            version: 1.5.0
+            version: 1.5.1
             dependencies: 
                 Ling: 
                     - BabyYaml
