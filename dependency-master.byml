@@ -679,7 +679,7 @@ galaxies:
             post_install: []
         
         Kit_PicassoWidget: 
-            version: 1.24.0
+            version: 1.25.0
             dependencies: 
                 Ling: 
                     - Kit
