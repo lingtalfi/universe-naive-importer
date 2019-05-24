@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.247 -- 2019-05-24
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.171 --> 1.172
+
+
 - 2.0.246 -- 2019-05-17
 
     - [Ling/Light_Kit_Demo](https://github.com/lingtalfi/Light_Kit_Demo) 0.6.4 --> 1.0.0
