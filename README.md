@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.251 -- 2019-07-04
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.173 --> 1.174
+    - [Ling/BeeFramework](https://github.com/lingtalfi/BeeFramework) 1.0.1 --> 1.0.2
+
+
 - 2.0.250 -- 2019-07-03
 
     - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget) 1.26.1 --> 1.26.2
