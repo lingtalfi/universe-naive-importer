@@ -150,7 +150,7 @@ galaxies:
             post_install: []
         
         BeeFramework: 
-            version: 1.0.2
+            version: 1.0.3
             dependencies: 
                 Ling: 
                     - Komin
@@ -680,7 +680,7 @@ galaxies:
             post_install: []
         
         Kit_PicassoWidget: 
-            version: 1.26.2
+            version: 1.26.3
             dependencies: 
                 Ling: 
                     - Kit
