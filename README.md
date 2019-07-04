@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.254 -- 2019-07-04
+
+    - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.5.0 --> 1.5.1
+
+
 - 2.0.253 -- 2019-07-04
 
     - [Ling/BeeFramework](https://github.com/lingtalfi/BeeFramework) 1.0.2 --> 1.0.3
