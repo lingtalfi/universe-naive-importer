@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.262 -- 2019-07-11
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.174 --> 1.175
+
+
 - 2.0.261 -- 2019-07-11
 
     - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget) 1.27.0 --> 1.28.0
