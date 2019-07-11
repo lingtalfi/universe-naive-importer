@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.260 -- 2019-07-11
+
+    - [Ling/Kit](https://github.com/lingtalfi/Kit) 1.7.2 --> 1.7.3
+
+
 - 2.0.259 -- 2019-07-11
 
     - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.5.2 --> 1.6.0
