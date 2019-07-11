@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.257 -- 2019-07-11
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.6.2 --> 1.6.3
+
+
 - 2.0.256 -- 2019-07-04
 
     - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget) 1.26.3 --> 1.27.0
