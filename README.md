@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.276 -- 2019-07-16
+
+    - [Ling/Light_PrettyError](https://github.com/lingtalfi/Light_PrettyError) 1.2.0 --> 1.3.0
+
+
 - 2.0.275 -- 2019-07-16
 
     - [Ling/Light](https://github.com/lingtalfi/Light) 0.2.0 --> 0.3.0
