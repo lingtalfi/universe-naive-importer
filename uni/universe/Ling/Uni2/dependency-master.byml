@@ -1290,7 +1290,7 @@ galaxies:
             post_install: []
         
         SicTools: 
-            version: 1.4.3
+            version: 1.4.4
             dependencies: 
                 Ling: 
                     - ArrayToString

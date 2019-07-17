@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.283 -- 2019-07-17
+
+    - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.4.3 --> 1.4.4
+
+
 - 2.0.282 -- 2019-07-17
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.176 --> 1.177

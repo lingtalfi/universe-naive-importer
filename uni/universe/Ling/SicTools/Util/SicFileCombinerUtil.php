@@ -368,30 +368,22 @@ class SicFileCombinerUtil
                     if ($this->lazyOverrideSymbol === substr($key, 0, 1)) {
 
                         $lazyVar = substr($key, 1);
-                        if(
-                            array_key_exists($lazyVar, $lazyVars) &&
-                            is_array($lazyVars[$lazyVar]) &&
-                        ){
-
-                        }
-
-                        $lazyVars[$lazyVar] = [$value, $file];
-                        az($lazyVars);
-//                        $lazyVars = ArrayTool::arrayMergeReplaceRecursive([$lazyVars, [$value, $file]]);
+                        $lazyVars[] = [$lazyVar, $value, $file];
                         unset($fileConf[$key]);
                     }
                 }
                 $ret = ArrayTool::arrayMergeReplaceRecursive([$ret, $fileConf]);
             }
 
-            az(__FILE__, $lazyVars, "pou",$ret);
+
+
             //--------------------------------------------
             // Now inject the lazy overrides variables
             //--------------------------------------------
-            foreach ($lazyVars as $key => $info) {
-                list($value, $file) = $info;
+            foreach ($lazyVars as $info) {
+                list($key, $value, $file) = $info;
                 $found = false;
-                $targetValue = BDotTool::getDotValue($key, $ret, null, $found);
+                $targetValue = BDotTool::getDotValue($key, $ret, $value, $found);
 
                 if (false === $found) {
                     $targetValue = $value;
