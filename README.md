@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.287 -- 2019-07-17
+
+    - [Ling/Light_PrettyError](https://github.com/lingtalfi/Light_PrettyError) 1.3.0 --> 1.4.0
+
+
 - 2.0.286 -- 2019-07-17
 
     - [Ling/Light_ReverseRouter](https://github.com/lingtalfi/Light_ReverseRouter) 1.2.0 --> 1.3.0
