@@ -363,6 +363,7 @@ class SicFileCombinerUtil
             // First combine all files as usual, and extract the merge/replace directives
             //--------------------------------------------
             foreach ($files as $file) {
+
                 $fileConf = BabyYamlUtil::readFile($file);
                 foreach ($fileConf as $key => $value) {
                     if ($this->lazyOverrideSymbol === substr($key, 0, 1)) {
