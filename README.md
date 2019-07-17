@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.285 -- 2019-07-17
+
+    - [Ling/Light](https://github.com/lingtalfi/Light) 0.6.0 --> 0.7.0
+
+
 - 2.0.284 -- 2019-07-17
 
     - [Ling/Light_Initializer](https://github.com/lingtalfi/Light_Initializer) 1.1.0 --> 1.1.1
