@@ -363,17 +363,28 @@ class SicFileCombinerUtil
             // First combine all files as usual, and extract the merge/replace directives
             //--------------------------------------------
             foreach ($files as $file) {
-
                 $fileConf = BabyYamlUtil::readFile($file);
                 foreach ($fileConf as $key => $value) {
                     if ($this->lazyOverrideSymbol === substr($key, 0, 1)) {
-                        $lazyVars[substr($key, 1)] = [$value, $file];
+
+                        $lazyVar = substr($key, 1);
+                        if(
+                            array_key_exists($lazyVar, $lazyVars) &&
+                            is_array($lazyVars[$lazyVar]) &&
+                        ){
+
+                        }
+
+                        $lazyVars[$lazyVar] = [$value, $file];
+                        az($lazyVars);
+//                        $lazyVars = ArrayTool::arrayMergeReplaceRecursive([$lazyVars, [$value, $file]]);
                         unset($fileConf[$key]);
                     }
                 }
                 $ret = ArrayTool::arrayMergeReplaceRecursive([$ret, $fileConf]);
             }
 
+            az(__FILE__, $lazyVars, "pou",$ret);
             //--------------------------------------------
             // Now inject the lazy overrides variables
             //--------------------------------------------
@@ -398,6 +409,7 @@ class SicFileCombinerUtil
                 }
                 BDotTool::setDotValue($key, $targetValue, $ret);
             }
+
 
 
             //--------------------------------------------
