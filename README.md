@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.284 -- 2019-07-17
+
+    - [Ling/Light_Initializer](https://github.com/lingtalfi/Light_Initializer) 1.1.0 --> 1.1.1
+
+
 - 2.0.283 -- 2019-07-17
 
     - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.4.3 --> 1.4.4
