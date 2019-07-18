@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.326 -- 2019-07-18
+
+    - [Ling/WebBox](https://github.com/lingtalfi/WebBox) 1.0.0 --> 1.0.1
+
+
 - 2.0.325 -- 2019-07-18
 
     - [Ling/ZephyrTemplateEngine](https://github.com/lingtalfi/ZephyrTemplateEngine) 1.1.0 --> 1.1.2
