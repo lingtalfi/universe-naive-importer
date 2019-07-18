@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.332 -- 2019-07-18
+
+    - [Ling/Light_Firewall](https://github.com/lingtalfi/Light_Firewall)  --> 1.0.0
+
+
 - 2.0.331 -- 2019-07-18
 
     - [Ling/Light_ReverseRouter](https://github.com/lingtalfi/Light_ReverseRouter) 1.3.2 --> 1.4.0
