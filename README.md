@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.318 -- 2019-07-18
+
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.11.2 --> 1.11.3
+
+
 - 2.0.317 -- 2019-07-18
 
     - [Ling/Light_ZephyrTemplate](https://github.com/lingtalfi/Light_ZephyrTemplate) 1.0.0 --> 1.1.1
