@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.320 -- 2019-07-18
+
+    - [Ling/ProjectInfo](https://github.com/lingtalfi/ProjectInfo) 1.0.0 --> 1.0.1
+
+
 - 2.0.319 -- 2019-07-18
 
     - [Ling/PlanetSitemap](https://github.com/lingtalfi/PlanetSitemap) 1.0.1 --> 1.0.2
