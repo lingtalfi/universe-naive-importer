@@ -833,13 +833,15 @@ galaxies:
             
         
         Light_ZephyrTemplate: 
-            version: 1.0.0
+            version: 1.1.1
             dependencies: 
                 Ling: 
                     - ZephyrTemplateEngine
                 
             
-            post_install: []
+            post_install: 
+                map: true
+            
         
         LinearFile: 
             version: 1.0.0
