@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.334 -- 2019-07-18
+
+    - [Ling/Kit](https://github.com/lingtalfi/Kit) 1.7.4 --> 1.8.0
+
+
 - 2.0.333 -- 2019-07-18
 
     - [Ling/Light_UserManager](https://github.com/lingtalfi/Light_UserManager) 1.1.1 --> 1.2.0

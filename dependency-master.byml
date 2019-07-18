@@ -670,10 +670,12 @@ galaxies:
             post_install: []
         
         Kit: 
-            version: 1.7.4
+            version: 1.8.0
             dependencies: 
                 Ling: 
                     - BabyYaml
+                    - Bat
+                    - DirScanner
                     - HtmlPageTools
                 
             
