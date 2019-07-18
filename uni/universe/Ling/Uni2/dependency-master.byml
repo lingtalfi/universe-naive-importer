@@ -720,7 +720,7 @@ galaxies:
             post_install: []
         
         Light: 
-            version: 0.7.2
+            version: 0.7.3
             dependencies: 
                 Ling: 
                     - SicTools
