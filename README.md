@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.325 -- 2019-07-18
+
+    - [Ling/ZephyrTemplateEngine](https://github.com/lingtalfi/ZephyrTemplateEngine) 1.1.0 --> 1.1.2
+
+
 - 2.0.324 -- 2019-07-18
 
     - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.16.3 --> 1.16.4
