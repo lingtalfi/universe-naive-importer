@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.307 -- 2019-07-18
+
+    - [Ling/Light](https://github.com/lingtalfi/Light) 0.7.0 --> 0.7.1
+
+
 - 2.0.306 -- 2019-07-18
 
     - [Ling/KrankenStein](https://github.com/lingtalfi/KrankenStein) 1.0.0 --> 1.0.1
