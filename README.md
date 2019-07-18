@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.301 -- 2019-07-18
+
+    - [Ling/HashMap](https://github.com/lingtalfi/HashMap) 1.0.0 --> 1.0.1
+
+
 - 2.0.300 -- 2019-07-18
 
     - [Ling/EasyConsoleMenu](https://github.com/lingtalfi/EasyConsoleMenu) 1.0.0 --> 1.0.1
