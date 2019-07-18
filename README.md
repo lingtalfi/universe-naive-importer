@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.300 -- 2019-07-18
+
+    - [Ling/EasyConsoleMenu](https://github.com/lingtalfi/EasyConsoleMenu) 1.0.0 --> 1.0.1
+
+
 - 2.0.299 -- 2019-07-18
 
     - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.8.1 --> 1.8.2
