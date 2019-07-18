@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.327 -- 2019-07-18
+
+    - [Ling/Light_PrerouteHub](https://github.com/lingtalfi/Light_PrerouteHub)  --> 1.0.0
+
+
 - 2.0.326 -- 2019-07-18
 
     - [Ling/WebBox](https://github.com/lingtalfi/WebBox) 1.0.0 --> 1.0.1

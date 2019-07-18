@@ -786,6 +786,17 @@ galaxies:
                 map: true
             
         
+        Light_PrerouteHub: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_PrettyError: 
             version: 1.4.1
             dependencies: 
