@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.305 -- 2019-07-18
+
+    - [Ling/Kit_PrototypeWidget](https://github.com/lingtalfi/Kit_PrototypeWidget) 1.0.0 --> 1.0.1
+
+
 - 2.0.304 -- 2019-07-18
 
     - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget) 1.28.0 --> 1.28.1
