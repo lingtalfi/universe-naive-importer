@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.303 -- 2019-07-18
+
+    - [Ling/Kit](https://github.com/lingtalfi/Kit) 1.7.3 --> 1.7.4
+
+
 - 2.0.302 -- 2019-07-18
 
     - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 1.6.0 --> 1.6.1
