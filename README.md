@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.296 -- 2019-07-18
+
+    - [Ling/CSRFTools](https://github.com/lingtalfi/CSRFTools) 1.0.0 --> 1.0.1
+
+
 - 2.0.295 -- 2019-07-18
 
     - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.10.0 --> 1.10.1
