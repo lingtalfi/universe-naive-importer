@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.322 -- 2019-07-18
+
+    - [Ling/SimpleCurl](https://github.com/lingtalfi/SimpleCurl) 1.0.2 --> 1.0.3
+
+
 - 2.0.321 -- 2019-07-18
 
     - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.4.4 --> 1.4.5
