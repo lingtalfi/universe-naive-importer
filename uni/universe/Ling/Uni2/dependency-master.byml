@@ -780,9 +780,11 @@ galaxies:
             
         
         Light_Kit_WebsiteBuilder: 
-            version: 1.0.0
+            version: 1.0.1
             dependencies: []
-            post_install: []
+            post_install: 
+                map: true
+            
         
         Light_PrettyError: 
             version: 1.4.0
