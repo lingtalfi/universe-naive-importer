@@ -1487,7 +1487,7 @@ galaxies:
             post_install: []
         
         Uni2: 
-            version: 1.9.0
+            version: 1.9.1
             dependencies: 
                 Ling: 
                     - BabyYaml
