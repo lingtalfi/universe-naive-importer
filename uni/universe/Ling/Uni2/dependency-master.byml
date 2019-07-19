@@ -848,6 +848,17 @@ galaxies:
                 map: true
             
         
+        Light_UserDatabase: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - BabyYaml
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_UserManager: 
             version: 1.2.0
             dependencies: 
