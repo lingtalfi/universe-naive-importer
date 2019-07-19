@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.337 -- 2019-07-19
+
+    - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.0.0 --> 1.0.1
+
+
 - 2.0.336 -- 2019-07-19
 
     - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase)  --> 1.0.0
