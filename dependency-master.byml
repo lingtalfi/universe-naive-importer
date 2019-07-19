@@ -1230,8 +1230,12 @@ galaxies:
             post_install: []
         
         QuickPdo: 
-            version: 2.41.0
-            dependencies: []
+            version: 2.41.1
+            dependencies: 
+                Ling: 
+                    - Bat
+                
+            
             post_install: []
         
         Quoter: 
