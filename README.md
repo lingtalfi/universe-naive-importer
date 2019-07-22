@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.344 -- 2019-07-22
+
+    - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.0.1 --> 1.0.2
+
+
 - 2.0.343 -- 2019-07-22
 
     - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.8.2 --> 1.9.0
