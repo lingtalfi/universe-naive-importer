@@ -1364,7 +1364,7 @@ galaxies:
             post_install: []
         
         SimplePdoWrapper: 
-            version: 1.0.3
+            version: 1.1.0
             dependencies: []
             post_install: []
         
