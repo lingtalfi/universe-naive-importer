@@ -734,6 +734,17 @@ galaxies:
             
             post_install: []
         
+        Light_Database: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - SimplePdoWrapper
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Firewall: 
             version: 1.0.0
             dependencies: 

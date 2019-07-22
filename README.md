@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.342 -- 2019-07-22
+
+    - [Ling/Light_Database](https://github.com/lingtalfi/Light_Database)  --> 1.0.0
+
+
 - 2.0.341 -- 2019-07-19
 
     - [Ling/QuickPdo](https://github.com/lingtalfi/QuickPdo) 2.41.0 --> 2.41.1
