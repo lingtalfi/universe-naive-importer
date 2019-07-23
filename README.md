@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.357 -- 2019-07-23
+
+    - [Ling/ArrayVariableResolver](https://github.com/lingtalfi/ArrayVariableResolver) 1.1.1 --> 1.1.2
+
+
 - 2.0.356 -- 2019-07-23
 
     - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.1.0 --> 1.2.0

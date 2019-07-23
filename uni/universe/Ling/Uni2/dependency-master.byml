@@ -62,7 +62,7 @@ galaxies:
             post_install: []
         
         ArrayVariableResolver: 
-            version: 1.1.1
+            version: 1.1.2
             dependencies: 
                 Ling: 
                     - Bat
