@@ -1010,7 +1010,7 @@ galaxies:
             post_install: []
         
         MysqlCreateTableUtil: 
-            version: 1.0.1
+            version: 1.0.2
             dependencies: []
             post_install: []
         
