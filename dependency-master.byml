@@ -735,7 +735,7 @@ galaxies:
             post_install: []
         
         Light_Database: 
-            version: 1.0.1
+            version: 1.0.2
             dependencies: 
                 Ling: 
                     - SimplePdoWrapper

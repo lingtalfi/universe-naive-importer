@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.351 -- 2019-07-23
+
+    - [Ling/Light_Database](https://github.com/lingtalfi/Light_Database) 1.0.1 --> 1.0.2
+
+
 - 2.0.350 -- 2019-07-23
 
     - [Ling/MysqlCreateTableUtil](https://github.com/lingtalfi/MysqlCreateTableUtil) 1.0.0 --> 1.0.1
