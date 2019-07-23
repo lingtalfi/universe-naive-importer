@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.354 -- 2019-07-23
+
+    - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.0.0 --> 1.1.0
+
+
 - 2.0.353 -- 2019-07-23
 
     - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.9.0 --> 1.10.0
