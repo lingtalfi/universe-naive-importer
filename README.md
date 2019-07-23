@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.350 -- 2019-07-23
+
+    - [Ling/MysqlCreateTableUtil](https://github.com/lingtalfi/MysqlCreateTableUtil) 1.0.0 --> 1.0.1
+
+
 - 2.0.349 -- 2019-07-23
 
     - [Ling/MysqlCreateTableUtil](https://github.com/lingtalfi/MysqlCreateTableUtil)  --> 1.0.0
