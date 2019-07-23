@@ -860,10 +860,16 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.0.1
+            version: 1.1.0
             dependencies: 
                 Ling: 
                     - BabyYaml
+                    - Light
+                    - Light_Database
+                    - Light_Initializer
+                    - MysqlCreateTableUtil
+                    - SimplePdoWrapper
+                    - SqlWizard
                 
             
             post_install: 
