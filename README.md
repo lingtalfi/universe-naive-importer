@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.358 -- 2019-07-24
+
+    - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.7.1 --> 1.8.0
+
+
 - 2.0.357 -- 2019-07-23
 
     - [Ling/ArrayVariableResolver](https://github.com/lingtalfi/ArrayVariableResolver) 1.1.1 --> 1.1.2
