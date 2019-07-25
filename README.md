@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.366 -- 2019-07-25
+
+    - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.6.4 --> 1.7.0
+
+
 - 2.0.365 -- 2019-07-25
 
     - [Ling/Chloroform_HydrogenRenderer](https://github.com/lingtalfi/Chloroform_HydrogenRenderer) 1.0.2 --> 1.0.3
