@@ -770,7 +770,7 @@ galaxies:
             
         
         Light_Kit: 
-            version: 1.7.0
+            version: 1.7.1
             dependencies: 
                 Ling: 
                     - Bat
