@@ -190,6 +190,16 @@ galaxies:
             
             post_install: []
         
+        Chloroform_HeliumRenderer: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - Chloroform
+                
+            
+            post_install: []
+        
         Chloroform_HydrogenRenderer: 
             version: 1.2.1
             dependencies: 
