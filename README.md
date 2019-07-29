@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.381 -- 2019-07-29
+
+    - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.7.2 --> 1.8.1
+
+
 - 2.0.380 -- 2019-07-26
 
     - [Ling/Chloroform_HeliumRenderer](https://github.com/lingtalfi/Chloroform_HeliumRenderer) 1.0.0 --> 1.0.1
