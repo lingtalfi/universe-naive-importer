@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.386 -- 2019-07-30
+
+    - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.11.1 --> 1.12.0
+
+
 - 2.0.385 -- 2019-07-30
 
     - [Ling/Chloroform_HeliumRenderer](https://github.com/lingtalfi/Chloroform_HeliumRenderer) 1.1.0 --> 1.2.0
