@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.387 -- 2019-07-31
+
+    - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.8.3 --> 1.8.4
+
+
 - 2.0.386 -- 2019-07-30
 
     - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.11.1 --> 1.12.0
