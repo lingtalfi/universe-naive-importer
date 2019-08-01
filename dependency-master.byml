@@ -822,6 +822,17 @@ galaxies:
                 map: true
             
         
+        Light_Logger: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_PrerouteHub: 
             version: 1.0.0
             dependencies: 

@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.388 -- 2019-08-01
+
+    - [Ling/Light_Logger](https://github.com/lingtalfi/Light_Logger)  --> 1.0.0
+
+
 - 2.0.387 -- 2019-07-31
 
     - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.8.3 --> 1.8.4
