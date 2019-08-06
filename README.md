@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.399 -- 2019-08-06
+
+    - universe minor increment
+
+
 - 2.0.398 -- 2019-08-06
 
     - universe minor increment
