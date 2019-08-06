@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.398 -- 2019-08-06
+
+    - universe minor increment
+
+
 - 2.0.397 -- 2019-08-05
 
     - [Ling/CSRFTools](https://github.com/lingtalfi/CSRFTools) 1.1.0 --> 1.1.1
