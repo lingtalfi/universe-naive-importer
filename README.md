@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.400 -- 2019-08-06
+
+    - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager)  --> 1.0.0
+
+
 - 2.0.399 -- 2019-08-06
 
     - universe minor increment

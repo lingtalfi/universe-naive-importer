@@ -744,6 +744,22 @@ galaxies:
             
             post_install: []
         
+        Light_AjaxFileUploadManager: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                    - Light_Logger
+                    - Bat
+                    - CSRFTools
+                    - ThumbnailTools
+                    - Chloroform
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Database: 
             version: 1.0.2
             dependencies: 
