@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.402 -- 2019-08-06
+
+    - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.2.0 --> 1.3.0
+
+
 - 2.0.401 -- 2019-08-06
 
     - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.0.0 --> 1.0.1
