@@ -1704,6 +1704,11 @@ galaxies:
             
             post_install: []
         
+        WiseTool: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         WrappedString: 
             version: 1.3.0
             dependencies: 
