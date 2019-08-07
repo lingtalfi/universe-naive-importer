@@ -1705,8 +1705,12 @@ galaxies:
             post_install: []
         
         WiseTool: 
-            version: 1.0.0
-            dependencies: []
+            version: 1.1.0
+            dependencies: 
+                Ling: 
+                    - Chloroform
+                
+            
             post_install: []
         
         WrappedString: 

@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.417 -- 2019-08-07
+
+    - [Ling/WiseTool](https://github.com/lingtalfi/WiseTool) 1.0.0 --> 1.1.0
+
+
 - 2.0.416 -- 2019-08-07
 
     - [Ling/Light_Flasher](https://github.com/lingtalfi/Light_Flasher) 1.0.1 --> 1.1.0
