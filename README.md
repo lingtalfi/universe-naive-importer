@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.414 -- 2019-08-07
+
+    - [Ling/Light_Flasher](https://github.com/lingtalfi/Light_Flasher) 1.0.0 --> 1.0.1
+
+
 - 2.0.413 -- 2019-08-07
 
     - [Ling/Light_Flasher](https://github.com/lingtalfi/Light_Flasher)  --> 1.0.0
