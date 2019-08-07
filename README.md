@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.418 -- 2019-08-07
+
+    - [Ling/WiseTool](https://github.com/lingtalfi/WiseTool) 1.1.0 --> 1.1.1
+
+
 - 2.0.417 -- 2019-08-07
 
     - [Ling/WiseTool](https://github.com/lingtalfi/WiseTool) 1.0.0 --> 1.1.0
