@@ -904,13 +904,15 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.3.0
+            version: 1.4.0
             dependencies: 
                 Ling: 
                     - BabyYaml
+                    - Bat
                     - Light
-                    - Light_Database
                     - Light_Initializer
+                    - Light_PasswordProtector
+                    - Light_Database
                     - MysqlCreateTableUtil
                     - SimplePdoWrapper
                     - SqlWizard
