@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.420 -- 2019-08-08
+
+    - [Ling/DotMenu](https://github.com/lingtalfi/DotMenu)  --> 1.0.0
+
+
 - 2.0.419 -- 2019-08-08
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.182 --> 1.183

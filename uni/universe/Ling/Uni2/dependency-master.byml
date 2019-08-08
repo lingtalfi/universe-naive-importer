@@ -400,6 +400,15 @@ galaxies:
             
             post_install: []
         
+        DotMenu: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                
+            
+            post_install: []
+        
         Dreamer: 
             version: 1.0.0
             dependencies: []
