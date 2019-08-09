@@ -771,6 +771,17 @@ galaxies:
                 map: true
             
         
+        Light_BMenu: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - DotMenu
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Database: 
             version: 1.0.2
             dependencies: 
