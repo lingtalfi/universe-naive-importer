@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.422 -- 2019-08-09
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.10.1 --> 1.10.2
+
+
 - 2.0.421 -- 2019-08-08
 
     - [Ling/DotMenu](https://github.com/lingtalfi/DotMenu) 1.0.0 --> 1.0.1
