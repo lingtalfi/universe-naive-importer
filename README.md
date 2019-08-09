@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.431 -- 2019-08-09
+
+    - [Ling/Light_BMenu](https://github.com/lingtalfi/Light_BMenu) 1.2.0 --> 1.3.0
+
+
 - 2.0.430 -- 2019-08-09
 
     - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.8.2 --> 1.9.0
