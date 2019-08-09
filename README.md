@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.427 -- 2019-08-09
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.183 --> 1.184
+
+
 - 2.0.426 -- 2019-08-09
 
     - [Ling/WiseTool](https://github.com/lingtalfi/WiseTool) 1.1.1 --> 1.2.0
