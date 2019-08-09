@@ -1725,10 +1725,11 @@ galaxies:
             post_install: []
         
         WiseTool: 
-            version: 1.1.1
+            version: 1.2.0
             dependencies: 
                 Ling: 
                     - Chloroform
+                    - Light_Kit_Admin
                 
             
             post_install: []
