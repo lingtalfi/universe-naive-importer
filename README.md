@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.434 -- 2019-08-09
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.185 --> 1.186
+
+
 - 2.0.433 -- 2019-08-09
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.184 --> 1.185
