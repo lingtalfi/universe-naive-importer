@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.437 -- 2019-08-12
+
+    - [Ling/ParametrizedSqlQuery](https://github.com/lingtalfi/ParametrizedSqlQuery)  --> 1.0.0
+
+
 - 2.0.436 -- 2019-08-12
 
     - [Ling/SqlQuery](https://github.com/lingtalfi/SqlQuery) 1.10.0 --> 1.10.1
