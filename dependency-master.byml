@@ -840,7 +840,7 @@ galaxies:
             
         
         Light_Kit_BootstrapWidgetLibrary: 
-            version: 1.13.0
+            version: 1.13.1
             dependencies: 
                 Ling: 
                     - Kit_PicassoWidget
