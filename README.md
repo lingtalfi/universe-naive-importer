@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.443 -- 2019-08-13
+
+    - [Ling/Light_Flasher](https://github.com/lingtalfi/Light_Flasher) 1.1.0 --> 1.2.0
+
+
 - 2.0.442 -- 2019-08-13
 
     - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.13.0 --> 1.13.1
