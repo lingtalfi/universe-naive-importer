@@ -866,7 +866,7 @@ galaxies:
             
         
         Light_Kit_Demo: 
-            version: 1.0.1
+            version: 1.1.1
             dependencies: []
             post_install: 
                 map: true
