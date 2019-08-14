@@ -782,6 +782,18 @@ galaxies:
                 map: true
             
         
+        Light_Bullsheet: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                    - Bat
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Database: 
             version: 1.2.0
             dependencies: 

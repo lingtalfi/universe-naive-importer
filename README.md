@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.455 -- 2019-08-14
+
+    - [Ling/Light_Bullsheet](https://github.com/lingtalfi/Light_Bullsheet)  --> 1.0.0
+
+
 - 2.0.454 -- 2019-08-14
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.19 --> 1.191
