@@ -118,15 +118,15 @@ galaxies:
             post_install: []
         
         Bat: 
-            version: 1.189
+            version: 1.19
             dependencies: 
                 Ling: 
                     - ArrayToString
                     - BeeFramework
                     - CopyDir
+                    - DirScanner
                     - BabyYaml
                     - Tiphaine
-                    - DirScanner
                 
             
             post_install: []
