@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.450 -- 2019-08-14
+
+    - [Ling/Light_Database](https://github.com/lingtalfi/Light_Database) 1.1.0 --> 1.2.0
+
+
 - 2.0.449 -- 2019-08-14
 
     - [Ling/TinyBullsheeter](https://github.com/lingtalfi/TinyBullsheeter)  --> 1.0.0
