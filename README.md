@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.449 -- 2019-08-14
+
+    - [Ling/TinyBullsheeter](https://github.com/lingtalfi/TinyBullsheeter)  --> 1.0.0
+
+
 - 2.0.448 -- 2019-08-14
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.186 --> 1.187

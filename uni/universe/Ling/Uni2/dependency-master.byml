@@ -1592,6 +1592,16 @@ galaxies:
             dependencies: []
             post_install: []
         
+        TinyBullsheeter: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - BabyYaml
+                    - Bat
+                
+            
+            post_install: []
+        
         Tiphaine: 
             version: 1.0.0
             dependencies: []
