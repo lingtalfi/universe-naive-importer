@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.451 -- 2019-08-14
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.187 --> 1.188
+    - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.5.0 --> 1.6.0
+
+
 - 2.0.450 -- 2019-08-14
 
     - [Ling/Light_Database](https://github.com/lingtalfi/Light_Database) 1.1.0 --> 1.2.0

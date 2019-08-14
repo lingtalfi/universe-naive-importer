@@ -118,7 +118,7 @@ galaxies:
             post_install: []
         
         Bat: 
-            version: 1.187
+            version: 1.188
             dependencies: 
                 Ling: 
                     - ArrayToString
@@ -933,7 +933,7 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.5.0
+            version: 1.6.0
             dependencies: 
                 Ling: 
                     - BabyYaml
