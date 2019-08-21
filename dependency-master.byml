@@ -805,6 +805,19 @@ galaxies:
                 map: true
             
         
+        Light_EasyRoute: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - BabyYaml
+                    - Light
+                    - Light_Initializer
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Firewall: 
             version: 1.0.0
             dependencies: 

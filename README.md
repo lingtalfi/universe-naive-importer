@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.467 -- 2019-08-21
+
+    - [Ling/Light_EasyRoute](https://github.com/lingtalfi/Light_EasyRoute)  --> 1.0.0
+
+
 - 2.0.466 -- 2019-08-14
 
     - [Ling/Light_Kit_Demo](https://github.com/lingtalfi/Light_Kit_Demo) 1.1.2 --> 1.1.3
