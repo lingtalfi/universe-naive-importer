@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.472 -- 2019-08-27
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.191 --> 1.192
+
+
 - 2.0.471 -- 2019-08-27
 
     - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.3.5 --> 1.4.0
