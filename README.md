@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.473 -- 2019-08-29
+
+    - [Ling/Kit_PrototypeWidget](https://github.com/lingtalfi/Kit_PrototypeWidget) 1.0.1 --> 1.1.0
+
+
 - 2.0.472 -- 2019-08-27
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.191 --> 1.192
