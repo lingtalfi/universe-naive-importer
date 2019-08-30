@@ -961,6 +961,19 @@ galaxies:
                 map: true
             
         
+        Light_SpinKitHelper: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - HtmlPageTools
+                    - Light
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_User: 
             version: 1.4.0
             dependencies: []
