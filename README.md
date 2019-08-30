@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.484 -- 2019-08-30
+
+    - [Ling/Light_SpinKitHelper](https://github.com/lingtalfi/Light_SpinKitHelper) 1.0.0 --> 1.0.1
+
+
 - 2.0.483 -- 2019-08-30
 
     - [Ling/Light_SpinKitHelper](https://github.com/lingtalfi/Light_SpinKitHelper)  --> 1.0.0
