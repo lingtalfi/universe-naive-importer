@@ -904,10 +904,11 @@ galaxies:
             
         
         Light_Logger: 
-            version: 1.0.0
+            version: 1.1.0
             dependencies: 
                 Ling: 
                     - Bat
+                    - UniversalLogger
                 
             
             post_install: 
