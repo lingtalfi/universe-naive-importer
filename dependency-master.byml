@@ -838,6 +838,17 @@ galaxies:
                 map: true
             
         
+        Light_HtmlPageCopilot: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - HtmlPageTools
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Initializer: 
             version: 1.1.2
             dependencies: 
