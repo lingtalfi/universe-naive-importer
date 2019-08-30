@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.477 -- 2019-08-30
+
+    - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.11.0 --> 1.12.0
+
+
 - 2.0.476 -- 2019-08-30
 
     - [Ling/Light_HtmlPageCopilot](https://github.com/lingtalfi/Light_HtmlPageCopilot)  --> 1.0.0
