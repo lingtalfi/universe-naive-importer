@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.482 -- 2019-08-30
+
+    - [Ling/Uni2](https://github.com/lingtalfi/Uni2) 1.9.1 --> 1.9.2
+
+
 - 2.0.481 -- 2019-08-30
 
     - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.12.0 --> 1.12.1
