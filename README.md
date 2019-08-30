@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.479 -- 2019-08-30
+
+    - [Ling/Light_Kit_Demo](https://github.com/lingtalfi/Light_Kit_Demo) 1.1.3 --> 1.2.0
+
+
 - 2.0.478 -- 2019-08-30
 
     - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 1.6.1 --> 2.0.0
