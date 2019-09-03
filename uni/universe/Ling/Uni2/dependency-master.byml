@@ -631,6 +631,11 @@ galaxies:
             dependencies: []
             post_install: []
         
+        JResponsiveTableHelper: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         Jin: 
             version: 1.0.0
             dependencies: []
