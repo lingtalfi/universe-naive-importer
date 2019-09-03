@@ -636,6 +636,11 @@ galaxies:
             dependencies: []
             post_install: []
         
+        JRicAdminTableHelper: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         Jin: 
             version: 1.0.0
             dependencies: []
