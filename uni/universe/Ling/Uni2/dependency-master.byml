@@ -960,6 +960,20 @@ galaxies:
                 
             
         
+        Light_Realist: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                    - BabyYaml
+                    - Light_Database
+                    - ParametrizedSqlQuery
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_ReverseRouter: 
             version: 1.4.0
             dependencies: 
