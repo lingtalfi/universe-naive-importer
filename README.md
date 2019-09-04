@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.501 -- 2019-09-04
+
+    - [Ling/JResponsiveTableHelper](https://github.com/lingtalfi/JResponsiveTableHelper) 1.1.0 --> 1.2.0
+
+
 - 2.0.500 -- 2019-09-04
 
     - [Ling/JRicAdminTableHelper](https://github.com/lingtalfi/JRicAdminTableHelper) 1.0.1 --> 1.0.2
