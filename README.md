@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.498 -- 2019-09-04
+
+    - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 2.0.0 --> 2.0.1
+
+
 - 2.0.497 -- 2019-09-04
 
     - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.1.0 --> 1.1.1
