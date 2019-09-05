@@ -1257,11 +1257,13 @@ galaxies:
             post_install: []
         
         ParametrizedSqlQuery: 
-            version: 1.2.0
+            version: 1.3.1
             dependencies: 
                 Ling: 
+                    - BabyYaml
                     - Bat
                     - SqlQuery
+                    - UniversalLogger
                 
             
             post_install: []
