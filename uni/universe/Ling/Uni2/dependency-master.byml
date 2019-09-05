@@ -9,6 +9,11 @@ galaxies:
             
             post_install: []
         
+        AjaxCommunicationProtocol: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         ApplicationLog: 
             version: 1.0.0
             dependencies: 

@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.516 -- 2019-09-05
+
+    - [Ling/AjaxCommunicationProtocol](https://github.com/lingtalfi/AjaxCommunicationProtocol)  --> 1.0.0
+
+
 - 2.0.515 -- 2019-09-05
 
     - [Ling/Csv](https://github.com/lingtalfi/Csv) 1.2.0 --> 1.2.1
