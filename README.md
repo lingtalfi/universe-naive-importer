@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.515 -- 2019-09-05
+
+    - [Ling/Csv](https://github.com/lingtalfi/Csv) 1.2.0 --> 1.2.1
+
+
 - 2.0.514 -- 2019-09-05
 
     - [Ling/ParametrizedSqlQuery](https://github.com/lingtalfi/ParametrizedSqlQuery) 1.3.1 --> 1.4.0
