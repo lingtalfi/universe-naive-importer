@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.520 -- 2019-09-09
+
+    - [Ling/CSRFTools](https://github.com/lingtalfi/CSRFTools) 1.1.1 --> 1.2.0
+
+
 - 2.0.519 -- 2019-09-06
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.192 --> 1.193
