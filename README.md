@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.526 -- 2019-09-10
+
+    - [Ling/Light_PrettyError](https://github.com/lingtalfi/Light_PrettyError) 1.4.1 --> 1.4.2
+
+
 - 2.0.525 -- 2019-09-10
 
     - [Ling/Light_EasyRoute](https://github.com/lingtalfi/Light_EasyRoute) 1.0.0 --> 1.1.0
