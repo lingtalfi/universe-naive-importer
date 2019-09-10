@@ -1289,6 +1289,11 @@ galaxies:
             
             post_install: []
         
+        ParentChild: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         ParseDown: 
             version: 1.0.0
             dependencies: []

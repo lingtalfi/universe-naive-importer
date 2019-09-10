@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.522 -- 2019-09-10
+
+    - [Ling/ParentChild](https://github.com/lingtalfi/ParentChild)  --> 1.0.0
+
+
 - 2.0.521 -- 2019-09-09
 
     - [Ling/CSRFTools](https://github.com/lingtalfi/CSRFTools) 1.2.0 --> 1.2.1
