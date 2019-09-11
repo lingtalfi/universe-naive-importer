@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.528 -- 2019-09-11
+
+    - [Ling/Light_Initializer](https://github.com/lingtalfi/Light_Initializer) 1.2.1 --> 1.2.2
+
+
 - 2.0.527 -- 2019-09-10
 
     - [Ling/Light_ReverseRouter](https://github.com/lingtalfi/Light_ReverseRouter) 1.5.0 --> 1.6.0
