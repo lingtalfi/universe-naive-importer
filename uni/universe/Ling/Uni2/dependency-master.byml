@@ -955,6 +955,19 @@ galaxies:
                 map: true
             
         
+        Light_PluginDatabaseInstaller: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                    - Bat
+                    - DirScanner
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_PrerouteHub: 
             version: 1.0.0
             dependencies: 

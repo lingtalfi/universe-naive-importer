@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.530 -- 2019-09-11
+
+    - [Ling/Light_PluginDatabaseInstaller](https://github.com/lingtalfi/Light_PluginDatabaseInstaller)  --> 1.0.0
+
+
 - 2.0.529 -- 2019-09-11
 
     - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.8.1 --> 1.9.0
