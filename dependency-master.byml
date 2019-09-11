@@ -1043,7 +1043,7 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.9.0
+            version: 1.9.1
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1054,6 +1054,7 @@ galaxies:
                     - Light_Bullsheet
                     - Light_Database
                     - TinyBullsheeter
+                    - Light_PluginDatabaseInstaller
                     - MysqlCreateTableUtil
                     - SimplePdoWrapper
                     - SqlWizard
