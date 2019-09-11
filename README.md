@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.529 -- 2019-09-11
+
+    - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.8.1 --> 1.9.0
+
+
 - 2.0.528 -- 2019-09-11
 
     - [Ling/Light_Initializer](https://github.com/lingtalfi/Light_Initializer) 1.2.1 --> 1.2.2
