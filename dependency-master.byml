@@ -836,6 +836,18 @@ galaxies:
                 map: true
             
         
+        Light_DatabaseInfo: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                    - SimplePdoWrapper
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_EasyRoute: 
             version: 1.1.0
             dependencies: 
