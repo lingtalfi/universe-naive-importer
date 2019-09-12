@@ -837,7 +837,7 @@ galaxies:
             
         
         Light_DatabaseInfo: 
-            version: 1.0.2
+            version: 1.0.3
             dependencies: 
                 Ling: 
                     - Light
