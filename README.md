@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.548 -- 2019-09-12
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.6.1 --> 1.6.2
+
+
 - 2.0.547 -- 2019-09-12
 
     - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.0.1 --> 1.1.0

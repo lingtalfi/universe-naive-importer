@@ -1008,10 +1008,11 @@ galaxies:
             
         
         Light_Realist: 
-            version: 1.6.1
+            version: 1.6.2
             dependencies: 
                 Ling: 
                     - Light
+                    - Bat
                     - BabyYaml
                     - Light_Database
                     - ParametrizedSqlQuery
