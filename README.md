@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.547 -- 2019-09-12
+
+    - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.0.1 --> 1.1.0
+
+
 - 2.0.546 -- 2019-09-12
 
     - [Ling/Light_DatabaseInfo](https://github.com/lingtalfi/Light_DatabaseInfo) 1.0.1 --> 1.0.2
