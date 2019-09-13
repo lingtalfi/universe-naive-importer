@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.556 -- 2019-09-13
+
+    - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator)  --> 1.0.0
+
+
 - 2.0.555 -- 2019-09-12
 
     - [Ling/Light_DatabaseInfo](https://github.com/lingtalfi/Light_DatabaseInfo) 1.2.0 --> 1.3.0

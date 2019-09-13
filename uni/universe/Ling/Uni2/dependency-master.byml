@@ -813,6 +813,19 @@ galaxies:
                 map: true
             
         
+        Light_BreezeGenerator: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - Light
+                    - Light_DatabaseInfo
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Bullsheet: 
             version: 1.0.2
             dependencies: 
