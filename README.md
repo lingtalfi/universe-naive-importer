@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.567 -- 2019-09-16
+
+    - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.0.7 --> 1.1.0
+
+
 - 2.0.566 -- 2019-09-16
 
     - [Ling/BabyYamlDatabase](https://github.com/lingtalfi/BabyYamlDatabase)  --> 1.0.0
