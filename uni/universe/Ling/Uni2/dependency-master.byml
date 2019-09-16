@@ -117,6 +117,17 @@ galaxies:
             
             post_install: []
         
+        BabyYamlDatabase: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - ArrayToString
+                    - BabyYaml
+                    - Bat
+                
+            
+            post_install: []
+        
         BashColorTool: 
             version: 1.0.0
             dependencies: []

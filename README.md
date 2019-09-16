@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.566 -- 2019-09-16
+
+    - [Ling/BabyYamlDatabase](https://github.com/lingtalfi/BabyYamlDatabase)  --> 1.0.0
+
+
 - 2.0.565 -- 2019-09-16
 
     - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.6.2 --> 1.6.3
