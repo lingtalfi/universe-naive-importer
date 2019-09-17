@@ -1080,7 +1080,7 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.11.4
+            version: 1.11.5
             dependencies: 
                 Ling: 
                     - ArrayToString
