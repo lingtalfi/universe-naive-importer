@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.597 -- 2019-09-18
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.195 --> 1.196
+
+
 - 2.0.596 -- 2019-09-18
 
     - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.4.0 --> 1.4.1
