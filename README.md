@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.588 -- 2019-09-18
+
+    - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.8.1 --> 1.8.2
+
+
 - 2.0.587 -- 2019-09-18
 
     - [Ling/ArrayVariableResolver](https://github.com/lingtalfi/ArrayVariableResolver) 1.1.2 --> 1.2.0
