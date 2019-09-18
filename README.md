@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.594 -- 2019-09-18
+
+    - [Ling/JCsrfAction](https://github.com/lingtalfi/JCsrfAction)  --> 1.0.0
+
+
 - 2.0.593 -- 2019-09-18
 
     - [Ling/AjaxCommunicationProtocol](https://github.com/lingtalfi/AjaxCommunicationProtocol) 1.0.0 --> 1.0.1
