@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.589 -- 2019-09-18
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.6.3 --> 1.6.4
+
+
 - 2.0.588 -- 2019-09-18
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.8.1 --> 1.8.2
