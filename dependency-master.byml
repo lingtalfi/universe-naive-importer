@@ -788,9 +788,10 @@ galaxies:
             post_install: []
         
         Light: 
-            version: 0.13.2
+            version: 0.14.0
             dependencies: 
                 Ling: 
+                    - Light_EndRoutine
                     - SicTools
                     - Bat
                     - DirScanner
