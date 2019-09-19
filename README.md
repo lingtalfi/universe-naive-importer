@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.608 -- 2019-09-19
+
+    - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 1.1.1 --> 1.1.2
+
+
 - 2.0.607 -- 2019-09-19
 
     - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 1.1.0 --> 1.1.1
