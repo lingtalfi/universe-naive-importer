@@ -901,6 +901,13 @@ galaxies:
                 map: true
             
         
+        Light_EndRoutine: 
+            version: 1.0.0
+            dependencies: []
+            post_install: 
+                map: true
+            
+        
         Light_Firewall: 
             version: 1.0.0
             dependencies: 
