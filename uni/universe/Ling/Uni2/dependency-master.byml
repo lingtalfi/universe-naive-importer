@@ -909,6 +909,18 @@ galaxies:
                 map: true
             
         
+        Light_EndRoutine_CsrfPageCleaner: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - CSRFTools
+                    - Light_EndRoutine
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Firewall: 
             version: 1.0.0
             dependencies: 
