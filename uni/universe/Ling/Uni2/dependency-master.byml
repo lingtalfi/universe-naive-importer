@@ -818,6 +818,17 @@ galaxies:
                 map: true
             
         
+        Light_AjaxHandler: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_BMenu: 
             version: 1.4.0
             dependencies: 
