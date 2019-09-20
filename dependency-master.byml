@@ -941,6 +941,19 @@ galaxies:
                 map: true
             
         
+        Light_EndRoutine_Debugger: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - ArrayToString
+                    - Light_EndRoutine
+                    - Light_Logger
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Firewall: 
             version: 1.0.0
             dependencies: 
