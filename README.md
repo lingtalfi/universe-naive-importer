@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.625 -- 2019-09-20
+
+    - [Ling/Light](https://github.com/lingtalfi/Light) 0.15.0 --> 0.16.0
+
+
 - 2.0.624 -- 2019-09-20
 
     - [Ling/Light_EndRoutine_Debugger](https://github.com/lingtalfi/Light_EndRoutine_Debugger)  --> 1.0.0
