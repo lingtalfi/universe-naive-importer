@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.628 -- 2019-09-20
+
+    - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.2.0 --> 1.2.1
+
+
 - 2.0.627 -- 2019-09-20
 
     - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.12.0 --> 1.12.1
