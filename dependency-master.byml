@@ -203,8 +203,13 @@ galaxies:
             post_install: []
         
         CSRFTools: 
-            version: 1.4.0
-            dependencies: []
+            version: 1.5.0
+            dependencies: 
+                Ling: 
+                    - ArrayToString
+                    - Bat
+                
+            
             post_install: []
         
         Chloroform: 
