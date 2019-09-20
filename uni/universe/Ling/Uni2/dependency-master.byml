@@ -930,10 +930,10 @@ galaxies:
             
         
         Light_EndRoutine_CsrfPageCleaner: 
-            version: 1.0.0
+            version: 1.1.0
             dependencies: 
                 Ling: 
-                    - CSRFTools
+                    - Light_Csrf
                     - Light_EndRoutine
                 
             
