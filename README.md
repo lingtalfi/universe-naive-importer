@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.629 -- 2019-09-20
+
+    - [Ling/CSRFTools](https://github.com/lingtalfi/CSRFTools) 1.5.0 --> 1.5.1
+
+
 - 2.0.628 -- 2019-09-20
 
     - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.2.0 --> 1.2.1
