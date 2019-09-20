@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.617 -- 2019-09-20
+
+    - [Ling/Light_Router](https://github.com/lingtalfi/Light_Router)  --> 1.0.0
+
+
 - 2.0.616 -- 2019-09-20
 
     - [Ling/Light](https://github.com/lingtalfi/Light) 0.14.0 --> 0.15.0
