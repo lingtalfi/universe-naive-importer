@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.614 -- 2019-09-20
+
+    - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.4.1 --> 1.5.0
+
+
 - 2.0.613 -- 2019-09-20
 
     - [Ling/CSRFTools](https://github.com/lingtalfi/CSRFTools) 1.2.1 --> 1.3.0
