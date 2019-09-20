@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.615 -- 2019-09-20
+
+    - [Ling/Light_Csrf](https://github.com/lingtalfi/Light_Csrf)  --> 1.0.0
+
+
 - 2.0.614 -- 2019-09-20
 
     - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.4.1 --> 1.5.0

@@ -866,6 +866,17 @@ galaxies:
                 map: true
             
         
+        Light_Csrf: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - CSRFTools
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Database: 
             version: 1.2.1
             dependencies: 
