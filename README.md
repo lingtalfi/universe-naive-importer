@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.618 -- 2019-09-20
+
+    - [Ling/CSRFTools](https://github.com/lingtalfi/CSRFTools) 1.3.0 --> 1.4.0
+
+
 - 2.0.617 -- 2019-09-20
 
     - [Ling/Light_Router](https://github.com/lingtalfi/Light_Router)  --> 1.0.0
