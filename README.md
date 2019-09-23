@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.645 -- 2019-09-23
+
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.16.4 --> 1.17.0
+
+
 - 2.0.644 -- 2019-09-23
 
     - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.6.0 --> 1.6.1
