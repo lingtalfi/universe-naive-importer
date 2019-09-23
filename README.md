@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.637 -- 2019-09-23
+
+    - [Ling/JCsrfAction](https://github.com/lingtalfi/JCsrfAction) 1.0.0 --> 1.0.1
+
+
 - 2.0.636 -- 2019-09-23
 
     - [Ling/JRicAdminTableHelper](https://github.com/lingtalfi/JRicAdminTableHelper) 1.0.2 --> 1.0.3
