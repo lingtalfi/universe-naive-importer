@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.644 -- 2019-09-23
+
+    - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.6.0 --> 1.6.1
+
+
 - 2.0.643 -- 2019-09-23
 
     - [Ling/JRicAdminTableHelper](https://github.com/lingtalfi/JRicAdminTableHelper) 1.0.3 --> 1.0.4
