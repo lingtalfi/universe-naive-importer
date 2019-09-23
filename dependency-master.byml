@@ -175,7 +175,7 @@ galaxies:
             post_install: []
         
         Bootstrap4AdminTable: 
-            version: 1.5.0
+            version: 1.6.0
             dependencies: 
                 Ling: 
                     - Bat
@@ -680,7 +680,7 @@ galaxies:
             post_install: []
         
         JResponsiveTableHelper: 
-            version: 1.4.1
+            version: 1.4.2
             dependencies: []
             post_install: 
                 map: true
