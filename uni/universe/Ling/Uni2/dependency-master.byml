@@ -627,6 +627,11 @@ galaxies:
             
             post_install: []
         
+        JAcpHep: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         JAjaxLoader: 
             version: 1.4.0
             dependencies: []

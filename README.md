@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.638 -- 2019-09-23
+
+    - [Ling/JAcpHep](https://github.com/lingtalfi/JAcpHep)  --> 1.0.0
+
+
 - 2.0.637 -- 2019-09-23
 
     - [Ling/JCsrfAction](https://github.com/lingtalfi/JCsrfAction) 1.0.0 --> 1.0.1
