@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.647 -- 2019-09-23
+
+    - [Ling/JRicAdminTableHelper](https://github.com/lingtalfi/JRicAdminTableHelper) 1.0.4 --> 1.0.5
+
+
 - 2.0.646 -- 2019-09-23
 
     - universe minor increment
