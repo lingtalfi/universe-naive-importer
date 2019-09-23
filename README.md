@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.641 -- 2019-09-23
+
+    - [Ling/JResponsiveTableHelper](https://github.com/lingtalfi/JResponsiveTableHelper) 1.4.0 --> 1.4.1
+
+
 - 2.0.640 -- 2019-09-23
 
     - [Ling/JAcpHep](https://github.com/lingtalfi/JAcpHep) 1.0.0 --> 1.0.1

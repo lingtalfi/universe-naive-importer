@@ -680,9 +680,11 @@ galaxies:
             post_install: []
         
         JResponsiveTableHelper: 
-            version: 1.4.0
+            version: 1.4.1
             dependencies: []
-            post_install: []
+            post_install: 
+                map: true
+            
         
         JRicAdminTableHelper: 
             version: 1.0.3
