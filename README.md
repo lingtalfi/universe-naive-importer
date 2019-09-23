@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.643 -- 2019-09-23
+
+    - [Ling/JRicAdminTableHelper](https://github.com/lingtalfi/JRicAdminTableHelper) 1.0.3 --> 1.0.4
+
+
 - 2.0.642 -- 2019-09-23
 
     - [Ling/JAcpHep](https://github.com/lingtalfi/JAcpHep) 1.0.1 --> 1.0.2

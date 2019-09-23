@@ -687,9 +687,11 @@ galaxies:
             
         
         JRicAdminTableHelper: 
-            version: 1.0.3
+            version: 1.0.4
             dependencies: []
-            post_install: []
+            post_install: 
+                map: true
+            
         
         Jin: 
             version: 1.0.0
