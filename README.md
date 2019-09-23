@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.639 -- 2019-09-23
+
+    - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.5.3 --> 1.6.0
+
+
 - 2.0.638 -- 2019-09-23
 
     - [Ling/JAcpHep](https://github.com/lingtalfi/JAcpHep)  --> 1.0.0
