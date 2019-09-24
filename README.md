@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.655 -- 2019-09-24
+
+    - [Ling/Light_EndRoutine_CsrfPageCleaner](https://github.com/lingtalfi/Light_EndRoutine_CsrfPageCleaner) 1.1.1 --> 1.2.0
+
+
 - 2.0.654 -- 2019-09-24
 
     - [Ling/Light](https://github.com/lingtalfi/Light) 0.19.0 --> 0.20.0
