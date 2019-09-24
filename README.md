@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.650 -- 2019-09-24
+
+    - [Ling/JAcpHep](https://github.com/lingtalfi/JAcpHep) 1.0.2 --> 1.0.3
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.11.5 --> 1.12.0
+
+
 - 2.0.649 -- 2019-09-24
 
     - [Ling/Light](https://github.com/lingtalfi/Light) 0.16.0 --> 0.17.0
