@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.656 -- 2019-09-24
+
+    - [Ling/AjaxCommunicationProtocol](https://github.com/lingtalfi/AjaxCommunicationProtocol) 1.0.1 --> 1.1.0
+
+
 - 2.0.655 -- 2019-09-24
 
     - [Ling/Light_EndRoutine_CsrfPageCleaner](https://github.com/lingtalfi/Light_EndRoutine_CsrfPageCleaner) 1.1.1 --> 1.2.0
