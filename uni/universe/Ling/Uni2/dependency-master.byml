@@ -1230,7 +1230,7 @@ galaxies:
             post_install: []
         
         LingTalfi: 
-            version: 1.12.0
+            version: 1.13.0
             dependencies: 
                 Ling: 
                     - DocTools

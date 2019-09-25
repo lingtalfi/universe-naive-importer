@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.660 -- 2019-09-25
+
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.12.0 --> 1.13.0
+
+
 - 2.0.659 -- 2019-09-25
 
     - [Ling/JSortTable](https://github.com/lingtalfi/JSortTable)  --> 1.0.0
