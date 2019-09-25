@@ -680,7 +680,7 @@ galaxies:
             post_install: []
         
         JResponsiveTableHelper: 
-            version: 1.4.2
+            version: 1.5.0
             dependencies: []
             post_install: 
                 map: true
