@@ -693,6 +693,13 @@ galaxies:
                 map: true
             
         
+        JSortTable: 
+            version: 1.0.0
+            dependencies: []
+            post_install: 
+                map: true
+            
+        
         Jin: 
             version: 1.0.0
             dependencies: []

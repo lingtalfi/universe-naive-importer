@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.659 -- 2019-09-25
+
+    - [Ling/JSortTable](https://github.com/lingtalfi/JSortTable)  --> 1.0.0
+
+
 - 2.0.658 -- 2019-09-24
 
     - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 1.3.0 --> 1.4.0
