@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.675 -- 2019-09-26
+
+    - [Ling/Light_Bullsheet](https://github.com/lingtalfi/Light_Bullsheet) 1.0.2 --> 1.0.3
+
+
 - 2.0.674 -- 2019-09-26
 
     - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.11.8 --> 1.11.9
