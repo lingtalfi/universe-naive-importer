@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.666 -- 2019-09-26
+
+    - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 2.0.1 --> 2.1.0
+
+
 - 2.0.665 -- 2019-09-25
 
     - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.6.0 --> 1.7.0
