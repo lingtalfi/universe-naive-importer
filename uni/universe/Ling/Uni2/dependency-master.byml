@@ -1200,6 +1200,20 @@ galaxies:
                 map: true
             
         
+        Light_UserData: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - DirScanner
+                    - Light
+                    - Light_User
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_UserDatabase: 
             version: 1.11.9
             dependencies: 
