@@ -1074,9 +1074,10 @@ galaxies:
             
         
         Light_MicroPermission: 
-            version: 1.0.0
+            version: 1.1.0
             dependencies: 
                 Ling: 
+                    - BabyYaml
                     - Light
                     - Light_User
                 
