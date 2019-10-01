@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.693 -- 2019-10-01
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.12.2 --> 1.13.0
+
+
 - 2.0.692 -- 2019-10-01
 
     - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.12.1 --> 1.12.2
