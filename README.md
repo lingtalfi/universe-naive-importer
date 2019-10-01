@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.688 -- 2019-10-01
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.199 --> 1.2
+
+
 - 2.0.687 -- 2019-10-01
 
     - [Ling/Light_EndRoutine_CsrfPageCleaner](https://github.com/lingtalfi/Light_EndRoutine_CsrfPageCleaner) 1.3.0 --> 1.3.1
