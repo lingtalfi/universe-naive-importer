@@ -26,7 +26,6 @@ class CaseTool
     }
 
 
-
     public static function snakeToCamel(string $str)
     {
         return lcfirst(self::snakeToPascal($str));
@@ -103,6 +102,27 @@ class CaseTool
         return $first . implode('', $p);
     }
 
+
+    /**
+     * Returns a file name, which does not contain the following characters:
+     *
+     * - /
+     * - \
+     * - >
+     * - <
+     * - |
+     * - :
+     * - ;
+     * - &
+     *
+     *
+     * @param string $fileName
+     * @return string
+     */
+    public static function toFileName(string $fileName):string
+    {
+
+    }
 
     public static function toFlexibleCamel(string $str)
     {
