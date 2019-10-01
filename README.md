@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.695 -- 2019-10-01
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.2 --> 1.201
+
+
 - 2.0.694 -- 2019-10-01
 
     - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.6.1 --> 1.7.0

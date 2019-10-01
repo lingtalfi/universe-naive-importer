@@ -104,23 +104,15 @@ class CaseTool
 
 
     /**
-     * Returns a file name, which does not contain the following characters:
-     *
-     * - /
-     * - \
-     * - >
-     * - <
-     * - |
-     * - :
-     * - ;
-     * - &
-     *
+     * Returns a portable file name.
+     * For more details: https://github.com/lingtalfi/NotationFan/blob/master/portable-filename.md
      *
      * @param string $fileName
      * @return string
      */
-    public static function toFileName(string $fileName):string
+    public static function toPortableFilename(string $fileName): string
     {
+        return preg_replace('![^a-zA-Z0-9._-]!', '', $fileName);
 
     }
 
