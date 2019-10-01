@@ -922,6 +922,20 @@ galaxies:
                 map: true
             
         
+        Light_DatabaseUtils: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                    - Bat
+                    - Light_DatabaseInfo
+                    - Light_Database
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_EasyRoute: 
             version: 1.1.0
             dependencies: 
