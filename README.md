@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.689 -- 2019-10-01
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.10.2 --> 1.11.0
+
+
 - 2.0.688 -- 2019-10-01
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.199 --> 1.2
