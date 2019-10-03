@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.703 -- 2019-10-03
+
+    - [Ling/Light_PasswordProtector](https://github.com/lingtalfi/Light_PasswordProtector) 1.0.0 --> 1.0.1
+
+
 - 2.0.702 -- 2019-10-03
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.201 --> 1.202
