@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.704 -- 2019-10-03
+
+    - [Ling/Light_PluginDatabaseInstaller](https://github.com/lingtalfi/Light_PluginDatabaseInstaller) 1.2.0 --> 1.3.0
+
+
 - 2.0.703 -- 2019-10-03
 
     - [Ling/Light_PasswordProtector](https://github.com/lingtalfi/Light_PasswordProtector) 1.0.0 --> 1.0.1
