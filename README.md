@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.701 -- 2019-10-03
+
+    - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.11.9 --> 1.12.0
+
+
 - 2.0.700 -- 2019-10-03
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.1.0 --> 1.1.1
