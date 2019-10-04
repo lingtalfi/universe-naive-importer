@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.711 -- 2019-10-04
+
+    - [Ling/JRicAdminTableHelper](https://github.com/lingtalfi/JRicAdminTableHelper) 1.0.5 --> 1.0.6
+
+
 - 2.0.710 -- 2019-10-04
 
     - [Ling/DirScanner](https://github.com/lingtalfi/DirScanner) 1.11.2 --> 1.12.0
