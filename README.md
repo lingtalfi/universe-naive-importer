@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.708 -- 2019-10-04
+
+    - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.8.3 --> 1.8.4
+
+
 - 2.0.707 -- 2019-10-04
 
     - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.7.0 --> 1.7.1
