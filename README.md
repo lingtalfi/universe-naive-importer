@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.706 -- 2019-10-04
+
+    - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.8.2 --> 1.8.3
+
+
 - 2.0.705 -- 2019-10-04
 
     - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.12.0 --> 1.12.1
