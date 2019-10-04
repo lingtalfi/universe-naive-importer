@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.710 -- 2019-10-04
+
+    - [Ling/DirScanner](https://github.com/lingtalfi/DirScanner) 1.11.2 --> 1.12.0
+
+
 - 2.0.709 -- 2019-10-04
 
     - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.2.0 --> 1.3.0
