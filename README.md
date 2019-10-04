@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.712 -- 2019-10-04
+
+    - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.7.1 --> 1.7.2
+
+
 - 2.0.711 -- 2019-10-04
 
     - [Ling/JRicAdminTableHelper](https://github.com/lingtalfi/JRicAdminTableHelper) 1.0.5 --> 1.0.6
