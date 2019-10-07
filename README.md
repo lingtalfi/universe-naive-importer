@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.714 -- 2019-10-07
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.13.1 --> 1.13.2
+
+
 - 2.0.713 -- 2019-10-07
 
     - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.7.2 --> 1.7.3
