@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.713 -- 2019-10-07
+
+    - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.7.2 --> 1.7.3
+
+
 - 2.0.712 -- 2019-10-04
 
     - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.7.1 --> 1.7.2
