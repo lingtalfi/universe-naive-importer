@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.716 -- 2019-10-07
+
+    - [Ling/Csv](https://github.com/lingtalfi/Csv) 1.2.1 --> 1.3.0
+
+
 - 2.0.715 -- 2019-10-07
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.202 --> 1.203
