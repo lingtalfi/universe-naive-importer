@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.721 -- 2019-10-08
+
+    - [Ling/PhpExcelTool](https://github.com/lingtalfi/PhpExcelTool) 1.9.1 --> 1.9.2
+
+
 - 2.0.720 -- 2019-10-08
 
     - [Ling/PhpExcelTool](https://github.com/lingtalfi/PhpExcelTool) 1.9.0 --> 1.9.1
