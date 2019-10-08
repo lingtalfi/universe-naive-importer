@@ -1565,8 +1565,12 @@ galaxies:
             post_install: []
         
         PhpSpreadSheetTool: 
-            version: 1.0.1
-            dependencies: []
+            version: 1.0.2
+            dependencies: 
+                Ling: 
+                    - Bat
+                
+            
             post_install: 
                 map: true
                 composer: 
