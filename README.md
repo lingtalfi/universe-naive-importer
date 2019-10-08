@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.718 -- 2019-10-08
+
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.17.0 --> 1.18.0
+
+
 - 2.0.717 -- 2019-10-07
 
     - [Ling/Csv](https://github.com/lingtalfi/Csv) 1.3.0 --> 1.3.1
