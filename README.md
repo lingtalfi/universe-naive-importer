@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.719 -- 2019-10-08
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.11.0 --> 1.12.0
+
+
 - 2.0.718 -- 2019-10-08
 
     - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.17.0 --> 1.18.0
