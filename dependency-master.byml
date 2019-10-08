@@ -1546,8 +1546,13 @@ galaxies:
             post_install: []
         
         PhpExcelTool: 
-            version: 1.9.0
-            dependencies: []
+            version: 1.9.1
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - QuickPdo
+                
+            
             post_install: []
         
         PhpFile: 
@@ -1994,7 +1999,7 @@ galaxies:
             post_install: []
         
         UniverseTools: 
-            version: 1.18.0
+            version: 1.19.0
             dependencies: 
                 Ling: 
                     - BabyYaml

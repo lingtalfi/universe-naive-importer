@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.720 -- 2019-10-08
+
+    - [Ling/PhpExcelTool](https://github.com/lingtalfi/PhpExcelTool) 1.9.0 --> 1.9.1
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.18.0 --> 1.19.0
+
+
 - 2.0.719 -- 2019-10-08
 
     - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.11.0 --> 1.12.0
