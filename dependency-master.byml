@@ -1564,6 +1564,16 @@ galaxies:
             
             post_install: []
         
+        PhpSpreadSheetTool: 
+            version: 1.0.0
+            dependencies: []
+            post_install: 
+                map: true
+                composer: 
+                    - require tecnickcom/tcpdf
+                
+            
+        
         PhpTailer: 
             version: 1.0.1
             dependencies: 

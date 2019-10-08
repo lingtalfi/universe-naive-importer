@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.722 -- 2019-10-08
+
+    - [Ling/PhpSpreadSheetTool](https://github.com/lingtalfi/PhpSpreadSheetTool)  --> 1.0.0
+
+
 - 2.0.721 -- 2019-10-08
 
     - [Ling/PhpExcelTool](https://github.com/lingtalfi/PhpExcelTool) 1.9.1 --> 1.9.2
