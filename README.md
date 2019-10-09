@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.726 -- 2019-10-09
+
+    - [Ling/Light_LightInstance](https://github.com/lingtalfi/Light_LightInstance)  --> 1.0.0
+
+
 - 2.0.725 -- 2019-10-08
 
     - [Ling/PhpSpreadSheetTool](https://github.com/lingtalfi/PhpSpreadSheetTool) 1.0.1 --> 1.0.2

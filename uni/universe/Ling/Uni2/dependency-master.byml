@@ -1074,6 +1074,18 @@ galaxies:
                 map: true
             
         
+        Light_LightInstance: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                    - Light_Initializer
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Logger: 
             version: 1.4.0
             dependencies: 
