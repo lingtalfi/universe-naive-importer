@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.731 -- 2019-10-09
+
+    - [Ling/ParametrizedSqlQuery](https://github.com/lingtalfi/ParametrizedSqlQuery) 1.4.0 --> 1.4.1
+
+
 - 2.0.730 -- 2019-10-09
 
     - [Ling/PhpSpreadSheetTool](https://github.com/lingtalfi/PhpSpreadSheetTool) 1.0.2 --> 1.0.3
