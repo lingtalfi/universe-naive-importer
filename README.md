@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.730 -- 2019-10-09
+
+    - [Ling/PhpSpreadSheetTool](https://github.com/lingtalfi/PhpSpreadSheetTool) 1.0.2 --> 1.0.3
+
+
 - 2.0.729 -- 2019-10-09
 
     - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.13.2 --> 1.13.3
