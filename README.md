@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.733 -- 2019-10-10
+
+    - [Ling/SqlQuery](https://github.com/lingtalfi/SqlQuery) 1.10.2 --> 1.10.3
+
+
 - 2.0.732 -- 2019-10-10
 
     - [Ling/SqlQuery](https://github.com/lingtalfi/SqlQuery) 1.10.1 --> 1.10.2
