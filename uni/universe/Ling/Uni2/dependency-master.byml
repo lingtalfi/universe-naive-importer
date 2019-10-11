@@ -1496,10 +1496,9 @@ galaxies:
             post_install: []
         
         ParametrizedSqlQuery: 
-            version: 1.4.1
+            version: 1.5.0
             dependencies: 
                 Ling: 
-                    - ArrayToString
                     - BabyYaml
                     - Bat
                     - SqlQuery
