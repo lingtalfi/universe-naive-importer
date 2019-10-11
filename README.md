@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.734 -- 2019-10-11
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.13.3 --> 1.14.0
+
+
 - 2.0.733 -- 2019-10-10
 
     - [Ling/SqlQuery](https://github.com/lingtalfi/SqlQuery) 1.10.2 --> 1.10.3
