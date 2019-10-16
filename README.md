@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.738 -- 2019-10-16
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.1.1 --> 1.2.0
+
+
 - 2.0.737 -- 2019-10-16
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.204 --> 1.205
