@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.741 -- 2019-10-16
+
+    - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.12.1 --> 1.13.0
+
+
 - 2.0.740 -- 2019-10-16
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.2.0 --> 1.2.1
