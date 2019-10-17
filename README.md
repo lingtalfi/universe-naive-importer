@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.766 -- 2019-10-17
+
+    - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.2.1 --> 1.3.0
+
+
 - 2.0.765 -- 2019-10-17
 
     - [Ling/ThumbnailTools](https://github.com/lingtalfi/ThumbnailTools) 1.3.0 --> 1.3.1
