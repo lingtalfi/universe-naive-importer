@@ -1233,7 +1233,7 @@ galaxies:
             
         
         Light_UserData: 
-            version: 1.1.0
+            version: 1.2.0
             dependencies: 
                 Ling: 
                     - SimplePdoWrapper
@@ -1243,7 +1243,6 @@ galaxies:
                     - DirScanner
                     - Light_Initializer
                     - Light_PluginDatabaseInstaller
-                    - Light_ReverseRouter
                     - Light_UserDatabase
                 
             
