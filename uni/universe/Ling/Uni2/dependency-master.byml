@@ -812,7 +812,7 @@ galaxies:
             post_install: []
         
         Light: 
-            version: 0.25.0
+            version: 0.25.1
             dependencies: 
                 Ling: 
                     - Light_EndRoutine
