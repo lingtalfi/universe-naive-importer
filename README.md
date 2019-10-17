@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.764 -- 2019-10-17
+
+    - [Ling/ThumbnailTools](https://github.com/lingtalfi/ThumbnailTools) 1.2.2 --> 1.3.0
+
+
 - 2.0.763 -- 2019-10-17
 
     - [Ling/Light_UserData](https://github.com/lingtalfi/Light_UserData) 1.2.0 --> 1.3.0
