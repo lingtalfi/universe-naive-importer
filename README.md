@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.756 -- 2019-10-17
+
+    - [Ling/Light](https://github.com/lingtalfi/Light) 0.25.1 --> 0.26.0
+
+
 - 2.0.755 -- 2019-10-17
 
     - [Ling/Light](https://github.com/lingtalfi/Light) 0.25.0 --> 0.25.1
