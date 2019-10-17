@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.751 -- 2019-10-17
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.12.0 --> 1.12.1
+
+
 - 2.0.750 -- 2019-10-17
 
     - [Ling/Light_Logger](https://github.com/lingtalfi/Light_Logger) 1.4.1 --> 1.4.2
