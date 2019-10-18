@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.771 -- 2019-10-18
+
+    - [Ling/Light_HtmlPageCopilot](https://github.com/lingtalfi/Light_HtmlPageCopilot) 1.0.1 --> 1.0.2
+
+
 - 2.0.770 -- 2019-10-18
 
     - [Ling/Light_HtmlPageCopilot](https://github.com/lingtalfi/Light_HtmlPageCopilot) 1.0.0 --> 1.0.1
