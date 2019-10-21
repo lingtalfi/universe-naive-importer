@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.781 -- 2019-10-21
+
+    - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.14.1 --> 1.14.2
+
+
 - 2.0.780 -- 2019-10-21
 
     - [Ling/Light_ReverseRouter](https://github.com/lingtalfi/Light_ReverseRouter) 1.7.0 --> 1.7.1
