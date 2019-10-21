@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.774 -- 2019-10-21
+
+    - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform)  --> 1.0.0
+
+
 - 2.0.773 -- 2019-10-21
 
     - [Ling/Chloroform_HeliumLightRenderer](https://github.com/lingtalfi/Chloroform_HeliumLightRenderer) 1.0.0 --> 1.0.1

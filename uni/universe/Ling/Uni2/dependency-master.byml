@@ -1179,6 +1179,19 @@ galaxies:
                 
             
         
+        Light_Realform: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - BabyYaml
+                    - Bat
+                    - Chloroform
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Realist: 
             version: 1.14.0
             dependencies: 
