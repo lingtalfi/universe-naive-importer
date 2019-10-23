@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.795 -- 2019-10-23
+
+    - [Ling/Light](https://github.com/lingtalfi/Light) 0.27.1 --> 0.27.2
+
+
 - 2.0.794 -- 2019-10-23
 
     - [Ling/Light_UserData](https://github.com/lingtalfi/Light_UserData) 1.4.1 --> 1.5.0
