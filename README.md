@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.791 -- 2019-10-23
+
+    - [Ling/Light_DatabaseInfo](https://github.com/lingtalfi/Light_DatabaseInfo) 1.3.0 --> 1.4.0
+
+
 - 2.0.790 -- 2019-10-22
 
     - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.17.0 --> 1.17.1
