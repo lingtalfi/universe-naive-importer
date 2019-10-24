@@ -248,14 +248,16 @@ galaxies:
             
         
         Chloroform_HydrogenRenderer: 
-            version: 1.2.2
+            version: 1.2.3
             dependencies: 
                 Ling: 
                     - Bat
                     - Chloroform
                 
             
-            post_install: []
+            post_install: 
+                map: true
+            
         
         Chronos: 
             version: 1.0.0
