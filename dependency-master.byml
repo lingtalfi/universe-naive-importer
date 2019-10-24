@@ -1178,6 +1178,20 @@ galaxies:
                 
             
         
+        Light_RealGenerator: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - Light
+                    - Light_DatabaseInfo
+                    - BabyYaml
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Realform: 
             version: 1.0.3
             dependencies: 
