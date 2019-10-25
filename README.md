@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.808 -- 2019-10-25
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.12.3 --> 1.13.0
+
+
 - 2.0.807 -- 2019-10-24
 
     - [Ling/Chloroform_HeliumRenderer](https://github.com/lingtalfi/Chloroform_HeliumRenderer) 1.4.0 --> 1.4.1
