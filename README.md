@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.810 -- 2019-10-25
+
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.14.0 --> 1.14.1
+
+
 - 2.0.809 -- 2019-10-25
 
     - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.13.1 --> 1.14.0
