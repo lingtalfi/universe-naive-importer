@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.825 -- 2019-10-28
+
+    - [Ling/Light](https://github.com/lingtalfi/Light) 0.33.0 --> 0.34.0
+
+
 - 2.0.824 -- 2019-10-28
 
     - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.0.0 --> 1.0.1
