@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.829 -- 2019-10-29
+
+    - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.13.2 --> 1.14.0
+
+
 - 2.0.828 -- 2019-10-28
 
     - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.16.0 --> 1.16.1
