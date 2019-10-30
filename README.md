@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.833 -- 2019-10-30
+
+    - [Ling/Light_MicroPermission](https://github.com/lingtalfi/Light_MicroPermission) 1.1.1 --> 1.1.2
+
+
 - 2.0.832 -- 2019-10-29
 
     - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.14.1 --> 1.15.0
