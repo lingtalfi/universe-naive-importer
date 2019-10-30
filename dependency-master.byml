@@ -1346,7 +1346,7 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.12.1
+            version: 1.12.2
             dependencies: 
                 Ling: 
                     - ArrayToString
