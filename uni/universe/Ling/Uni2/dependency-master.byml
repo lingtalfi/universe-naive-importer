@@ -1327,12 +1327,13 @@ galaxies:
             
         
         Light_UserData: 
-            version: 1.5.0
+            version: 1.6.0
             dependencies: 
                 Ling: 
+                    - Light
+                    - Light_MicroPermission
                     - SimplePdoWrapper
                     - Chloroform
-                    - Light
                     - Light_User
                     - Bat
                     - DirScanner
