@@ -881,12 +881,13 @@ galaxies:
             
         
         Light_BreezeGenerator: 
-            version: 1.5.1
+            version: 1.6.0
             dependencies: 
                 Ling: 
                     - Bat
                     - Light
                     - Light_DatabaseInfo
+                    - BabyYaml
                 
             
             post_install: 
