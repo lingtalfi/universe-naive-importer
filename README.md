@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.834 -- 2019-10-30
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.16.1 --> 1.17.0
+
+
 - 2.0.833 -- 2019-10-30
 
     - [Ling/Light_MicroPermission](https://github.com/lingtalfi/Light_MicroPermission) 1.1.1 --> 1.1.2
