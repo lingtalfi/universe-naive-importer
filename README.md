@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.849 -- 2019-10-31
+
+    - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.8.0 --> 1.8.1
+
+
 - 2.0.848 -- 2019-10-31
 
     - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.1.0 --> 1.2.0
