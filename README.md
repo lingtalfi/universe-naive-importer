@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.850 -- 2019-10-31
+
+    - [Ling/ArrayVariableResolver](https://github.com/lingtalfi/ArrayVariableResolver) 1.2.0 --> 1.2.1
+
+
 - 2.0.849 -- 2019-10-31
 
     - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.8.0 --> 1.8.1
