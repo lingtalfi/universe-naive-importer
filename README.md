@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.851 -- 2019-11-01
+
+    - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.17.2 --> 1.18.0
+
+
 - 2.0.850 -- 2019-10-31
 
     - [Ling/ArrayVariableResolver](https://github.com/lingtalfi/ArrayVariableResolver) 1.2.0 --> 1.2.1
