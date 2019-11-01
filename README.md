@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.854 -- 2019-11-01
+
+    - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform) 1.0.4 --> 1.1.0
+
+
 - 2.0.853 -- 2019-11-01
 
     - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.18.0 --> 1.19.0
