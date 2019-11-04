@@ -1241,12 +1241,13 @@ galaxies:
             
         
         Light_RealGenerator: 
-            version: 1.1.0
+            version: 1.2.0
             dependencies: 
                 Ling: 
                     - Bat
                     - Light
                     - Light_DatabaseInfo
+                    - ArrayVariableResolver
                     - BabyYaml
                 
             
