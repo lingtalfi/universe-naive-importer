@@ -1535,7 +1535,7 @@ galaxies:
             post_install: []
         
         NotationFan: 
-            version: 1.7.1
+            version: 1.7.2
             dependencies: []
             post_install: []
         

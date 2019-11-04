@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.855 -- 2019-11-04
+
+    - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.7.1 --> 1.7.2
+
+
 - 2.0.854 -- 2019-11-01
 
     - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform) 1.0.4 --> 1.1.0
