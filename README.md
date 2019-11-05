@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.862 -- 2019-11-05
+
+    - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.0.1 --> 1.1.0
+
+
 - 2.0.861 -- 2019-11-04
 
     - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.2.0 --> 1.3.0
