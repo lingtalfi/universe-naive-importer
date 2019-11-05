@@ -1339,7 +1339,7 @@ galaxies:
             
         
         Light_UserData: 
-            version: 1.7.0
+            version: 1.7.1
             dependencies: 
                 Ling: 
                     - Light
@@ -1348,6 +1348,7 @@ galaxies:
                     - Chloroform
                     - Light_User
                     - Bat
+                    - Light_Realform
                     - DirScanner
                     - Light_Initializer
                     - Light_PluginDatabaseInstaller
