@@ -1,9 +1,0 @@
-dependencies: 
-    Ling: 
-        - ArrayToString
-        - BabyYaml
-        - Bat
-        - DirScanner
-    
-
-post_install: []

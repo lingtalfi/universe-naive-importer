@@ -1,6 +1,0 @@
-dependencies: 
-    Ling: 
-        - UniversalLogger
-    
-
-post_install: []

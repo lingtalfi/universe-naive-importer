@@ -1,6 +1,0 @@
-dependencies: 
-    Ling: 
-        - Komin
-    
-
-post_install: []
