@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.878 -- 2019-11-06
+
+    - [Ling/JResponsiveTableHelper](https://github.com/lingtalfi/JResponsiveTableHelper) 1.5.0 --> 1.5.1
+
+
 - 2.0.877 -- 2019-11-06
 
     - [Ling/Light_Kit_Admin_Generator](https://github.com/lingtalfi/Light_Kit_Admin_Generator) 1.0.0 --> 1.0.1
