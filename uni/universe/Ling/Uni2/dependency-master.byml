@@ -1124,6 +1124,20 @@ galaxies:
                 map: true
             
         
+        Light_Kit_Admin_Generator: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - BabyYaml
+                    - Light_RealGenerator
+                    - Light_ControllerHub
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Kit_BootstrapWidgetLibrary: 
             version: 1.15.0
             dependencies: 
