@@ -933,6 +933,18 @@ galaxies:
                 map: true
             
         
+        Light_CsrfSimple: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Chloroform
+                    - Light
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Database: 
             version: 1.2.1
             dependencies: 
