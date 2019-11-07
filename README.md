@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.883 -- 2019-11-07
+
+    - [Ling/Light_UserData](https://github.com/lingtalfi/Light_UserData) 1.7.1 --> 1.7.2
+
+
 - 2.0.882 -- 2019-11-06
 
     - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.4.5 --> 1.5.0
