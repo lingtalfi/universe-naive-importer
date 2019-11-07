@@ -1139,6 +1139,20 @@ galaxies:
                 map: true
             
         
+        Light_Kit_Admin_DebugTrace: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - BabyYaml
+                    - Bat
+                    - Light
+                    - Light_Initializer
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Kit_Admin_Generator: 
             version: 1.0.1
             dependencies: 
