@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.889 -- 2019-11-07
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.17.3 --> 1.18.0
+
+
 - 2.0.888 -- 2019-11-07
 
     - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.2.0 --> 1.3.0

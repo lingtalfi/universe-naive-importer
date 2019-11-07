@@ -1302,12 +1302,12 @@ galaxies:
             
         
         Light_Realist: 
-            version: 1.17.3
+            version: 1.18.0
             dependencies: 
                 Ling: 
                     - Light_AjaxHandler
                     - Light
-                    - Light_Csrf
+                    - Light_CsrfSimple
                     - Bat
                     - ArrayToString
                     - BabyYaml
