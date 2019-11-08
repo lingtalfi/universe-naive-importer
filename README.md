@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.899 -- 2019-11-08
+
+    - [Ling/Light_CsrfSimple](https://github.com/lingtalfi/Light_CsrfSimple) 1.1.1 --> 1.2.0
+
+
 - 2.0.898 -- 2019-11-08
 
     - [Ling/Light_CsrfSimple](https://github.com/lingtalfi/Light_CsrfSimple) 1.1.0 --> 1.1.1
