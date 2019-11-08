@@ -827,11 +827,12 @@ galaxies:
             post_install: []
         
         Light: 
-            version: 0.40.1
+            version: 0.41.0
             dependencies: 
                 Ling: 
                     - Light_EndRoutine
                     - Light_Events
+                    - Light_LightInstance
                     - SicTools
                     - Bat
                     - DirScanner
