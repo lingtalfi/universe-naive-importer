@@ -935,11 +935,12 @@ galaxies:
             
         
         Light_CsrfSimple: 
-            version: 1.0.0
+            version: 1.1.0
             dependencies: 
                 Ling: 
                     - Chloroform
                     - Light
+                    - Light_Events
                 
             
             post_install: 
