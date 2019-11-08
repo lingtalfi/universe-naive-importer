@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.895 -- 2019-11-08
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.13.0 --> 1.13.1
+
+
 - 2.0.894 -- 2019-11-07
 
     - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.9.0 --> 1.9.1
