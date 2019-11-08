@@ -1142,12 +1142,13 @@ galaxies:
             
         
         Light_Kit_Admin_DebugTrace: 
-            version: 1.0.0
+            version: 1.1.0
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
                     - Light
+                    - Light_CsrfSimple
                     - Light_Initializer
                 
             
