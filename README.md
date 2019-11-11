@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.908 -- 2019-11-11
+
+    - [Ling/Light_Events](https://github.com/lingtalfi/Light_Events) 1.0.0 --> 1.1.0
+
+
 - 2.0.907 -- 2019-11-11
 
     - [Ling/Light_ZephyrTemplate](https://github.com/lingtalfi/Light_ZephyrTemplate) 1.1.1 --> 1.2.0
