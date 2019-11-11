@@ -843,13 +843,14 @@ galaxies:
             post_install: []
         
         Light_AjaxFileUploadManager: 
-            version: 1.3.0
+            version: 1.4.0
             dependencies: 
                 Ling: 
+                    - Bat
                     - Light
+                    - Light_Events
                     - Light_Logger
                     - BabyYaml
-                    - Bat
                     - Light_CsrfSimple
                     - Light_Database
                     - Light_UserData
