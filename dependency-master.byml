@@ -862,10 +862,12 @@ galaxies:
             
         
         Light_AjaxHandler: 
-            version: 1.6.0
+            version: 1.7.0
             dependencies: 
                 Ling: 
+                    - Bat
                     - Light
+                    - Light_Events
                 
             
             post_install: 
