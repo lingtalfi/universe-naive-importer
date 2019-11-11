@@ -1274,11 +1274,10 @@ galaxies:
             
         
         Light_PrettyError: 
-            version: 1.4.2
+            version: 1.5.0
             dependencies: 
                 Ling: 
                     - Light
-                    - Light_Initializer
                     - UniversalTemplateEngine
                 
             
