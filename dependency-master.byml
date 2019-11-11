@@ -1335,7 +1335,7 @@ galaxies:
             
         
         Light_Realist: 
-            version: 1.18.0
+            version: 1.18.1
             dependencies: 
                 Ling: 
                     - Light_AjaxHandler
