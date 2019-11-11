@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.919 -- 2019-11-11
+
+    - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.9.1 --> 1.10.0
+
+
 - 2.0.918 -- 2019-11-11
 
     - [Ling/ParametrizedSqlQuery](https://github.com/lingtalfi/ParametrizedSqlQuery) 1.6.0 --> 1.7.0
