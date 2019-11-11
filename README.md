@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.910 -- 2019-11-11
+
+    - [Ling/Light_Logger](https://github.com/lingtalfi/Light_Logger) 1.5.0 --> 1.6.0
+
+
 - 2.0.909 -- 2019-11-11
 
     - [Ling/Light](https://github.com/lingtalfi/Light) 0.42.0 --> 0.43.0
