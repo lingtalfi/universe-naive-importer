@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.913 -- 2019-11-11
+
+    - [Ling/Light_ExceptionHandler](https://github.com/lingtalfi/Light_ExceptionHandler)  --> 1.0.0
+
+
 - 2.0.912 -- 2019-11-11
 
     - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.3.0 --> 1.4.0

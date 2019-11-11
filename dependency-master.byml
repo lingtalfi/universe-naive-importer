@@ -1046,6 +1046,18 @@ galaxies:
                 map: true
             
         
+        Light_ExceptionHandler: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                    - Light_Logger
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Firewall: 
             version: 1.0.0
             dependencies: 
