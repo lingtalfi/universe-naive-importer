@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.923 -- 2019-11-12
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.19.0 --> 1.20.0
+
+
 - 2.0.922 -- 2019-11-12
 
     - [Ling/Light_ReverseRouter](https://github.com/lingtalfi/Light_ReverseRouter) 1.8.0 --> 1.9.0
