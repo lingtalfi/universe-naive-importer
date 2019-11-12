@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.930 -- 2019-11-12
+
+    - [Ling/JResponsiveTableHelper](https://github.com/lingtalfi/JResponsiveTableHelper) 1.5.1 --> 1.5.2
+
+
 - 2.0.929 -- 2019-11-12
 
     - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.11.0 --> 1.12.0
