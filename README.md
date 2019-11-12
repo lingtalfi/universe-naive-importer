@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.929 -- 2019-11-12
+
+    - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.11.0 --> 1.12.0
+
+
 - 2.0.928 -- 2019-11-12
 
     - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.22.1 --> 1.23.0
