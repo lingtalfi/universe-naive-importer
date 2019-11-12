@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.920 -- 2019-11-12
+
+    - [Ling/Light_ExceptionHandler](https://github.com/lingtalfi/Light_ExceptionHandler) 1.0.0 --> 1.0.1
+
+
 - 2.0.919 -- 2019-11-11
 
     - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.9.1 --> 1.10.0
