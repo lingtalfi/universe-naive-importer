@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.938 -- 2019-11-13
+
+    - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.8.0 --> 1.9.0
+
+
 - 2.0.937 -- 2019-11-13
 
     - [Ling/Light_DatabaseInfo](https://github.com/lingtalfi/Light_DatabaseInfo) 1.8.1 --> 1.9.0
