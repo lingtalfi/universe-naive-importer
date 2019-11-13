@@ -1335,13 +1335,15 @@ galaxies:
             
         
         Light_Realist: 
-            version: 1.23.0
+            version: 1.24.0
             dependencies: 
                 Ling: 
                     - Light_AjaxHandler
                     - Light
                     - Light_CsrfSimple
                     - Bat
+                    - Light_ControllerHub
+                    - Light_Kit_Admin
                     - ArrayToString
                     - BabyYaml
                     - Light_Database
