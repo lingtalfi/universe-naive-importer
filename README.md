@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.939 -- 2019-11-14
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.213 --> 1.214
+
+
 - 2.0.938 -- 2019-11-13
 
     - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.8.0 --> 1.9.0
