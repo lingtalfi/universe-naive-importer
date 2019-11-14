@@ -1172,7 +1172,7 @@ galaxies:
             
         
         Light_Kit_Admin_Generator: 
-            version: 1.0.1
+            version: 1.1.0
             dependencies: 
                 Ling: 
                     - Bat
