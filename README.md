@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.946 -- 2019-11-15
+
+    - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.19.0 --> 1.19.1
+
+
 - 2.0.945 -- 2019-11-15
 
     - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.12.0 --> 1.12.1
