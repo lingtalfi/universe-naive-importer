@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.944 -- 2019-11-15
+
+    - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 1.7.0 --> 1.8.0
+
+
 - 2.0.943 -- 2019-11-15
 
     - [Ling/JBootstrapAutocomplete](https://github.com/lingtalfi/JBootstrapAutocomplete) 1.0.0 --> 1.0.1
