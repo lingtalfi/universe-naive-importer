@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.942 -- 2019-11-15
+
+    - [Ling/JBootstrapAutocomplete](https://github.com/lingtalfi/JBootstrapAutocomplete)  --> 1.0.0
+
+
 - 2.0.941 -- 2019-11-14
 
     - [Ling/Light_Kit_Admin_Generator](https://github.com/lingtalfi/Light_Kit_Admin_Generator) 1.0.1 --> 1.1.0

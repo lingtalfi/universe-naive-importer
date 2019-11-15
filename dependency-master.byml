@@ -656,6 +656,13 @@ galaxies:
             dependencies: []
             post_install: []
         
+        JBootstrapAutocomplete: 
+            version: 1.0.0
+            dependencies: []
+            post_install: 
+                map: true
+            
+        
         JChronometer: 
             version: 1.0.0
             dependencies: []
