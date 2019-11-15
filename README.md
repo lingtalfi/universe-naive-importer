@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.948 -- 2019-11-15
+
+    - [Ling/JBootstrapAutocomplete](https://github.com/lingtalfi/JBootstrapAutocomplete) 1.0.2 --> 1.1.0
+
+
 - 2.0.947 -- 2019-11-15
 
     - [Ling/JBootstrapAutocomplete](https://github.com/lingtalfi/JBootstrapAutocomplete) 1.0.1 --> 1.0.2
