@@ -175,11 +175,12 @@ galaxies:
             post_install: []
         
         Bootstrap4AdminTable: 
-            version: 1.12.0
+            version: 1.12.1
             dependencies: 
                 Ling: 
                     - Bat
                     - HtmlPageTools
+                    - Light_AjaxHandler
                     - Light_Realist
                     - Light_SpinKitHelper
                 

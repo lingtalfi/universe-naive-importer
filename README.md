@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.945 -- 2019-11-15
+
+    - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.12.0 --> 1.12.1
+
+
 - 2.0.944 -- 2019-11-15
 
     - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 1.7.0 --> 1.8.0
