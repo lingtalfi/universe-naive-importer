@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.947 -- 2019-11-15
+
+    - [Ling/JBootstrapAutocomplete](https://github.com/lingtalfi/JBootstrapAutocomplete) 1.0.1 --> 1.0.2
+
+
 - 2.0.946 -- 2019-11-15
 
     - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.19.0 --> 1.19.1
