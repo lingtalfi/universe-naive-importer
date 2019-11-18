@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.950 -- 2019-11-18
+
+    - [Ling/Light_Kit_Admin_DebugTrace](https://github.com/lingtalfi/Light_Kit_Admin_DebugTrace) 1.2.0 --> 1.3.0
+
+
 - 2.0.949 -- 2019-11-18
 
     - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.12.1 --> 1.12.2
