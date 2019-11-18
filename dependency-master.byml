@@ -1343,7 +1343,7 @@ galaxies:
             
         
         Light_Realform: 
-            version: 1.2.0
+            version: 1.3.0
             dependencies: 
                 Ling: 
                     - Light
@@ -1351,6 +1351,7 @@ galaxies:
                     - Chloroform
                     - BabyYaml
                     - Bat
+                    - Light_ChloroformExtension
                     - Light_DatabaseInfo
                     - Light_MicroPermission
                     - SimplePdoWrapper
