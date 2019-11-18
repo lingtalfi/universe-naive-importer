@@ -237,7 +237,7 @@ galaxies:
             post_install: []
         
         Chloroform_HeliumRenderer: 
-            version: 1.4.1
+            version: 1.5.0
             dependencies: 
                 Ling: 
                     - Bat
