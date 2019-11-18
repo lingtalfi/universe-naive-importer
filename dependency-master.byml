@@ -920,6 +920,22 @@ galaxies:
                 map: true
             
         
+        Light_ChloroformExtension: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light_AjaxHandler
+                    - Light_CsrfSimple
+                    - Light_MicroPermission
+                    - Chloroform
+                    - Light
+                    - SimplePdoWrapper
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_ControllerHub: 
             version: 1.1.0
             dependencies: 

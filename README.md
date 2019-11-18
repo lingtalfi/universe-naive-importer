@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.953 -- 2019-11-18
+
+    - [Ling/Light_ChloroformExtension](https://github.com/lingtalfi/Light_ChloroformExtension)  --> 1.0.0
+
+
 - 2.0.952 -- 2019-11-18
 
     - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.19.1 --> 1.19.2
