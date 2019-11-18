@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.949 -- 2019-11-18
+
+    - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.12.1 --> 1.12.2
+
+
 - 2.0.948 -- 2019-11-15
 
     - [Ling/JBootstrapAutocomplete](https://github.com/lingtalfi/JBootstrapAutocomplete) 1.0.2 --> 1.1.0
