@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.976 -- 2019-11-19
+
+    - [Ling/JAcpHep](https://github.com/lingtalfi/JAcpHep) 1.2.0 --> 1.2.1
+
+
 - 2.0.975 -- 2019-11-19
 
     - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.27.0 --> 1.27.1
