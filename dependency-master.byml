@@ -1431,7 +1431,7 @@ galaxies:
             
         
         Light_UserData: 
-            version: 1.7.2
+            version: 1.8.0
             dependencies: 
                 Ling: 
                     - Light
@@ -1444,6 +1444,7 @@ galaxies:
                     - DirScanner
                     - Light_Initializer
                     - Light_PluginDatabaseInstaller
+                    - Light_ReverseRouter
                     - Light_UserDatabase
                 
             
