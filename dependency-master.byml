@@ -1364,7 +1364,7 @@ galaxies:
             
         
         Light_Realist: 
-            version: 1.24.1
+            version: 1.25.0
             dependencies: 
                 Ling: 
                     - Light_AjaxHandler
@@ -1373,6 +1373,7 @@ galaxies:
                     - Bat
                     - Light_ControllerHub
                     - Light_Kit_Admin
+                    - Light_ReverseRouter
                     - ArrayToString
                     - BabyYaml
                     - Light_Database

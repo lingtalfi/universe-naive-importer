@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.963 -- 2019-11-19
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.24.1 --> 1.25.0
+
+
 - 2.0.962 -- 2019-11-19
 
     - [Ling/Light_Firewall](https://github.com/lingtalfi/Light_Firewall) 1.0.0 --> 1.1.0
