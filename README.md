@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.960 -- 2019-11-19
+
+    - [Ling/Light_ReverseRouter](https://github.com/lingtalfi/Light_ReverseRouter) 1.9.0 --> 1.10.0
+
+
 - 2.0.959 -- 2019-11-19
 
     - [Ling/Light](https://github.com/lingtalfi/Light) 0.45.0 --> 0.46.0
