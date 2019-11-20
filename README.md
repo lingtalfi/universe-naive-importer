@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.977 -- 2019-11-20
+
+    - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.4.0 --> 1.4.1
+
+
 - 2.0.976 -- 2019-11-19
 
     - [Ling/JAcpHep](https://github.com/lingtalfi/JAcpHep) 1.2.0 --> 1.2.1
