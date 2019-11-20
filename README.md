@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.978 -- 2019-11-20
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.27.1 --> 1.28.0
+
+
 - 2.0.977 -- 2019-11-20
 
     - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.4.0 --> 1.4.1
