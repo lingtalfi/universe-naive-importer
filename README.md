@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.980 -- 2019-11-25
+
+    - [Ling/JFileUploader](https://github.com/lingtalfi/JFileUploader)  --> 1.2.1
+
+
 - 2.0.979 -- 2019-11-22
 
     - [Ling/Light_Database](https://github.com/lingtalfi/Light_Database) 1.2.1 --> 1.3.0
