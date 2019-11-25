@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.996 -- 2019-11-25
+
+    - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform) 1.5.0 --> 1.6.0
+
+
 - 2.0.995 -- 2019-11-25
 
     - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform) 1.4.0 --> 1.5.0
