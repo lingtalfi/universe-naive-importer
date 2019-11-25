@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.982 -- 2019-11-25
+
+    - [Ling/Light_HtmlPageCopilot](https://github.com/lingtalfi/Light_HtmlPageCopilot) 1.0.2 --> 1.0.3
+
+
 - 2.0.981 -- 2019-11-25
 
     - [Ling/JFileUploader](https://github.com/lingtalfi/JFileUploader) 1.2.1 --> 1.2.2
