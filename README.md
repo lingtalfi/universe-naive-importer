@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.983 -- 2019-11-25
+
+    - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.4.0 --> 1.5.0
+
+
 - 2.0.982 -- 2019-11-25
 
     - [Ling/Light_HtmlPageCopilot](https://github.com/lingtalfi/Light_HtmlPageCopilot) 1.0.2 --> 1.0.3

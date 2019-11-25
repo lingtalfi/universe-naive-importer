@@ -861,7 +861,7 @@ galaxies:
             post_install: []
         
         Light_AjaxFileUploadManager: 
-            version: 1.4.0
+            version: 1.5.0
             dependencies: 
                 Ling: 
                     - Bat
@@ -874,6 +874,8 @@ galaxies:
                     - Light_UserData
                     - Light_UserManager
                     - ThumbnailTools
+                    - Light_HtmlPageCopilot
+                    - JFileUploader
                 
             
             post_install: 
