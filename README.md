@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1004 -- 2019-11-27
+
+    - [Ling/Light_Kit_Admin_DebugTrace](https://github.com/lingtalfi/Light_Kit_Admin_DebugTrace) 1.3.0 --> 1.4.0
+
+
 - 2.0.1003 -- 2019-11-27
 
     - [Ling/Light_ChloroformExtension](https://github.com/lingtalfi/Light_ChloroformExtension) 1.1.0 --> 1.2.0
