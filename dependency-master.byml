@@ -861,7 +861,7 @@ galaxies:
             post_install: []
         
         Light_AjaxFileUploadManager: 
-            version: 1.6.0
+            version: 1.6.1
             dependencies: 
                 Ling: 
                     - Bat
