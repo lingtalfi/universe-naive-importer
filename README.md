@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.998 -- 2019-11-27
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.5.0 --> 1.6.0
+
+
 - 2.0.997 -- 2019-11-25
 
     - [Ling/Light_Kit_Admin_Generator](https://github.com/lingtalfi/Light_Kit_Admin_Generator) 1.2.1 --> 1.3.0
