@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1000 -- 2019-11-27
+
+    - [Ling/Chloroform_HeliumLightRenderer](https://github.com/lingtalfi/Chloroform_HeliumLightRenderer) 1.2.1 --> 1.3.0
+
+
 - 2.0.999 -- 2019-11-27
 
     - [Ling/Light_CsrfSession](https://github.com/lingtalfi/Light_CsrfSession)  --> 1.0.0
