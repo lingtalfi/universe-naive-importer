@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1001 -- 2019-11-27
+
+    - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.5.0 --> 1.6.0
+
+
 - 2.0.1000 -- 2019-11-27
 
     - [Ling/Chloroform_HeliumLightRenderer](https://github.com/lingtalfi/Chloroform_HeliumLightRenderer) 1.2.1 --> 1.3.0
