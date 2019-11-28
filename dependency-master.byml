@@ -883,12 +883,13 @@ galaxies:
             
         
         Light_AjaxHandler: 
-            version: 1.9.0
+            version: 1.10.0
             dependencies: 
                 Ling: 
                     - Bat
                     - Light
                     - Light_Events
+                    - Light_CsrfSession
                     - Light_ReverseRouter
                 
             
