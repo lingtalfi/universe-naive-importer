@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1011 -- 2019-11-28
+
+    - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.10.0 --> 1.11.0
+
+
 - 2.0.1010 -- 2019-11-28
 
     - [Ling/Light_ExceptionHandler](https://github.com/lingtalfi/Light_ExceptionHandler) 1.0.1 --> 1.1.0
