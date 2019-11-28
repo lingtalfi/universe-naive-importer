@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1009 -- 2019-11-28
+
+    - [Ling/Light_Kit_Admin_Generator](https://github.com/lingtalfi/Light_Kit_Admin_Generator) 1.3.0 --> 1.4.0
+
+
 - 2.0.1008 -- 2019-11-28
 
     - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform) 1.6.0 --> 1.7.0
