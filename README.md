@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1010 -- 2019-11-28
+
+    - [Ling/Light_ExceptionHandler](https://github.com/lingtalfi/Light_ExceptionHandler) 1.0.1 --> 1.1.0
+
+
 - 2.0.1009 -- 2019-11-28
 
     - [Ling/Light_Kit_Admin_Generator](https://github.com/lingtalfi/Light_Kit_Admin_Generator) 1.3.0 --> 1.4.0
