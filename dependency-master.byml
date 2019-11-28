@@ -963,6 +963,22 @@ galaxies:
                 map: true
             
         
+        Light_Crud: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - Light
+                    - Light_DatabaseInfo
+                    - Light_Database
+                    - Light_MicroPermission
+                    - Light_Events
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Csrf: 
             version: 1.0.1
             dependencies: 
