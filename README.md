@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1014 -- 2019-11-29
+
+    - [Ling/Light_Flasher](https://github.com/lingtalfi/Light_Flasher) 1.2.0 --> 1.3.0
+
+
 - 2.0.1013 -- 2019-11-28
 
     - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 1.9.0 --> 1.10.0
