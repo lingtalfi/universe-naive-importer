@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1019 -- 2019-12-02
+
+    - [Ling/Light_ChloroformExtension](https://github.com/lingtalfi/Light_ChloroformExtension) 1.2.1 --> 1.2.2
+
+
 - 2.0.1018 -- 2019-12-02
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.9.0 --> 1.9.1
