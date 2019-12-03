@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1029 -- 2019-12-03
+
+    - [Ling/Light_Crud](https://github.com/lingtalfi/Light_Crud) 1.0.1 --> 1.1.0
+
+
 - 2.0.1028 -- 2019-12-03
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.7.5 --> 1.7.6
