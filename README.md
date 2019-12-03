@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1024 -- 2019-12-03
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.7.2 --> 1.7.3
+
+
 - 2.0.1023 -- 2019-12-03
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.7.1 --> 1.7.2
