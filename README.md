@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1037 -- 2019-12-05
+
+    - [Ling/JSortableLists](https://github.com/lingtalfi/JSortableLists)  --> 1.0.0
+
+
 - 2.0.1036 -- 2019-12-05
 
     - [Ling/Light_ChloroformExtension](https://github.com/lingtalfi/Light_ChloroformExtension) 1.3.0 --> 1.3.1
