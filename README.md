@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1036 -- 2019-12-05
+
+    - [Ling/Light_ChloroformExtension](https://github.com/lingtalfi/Light_ChloroformExtension) 1.3.0 --> 1.3.1
+
+
 - 2.0.1035 -- 2019-12-04
 
     - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.13.0 --> 1.14.0
