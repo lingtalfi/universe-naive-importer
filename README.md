@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1038 -- 2019-12-05
+
+    - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.8.0 --> 1.9.0
+
+
 - 2.0.1037 -- 2019-12-05
 
     - [Ling/JSortableLists](https://github.com/lingtalfi/JSortableLists)  --> 1.0.0
