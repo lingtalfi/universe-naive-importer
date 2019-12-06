@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1050 -- 2019-12-06
+
+    - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.2.0 --> 0.3.0
+    - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.9.2 --> 1.10.0
+
+
 - 2.0.1049 -- 2019-12-06
 
     - [Ling/Light_ChloroformExtension](https://github.com/lingtalfi/Light_ChloroformExtension) 1.4.0 --> 1.4.1

@@ -1194,7 +1194,7 @@ galaxies:
             
         
         Light_Kit_Admin: 
-            version: 0.2.0
+            version: 0.3.0
             dependencies: 
                 Ling: 
                     - Light_AjaxHandler
@@ -1203,24 +1203,30 @@ galaxies:
                     - Bat
                     - Light
                     - Light_BMenu
+                    - Light_ReverseRouter
                     - Light_UserManager
                     - Light_User
                     - Chloroform
-                    - Light_Csrf
+                    - Light_CsrfSimple
+                    - Light_ChloroformExtension
                     - Light_Kit
                     - WiseTool
-                    - Light_DatabaseInfo
                     - Light_Realform
-                    - SimplePdoWrapper
                     - HtmlPageTools
+                    - Light_Events
                     - Light_Flasher
                     - Light_MicroPermission
                     - Light_UserDatabase
+                    - Light_CsrfSession
+                    - Light_RowLookup
                     - Light_UserData
                     - Light_ControllerHub
+                    - Light_Crud
                     - PhpSpreadSheetTool
                     - Light_Bullsheet
                     - Light_DatabaseUtils
+                    - SimplePdoWrapper
+                    - Bootstrap4AdminTable
                     - Light_Initializer
                     - Light_PluginDatabaseInstaller
                     - Kit_PicassoWidget
@@ -2066,7 +2072,7 @@ galaxies:
             post_install: []
         
         SimplePdoWrapper: 
-            version: 1.9.2
+            version: 1.10.0
             dependencies: []
             post_install: []
         
