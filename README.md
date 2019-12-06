@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1051 -- 2019-12-06
+
+    - [Ling/Light_Crud](https://github.com/lingtalfi/Light_Crud) 1.2.0 --> 1.3.0
+
+
 - 2.0.1050 -- 2019-12-06
 
     - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.2.0 --> 0.3.0
