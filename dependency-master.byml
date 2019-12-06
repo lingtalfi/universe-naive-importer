@@ -2163,7 +2163,7 @@ galaxies:
             post_install: []
         
         TheBar: 
-            version: 1.8.0
+            version: 1.8.1
             dependencies: []
             post_install: []
         
