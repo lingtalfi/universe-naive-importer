@@ -224,7 +224,7 @@ galaxies:
             post_install: []
         
         Chloroform_HeliumLightRenderer: 
-            version: 1.3.0
+            version: 1.4.0
             dependencies: 
                 Ling: 
                     - Bat
@@ -234,9 +234,12 @@ galaxies:
                     - Light_AjaxFileUploadManager
                     - Light_AjaxHandler
                     - Light_CsrfSession
+                    - JSortableLists
                 
             
-            post_install: []
+            post_install: 
+                map: true
+            
         
         Chloroform_HeliumRenderer: 
             version: 1.8.0
