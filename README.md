@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1079 -- 2019-12-09
+
+    - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.15.0 --> 1.16.0
+
+
 - 2.0.1078 -- 2019-12-09
 
     - [Ling/Light_CsrfSimple](https://github.com/lingtalfi/Light_CsrfSimple) 1.2.0 --> 1.2.1
