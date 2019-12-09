@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1067 -- 2019-12-09
+
+    - [Ling/Light_ChloroformExtension](https://github.com/lingtalfi/Light_ChloroformExtension) 1.4.1 --> 1.4.2
+
+
 - 2.0.1066 -- 2019-12-09
 
     - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.5.1 --> 1.5.2
