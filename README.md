@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1068 -- 2019-12-09
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.214 --> 1.215
+
+
 - 2.0.1067 -- 2019-12-09
 
     - [Ling/Light_ChloroformExtension](https://github.com/lingtalfi/Light_ChloroformExtension) 1.4.1 --> 1.4.2
