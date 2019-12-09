@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1073 -- 2019-12-09
+
+    - [Ling/Light](https://github.com/lingtalfi/Light) 0.46.0 --> 0.47.0
+
+
 - 2.0.1072 -- 2019-12-09
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.8.1 --> 1.9.0
