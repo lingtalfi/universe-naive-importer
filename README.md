@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1066 -- 2019-12-09
+
+    - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.5.1 --> 1.5.2
+
+
 - 2.0.1064 -- 2019-12-09
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.10.1 --> 1.10.2
