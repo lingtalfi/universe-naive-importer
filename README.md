@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1070 -- 2019-12-09
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.215 --> 1.216
+
+
 - 2.0.1069 -- 2019-12-09
 
     - [Ling/Light_Kit_Admin_Generator](https://github.com/lingtalfi/Light_Kit_Admin_Generator) 1.5.0 --> 1.5.1
