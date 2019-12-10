@@ -1408,7 +1408,7 @@ galaxies:
             
         
         Light_Realform: 
-            version: 1.10.0
+            version: 1.11.0
             dependencies: 
                 Ling: 
                     - Light
@@ -1423,6 +1423,8 @@ galaxies:
                     - Light_MicroPermission
                     - SimplePdoWrapper
                     - WiseTool
+                    - Light_Database
+                    - Light_LightInstance
                     - Light_Crud
                 
             
