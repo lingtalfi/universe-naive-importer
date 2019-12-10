@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1080 -- 2019-12-10
+
+    - [Ling/JPostForm](https://github.com/lingtalfi/JPostForm)  --> 1.0.0
+
+
 - 2.0.1079 -- 2019-12-09
 
     - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.15.0 --> 1.16.0
