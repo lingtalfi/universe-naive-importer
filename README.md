@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1092 -- 2019-12-12
+
+    - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 2.1.0 --> 2.1.1
+
+
 - 2.0.1091 -- 2019-12-12
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.9.2 --> 1.10.0
