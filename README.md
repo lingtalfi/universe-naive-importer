@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1090 -- 2019-12-12
+
+    - [Ling/Light_404Logger](https://github.com/lingtalfi/Light_404Logger)  --> 1.0.0
+
+
 - 2.0.1089 -- 2019-12-12
 
     - [Ling/Light](https://github.com/lingtalfi/Light) 0.47.0 --> 0.48.0

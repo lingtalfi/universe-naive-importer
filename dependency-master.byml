@@ -877,6 +877,19 @@ galaxies:
             
             post_install: []
         
+        Light_404Logger: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - Light
+                    - Light_Logger
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_AjaxFileUploadManager: 
             version: 1.6.1
             dependencies: 
