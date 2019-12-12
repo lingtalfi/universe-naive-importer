@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1091 -- 2019-12-12
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.9.2 --> 1.10.0
+
+
 - 2.0.1090 -- 2019-12-12
 
     - [Ling/Light_404Logger](https://github.com/lingtalfi/Light_404Logger)  --> 1.0.0
