@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1098 -- 2019-12-13
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.10.0 --> 1.10.1
+
+
 - 2.0.1097 -- 2019-12-13
 
     - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.13.2 --> 1.13.3
