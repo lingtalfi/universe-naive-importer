@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1099 -- 2019-12-16
+
+    - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.10.2 --> 1.11.0
+
+
 - 2.0.1098 -- 2019-12-13
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.10.0 --> 1.10.1
