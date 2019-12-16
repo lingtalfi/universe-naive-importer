@@ -1199,7 +1199,7 @@ galaxies:
             
         
         Light_Kit: 
-            version: 1.15.0
+            version: 1.16.0
             dependencies: 
                 Ling: 
                     - Bat
@@ -1208,7 +1208,6 @@ galaxies:
                     - ArrayVariableResolver
                     - Light
                     - Light_Events
-                    - Light_LightInstance
                 
             
             post_install: 
