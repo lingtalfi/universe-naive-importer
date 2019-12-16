@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1100 -- 2019-12-16
+
+    - [Ling/Light_Database](https://github.com/lingtalfi/Light_Database) 1.3.0 --> 1.4.0
+
+
 - 2.0.1099 -- 2019-12-16
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.10.2 --> 1.11.0
