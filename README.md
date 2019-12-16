@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1112 -- 2019-12-16
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.13.3 --> 1.13.4
+
+
 - 2.0.1111 -- 2019-12-16
 
     - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform) 1.11.0 --> 1.12.0
