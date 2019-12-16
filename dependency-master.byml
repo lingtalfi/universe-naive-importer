@@ -1541,7 +1541,7 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.13.0
+            version: 1.14.0
             dependencies: 
                 Ling: 
                     - ArrayToString
@@ -1550,6 +1550,7 @@ galaxies:
                     - SimplePdoWrapper
                     - BabyYaml
                     - Light
+                    - Light_Events
                     - Light_Initializer
                     - Light_PasswordProtector
                     - Light_Bullsheet
