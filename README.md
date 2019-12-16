@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1113 -- 2019-12-16
+
+    - [Ling/Light_Initializer](https://github.com/lingtalfi/Light_Initializer) 1.2.2 --> 1.3.0
+
+
 - 2.0.1112 -- 2019-12-16
 
     - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.13.3 --> 1.13.4
