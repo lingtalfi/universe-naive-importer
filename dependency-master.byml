@@ -1421,7 +1421,7 @@ galaxies:
             
         
         Light_Realform: 
-            version: 1.11.0
+            version: 1.12.0
             dependencies: 
                 Ling: 
                     - Light
@@ -1437,7 +1437,6 @@ galaxies:
                     - SimplePdoWrapper
                     - WiseTool
                     - Light_Database
-                    - Light_LightInstance
                     - Light_Crud
                 
             
