@@ -1214,7 +1214,7 @@ galaxies:
             
         
         Light_Kit_Admin: 
-            version: 0.3.0
+            version: 0.4.0
             dependencies: 
                 Ling: 
                     - Light_AjaxHandler
@@ -1227,7 +1227,7 @@ galaxies:
                     - Light_UserManager
                     - Light_User
                     - Chloroform
-                    - Light_CsrfSimple
+                    - Light_CsrfSession
                     - Light_ChloroformExtension
                     - Light_Kit
                     - WiseTool
@@ -1237,7 +1237,6 @@ galaxies:
                     - Light_Flasher
                     - Light_MicroPermission
                     - Light_UserDatabase
-                    - Light_CsrfSession
                     - Light_RowLookup
                     - Light_UserData
                     - Light_ControllerHub
@@ -1247,10 +1246,10 @@ galaxies:
                     - Light_DatabaseUtils
                     - SimplePdoWrapper
                     - Bootstrap4AdminTable
-                    - Light_Initializer
                     - Light_PluginDatabaseInstaller
                     - Kit_PicassoWidget
                     - Chloroform_HeliumRenderer
+                    - JPostForm
                 
             
             post_install: 
