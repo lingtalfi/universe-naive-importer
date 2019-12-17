@@ -1214,7 +1214,7 @@ galaxies:
             
         
         Light_Kit_Admin: 
-            version: 0.4.0
+            version: 0.4.1
             dependencies: 
                 Ling: 
                     - Light_AjaxHandler
