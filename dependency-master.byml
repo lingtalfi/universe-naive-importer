@@ -1531,7 +1531,7 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.17.0
+            version: 1.18.0
             dependencies: 
                 Ling: 
                     - SimplePdoWrapper
