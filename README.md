@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1114 -- 2019-12-17
+
+    - [Ling/Light_EasyRoute](https://github.com/lingtalfi/Light_EasyRoute) 1.1.0 --> 1.2.0
+
+
 - 2.0.1113 -- 2019-12-16
 
     - [Ling/Light_Initializer](https://github.com/lingtalfi/Light_Initializer) 1.2.2 --> 1.3.0
