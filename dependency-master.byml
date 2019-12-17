@@ -1531,7 +1531,7 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.15.0
+            version: 1.16.0
             dependencies: 
                 Ling: 
                     - ArrayToString
@@ -1541,7 +1541,6 @@ galaxies:
                     - BabyYaml
                     - Light
                     - Light_Events
-                    - Light_Initializer
                     - Light_PasswordProtector
                     - Light_Bullsheet
                     - Light_Database
