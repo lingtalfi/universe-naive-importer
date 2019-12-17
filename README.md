@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1117 -- 2019-12-17
+
+    - [Ling/Light_Kit_Admin_DebugTrace](https://github.com/lingtalfi/Light_Kit_Admin_DebugTrace) 1.4.0 --> 1.5.0
+
+
 - 2.0.1116 -- 2019-12-17
 
     - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.3.0 --> 0.4.0
