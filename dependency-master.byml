@@ -1338,11 +1338,12 @@ galaxies:
             
         
         Light_MicroPermission: 
-            version: 1.1.2
+            version: 2.0.0
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Light
+                    - Light_UserManager
                     - Light_User
                 
             
