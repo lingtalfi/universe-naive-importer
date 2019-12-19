@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1152 -- 2019-12-19
+
+    - [Ling/CheapLogger](https://github.com/lingtalfi/CheapLogger)  --> 1.0.0
+
+
 - 2.0.1151 -- 2019-12-19
 
     - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.19.0 --> 1.19.1

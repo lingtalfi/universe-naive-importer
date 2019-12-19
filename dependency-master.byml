@@ -212,6 +212,16 @@ galaxies:
             
             post_install: []
         
+        CheapLogger: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - ArrayToString
+                    - Bat
+                
+            
+            post_install: []
+        
         Chloroform: 
             version: 1.25.0
             dependencies: 
