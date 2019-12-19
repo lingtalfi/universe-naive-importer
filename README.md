@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1150 -- 2019-12-19
+
+    - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.18.1 --> 1.19.0
+
+
 - 2.0.1149 -- 2019-12-19
 
     - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.10.0 --> 1.11.0
