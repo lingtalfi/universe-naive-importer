@@ -1543,7 +1543,7 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.19.5
+            version: 1.20.0
             dependencies: 
                 Ling: 
                     - Light
