@@ -872,10 +872,9 @@ galaxies:
             post_install: []
         
         Light: 
-            version: 0.50.0
+            version: 0.52.0
             dependencies: 
                 Ling: 
-                    - Light_EndRoutine
                     - Light_Events
                     - Light_ReverseRouter
                     - SicTools
