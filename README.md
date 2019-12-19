@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1168 -- 2019-12-19
+
+    - [Ling/Light_Database](https://github.com/lingtalfi/Light_Database) 1.5.1 --> 1.5.2
+
+
 - 2.0.1167 -- 2019-12-19
 
     - [Ling/Light_Kit_Admin_DebugTrace](https://github.com/lingtalfi/Light_Kit_Admin_DebugTrace) 1.5.0 --> 1.6.0
