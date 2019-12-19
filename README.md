@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1160 -- 2019-12-19
+
+    - [Ling/Light_EndRoutine](https://github.com/lingtalfi/Light_EndRoutine) 1.2.0 --> 1.3.0
+
+
 - 2.0.1159 -- 2019-12-19
 
     - [Ling/Light](https://github.com/lingtalfi/Light) 0.50.0 --> 0.52.0
