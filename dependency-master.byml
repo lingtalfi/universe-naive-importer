@@ -1045,11 +1045,12 @@ galaxies:
             
         
         Light_Database: 
-            version: 1.4.1
+            version: 1.5.0
             dependencies: 
                 Ling: 
                     - Light
                     - Light_Events
+                    - Light_MicroPermission
                     - SimplePdoWrapper
                 
             
