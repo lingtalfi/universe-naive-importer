@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1173 -- 2019-12-20
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.217 --> 1.218
+
+
 - 2.0.1172 -- 2019-12-20
 
     - [Ling/Light_UserManager](https://github.com/lingtalfi/Light_UserManager) 1.3.0 --> 1.4.0
