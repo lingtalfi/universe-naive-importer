@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1195 -- 2020-01-24
+
+    - [Ling/JFileUploader](https://github.com/lingtalfi/JFileUploader) 1.2.2 --> 2.0.0
+
+
 - 2.0.1194 -- 2020-01-20
 
     - [Ling/Light](https://github.com/lingtalfi/Light) 0.52.0 --> 0.53.0
