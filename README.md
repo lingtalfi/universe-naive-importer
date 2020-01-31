@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1209 -- 2020-01-31
+
+    - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.1.0 --> 1.2.0
+
+
 - 2.0.1208 -- 2020-01-31
 
     - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.22.1 --> 1.22.2
