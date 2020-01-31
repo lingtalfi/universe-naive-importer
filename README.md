@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1211 -- 2020-01-31
+
+    - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.2.1 --> 1.2.2
+
+
 - 2.0.1210 -- 2020-01-31
 
     - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.2.0 --> 1.2.1
