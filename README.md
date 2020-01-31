@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1197 -- 2020-01-31
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.218 --> 1.219
+
+
 - 2.0.1196 -- 2020-01-24
 
     - [Ling/JFileUploader](https://github.com/lingtalfi/JFileUploader) 2.0.0 --> 2.0.1
