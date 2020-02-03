@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1212 -- 2020-02-03
+
+    - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.11.0 --> 1.12.0
+
+
 - 2.0.1211 -- 2020-01-31
 
     - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.2.1 --> 1.2.2
