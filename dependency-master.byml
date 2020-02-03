@@ -2107,7 +2107,7 @@ galaxies:
             post_install: []
         
         SimplePdoWrapper: 
-            version: 1.13.0
+            version: 1.13.1
             dependencies: 
                 Ling: 
                     - CheapLogger
