@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1217 -- 2020-02-04
+
+    - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.11.2 --> 1.12.0
+
+
 - 2.0.1216 -- 2020-02-03
 
     - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.2.2 --> 1.3.0

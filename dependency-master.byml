@@ -948,12 +948,13 @@ galaxies:
             
         
         Light_BreezeGenerator: 
-            version: 1.11.2
+            version: 1.12.0
             dependencies: 
                 Ling: 
                     - Bat
                     - Light
                     - Light_DatabaseInfo
+                    - SqlWizard
                     - BabyYaml
                 
             
