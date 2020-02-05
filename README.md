@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1226 -- 2020-02-05
+
+    - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.16.0 --> 1.17.0
+
+
 - 2.0.1225 -- 2020-02-05
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.13.2 --> 1.14.0
