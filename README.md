@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1233 -- 2020-02-06
+
+    - [Ling/Light_PluginDatabaseInstaller](https://github.com/lingtalfi/Light_PluginDatabaseInstaller) 1.4.0 --> 1.5.0
+
+
 - 2.0.1232 -- 2020-02-06
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.15.1 --> 1.15.2
