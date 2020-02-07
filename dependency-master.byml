@@ -1567,7 +1567,7 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.25.0
+            version: 1.26.0
             dependencies: 
                 Ling: 
                     - Light
@@ -1580,7 +1580,7 @@ galaxies:
                     - TinyBullsheeter
                     - ArrayToString
                     - Light_Events
-                    - Light_PluginDatabaseInstaller
+                    - Light_PluginInstaller
                     - SqlWizard
                 
             
