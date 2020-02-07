@@ -1394,6 +1394,20 @@ galaxies:
                 map: true
             
         
+        Light_PluginInstaller: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - Light
+                    - Light_Database
+                    - SimplePdoWrapper
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_PrerouteHub: 
             version: 1.0.0
             dependencies: 

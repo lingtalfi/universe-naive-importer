@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1235 -- 2020-02-07
+
+    - [Ling/Light_PluginInstaller](https://github.com/lingtalfi/Light_PluginInstaller)  --> 1.0.0
+
+
 - 2.0.1234 -- 2020-02-06
 
     - [Ling/Light_PluginDatabaseInstaller](https://github.com/lingtalfi/Light_PluginDatabaseInstaller) 1.5.0 --> 1.6.0
