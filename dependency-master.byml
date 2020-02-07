@@ -134,7 +134,7 @@ galaxies:
             post_install: []
         
         Bat: 
-            version: 1.22
+            version: 1.221
             dependencies: 
                 Ling: 
                     - ArrayToString
