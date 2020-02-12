@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1243 -- 2020-02-12
+
+    - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.15.3 --> 1.16.0
+
+
 - 2.0.1242 -- 2020-02-07
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.22 --> 1.221
