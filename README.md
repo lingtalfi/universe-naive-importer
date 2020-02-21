@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1253 -- 2020-02-21
+
+    - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.25.0 --> 1.26.0
+
+
 - 2.0.1252 -- 2020-02-21
 
     - [Ling/JFileUploader](https://github.com/lingtalfi/JFileUploader) 2.0.1 --> 2.1.0
