@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1251 -- 2020-02-21
+
+    - [Ling/Light_UserData](https://github.com/lingtalfi/Light_UserData) 1.11.0 --> 1.12.0
+
+
 - 2.0.1250 -- 2020-02-21
 
     - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.6.3 --> 1.7.0
