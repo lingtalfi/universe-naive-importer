@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1258 -- 2020-02-24
+
+    - [Ling/Chloroform_HeliumLightRenderer](https://github.com/lingtalfi/Chloroform_HeliumLightRenderer) 1.4.1 --> 1.5.0
+
+
 - 2.0.1257 -- 2020-02-24
 
     - [Ling/JFileUploader](https://github.com/lingtalfi/JFileUploader) 2.1.2 --> 2.2.0
