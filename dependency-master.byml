@@ -707,7 +707,7 @@ galaxies:
             post_install: []
         
         JFileUploader: 
-            version: 2.2.1
+            version: 2.2.2
             dependencies: []
             post_install: 
                 map: true
