@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1255 -- 2020-02-24
+
+    - [Ling/JFileUploader](https://github.com/lingtalfi/JFileUploader) 2.1.0 --> 2.1.1
+
+
 - 2.0.1254 -- 2020-02-24
 
     - [Ling/JCropperJs](https://github.com/lingtalfi/JCropperJs)  --> 1.0.0
