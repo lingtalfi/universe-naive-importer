@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1254 -- 2020-02-24
+
+    - [Ling/JCropperJs](https://github.com/lingtalfi/JCropperJs)  --> 1.0.0
+
+
 - 2.0.1253 -- 2020-02-21
 
     - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.25.0 --> 1.26.0

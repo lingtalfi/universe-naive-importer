@@ -690,6 +690,13 @@ galaxies:
             dependencies: []
             post_install: []
         
+        JCropperJs: 
+            version: 1.0.0
+            dependencies: []
+            post_install: 
+                map: true
+            
+        
         JCsrfAction: 
             version: 1.0.1
             dependencies: []
