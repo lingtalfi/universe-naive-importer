@@ -1546,7 +1546,7 @@ galaxies:
             
         
         Light_User: 
-            version: 1.6.3
+            version: 1.6.4
             dependencies: []
             post_install: 
                 map: true
