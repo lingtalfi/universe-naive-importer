@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1264 -- 2020-02-25
+
+    - [Ling/Light_BMenu](https://github.com/lingtalfi/Light_BMenu) 1.4.0 --> 1.5.0
+
+
 - 2.0.1263 -- 2020-02-25
 
     - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.13.4 --> 1.13.5
