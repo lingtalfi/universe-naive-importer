@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1278 -- 2020-02-26
+
+    - [Ling/Light_BMenu](https://github.com/lingtalfi/Light_BMenu) 1.5.0 --> 1.5.1
+
+
 - 2.0.1277 -- 2020-02-26
 
     - [Ling/ParametrizedSqlQuery](https://github.com/lingtalfi/ParametrizedSqlQuery) 1.7.0 --> 1.8.0
