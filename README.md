@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1281 -- 2020-02-27
+
+    - [Ling/Light_Crud](https://github.com/lingtalfi/Light_Crud) 1.5.0 --> 1.5.1
+
+
 - 2.0.1280 -- 2020-02-27
 
     - [Ling/Chloroform_HeliumRenderer](https://github.com/lingtalfi/Chloroform_HeliumRenderer) 1.14.1 --> 1.14.2
