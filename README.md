@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1288 -- 2020-02-28
+
+    - [Ling/Light_BMenu](https://github.com/lingtalfi/Light_BMenu) 1.5.1 --> 1.5.2
+
+
 - 2.0.1287 -- 2020-02-28
 
     - [Ling/Light_Kit_Admin_UserData](https://github.com/lingtalfi/Light_Kit_Admin_UserData)  --> 1.0.0
