@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1289 -- 2020-02-28
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.10.2 --> 1.11.0
+
+
 - 2.0.1288 -- 2020-02-28
 
     - [Ling/Light_BMenu](https://github.com/lingtalfi/Light_BMenu) 1.5.1 --> 1.5.2
