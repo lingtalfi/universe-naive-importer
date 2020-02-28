@@ -1310,6 +1310,28 @@ galaxies:
                 map: true
             
         
+        Light_Kit_Admin_UserData: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - Chloroform
+                    - Light
+                    - Light_Kit_Admin
+                    - Light_Realform
+                    - Light_Kit
+                    - Light_ControllerHub
+                    - BabyYaml
+                    - Light_BMenu
+                    - Light_PluginInstaller
+                    - Light_UserDatabase
+                    - SimplePdoWrapper
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Kit_BootstrapWidgetLibrary: 
             version: 1.15.2
             dependencies: 
