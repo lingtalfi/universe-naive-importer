@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1292 -- 2020-03-02
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.13.5 --> 1.13.6
+
+
 - 2.0.1291 -- 2020-03-02
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.221 --> 1.222
