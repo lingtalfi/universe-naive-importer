@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1293 -- 2020-03-02
+
+    - [Ling/Light_Database](https://github.com/lingtalfi/Light_Database) 1.7.1 --> 1.8.0
+
+
 - 2.0.1292 -- 2020-03-02
 
     - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.13.5 --> 1.13.6
