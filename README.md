@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1303 -- 2020-03-03
+
+    - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.17.0 --> 1.18.0
+
+
 - 2.0.1302 -- 2020-03-03
 
     - [Ling/Light_UserRowRestriction](https://github.com/lingtalfi/Light_UserRowRestriction) 1.0.1 --> 1.0.2
