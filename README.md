@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1308 -- 2020-03-05
+
+    - [Ling/Light_UserRowRestriction](https://github.com/lingtalfi/Light_UserRowRestriction) 1.1.0 --> 1.2.0
+
+
 - 2.0.1307 -- 2020-03-03
 
     - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.19.0 --> 1.19.1
