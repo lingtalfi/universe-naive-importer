@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1313 -- 2020-03-05
+
+    - [Ling/Light_Kit_Admin_UserData](https://github.com/lingtalfi/Light_Kit_Admin_UserData) 1.0.0 --> 1.1.0
+
+
 - 2.0.1312 -- 2020-03-05
 
     - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.12.2 --> 1.13.0
