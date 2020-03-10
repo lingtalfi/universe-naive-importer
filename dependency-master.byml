@@ -175,7 +175,7 @@ galaxies:
             post_install: []
         
         Bootstrap4AdminTable: 
-            version: 1.13.0
+            version: 1.13.1
             dependencies: 
                 Ling: 
                     - Bat
