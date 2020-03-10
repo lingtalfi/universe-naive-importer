@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1319 -- 2020-03-10
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.31.0 --> 1.32.0
+
+
 - 2.0.1318 -- 2020-03-10
 
     - [Ling/Light_MicroPermission](https://github.com/lingtalfi/Light_MicroPermission) 2.4.0 --> 2.5.0
