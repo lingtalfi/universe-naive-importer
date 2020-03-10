@@ -1062,11 +1062,12 @@ galaxies:
             
         
         Light_Database: 
-            version: 1.10.0
+            version: 1.11.0
             dependencies: 
                 Ling: 
                     - Light
                     - Light_Events
+                    - Light_UserRowRestriction
                     - SimplePdoWrapper
                 
             
