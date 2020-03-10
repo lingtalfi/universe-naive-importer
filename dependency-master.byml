@@ -1311,7 +1311,7 @@ galaxies:
             
         
         Light_Kit_Admin_UserData: 
-            version: 1.1.0
+            version: 1.2.0
             dependencies: 
                 Ling: 
                     - Bat
@@ -1322,6 +1322,7 @@ galaxies:
                     - Light_Kit
                     - Light_UserRowRestriction
                     - Light_ControllerHub
+                    - Light_User
                     - BabyYaml
                     - Light_BMenu
                     - Light_PluginInstaller
