@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1324 -- 2020-03-10
+
+    - [Ling/Light_Crud](https://github.com/lingtalfi/Light_Crud) 1.5.1 --> 1.6.0
+
+
 - 2.0.1323 -- 2020-03-10
 
     - [Ling/Light_Kit_Admin_Generator](https://github.com/lingtalfi/Light_Kit_Admin_Generator) 1.11.0 --> 1.12.0
