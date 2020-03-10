@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1327 -- 2020-03-10
+
+    - [Ling/Light_Bullsheet](https://github.com/lingtalfi/Light_Bullsheet) 1.0.3 --> 1.1.0
+
+
 - 2.0.1326 -- 2020-03-10
 
     - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.13.0 --> 1.13.1
