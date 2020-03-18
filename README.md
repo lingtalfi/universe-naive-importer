@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1332 -- 2020-03-18
+
+    - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.27.0 --> 1.28.0
+
+
 - 2.0.1331 -- 2020-03-18
 
     - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.26.0 --> 1.27.0
