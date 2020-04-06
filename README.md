@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1337 -- 2020-04-06
+
+    - [Ling/Panda_Headers](https://github.com/lingtalfi/Panda_Headers)  --> 1.0.0
+
+
 - 2.0.1336 -- 2020-04-06
 
     - [Ling/Light](https://github.com/lingtalfi/Light) 0.58.0 --> 0.59.0

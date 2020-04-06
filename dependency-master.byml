@@ -1864,6 +1864,15 @@ galaxies:
             
             post_install: []
         
+        Panda_Headers: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                
+            
+            post_install: []
+        
         ParametrizedSqlQuery: 
             version: 1.8.0
             dependencies: 
