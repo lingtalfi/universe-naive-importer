@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1339 -- 2020-04-07
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.223 --> 1.224
+
+
 - 2.0.1338 -- 2020-04-06
 
     - universe minor increment
