@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1344 -- 2020-04-10
+
+    - [Ling/Light](https://github.com/lingtalfi/Light) 0.62.0 --> 0.62.1
+
+
 - 2.0.1343 -- 2020-04-10
 
     - [Ling/PhpFileValidator](https://github.com/lingtalfi/PhpFileValidator)  --> 1.0.0
