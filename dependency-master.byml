@@ -1954,6 +1954,11 @@ galaxies:
             
             post_install: []
         
+        PhpFileValidator: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         PhpSpreadSheetTool: 
             version: 1.0.3
             dependencies: 
