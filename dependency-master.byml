@@ -1570,6 +1570,22 @@ galaxies:
                 map: true
             
         
+        Light_UploadGems: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - Light
+                    - Light_AjaxFileUploadManager
+                    - ThumbnailTools
+                    - BabyYaml
+                    - PhpFileValidator
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_User: 
             version: 1.6.5
             dependencies: []
