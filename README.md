@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1351 -- 2020-04-13
+
+    - [Ling/Light_UploadGems](https://github.com/lingtalfi/Light_UploadGems) 1.1.0 --> 1.2.0
+
+
 - 2.0.1350 -- 2020-04-13
 
     - [Ling/Light_UploadGems](https://github.com/lingtalfi/Light_UploadGems) 1.0.0 --> 1.1.0
