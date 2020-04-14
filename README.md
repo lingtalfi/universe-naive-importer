@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1354 -- 2020-04-14
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.226 --> 1.227
+
+
 - 2.0.1353 -- 2020-04-14
 
     - [Ling/Light_ZouUploader](https://github.com/lingtalfi/Light_ZouUploader)  --> 1.0.0
