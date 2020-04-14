@@ -1674,6 +1674,19 @@ galaxies:
                 map: true
             
         
+        Light_ZouUploader: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - Light
+                    - PhpFileValidator
+                
+            
+            post_install: 
+                map: true
+            
+        
         LinearFile: 
             version: 1.0.0
             dependencies: []

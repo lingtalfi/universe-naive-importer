@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1353 -- 2020-04-14
+
+    - [Ling/Light_ZouUploader](https://github.com/lingtalfi/Light_ZouUploader)  --> 1.0.0
+
+
 - 2.0.1352 -- 2020-04-13
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.11.1 --> 1.12.0
