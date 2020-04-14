@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1355 -- 2020-04-14
+
+    - [Ling/Light_UploadGems](https://github.com/lingtalfi/Light_UploadGems) 1.2.0 --> 1.3.0
+
+
 - 2.0.1354 -- 2020-04-14
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.226 --> 1.227
