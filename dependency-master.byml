@@ -2313,6 +2313,16 @@ galaxies:
             
             post_install: []
         
+        TemporaryVirtualFileSystem: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - BabyYaml
+                    - Bat
+                
+            
+            post_install: []
+        
         TheAnarchist: 
             version: 1.0.0
             dependencies: []
