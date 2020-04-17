@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1360 -- 2020-04-17
+
+    - [Ling/TemporaryVirtualFileSystem](https://github.com/lingtalfi/TemporaryVirtualFileSystem) 1.0.0 --> 1.0.1
+
+
 - 2.0.1359 -- 2020-04-17
 
     - [Ling/TemporaryVirtualFileSystem](https://github.com/lingtalfi/TemporaryVirtualFileSystem)  --> 1.0.0
