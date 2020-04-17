@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1357 -- 2020-04-17
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.13.6 --> 1.13.7
+
+
 - 2.0.1356 -- 2020-04-15
 
     - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.16.0 --> 1.17.0

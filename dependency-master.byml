@@ -453,7 +453,7 @@ galaxies:
             post_install: []
         
         DocTools: 
-            version: 1.13.6
+            version: 1.13.7
             dependencies: 
                 Ling: 
                     - Bat
