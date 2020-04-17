@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1361 -- 2020-04-17
+
+    - [Ling/Light_UploadGems](https://github.com/lingtalfi/Light_UploadGems) 1.3.0 --> 1.4.0
+
+
 - 2.0.1360 -- 2020-04-17
 
     - [Ling/TemporaryVirtualFileSystem](https://github.com/lingtalfi/TemporaryVirtualFileSystem) 1.0.0 --> 1.0.1
