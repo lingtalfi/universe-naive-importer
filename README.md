@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1369 -- 2020-04-20
+
+    - [Ling/Light_ZouUploader](https://github.com/lingtalfi/Light_ZouUploader) 1.0.0 --> 1.1.0
+
+
 - 2.0.1368 -- 2020-04-20
 
     - [Ling/TemporaryVirtualFileSystem](https://github.com/lingtalfi/TemporaryVirtualFileSystem) 1.2.0 --> 1.2.1
