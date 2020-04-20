@@ -2314,7 +2314,7 @@ galaxies:
             post_install: []
         
         TemporaryVirtualFileSystem: 
-            version: 1.0.1
+            version: 1.1.1
             dependencies: 
                 Ling: 
                     - BabyYaml
