@@ -2299,6 +2299,15 @@ galaxies:
             dependencies: []
             post_install: []
         
+        SvelteTemplateBuilder: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                
+            
+            post_install: []
+        
         SvgGridGenerator: 
             version: 1.0.0
             dependencies: []

@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1372 -- 2020-05-08
+
+    - [Ling/SvelteTemplateBuilder](https://github.com/lingtalfi/SvelteTemplateBuilder)  --> 1.0.0
+
+
 - 2.0.1371 -- 2020-05-05
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.12.0 --> 1.13.0
