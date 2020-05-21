@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1392 -- 2020-05-21
+
+    - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.19.1 --> 1.20.0
+
+
 - 2.0.1391 -- 2020-05-20
 
     - [Ling/TemporaryVirtualFileSystem](https://github.com/lingtalfi/TemporaryVirtualFileSystem) 1.10.1 --> 1.11.0
