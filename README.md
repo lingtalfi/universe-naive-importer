@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1402 -- 2020-05-28
+
+    - [Ling/FontAwesome](https://github.com/lingtalfi/FontAwesome)  --> 1.0.0
+
+
 - 2.0.1401 -- 2020-05-28
 
     - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.13.7 --> 1.13.8

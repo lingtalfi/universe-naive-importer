@@ -542,6 +542,13 @@ galaxies:
             dependencies: []
             post_install: []
         
+        FontAwesome: 
+            version: 1.0.0
+            dependencies: []
+            post_install: 
+                map: true
+            
+        
         FormModel: 
             version: 1.5.0
             dependencies: []
