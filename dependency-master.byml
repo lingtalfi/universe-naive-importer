@@ -579,7 +579,7 @@ galaxies:
             post_install: []
         
         GormanJsonDecoder: 
-            version: 1.0.0
+            version: 1.0.1
             dependencies: []
             post_install: []
         
