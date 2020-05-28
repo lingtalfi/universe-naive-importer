@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1401 -- 2020-05-28
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.13.7 --> 1.13.8
+
+
 - 2.0.1400 -- 2020-05-28
 
     - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.22.0 --> 1.23.0
