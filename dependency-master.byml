@@ -2192,6 +2192,13 @@ galaxies:
             
             post_install: []
         
+        Select2: 
+            version: 1.0.0
+            dependencies: []
+            post_install: 
+                map: true
+            
+        
         SelectChain: 
             version: 1.0.0
             dependencies: 
