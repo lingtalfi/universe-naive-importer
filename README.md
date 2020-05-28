@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1410 -- 2020-05-28
+
+    - [Ling/GormanJsonDecoder](https://github.com/lingtalfi/GormanJsonDecoder) 1.0.1 --> 1.1.0
+
+
 - 2.0.1409 -- 2020-05-28
 
     - [Ling/GormanJsonDecoder](https://github.com/lingtalfi/GormanJsonDecoder) 1.0.0 --> 1.0.1
