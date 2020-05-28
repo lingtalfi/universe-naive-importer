@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1411 -- 2020-05-28
+
+    - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 2.1.1 --> 2.2.0
+
+
 - 2.0.1410 -- 2020-05-28
 
     - [Ling/GormanJsonDecoder](https://github.com/lingtalfi/GormanJsonDecoder) 1.0.1 --> 1.1.0
