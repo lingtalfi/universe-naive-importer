@@ -578,6 +578,11 @@ galaxies:
             dependencies: []
             post_install: []
         
+        GormanJsonDecoder: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         GreekTodoList: 
             version: 1.4.0
             dependencies: []

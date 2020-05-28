@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1408 -- 2020-05-28
+
+    - [Ling/GormanJsonDecoder](https://github.com/lingtalfi/GormanJsonDecoder)  --> 1.0.0
+
+
 - 2.0.1407 -- 2020-05-28
 
     - [Ling/Select2](https://github.com/lingtalfi/Select2) 1.0.0 --> 1.0.1
