@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1407 -- 2020-05-28
+
+    - [Ling/Select2](https://github.com/lingtalfi/Select2) 1.0.0 --> 1.0.1
+
+
 - 2.0.1406 -- 2020-05-28
 
     - [Ling/Select2](https://github.com/lingtalfi/Select2)  --> 1.0.0
