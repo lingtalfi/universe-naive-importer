@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1403 -- 2020-05-28
+
+    - [Ling/Jquery](https://github.com/lingtalfi/Jquery) 1.0.0 --> 1.1.0
+
+
 - 2.0.1402 -- 2020-05-28
 
     - [Ling/FontAwesome](https://github.com/lingtalfi/FontAwesome)  --> 1.0.0
