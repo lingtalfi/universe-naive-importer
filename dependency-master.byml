@@ -1166,6 +1166,19 @@ galaxies:
                 map: true
             
         
+        Light_ErrorHandler: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - Light
+                    - Light_Logger
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Events: 
             version: 1.5.0
             dependencies: 

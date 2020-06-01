@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1419 -- 2020-06-01
+
+    - [Ling/Light_ErrorHandler](https://github.com/lingtalfi/Light_ErrorHandler)  --> 1.0.0
+
+
 - 2.0.1418 -- 2020-06-01
 
     - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.17.0 --> 1.18.0
