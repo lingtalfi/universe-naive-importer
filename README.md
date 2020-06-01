@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1422 -- 2020-06-01
+
+    - [Ling/Light_ErrorPop](https://github.com/lingtalfi/Light_ErrorPop) 1.0.0 --> 1.0.1
+
+
 - 2.0.1421 -- 2020-06-01
 
     - [Ling/Light_ErrorPop](https://github.com/lingtalfi/Light_ErrorPop)  --> 1.0.0
