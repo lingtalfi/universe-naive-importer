@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1412 -- 2020-06-01
+
+    - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.28.0 --> 1.29.0
+
+
 - 2.0.1411 -- 2020-05-28
 
     - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 2.1.1 --> 2.2.0
