@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1445 -- 2020-06-04
+
+    - [Ling/Light_Crud](https://github.com/lingtalfi/Light_Crud) 1.6.0 --> 1.7.0
+
+
 - 2.0.1444 -- 2020-06-04
 
     - [Ling/Light_ChloroformExtension](https://github.com/lingtalfi/Light_ChloroformExtension) 1.4.2 --> 1.5.0

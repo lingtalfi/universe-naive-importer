@@ -1037,12 +1037,12 @@ galaxies:
             
         
         Light_Crud: 
-            version: 1.6.0
+            version: 1.7.0
             dependencies: 
                 Ling: 
                     - Bat
-                    - Light_AjaxHandler
                     - Light
+                    - Light_AjaxHandler
                     - Light_DatabaseInfo
                     - Light_Database
                     - Light_MicroPermission
