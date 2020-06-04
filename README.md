@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1439 -- 2020-06-04
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.32.0 --> 1.33.0
+
+
 - 2.0.1438 -- 2020-06-04
 
     - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.15.2 --> 1.16.0

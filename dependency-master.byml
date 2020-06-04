@@ -1553,11 +1553,11 @@ galaxies:
             
         
         Light_Realist: 
-            version: 1.32.0
+            version: 1.33.0
             dependencies: 
                 Ling: 
-                    - Light_AjaxHandler
                     - Light
+                    - Light_AjaxHandler
                     - Light_CsrfSession
                     - Light_ReverseRouter
                     - Light_MicroPermission
