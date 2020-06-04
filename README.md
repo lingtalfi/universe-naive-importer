@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1446 -- 2020-06-04
+
+    - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.4.1 --> 0.5.0
+
+
 - 2.0.1445 -- 2020-06-04
 
     - [Ling/Light_Crud](https://github.com/lingtalfi/Light_Crud) 1.6.0 --> 1.7.0
