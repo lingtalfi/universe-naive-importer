@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1437 -- 2020-06-04
+
+    - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 1.10.0 --> 2.0.0
+
+
 - 2.0.1436 -- 2020-06-04
 
     - [Ling/Chloroform_HeliumLightRenderer](https://github.com/lingtalfi/Chloroform_HeliumLightRenderer) 1.5.0 --> 1.6.0

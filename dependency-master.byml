@@ -951,12 +951,12 @@ galaxies:
             
         
         Light_AjaxHandler: 
-            version: 1.10.0
+            version: 2.0.0
             dependencies: 
                 Ling: 
-                    - Bat
                     - Light
                     - Light_Events
+                    - Bat
                     - Light_CsrfSession
                     - Light_ReverseRouter
                 
