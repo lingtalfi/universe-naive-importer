@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1433 -- 2020-06-04
+
+    - [Ling/JFileUploader](https://github.com/lingtalfi/JFileUploader) 2.2.2 --> 3.0.0
+
+
 - 2.0.1432 -- 2020-06-02
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.23.0 --> 1.23.1

@@ -718,8 +718,14 @@ galaxies:
             post_install: []
         
         JFileUploader: 
-            version: 2.2.2
-            dependencies: []
+            version: 3.0.0
+            dependencies: 
+                Ling: 
+                    - FontAwesome
+                    - Jquery
+                    - Select2
+                
+            
             post_install: 
                 map: true
             
