@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1438 -- 2020-06-04
+
+    - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.15.2 --> 1.16.0
+
+
 - 2.0.1437 -- 2020-06-04
 
     - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 1.10.0 --> 2.0.0
