@@ -1006,14 +1006,14 @@ galaxies:
             
         
         Light_ChloroformExtension: 
-            version: 1.4.2
+            version: 1.5.0
             dependencies: 
                 Ling: 
+                    - Light
                     - Light_AjaxHandler
                     - Light_CsrfSession
                     - Light_MicroPermission
                     - BabyYaml
-                    - Light
                     - Light_Database
                     - SimplePdoWrapper
                     - Chloroform

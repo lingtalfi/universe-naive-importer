@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1444 -- 2020-06-04
+
+    - [Ling/Light_ChloroformExtension](https://github.com/lingtalfi/Light_ChloroformExtension) 1.4.2 --> 1.5.0
+
+
 - 2.0.1443 -- 2020-06-04
 
     - [Ling/Light_ExceptionHandler](https://github.com/lingtalfi/Light_ExceptionHandler) 1.1.0 --> 1.2.0
