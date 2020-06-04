@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1434 -- 2020-06-04
+
+    - [Ling/Light_User](https://github.com/lingtalfi/Light_User) 1.6.5 --> 1.6.6
+
+
 - 2.0.1433 -- 2020-06-04
 
     - [Ling/JFileUploader](https://github.com/lingtalfi/JFileUploader) 2.2.2 --> 3.0.0
