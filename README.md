@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1440 -- 2020-06-04
+
+    - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 2.0.0 --> 2.0.1
+
+
 - 2.0.1439 -- 2020-06-04
 
     - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.32.0 --> 1.33.0
