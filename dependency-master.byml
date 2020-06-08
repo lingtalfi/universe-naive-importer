@@ -1669,13 +1669,12 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.28.2
+            version: 1.29.0
             dependencies: 
                 Ling: 
+                    - SimplePdoWrapper
                     - Light
                     - Light_Database
-                    - Light_MicroPermission
-                    - SimplePdoWrapper
                     - Bat
                     - Light_Bullsheet
                     - Light_PasswordProtector
