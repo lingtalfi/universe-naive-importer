@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1449 -- 2020-06-08
+
+    - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.24.0 --> 1.24.1
+
+
 - 2.0.1448 -- 2020-06-04
 
     - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.17.1 --> 1.17.2
