@@ -2335,10 +2335,11 @@ galaxies:
             post_install: []
         
         SqlWizard: 
-            version: 1.5.0
+            version: 1.6.0
             dependencies: 
                 Ling: 
                     - SimplePdoWrapper
+                    - JumboExploder
                 
             
             post_install: []

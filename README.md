@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1457 -- 2020-06-09
+
+    - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.5.0 --> 1.6.0
+
+
 - 2.0.1456 -- 2020-06-09
 
     - [Ling/JumboExploder](https://github.com/lingtalfi/JumboExploder)  --> 1.0.0
