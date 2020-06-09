@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1456 -- 2020-06-09
+
+    - [Ling/JumboExploder](https://github.com/lingtalfi/JumboExploder)  --> 1.0.0
+
+
 - 2.0.1455 -- 2020-06-08
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.234 --> 1.235

@@ -810,6 +810,15 @@ galaxies:
             
             post_install: []
         
+        JumboExploder: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                
+            
+            post_install: []
+        
         KamilleEssentialTools: 
             version: 1.0.0
             dependencies: 
