@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1464 -- 2020-06-11
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.235 --> 1.236
+
+
 - 2.0.1463 -- 2020-06-11
 
     - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.8.0 --> 1.8.1
