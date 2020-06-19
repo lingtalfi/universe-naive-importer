@@ -1145,6 +1145,22 @@ galaxies:
                 map: true
             
         
+        Light_DbSynchronizer: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - Light
+                    - Light_Database
+                    - Light_Logger
+                    - SimplePdoWrapper
+                    - SqlWizard
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_EasyRoute: 
             version: 1.2.2
             dependencies: 

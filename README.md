@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1476 -- 2020-06-19
+
+    - [Ling/Light_DbSynchronizer](https://github.com/lingtalfi/Light_DbSynchronizer)  --> 1.0.0
+
+
 - 2.0.1475 -- 2020-06-19
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.27.0 --> 1.28.0
