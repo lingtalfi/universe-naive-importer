@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1478 -- 2020-06-22
+
+    - [Ling/Light_DbSynchronizer](https://github.com/lingtalfi/Light_DbSynchronizer) 1.1.0 --> 1.1.1
+
+
 - 2.0.1477 -- 2020-06-22
 
     - [Ling/Light_DbSynchronizer](https://github.com/lingtalfi/Light_DbSynchronizer) 1.0.0 --> 1.1.0
