@@ -1317,7 +1317,7 @@ galaxies:
             
         
         Light_Kit_Admin: 
-            version: 0.5.0
+            version: 0.6.0
             dependencies: 
                 Ling: 
                     - Light
@@ -1357,6 +1357,7 @@ galaxies:
                     - Chloroform_HeliumRenderer
                     - FontAwesome
                     - JPostForm
+                    - Jquery
                 
             
             post_install: 
