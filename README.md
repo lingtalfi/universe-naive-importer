@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1479 -- 2020-06-23
+
+    - [Ling/Light_PluginInstaller](https://github.com/lingtalfi/Light_PluginInstaller) 1.3.0 --> 1.4.0
+
+
 - 2.0.1478 -- 2020-06-22
 
     - [Ling/Light_DbSynchronizer](https://github.com/lingtalfi/Light_DbSynchronizer) 1.1.0 --> 1.1.1

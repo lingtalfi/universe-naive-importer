@@ -1509,12 +1509,15 @@ galaxies:
             
         
         Light_PluginInstaller: 
-            version: 1.3.0
+            version: 1.4.0
             dependencies: 
                 Ling: 
+                    - ArrayToString
                     - Bat
                     - Light
                     - Light_Database
+                    - Light_DbSynchronizer
+                    - Light_Logger
                     - SimplePdoWrapper
                 
             
