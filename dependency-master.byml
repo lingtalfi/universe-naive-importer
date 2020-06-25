@@ -2583,7 +2583,7 @@ galaxies:
             post_install: []
         
         Uni2: 
-            version: 1.9.3
+            version: 1.9.4
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -2632,7 +2632,7 @@ galaxies:
             dependencies: []
             post_install: 
                 composer: 
-                    - require
+                    - require tecnickcom/tcpdf
                 
             
         
