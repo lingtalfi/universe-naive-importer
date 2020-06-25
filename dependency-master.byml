@@ -2616,7 +2616,7 @@ galaxies:
             post_install: []
         
         UniverseTools: 
-            version: 1.19.0
+            version: 1.19.1
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -2625,6 +2625,11 @@ galaxies:
                     - TokenFun
                 
             
+            post_install: []
+        
+        Updf: 
+            version: 1.2.1
+            dependencies: []
             post_install: []
         
         Uploader: 

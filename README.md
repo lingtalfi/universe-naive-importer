@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1489 -- 2020-06-25
+
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.19.0 --> 1.19.1
+    - [Ling/Updf](https://github.com/lingtalfi/Updf)  --> 1.2.1
+
+
 - 2.0.1488 -- 2020-06-25
 
     - [Ling/Light_DebugTrace](https://github.com/lingtalfi/Light_DebugTrace)  --> 1.0.0
