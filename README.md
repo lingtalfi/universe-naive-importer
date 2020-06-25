@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1487 -- 2020-06-25
+
+    - [Ling/Light_Kit_Admin_DebugTrace](https://github.com/lingtalfi/Light_Kit_Admin_DebugTrace) 1.6.3 --> 1.6.4
+
+
 - 2.0.1486 -- 2020-06-25
 
     - [Ling/Light_Events](https://github.com/lingtalfi/Light_Events) 1.5.0 --> 1.6.0
