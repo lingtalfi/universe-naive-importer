@@ -2574,13 +2574,13 @@ galaxies:
             post_install: []
         
         Umail: 
-            version: 1.4.0
-            dependencies: 
-                Ling: 
-                    - DirScanner
+            version: 1.5.0
+            dependencies: []
+            post_install: 
+                composer: 
+                    - require swiftmailer/swiftmailer:^6.0
                 
             
-            post_install: []
         
         Uni2: 
             version: 1.9.4

@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1493 -- 2020-06-25
+
+    - [Ling/Umail](https://github.com/lingtalfi/Umail) 1.4.0 --> 1.5.0
+
+
 - 2.0.1492 -- 2020-06-25
 
     - [Ling/Updf](https://github.com/lingtalfi/Updf) 1.2.1 --> 1.2.3
