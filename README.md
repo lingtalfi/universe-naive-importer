@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1492 -- 2020-06-25
+
+    - [Ling/Updf](https://github.com/lingtalfi/Updf) 1.2.1 --> 1.2.3
+
+
 - 2.0.1491 -- 2020-06-25
 
     - [Ling/Uni2](https://github.com/lingtalfi/Uni2) 1.9.3 --> 1.9.4
