@@ -1232,12 +1232,12 @@ galaxies:
             
         
         Light_Events: 
-            version: 1.5.0
+            version: 1.6.0
             dependencies: 
                 Ling: 
                     - Bat
-                    - Light_Logger
                     - Light
+                    - Light_Logger
                 
             
             post_install: 

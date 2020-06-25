@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1486 -- 2020-06-25
+
+    - [Ling/Light_Events](https://github.com/lingtalfi/Light_Events) 1.5.0 --> 1.6.0
+
+
 - 2.0.1485 -- 2020-06-25
 
     - [Ling/Light_Kit_Admin_UserDatabase](https://github.com/lingtalfi/Light_Kit_Admin_UserDatabase)  --> 0.1.0
