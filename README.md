@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1494 -- 2020-06-26
+
+    - [Ling/Light_Events](https://github.com/lingtalfi/Light_Events) 1.6.0 --> 1.7.0
+
+
 - 2.0.1493 -- 2020-06-25
 
     - [Ling/Umail](https://github.com/lingtalfi/Umail) 1.4.0 --> 1.5.0
