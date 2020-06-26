@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1495 -- 2020-06-26
+
+    - [Ling/Light_FileWatcher](https://github.com/lingtalfi/Light_FileWatcher) 1.0.0 --> 1.1.0
+
+
 - 2.0.1494 -- 2020-06-26
 
     - [Ling/Light_Events](https://github.com/lingtalfi/Light_Events) 1.6.0 --> 1.7.0
