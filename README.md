@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1496 -- 2020-06-26
+
+    - [Ling/Umail](https://github.com/lingtalfi/Umail) 1.5.0 --> 1.6.0
+
+
 - 2.0.1495 -- 2020-06-26
 
     - [Ling/Light_FileWatcher](https://github.com/lingtalfi/Light_FileWatcher) 1.0.0 --> 1.1.0
