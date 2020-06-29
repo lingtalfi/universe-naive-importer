@@ -1524,6 +1524,22 @@ galaxies:
                 map: true
             
         
+        Light_Mailer: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - ArrayToString
+                    - ArrayVariableResolver
+                    - Bat
+                    - Light
+                    - Light_Events
+                    - Light_Logger
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_MicroPermission: 
             version: 2.5.0
             dependencies: 
@@ -1840,7 +1856,7 @@ galaxies:
             post_install: []
         
         LingTalfi: 
-            version: 1.18.0
+            version: 1.19.0
             dependencies: 
                 Ling: 
                     - DocTools
