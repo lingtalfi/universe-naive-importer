@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1500 -- 2020-06-29
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.13.8 --> 1.13.9
+
+
 - 2.0.1499 -- 2020-06-29
 
     - [Ling/Light_Mailer](https://github.com/lingtalfi/Light_Mailer)  --> 1.0.0
