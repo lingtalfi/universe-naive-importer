@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1497 -- 2020-06-29
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.237 --> 1.238
+
+
 - 2.0.1496 -- 2020-06-26
 
     - [Ling/Umail](https://github.com/lingtalfi/Umail) 1.5.0 --> 1.6.0
