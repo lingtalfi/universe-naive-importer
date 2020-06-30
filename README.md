@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1501 -- 2020-06-30
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.14.0 --> 1.16.0
+
+
 - 2.0.1500 -- 2020-06-29
 
     - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.13.8 --> 1.13.9
