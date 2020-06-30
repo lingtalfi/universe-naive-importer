@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1502 -- 2020-06-30
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.16.0 --> 1.17.0
+
+
 - 2.0.1501 -- 2020-06-30
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.14.0 --> 1.16.0
