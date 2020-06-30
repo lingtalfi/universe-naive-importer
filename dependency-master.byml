@@ -1177,6 +1177,21 @@ galaxies:
                 map: true
             
         
+        Light_DeveloperWizard: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - BabyYaml
+                    - Light
+                    - SqlWizard
+                    - UniverseTools
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_EasyRoute: 
             version: 1.2.2
             dependencies: 
