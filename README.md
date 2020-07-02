@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1510 -- 2020-07-02
+
+    - [Ling/Light_BMenu](https://github.com/lingtalfi/Light_BMenu) 1.5.2 --> 1.6.0
+
+
 - 2.0.1509 -- 2020-07-02
 
     - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.2.0 --> 1.2.1
