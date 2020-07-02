@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1509 -- 2020-07-02
+
+    - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.2.0 --> 1.2.1
+
+
 - 2.0.1508 -- 2020-06-30
 
     - [Ling/Light_Kit_Admin_Generator](https://github.com/lingtalfi/Light_Kit_Admin_Generator) 1.13.0 --> 1.13.1
