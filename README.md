@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1520 -- 2020-07-03
+
+    - [Ling/ConventionGuy](https://github.com/lingtalfi/ConventionGuy) 1.0.0 --> 1.1.0
+
+
 - 2.0.1519 -- 2020-07-03
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.24 --> 1.241
