@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1519 -- 2020-07-03
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.24 --> 1.241
+
+
 - 2.0.1518 -- 2020-07-03
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.17.1 --> 1.18.0
