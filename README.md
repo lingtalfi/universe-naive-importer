@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1528 -- 2020-07-06
+
+    - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform) 1.14.0 --> 1.15.0
+
+
 - 2.0.1527 -- 2020-07-06
 
     - [Ling/Light_MicroPermission](https://github.com/lingtalfi/Light_MicroPermission) 2.6.0 --> 2.6.1
