@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1526 -- 2020-07-06
+
+    - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.0.0 --> 1.1.0
+
+
 - 2.0.1525 -- 2020-07-06
 
     - [Ling/WebWizardTools](https://github.com/lingtalfi/WebWizardTools)  --> 1.0.0
