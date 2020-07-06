@@ -2719,6 +2719,15 @@ galaxies:
             
             post_install: []
         
+        WebWizardTools: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Jquery
+                
+            
+            post_install: []
+        
         WiseTool: 
             version: 1.2.0
             dependencies: 

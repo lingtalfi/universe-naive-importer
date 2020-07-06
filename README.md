@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1525 -- 2020-07-06
+
+    - [Ling/WebWizardTools](https://github.com/lingtalfi/WebWizardTools)  --> 1.0.0
+
+
 - 2.0.1524 -- 2020-07-03
 
     - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.27.0 --> 1.27.1
