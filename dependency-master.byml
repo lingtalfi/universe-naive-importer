@@ -919,11 +919,10 @@ galaxies:
             post_install: []
         
         Light: 
-            version: 0.63.2
+            version: 0.65.0
             dependencies: 
                 Ling: 
                     - Light_Events
-                    - Light_ReverseRouter
                     - SicTools
                     - Bat
                     - DirScanner
