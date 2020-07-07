@@ -1178,7 +1178,7 @@ galaxies:
             
         
         Light_DeveloperWizard: 
-            version: 1.1.0
+            version: 1.2.0
             dependencies: 
                 Ling: 
                     - Bat
@@ -1187,6 +1187,11 @@ galaxies:
                     - WebWizardTools
                     - BabyYaml
                     - SqlWizard
+                    - Light_DatabaseInfo
+                    - Light_UserDatabase
+                    - SimplePdoWrapper
+                    - Light_ControllerHub
+                    - Light_Kit_Admin
                     - Jquery
                 
             
