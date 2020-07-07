@@ -1364,7 +1364,7 @@ galaxies:
             
         
         Light_Kit_Admin: 
-            version: 0.6.0
+            version: 0.7.0
             dependencies: 
                 Ling: 
                     - Light
@@ -1390,7 +1390,6 @@ galaxies:
                     - Light_MicroPermission
                     - Light_UserDatabase
                     - Light_Realform
-                    - Light_UserRowRestriction
                     - SqlWizard
                     - Light_ControllerHub
                     - Light_Crud
