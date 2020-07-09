@@ -143,9 +143,10 @@ galaxies:
             post_install: []
         
         Bat: 
-            version: 1.244
+            version: 1.245
             dependencies: 
                 Ling: 
+                    - TokenFun
                     - ArrayToString
                     - BeeFramework
                     - CopyDir
