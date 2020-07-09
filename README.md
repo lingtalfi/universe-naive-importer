@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1552 -- 2020-07-09
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.243 --> 1.244
+
+
 - 2.0.1551 -- 2020-07-09
 
     - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.2.1 --> 1.3.0
