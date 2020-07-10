@@ -294,8 +294,13 @@ galaxies:
             post_install: []
         
         ClassCooker: 
-            version: 1.7.0
-            dependencies: []
+            version: 1.8.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - TokenFun
+                
+            
             post_install: []
         
         ClassCreator: 
