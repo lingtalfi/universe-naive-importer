@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1572 -- 2020-07-16
+
+    - universe minor increment
+
+
 - 2.0.1571 -- 2020-07-10
 
     - [Ling/ClassCooker](https://github.com/lingtalfi/ClassCooker) 1.7.0 --> 1.8.0
