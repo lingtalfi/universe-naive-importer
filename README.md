@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1574 -- 2020-07-17
+
+    - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.6.0 --> 1.6.1
+
+
 - 2.0.1573 -- 2020-07-17
 
     - [Ling/ClassCooker](https://github.com/lingtalfi/ClassCooker) 1.8.1 --> 1.8.2
