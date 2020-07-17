@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1579 -- 2020-07-17
+
+    - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.7.2 --> 1.7.3
+
+
 - 2.0.1578 -- 2020-07-17
 
     - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.7.0 --> 1.7.2
