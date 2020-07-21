@@ -2539,7 +2539,7 @@ galaxies:
             post_install: []
         
         TheBar: 
-            version: 1.19.0
+            version: 1.20.0
             dependencies: []
             post_install: []
         

@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1585 -- 2020-07-21
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.19.0 --> 1.20.0
+
+
 - 2.0.1584 -- 2020-07-21
 
     - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.27.1 --> 1.27.2
