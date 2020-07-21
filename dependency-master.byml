@@ -1184,11 +1184,12 @@ galaxies:
             
         
         Light_DeveloperWizard: 
-            version: 1.4.0
+            version: 1.5.0
             dependencies: 
                 Ling: 
                     - Bat
                     - Light
+                    - Light_PluginInstaller
                     - UniverseTools
                     - BabyYaml
                     - ClassCooker
