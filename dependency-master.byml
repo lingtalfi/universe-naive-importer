@@ -1002,7 +1002,7 @@ galaxies:
             
         
         Light_BreezeGenerator: 
-            version: 1.27.1
+            version: 1.27.2
             dependencies: 
                 Ling: 
                     - Bat
