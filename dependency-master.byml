@@ -1696,7 +1696,7 @@ galaxies:
             
         
         Light_Realist: 
-            version: 1.34.1
+            version: 1.34.2
             dependencies: 
                 Ling: 
                     - Light
