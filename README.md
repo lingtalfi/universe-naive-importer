@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1589 -- 2020-07-21
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.258 --> 1.259
+
+
 - 2.0.1588 -- 2020-07-21
 
     - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.34.1 --> 1.34.2
