@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1594 -- 2020-07-23
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.259 --> 1.26
+
+
 - 2.0.1593 -- 2020-07-23
 
     - [Ling/TokenFun](https://github.com/lingtalfi/TokenFun) 1.8.1 --> 1.9.0
