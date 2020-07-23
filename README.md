@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1596 -- 2020-07-23
+
+    - [Ling/ClassCooker](https://github.com/lingtalfi/ClassCooker) 1.9.0 --> 1.10.0
+
+
 - 2.0.1595 -- 2020-07-23
 
     - [Ling/TokenFun](https://github.com/lingtalfi/TokenFun) 1.9.0 --> 1.10.0
