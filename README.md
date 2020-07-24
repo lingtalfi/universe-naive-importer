@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1599 -- 2020-07-24
+
+    - [Ling/ClassCooker](https://github.com/lingtalfi/ClassCooker) 1.10.0 --> 1.11.0
+
+
 - 2.0.1598 -- 2020-07-23
 
     - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.6.0 --> 1.7.0
