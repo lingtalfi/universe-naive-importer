@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1601 -- 2020-07-24
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.26 --> 1.261
+
+
 - 2.0.1600 -- 2020-07-24
 
     - [Ling/WebWizardTools](https://github.com/lingtalfi/WebWizardTools) 1.2.0 --> 1.3.0
