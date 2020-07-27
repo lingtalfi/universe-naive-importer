@@ -1758,6 +1758,21 @@ galaxies:
                 map: true
             
         
+        Light_TaskScheduler: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                    - Light_Database
+                    - SimplePdoWrapper
+                    - Bat
+                    - Light_Logger
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_UploadGems: 
             version: 1.8.0
             dependencies: 
