@@ -143,7 +143,7 @@ galaxies:
             post_install: []
         
         Bat: 
-            version: 1.264
+            version: 1.265
             dependencies: 
                 Ling: 
                     - TokenFun
@@ -153,6 +153,7 @@ galaxies:
                     - DirScanner
                     - BabyYaml
                     - Tiphaine
+                    - ClassCooker
                 
             
             post_install: []
