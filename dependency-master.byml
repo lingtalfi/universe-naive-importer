@@ -1541,6 +1541,18 @@ galaxies:
                 map: true
             
         
+        Light_LingStandardService: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                    - Light_PluginInstaller
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Logger: 
             version: 1.11.1
             dependencies: 
