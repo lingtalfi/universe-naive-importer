@@ -1542,11 +1542,14 @@ galaxies:
             
         
         Light_LingStandardService: 
-            version: 1.0.0
+            version: 1.1.0
             dependencies: 
                 Ling: 
                     - Light
+                    - Light_Logger
                     - Light_PluginInstaller
+                    - Light_UserDatabase
+                    - UniverseTools
                 
             
             post_install: 
