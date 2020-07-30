@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1641 -- 2020-07-30
+
+    - [Ling/ClassCooker](https://github.com/lingtalfi/ClassCooker) 1.12.0 --> 1.13.0
+
+
 - 2.0.1640 -- 2020-07-30
 
     - [Ling/Light_LingStandardService](https://github.com/lingtalfi/Light_LingStandardService) 1.3.1 --> 1.4.0
