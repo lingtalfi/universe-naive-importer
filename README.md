@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1653 -- 2020-07-31
+
+    - [Ling/JBee](https://github.com/lingtalfi/JBee)  --> 1.0.0
+
+
 - 2.0.1652 -- 2020-07-31
 
     - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.15.0 --> 1.15.1
