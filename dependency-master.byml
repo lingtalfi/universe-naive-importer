@@ -1455,6 +1455,25 @@ galaxies:
                 map: true
             
         
+        Light_Kit_Admin_TaskScheduler: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - Chloroform
+                    - Light
+                    - Light_Kit_Admin
+                    - Light_Realform
+                    - Light_Kit
+                    - Light_UserRowRestriction
+                    - Light_ControllerHub
+                    - Light_LingStandardService
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Kit_Admin_UserData: 
             version: 1.3.0
             dependencies: 
