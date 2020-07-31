@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1654 -- 2020-07-31
+
+    - [Ling/JBee](https://github.com/lingtalfi/JBee) 1.0.0 --> 1.0.1
+
+
 - 2.0.1653 -- 2020-07-31
 
     - [Ling/JBee](https://github.com/lingtalfi/JBee)  --> 1.0.0
