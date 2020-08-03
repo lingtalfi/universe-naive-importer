@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1660 -- 2020-08-03
+
+    - [Ling/Light_Kit_Admin_Generator](https://github.com/lingtalfi/Light_Kit_Admin_Generator) 1.15.1 --> 1.16.0
+
+
 - 2.0.1659 -- 2020-08-03
 
     - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.25.1 --> 1.26.0
