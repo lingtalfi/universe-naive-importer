@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1673 -- 2020-08-06
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.36.0 --> 1.36.1
+
+
 - 2.0.1672 -- 2020-08-06
 
     - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.35.0 --> 1.36.0
