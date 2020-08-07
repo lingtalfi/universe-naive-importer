@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1676 -- 2020-08-07
+
+    - [Ling/Light_LingStandardService](https://github.com/lingtalfi/Light_LingStandardService) 1.5.0 --> 1.6.0
+
+
 - 2.0.1675 -- 2020-08-07
 
     - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.36.1 --> 1.37.0
