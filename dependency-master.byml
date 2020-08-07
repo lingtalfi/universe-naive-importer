@@ -1578,7 +1578,7 @@ galaxies:
             
         
         Light_LingStandardService: 
-            version: 1.6.0
+            version: 1.6.1
             dependencies: 
                 Ling: 
                     - Light_UserDatabase
@@ -1586,9 +1586,6 @@ galaxies:
                     - Light_Logger
                     - Light_PluginInstaller
                     - UniverseTools
-                    - Light_Kit_Admin
-                    - Light_Realist
-                    - SimplePdoWrapper
                 
             
             post_install: 
