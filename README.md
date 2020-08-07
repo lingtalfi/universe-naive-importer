@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1675 -- 2020-08-07
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 1.36.1 --> 1.37.0
+
+
 - 2.0.1674 -- 2020-08-07
 
     - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.20.1 --> 1.21.0
