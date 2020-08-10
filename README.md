@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1695 -- 2020-08-10
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.20.0 --> 1.21.0
+
+
 - 2.0.1694 -- 2020-08-10
 
     - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.20.1 --> 1.20.2
