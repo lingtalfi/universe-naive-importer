@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1696 -- 2020-08-10
+
+    - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform) 1.17.1 --> 1.18.0
+
+
 - 2.0.1695 -- 2020-08-10
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.20.0 --> 1.21.0
