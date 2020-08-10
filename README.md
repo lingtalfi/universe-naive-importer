@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1700 -- 2020-08-10
+
+    - [Ling/Kit](https://github.com/lingtalfi/Kit) 1.12.0 --> 1.12.1
+
+
 - 2.0.1699 -- 2020-08-10
 
     - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.20.2 --> 1.21.0
