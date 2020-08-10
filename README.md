@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1702 -- 2020-08-10
+
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.21.0 --> 1.21.1
+
+
 - 2.0.1701 -- 2020-08-10
 
     - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.17.2 --> 1.18.0
