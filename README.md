@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1708 -- 2020-08-11
+
+    - [Ling/JBee](https://github.com/lingtalfi/JBee) 1.0.1 --> 1.1.0
+
+
 - 2.0.1707 -- 2020-08-11
 
     - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.30.0 --> 1.31.0
