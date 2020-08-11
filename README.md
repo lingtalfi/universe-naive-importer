@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1714 -- 2020-08-11
+
+    - [Ling/Chloroform_HydrogenRenderer](https://github.com/lingtalfi/Chloroform_HydrogenRenderer) 1.3.0 --> 1.4.0
+
+
 - 2.0.1713 -- 2020-08-11
 
     - [Ling/Chloroform_HeliumRenderer](https://github.com/lingtalfi/Chloroform_HeliumRenderer) 1.16.0 --> 1.17.0
