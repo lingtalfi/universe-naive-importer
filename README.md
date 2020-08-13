@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1721 -- 2020-08-13
+
+    - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.34.1 --> 1.34.2
+
+
 - 2.0.1720 -- 2020-08-13
 
     - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.28.1 --> 1.29.0
