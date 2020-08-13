@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1723 -- 2020-08-13
+
+    - [Ling/Light_Kit_Admin_UserPreferences](https://github.com/lingtalfi/Light_Kit_Admin_UserPreferences)  --> 1.0.0
+
+
 - 2.0.1722 -- 2020-08-13
 
     - [Ling/Light_UserPreferences](https://github.com/lingtalfi/Light_UserPreferences)  --> 1.0.0

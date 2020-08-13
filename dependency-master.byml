@@ -1539,6 +1539,25 @@ galaxies:
                 map: true
             
         
+        Light_Kit_Admin_UserPreferences: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Chloroform
+                    - Light_Kit_Admin
+                    - Light_UserPreferences
+                    - Bat
+                    - Light
+                    - Light_Realform
+                    - Light_Kit
+                    - Light_UserRowRestriction
+                    - Light_ControllerHub
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Kit_BootstrapWidgetLibrary: 
             version: 1.18.0
             dependencies: 
