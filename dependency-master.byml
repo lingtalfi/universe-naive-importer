@@ -1909,6 +1909,22 @@ galaxies:
                 map: true
             
         
+        Light_UserPreferences: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light_UserManager
+                    - Light_User
+                    - SimplePdoWrapper
+                    - Light
+                    - Light_Database
+                    - Light_LingStandardService
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_UserRowRestriction: 
             version: 1.3.0
             dependencies: 
