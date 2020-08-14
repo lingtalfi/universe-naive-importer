@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1730 -- 2020-08-14
+
+    - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.22.1 --> 1.23.0
+
+
 - 2.0.1729 -- 2020-08-14
 
     - [Ling/Light_Mailer](https://github.com/lingtalfi/Light_Mailer) 1.1.0 --> 1.2.0
