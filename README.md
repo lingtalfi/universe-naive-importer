@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1729 -- 2020-08-14
+
+    - [Ling/Light_Mailer](https://github.com/lingtalfi/Light_Mailer) 1.1.0 --> 1.2.0
+
+
 - 2.0.1728 -- 2020-08-14
 
     - [Ling/Light_Events](https://github.com/lingtalfi/Light_Events) 1.7.0 --> 1.8.0
