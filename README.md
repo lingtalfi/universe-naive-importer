@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1726 -- 2020-08-14
+
+    - [Ling/Light_Mailer](https://github.com/lingtalfi/Light_Mailer) 1.0.1 --> 1.1.0
+
+
 - 2.0.1725 -- 2020-08-14
 
     - [Ling/Light_Kit_Admin_TaskScheduler](https://github.com/lingtalfi/Light_Kit_Admin_TaskScheduler) 1.2.0 --> 1.3.0
