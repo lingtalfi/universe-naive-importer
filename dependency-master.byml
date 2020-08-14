@@ -1723,6 +1723,18 @@ galaxies:
                 
             
         
+        Light_QuickMailAlert: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                    - Light_Mailer
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_RealGenerator: 
             version: 1.27.0
             dependencies: 

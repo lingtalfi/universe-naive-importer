@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1727 -- 2020-08-14
+
+    - [Ling/Light_QuickMailAlert](https://github.com/lingtalfi/Light_QuickMailAlert)  --> 1.0.0
+
+
 - 2.0.1726 -- 2020-08-14
 
     - [Ling/Light_Mailer](https://github.com/lingtalfi/Light_Mailer) 1.0.1 --> 1.1.0
