@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1733 -- 2020-08-14
+
+    - [Ling/Light](https://github.com/lingtalfi/Light) 0.67.0 --> 0.68.0
+
+
 - 2.0.1732 -- 2020-08-14
 
     - [Ling/Light](https://github.com/lingtalfi/Light) 0.66.4 --> 0.67.0
