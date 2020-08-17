@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1739 -- 2020-08-17
+
+    - [Ling/Light_UserNotifications](https://github.com/lingtalfi/Light_UserNotifications) 1.0.0 --> 1.0.1
+
+
 - 2.0.1738 -- 2020-08-17
 
     - [Ling/Light_UserNotifications](https://github.com/lingtalfi/Light_UserNotifications)  --> 1.0.0
