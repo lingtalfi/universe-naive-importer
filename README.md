@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1735 -- 2020-08-17
+
+    - [Ling/Light_Events](https://github.com/lingtalfi/Light_Events) 1.8.0 --> 1.9.0
+
+
 - 2.0.1734 -- 2020-08-14
 
     - [Ling/Light](https://github.com/lingtalfi/Light) 0.68.0 --> 0.69.0
