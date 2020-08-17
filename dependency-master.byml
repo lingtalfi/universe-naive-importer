@@ -1942,6 +1942,20 @@ galaxies:
                 map: true
             
         
+        Light_UserNotifications: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                    - Light_Database
+                    - SimplePdoWrapper
+                    - Light_LingStandardService
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_UserPreferences: 
             version: 1.0.0
             dependencies: 
