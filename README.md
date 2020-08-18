@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1743 -- 2020-08-18
+
+    - [Ling/DirScanner](https://github.com/lingtalfi/DirScanner) 1.12.0 --> 1.13.0
+    - [Ling/Light_LingHooks](https://github.com/lingtalfi/Light_LingHooks)  --> 1.0.0
+
+
 - 2.0.1742 -- 2020-08-17
 
     - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.5.2 --> 1.6.0
