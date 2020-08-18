@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1744 -- 2020-08-18
+
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.20.0 --> 1.21.0
+
+
 - 2.0.1743 -- 2020-08-18
 
     - [Ling/DirScanner](https://github.com/lingtalfi/DirScanner) 1.12.0 --> 1.13.0
