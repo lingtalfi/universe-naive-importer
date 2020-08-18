@@ -1192,11 +1192,12 @@ galaxies:
             
         
         Light_DeveloperWizard: 
-            version: 1.23.1
+            version: 1.24.0
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
+                    - SqlWizard
                     - Light
                     - Light_PluginInstaller
                     - UniverseTools
@@ -1204,7 +1205,6 @@ galaxies:
                     - TokenFun
                     - WebWizardTools
                     - Light_DbSynchronizer
-                    - SqlWizard
                     - Light_DatabaseInfo
                     - Light_Kit_Admin_Generator
                     - Light_LingStandardService
