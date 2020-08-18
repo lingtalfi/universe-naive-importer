@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1750 -- 2020-08-18
+
+    - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.27.0 --> 1.28.0
+
+
 - 2.0.1749 -- 2020-08-18
 
     - [Ling/ClassCooker](https://github.com/lingtalfi/ClassCooker) 1.15.0 --> 1.16.0
