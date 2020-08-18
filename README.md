@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1748 -- 2020-08-18
+
+    - [Ling/ClassCooker](https://github.com/lingtalfi/ClassCooker) 1.14.0 --> 1.15.0
+
+
 - 2.0.1747 -- 2020-08-18
 
     - [Ling/ClassCooker](https://github.com/lingtalfi/ClassCooker) 1.13.0 --> 1.14.0
