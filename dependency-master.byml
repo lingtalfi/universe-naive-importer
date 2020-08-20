@@ -1793,7 +1793,7 @@ galaxies:
             
         
         Light_Realist: 
-            version: 1.38.0
+            version: 1.39.0
             dependencies: 
                 Ling: 
                     - Light
