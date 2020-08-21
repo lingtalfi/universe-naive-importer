@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1764 -- 2020-08-21
+
+    - [Ling/Light_Nugget](https://github.com/lingtalfi/Light_Nugget) 1.0.0 --> 1.0.1
+
+
 - 2.0.1763 -- 2020-08-21
 
     - [Ling/Light_Nugget](https://github.com/lingtalfi/Light_Nugget)  --> 1.0.0
