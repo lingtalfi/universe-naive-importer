@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1769 -- 2020-08-21
+
+    - [Ling/Light_MicroPermission](https://github.com/lingtalfi/Light_MicroPermission) 3.0.1 --> 3.0.2
+
+
 - 2.0.1768 -- 2020-08-21
 
     - [Ling/Light_MicroPermission](https://github.com/lingtalfi/Light_MicroPermission) 3.0.0 --> 3.0.1
