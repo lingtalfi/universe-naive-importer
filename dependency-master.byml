@@ -1669,6 +1669,18 @@ galaxies:
                 map: true
             
         
+        Light_Nugget: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - BabyYaml
+                    - Light
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_PasswordProtector: 
             version: 1.0.1
             dependencies: 
