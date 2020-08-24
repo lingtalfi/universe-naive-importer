@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1778 -- 2020-08-24
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.268 --> 1.269
+
+
 - 2.0.1777 -- 2020-08-24
 
     - [Ling/Light_Nugget](https://github.com/lingtalfi/Light_Nugget) 1.0.1 --> 1.1.0
