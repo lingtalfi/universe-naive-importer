@@ -1069,7 +1069,7 @@ galaxies:
             
         
         Light_Crud: 
-            version: 1.8.0
+            version: 2.0.0
             dependencies: 
                 Ling: 
                     - Bat
@@ -1079,7 +1079,6 @@ galaxies:
                     - Light_Database
                     - Light_MicroPermission
                     - SimplePdoWrapper
-                    - Light_Events
                 
             
             post_install: 
