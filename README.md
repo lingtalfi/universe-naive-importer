@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1785 -- 2020-08-28
+
+    - [Ling/Light_Kit_Admin_TaskScheduler](https://github.com/lingtalfi/Light_Kit_Admin_TaskScheduler) 1.4.0 --> 1.5.0
+
+
 - 2.0.1784 -- 2020-08-28
 
     - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.25.0 --> 1.26.0
