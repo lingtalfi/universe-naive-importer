@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1782 -- 2020-08-28
+
+    - [Ling/Light_Crud](https://github.com/lingtalfi/Light_Crud) 1.7.0 --> 1.8.0
+
+
 - 2.0.1781 -- 2020-08-28
 
     - [Ling/Light_Database](https://github.com/lingtalfi/Light_Database) 1.13.0 --> 1.14.0
