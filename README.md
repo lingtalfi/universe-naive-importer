@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1788 -- 2020-08-31
+
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.21.0 --> 1.22.0
+
+
 - 2.0.1787 -- 2020-08-28
 
     - [Ling/Light_Kit_Admin_UserPreferences](https://github.com/lingtalfi/Light_Kit_Admin_UserPreferences) 1.1.0 --> 1.2.0

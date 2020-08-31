@@ -1394,7 +1394,6 @@ galaxies:
                 Ling: 
                     - Light
                     - Light_AjaxHandler
-                    - Light_Realist
                     - BabyYaml
                     - Bat
                     - Light_BMenu
@@ -1418,6 +1417,7 @@ galaxies:
                     - SqlWizard
                     - Light_ControllerHub
                     - Light_Crud
+                    - Light_Realist
                     - PhpSpreadSheetTool
                     - Light_DatabaseUtils
                     - Light_UserData
@@ -2043,7 +2043,7 @@ galaxies:
             post_install: []
         
         LingTalfi: 
-            version: 1.21.0
+            version: 1.22.0
             dependencies: 
                 Ling: 
                     - DocTools
