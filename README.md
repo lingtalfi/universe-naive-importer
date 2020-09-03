@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1798 -- 2020-09-03
+
+    - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.29.0 --> 1.30.0
+
+
 - 2.0.1797 -- 2020-09-03
 
     - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.14.1 --> 1.15.0
