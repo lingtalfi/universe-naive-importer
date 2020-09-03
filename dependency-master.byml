@@ -1805,7 +1805,7 @@ galaxies:
             
         
         Light_Realist: 
-            version: 1.41.0
+            version: 2.0.0
             dependencies: 
                 Ling: 
                     - Light
@@ -1815,11 +1815,10 @@ galaxies:
                     - Light_MicroPermission
                     - Bat
                     - Light_ControllerHub
-                    - Light_CsrfSimple
                     - Light_Kit_Admin
                     - ArrayToString
-                    - BabyYaml
                     - Light_Database
+                    - Light_Nugget
                     - Light_UserManager
                     - Light_User
                     - ParametrizedSqlQuery
