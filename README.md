@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1801 -- 2020-09-03
+
+    - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.30.2 --> 1.30.3
+
+
 - 2.0.1800 -- 2020-09-03
 
     - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.30.1 --> 1.30.2

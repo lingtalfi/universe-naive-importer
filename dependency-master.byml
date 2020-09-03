@@ -1762,7 +1762,7 @@ galaxies:
             
         
         Light_RealGenerator: 
-            version: 1.30.2
+            version: 1.30.3
             dependencies: 
                 Ling: 
                     - Bat
