@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1810 -- 2020-09-08
+
+    - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.34.3 --> 1.35.0
+
+
 - 2.0.1809 -- 2020-09-08
 
     - [Ling/Light_MicroPermission](https://github.com/lingtalfi/Light_MicroPermission) 3.0.2 --> 3.0.3
