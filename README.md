@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1811 -- 2020-09-08
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.271 --> 1.272
+
+
 - 2.0.1810 -- 2020-09-08
 
     - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.34.3 --> 1.35.0
