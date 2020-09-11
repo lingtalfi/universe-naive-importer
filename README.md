@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1817 -- 2020-09-11
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.13.9 --> 1.14.0
+
+
 - 2.0.1816 -- 2020-09-11
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.23.1 --> 1.23.2
