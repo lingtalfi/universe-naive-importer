@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1814 -- 2020-09-11
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.22.0 --> 1.23.0
+
+
 - 2.0.1813 -- 2020-09-11
 
     - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.11.0 --> 1.12.0
