@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1829 -- 2020-09-14
+
+    - [Ling/Light_ChloroformExtension](https://github.com/lingtalfi/Light_ChloroformExtension) 1.6.0 --> 1.6.1
+
+
 - 2.0.1828 -- 2020-09-14
 
     - [Ling/Light_Nugget](https://github.com/lingtalfi/Light_Nugget) 1.2.1 --> 1.2.3

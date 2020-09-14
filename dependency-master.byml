@@ -1038,7 +1038,7 @@ galaxies:
             
         
         Light_ChloroformExtension: 
-            version: 1.6.0
+            version: 1.6.1
             dependencies: 
                 Ling: 
                     - Light
@@ -1046,11 +1046,10 @@ galaxies:
                     - Light_CsrfSession
                     - Light_MicroPermission
                     - Light_Database
-                    - Light_UserManager
+                    - Light_Nugget
                     - SimplePdoWrapper
                     - SqlWizard
                     - Chloroform
-                    - Light_Nugget
                 
             
             post_install: 
