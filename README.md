@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1822 -- 2020-09-14
+
+    - [Ling/Light_UserManager](https://github.com/lingtalfi/Light_UserManager) 1.5.2 --> 1.5.3
+
+
 - 2.0.1821 -- 2020-09-11
 
     - [Ling/Light_UserManager](https://github.com/lingtalfi/Light_UserManager) 1.5.1 --> 1.5.2
