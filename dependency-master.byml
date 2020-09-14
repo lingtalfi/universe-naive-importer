@@ -1671,12 +1671,14 @@ galaxies:
             
         
         Light_Nugget: 
-            version: 1.2.1
+            version: 1.2.3
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
                     - Light
+                    - Light_MicroPermission
+                    - Light_UserManager
                 
             
             post_install: 
