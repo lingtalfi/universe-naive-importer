@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1839 -- 2020-09-15
+
+    - [Ling/Light_Nugget](https://github.com/lingtalfi/Light_Nugget) 1.2.7 --> 1.2.8
+
+
 - 2.0.1838 -- 2020-09-15
 
     - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform) 2.0.0 --> 2.0.1
