@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1836 -- 2020-09-15
+
+    - [Ling/Light_MicroPermission](https://github.com/lingtalfi/Light_MicroPermission) 3.0.3 --> 3.0.4
+
+
 - 2.0.1835 -- 2020-09-14
 
     - [Ling/Light_Nugget](https://github.com/lingtalfi/Light_Nugget) 1.2.6 --> 1.2.7
