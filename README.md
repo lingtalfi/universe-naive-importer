@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1847 -- 2020-09-17
+
+    - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.30.3 --> 1.30.4
+
+
 - 2.0.1846 -- 2020-09-17
 
     - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.36.0 --> 1.36.1
