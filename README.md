@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1842 -- 2020-09-17
+
+    - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.31.0 --> 1.31.1
+
+
 - 2.0.1841 -- 2020-09-17
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.23.2 --> 1.23.0
