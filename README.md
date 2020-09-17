@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1848 -- 2020-09-17
+
+    - [Ling/Chloroform_HeliumRenderer](https://github.com/lingtalfi/Chloroform_HeliumRenderer) 1.19.1 --> 1.19.2
+
+
 - 2.0.1847 -- 2020-09-17
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.30.3 --> 1.30.4
