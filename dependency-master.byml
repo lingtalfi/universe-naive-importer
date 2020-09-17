@@ -1455,11 +1455,12 @@ galaxies:
             
         
         Light_Kit_Admin_Generator: 
-            version: 1.18.0
+            version: 1.19.0
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
+                    - Light_Kit_Admin
                     - Light_RealGenerator
                     - Light_ControllerHub
                 
