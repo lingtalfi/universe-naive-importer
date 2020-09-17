@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1846 -- 2020-09-17
+
+    - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.36.0 --> 1.36.1
+
+
 - 2.0.1845 -- 2020-09-17
 
     - [Ling/Light_Kit_Admin_Generator](https://github.com/lingtalfi/Light_Kit_Admin_Generator) 1.18.0 --> 1.19.0
