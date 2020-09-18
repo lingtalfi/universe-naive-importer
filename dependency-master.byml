@@ -1784,7 +1784,7 @@ galaxies:
             
         
         Light_Realform: 
-            version: 2.0.1
+            version: 2.0.2
             dependencies: 
                 Ling: 
                     - Light
@@ -1801,7 +1801,6 @@ galaxies:
                     - Light_CsrfSession
                     - Light_Database
                     - Light_MicroPermission
-                    - ArrayToString
                     - Light_Nugget
                     - Light_UserManager
                     - Light_User
