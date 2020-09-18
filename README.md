@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1855 -- 2020-09-18
+
+    - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.9.1 --> 1.9.2
+
+
 - 2.0.1854 -- 2020-09-18
 
     - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.27.0 --> 1.28.0
