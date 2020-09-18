@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1856 -- 2020-09-18
+
+    - [Ling/Light_Nugget](https://github.com/lingtalfi/Light_Nugget) 1.2.8 --> 1.2.9
+
+
 - 2.0.1855 -- 2020-09-18
 
     - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.9.1 --> 1.9.2
