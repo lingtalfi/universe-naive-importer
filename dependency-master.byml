@@ -1784,16 +1784,14 @@ galaxies:
             
         
         Light_Realform: 
-            version: 2.0.2
+            version: 2.0.3
             dependencies: 
                 Ling: 
                     - Light
                     - Light_Csrf
                     - SimplePdoWrapper
                     - Chloroform
-                    - BabyYaml
                     - Bat
-                    - Light_ChloroformExtension
                     - Light_DatabaseInfo
                     - Light_Events
                     - Light_Flasher
@@ -1801,6 +1799,7 @@ galaxies:
                     - Light_CsrfSession
                     - Light_Database
                     - Light_MicroPermission
+                    - Light_ChloroformExtension
                     - Light_Nugget
                     - Light_UserManager
                     - Light_User
