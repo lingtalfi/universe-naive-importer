@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1871 -- 2020-09-22
+
+    - [Ling/Chloroform_HeliumRenderer](https://github.com/lingtalfi/Chloroform_HeliumRenderer) 1.19.3 --> 1.19.4
+
+
 - 2.0.1870 -- 2020-09-22
 
     - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.36.1 --> 1.36.2
