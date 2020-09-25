@@ -1038,7 +1038,7 @@ galaxies:
             
         
         Light_ChloroformExtension: 
-            version: 1.6.4
+            version: 1.6.5
             dependencies: 
                 Ling: 
                     - Light
@@ -1050,6 +1050,7 @@ galaxies:
                     - SimplePdoWrapper
                     - SqlWizard
                     - Chloroform
+                    - Light_Realform
                 
             
             post_install: 
