@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1880 -- 2020-10-01
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.5 --> 1.24.6
+
+
 - 2.0.1879 -- 2020-09-29
 
     - [Ling/Chloroform_HeliumRenderer](https://github.com/lingtalfi/Chloroform_HeliumRenderer) 1.19.6 --> 1.19.7
