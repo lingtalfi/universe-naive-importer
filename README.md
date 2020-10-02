@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1884 -- 2020-10-02
+
+    - [Ling/GormanJsonDecoder](https://github.com/lingtalfi/GormanJsonDecoder) 1.1.0 --> 1.1.1
+
+
 - 2.0.1883 -- 2020-10-02
 
     - [Ling/Light_Nugget](https://github.com/lingtalfi/Light_Nugget) 1.3.1 --> 1.3.2
