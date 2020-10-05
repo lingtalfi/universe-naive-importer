@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1885 -- 2020-10-05
+
+    - [Ling/JBee](https://github.com/lingtalfi/JBee) 1.1.0 --> 1.1.1
+
+
 - 2.0.1884 -- 2020-10-02
 
     - [Ling/GormanJsonDecoder](https://github.com/lingtalfi/GormanJsonDecoder) 1.1.0 --> 1.1.1
