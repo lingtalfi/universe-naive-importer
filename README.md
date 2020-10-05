@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1886 -- 2020-10-05
+
+    - [Ling/JFileUploader](https://github.com/lingtalfi/JFileUploader) 3.0.0 --> 3.0.1
+
+
 - 2.0.1885 -- 2020-10-05
 
     - [Ling/JBee](https://github.com/lingtalfi/JBee) 1.1.0 --> 1.1.1
