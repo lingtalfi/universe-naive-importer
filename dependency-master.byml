@@ -2276,6 +2276,11 @@ galaxies:
             dependencies: []
             post_install: []
         
+        ParenthesisMirrorParser: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         ParseDown: 
             version: 1.0.0
             dependencies: []

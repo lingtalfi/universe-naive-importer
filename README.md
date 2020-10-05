@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1887 -- 2020-10-05
+
+    - [Ling/ParenthesisMirrorParser](https://github.com/lingtalfi/ParenthesisMirrorParser)  --> 1.0.0
+
+
 - 2.0.1886 -- 2020-10-05
 
     - [Ling/JFileUploader](https://github.com/lingtalfi/JFileUploader) 3.0.0 --> 3.0.1
