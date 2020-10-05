@@ -933,12 +933,13 @@ galaxies:
             post_install: []
         
         Light: 
-            version: 0.69.7
+            version: 0.69.8
             dependencies: 
                 Ling: 
                     - Light_Events
                     - SicTools
                     - Bat
+                    - ParenthesisMirrorParser
                     - DirScanner
                     - Octopus
                     - PhpUploadFileFix

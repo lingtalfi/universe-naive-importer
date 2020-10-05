@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1888 -- 2020-10-05
+
+    - [Ling/Light](https://github.com/lingtalfi/Light) 0.69.7 --> 0.69.8
+
+
 - 2.0.1887 -- 2020-10-05
 
     - [Ling/ParenthesisMirrorParser](https://github.com/lingtalfi/ParenthesisMirrorParser)  --> 1.0.0
