@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1891 -- 2020-10-06
+
+    - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.9.2 --> 1.9.3
+
+
 - 2.0.1890 -- 2020-10-05
 
     - [Ling/ParenthesisMirrorParser](https://github.com/lingtalfi/ParenthesisMirrorParser) 1.0.0 --> 1.0.1
