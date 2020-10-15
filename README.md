@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1894 -- 2020-10-15
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.6 --> 1.24.7
+
+
 - 2.0.1893 -- 2020-10-15
 
     - [Ling/Light_Nugget](https://github.com/lingtalfi/Light_Nugget) 1.3.2 --> 1.3.3
