@@ -745,7 +745,7 @@ galaxies:
             post_install: []
         
         JFileUploader: 
-            version: 3.0.1
+            version: 3.0.2
             dependencies: 
                 Ling: 
                     - FontAwesome
