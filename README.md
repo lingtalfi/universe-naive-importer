@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1919 -- 2020-10-30
+
+    - [Ling/Light_HttpError](https://github.com/lingtalfi/Light_HttpError) 1.0.1 --> 1.0.2
+
+
 - 2.0.1918 -- 2020-10-30
 
     - [Ling/ExceptionCodes](https://github.com/lingtalfi/ExceptionCodes)  --> 1.0.0
