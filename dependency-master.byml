@@ -537,6 +537,11 @@ galaxies:
             
             post_install: []
         
+        ExceptionCodes: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         Explorer: 
             version: 1.2.0
             dependencies: []

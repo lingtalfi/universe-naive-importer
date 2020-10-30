@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1918 -- 2020-10-30
+
+    - [Ling/ExceptionCodes](https://github.com/lingtalfi/ExceptionCodes)  --> 1.0.0
+
+
 - 2.0.1917 -- 2020-10-30
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.30.6 --> 1.30.7
