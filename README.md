@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1921 -- 2020-11-03
+
+    - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.29.4 --> 1.29.5
+
+
 - 2.0.1920 -- 2020-10-30
 
     - [Ling/Light_HttpError](https://github.com/lingtalfi/Light_HttpError) 1.0.2 --> 1.0.3
