@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1924 -- 2020-11-05
+
+    - [Ling/Light_ExceptionHandler](https://github.com/lingtalfi/Light_ExceptionHandler) 1.2.0 --> 1.2.1
+
+
 - 2.0.1923 -- 2020-11-05
 
     - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.29.6 --> 1.29.7
