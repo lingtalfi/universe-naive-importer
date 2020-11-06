@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1937 -- 2020-11-06
+
+    - [Ling/PhpExcelTool](https://github.com/lingtalfi/PhpExcelTool) 1.9.3 --> 1.9.4
+
+
 - 2.0.1936 -- 2020-11-06
 
     - [Ling/Light_UploadGems](https://github.com/lingtalfi/Light_UploadGems) 1.8.5 --> 1.8.6
