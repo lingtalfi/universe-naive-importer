@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1926 -- 2020-11-06
+
+    - [Ling/Light_Events](https://github.com/lingtalfi/Light_Events) 1.9.0 --> 1.9.1
+
+
 - 2.0.1925 -- 2020-11-06
 
     - [Ling/CheapLogger](https://github.com/lingtalfi/CheapLogger) 1.0.0 --> 1.0.1
