@@ -1650,12 +1650,13 @@ galaxies:
             
         
         Light_Logger: 
-            version: 1.11.1
+            version: 1.11.2
             dependencies: 
                 Ling: 
                     - ArrayToString
                     - Bat
                     - UniversalLogger
+                    - CliTools
                 
             
             post_install: 

@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1927 -- 2020-11-06
+
+    - [Ling/Light_Logger](https://github.com/lingtalfi/Light_Logger) 1.11.1 --> 1.11.2
+
+
 - 2.0.1926 -- 2020-11-06
 
     - [Ling/Light_Events](https://github.com/lingtalfi/Light_Events) 1.9.0 --> 1.9.1
