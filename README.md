@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1934 -- 2020-11-06
+
+    - [Ling/Jin](https://github.com/lingtalfi/Jin) 1.0.0 --> 1.0.1
+
+
 - 2.0.1933 -- 2020-11-06
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.278 --> 1.279

@@ -818,8 +818,23 @@ galaxies:
             
         
         Jin: 
-            version: 1.0.0
-            dependencies: []
+            version: 1.0.1
+            dependencies: 
+                Ling: 
+                    - ArrayToString
+                    - Bat
+                    - ArrayRefResolver
+                    - BumbleBee
+                    - Registry
+                    - BabyYaml
+                    - DirScanner
+                    - PhpErrorName
+                    - Octopus
+                    - PhpUploadFileFix
+                    - ZeusTemplateEngine
+                    - UniversalTemplateEngine
+                
+            
             post_install: []
         
         Jquery: 
