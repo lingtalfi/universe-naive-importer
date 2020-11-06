@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1936 -- 2020-11-06
+
+    - [Ling/Light_UploadGems](https://github.com/lingtalfi/Light_UploadGems) 1.8.5 --> 1.8.6
+
+
 - 2.0.1935 -- 2020-11-06
 
     - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.8.0 --> 1.8.1
