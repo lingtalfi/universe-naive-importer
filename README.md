@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1925 -- 2020-11-06
+
+    - [Ling/CheapLogger](https://github.com/lingtalfi/CheapLogger) 1.0.0 --> 1.0.1
+
+
 - 2.0.1924 -- 2020-11-05
 
     - [Ling/Light_ExceptionHandler](https://github.com/lingtalfi/Light_ExceptionHandler) 1.2.0 --> 1.2.1
