@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1940 -- 2020-11-09
+
+    - [Ling/JFileUploader](https://github.com/lingtalfi/JFileUploader) 3.0.4 --> 3.0.5
+
+
 - 2.0.1939 -- 2020-11-09
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.10 --> 1.24.11
