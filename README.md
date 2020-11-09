@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1938 -- 2020-11-09
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.9 --> 1.24.10
+
+
 - 2.0.1937 -- 2020-11-06
 
     - [Ling/PhpExcelTool](https://github.com/lingtalfi/PhpExcelTool) 1.9.3 --> 1.9.4
