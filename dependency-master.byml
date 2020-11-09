@@ -1953,7 +1953,7 @@ galaxies:
             
         
         Light_UserData: 
-            version: 1.18.1
+            version: 1.19.0
             dependencies: 
                 Ling: 
                     - Light
@@ -1963,15 +1963,20 @@ galaxies:
                     - Chloroform
                     - Light_User
                     - Bat
+                    - Light_HttpError
                     - Panda_Headers
-                    - Light_UploadGems
+                    - Light_UserManager
                     - Light_ZouUploader
+                    - Light_UploadGems
                     - Light_Realform
-                    - DirScanner
+                    - CheapLogger
+                    - ExceptionCodes
                     - Light_PluginInstaller
                     - Light_ReverseRouter
                     - Light_UserDatabase
+                    - DirScanner
                     - TemporaryVirtualFileSystem
+                    - BabyYaml
                 
             
             post_install: 
