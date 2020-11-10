@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1951 -- 2020-11-10
+
+    - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.36.2 --> 1.36.3
+
+
 - 2.0.1950 -- 2020-11-10
 
     - [Ling/Light](https://github.com/lingtalfi/Light) 0.69.10 --> 0.69.11
