@@ -1953,7 +1953,7 @@ galaxies:
             
         
         Light_UserData: 
-            version: 1.19.0
+            version: 1.19.1
             dependencies: 
                 Ling: 
                     - Light
@@ -1969,14 +1969,13 @@ galaxies:
                     - Light_ZouUploader
                     - Light_UploadGems
                     - Light_Realform
-                    - CheapLogger
                     - ExceptionCodes
                     - Light_PluginInstaller
                     - Light_ReverseRouter
                     - Light_UserDatabase
-                    - DirScanner
                     - TemporaryVirtualFileSystem
                     - BabyYaml
+                    - CheapLogger
                 
             
             post_install: 
