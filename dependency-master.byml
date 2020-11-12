@@ -1807,7 +1807,7 @@ galaxies:
             
         
         Light_RealGenerator: 
-            version: 1.31.7
+            version: 1.31.8
             dependencies: 
                 Ling: 
                     - Bat
@@ -1816,6 +1816,7 @@ galaxies:
                     - SqlWizard
                     - ArrayVariableResolver
                     - BabyYaml
+                    - CheapLogger
                     - Light_Logger
                 
             
