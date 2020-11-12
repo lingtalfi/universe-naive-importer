@@ -1953,7 +1953,7 @@ galaxies:
             
         
         Light_UserData: 
-            version: 1.19.1
+            version: 1.19.2
             dependencies: 
                 Ling: 
                     - Light
@@ -1975,7 +1975,6 @@ galaxies:
                     - Light_UserDatabase
                     - TemporaryVirtualFileSystem
                     - BabyYaml
-                    - CheapLogger
                 
             
             post_install: 
