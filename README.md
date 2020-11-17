@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1973 -- 2020-11-17
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 2.0.4 --> 2.0.5
+
+
 - 2.0.1972 -- 2020-11-17
 
     - [Ling/Light_DatabaseUtils](https://github.com/lingtalfi/Light_DatabaseUtils) 1.1.3 --> 1.1.4
