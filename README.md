@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1971 -- 2020-11-17
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.279 --> 1.28
+
+
 - 2.0.1970 -- 2020-11-17
 
     - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.21.2 --> 1.21.3
