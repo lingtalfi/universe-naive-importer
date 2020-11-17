@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1969 -- 2020-11-17
+
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.21.1 --> 1.21.2
+
+
 - 2.0.1968 -- 2020-11-17
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.30.13 --> 1.30.14
