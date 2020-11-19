@@ -1060,13 +1060,14 @@ galaxies:
             
         
         Light_ChloroformExtension: 
-            version: 1.6.5
+            version: 1.6.6
             dependencies: 
                 Ling: 
                     - Light
                     - Light_AjaxHandler
                     - Light_CsrfSession
                     - Light_MicroPermission
+                    - ArrayToString
                     - Light_Database
                     - Light_Nugget
                     - SimplePdoWrapper
@@ -2752,7 +2753,7 @@ galaxies:
             post_install: []
         
         TheBar: 
-            version: 1.24.15
+            version: 1.24.16
             dependencies: []
             post_install: []
         
