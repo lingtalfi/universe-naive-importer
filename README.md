@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1974 -- 2020-11-19
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.13 --> 1.24.14
+
+
 - 2.0.1973 -- 2020-11-17
 
     - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 2.0.4 --> 2.0.5
