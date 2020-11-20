@@ -1958,7 +1958,7 @@ galaxies:
             
         
         Light_UserData: 
-            version: 1.19.3
+            version: 1.19.4
             dependencies: 
                 Ling: 
                     - Light
@@ -1968,7 +1968,7 @@ galaxies:
                     - Chloroform
                     - Light_User
                     - Bat
-                    - Light_HttpError
+                    - Light_SimpleHttpServer
                     - Panda_Headers
                     - Light_UserManager
                     - Light_ZouUploader
