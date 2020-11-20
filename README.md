@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1984 -- 2020-11-20
+
+    - [Ling/Light_Database](https://github.com/lingtalfi/Light_Database) 1.14.8 --> 1.14.9
+
+
 - 2.0.1983 -- 2020-11-20
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.281 --> 1.282
