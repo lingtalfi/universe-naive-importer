@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1985 -- 2020-11-20
+
+    - [Ling/Light_SimpleHttpServer](https://github.com/lingtalfi/Light_SimpleHttpServer)  --> 1.0.4
+
+
 - 2.0.1984 -- 2020-11-20
 
     - [Ling/Light_Database](https://github.com/lingtalfi/Light_Database) 1.14.8 --> 1.14.9
