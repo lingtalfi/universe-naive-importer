@@ -1142,7 +1142,7 @@ galaxies:
             
         
         Light_Database: 
-            version: 1.14.6
+            version: 1.14.7
             dependencies: 
                 Ling: 
                     - CheapLogger
