@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1993 -- 2020-11-23
+
+    - [Ling/WebWizardTools](https://github.com/lingtalfi/WebWizardTools) 1.3.0 --> 1.3.1
+
+
 - 2.0.1992 -- 2020-11-20
 
     - [Ling/Chloroform_HeliumLightRenderer](https://github.com/lingtalfi/Chloroform_HeliumLightRenderer) 1.6.4 --> 1.6.5
