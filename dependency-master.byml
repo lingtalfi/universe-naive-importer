@@ -1422,7 +1422,7 @@ galaxies:
             
         
         Light_Kit_Admin: 
-            version: 0.12.0
+            version: 0.12.1
             dependencies: 
                 Ling: 
                     - Light
@@ -1438,7 +1438,6 @@ galaxies:
                     - Light_Database
                     - Chloroform
                     - Light_CsrfSession
-                    - Light_ChloroformExtension
                     - Light_Kit
                     - WiseTool
                     - HtmlPageTools
@@ -1447,21 +1446,22 @@ galaxies:
                     - Light_MicroPermission
                     - Light_UserDatabase
                     - Light_Realform
-                    - SqlWizard
+                    - Light_Nugget
+                    - SimplePdoWrapper
                     - Light_ControllerHub
+                    - Light_DatabaseUtils
+                    - UniverseTools
                     - Light_Crud
                     - Light_Realist
-                    - PhpSpreadSheetTool
-                    - Light_DatabaseUtils
                     - Light_UserData
-                    - SimplePdoWrapper
+                    - PhpSpreadSheetTool
                     - Bootstrap4AdminTable
                     - Light_PluginInstaller
                     - Light_LingStandardService
-                    - UniverseTools
                     - Kit_PicassoWidget
                     - Chloroform_HeliumRenderer
                     - FontAwesome
+                    - JBee
                     - JPostForm
                     - Jquery
                 
