@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.1998 -- 2020-11-24
+
+    - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.15.0 --> 1.15.1
+
+
 - 2.0.1997 -- 2020-11-24
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.282 --> 1.283
