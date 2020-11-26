@@ -1818,11 +1818,12 @@ galaxies:
             
         
         Light_Realform: 
-            version: 2.0.3
+            version: 2.0.4
             dependencies: 
                 Ling: 
                     - Light
                     - Light_Csrf
+                    - ArrayToString
                     - SimplePdoWrapper
                     - Chloroform
                     - Bat
