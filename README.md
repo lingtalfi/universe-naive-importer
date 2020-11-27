@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2023 -- 2020-11-27
+
+    - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.18.1 --> 1.18.2
+
+
 - 2.0.2022 -- 2020-11-27
 
     - [Ling/Light_Kit_Admin_TaskScheduler](https://github.com/lingtalfi/Light_Kit_Admin_TaskScheduler) 1.5.1 --> 1.5.2
