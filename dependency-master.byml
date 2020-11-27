@@ -1571,7 +1571,7 @@ galaxies:
             
         
         Light_Kit_Admin_UserPreferences: 
-            version: 1.2.0
+            version: 1.2.1
             dependencies: 
                 Ling: 
                     - Chloroform
@@ -1581,7 +1581,6 @@ galaxies:
                     - Light
                     - Light_Realform
                     - Light_Kit
-                    - Light_UserRowRestriction
                     - Light_ControllerHub
                 
             
