@@ -1521,7 +1521,7 @@ galaxies:
             
         
         Light_Kit_Admin_UserData: 
-            version: 1.6.0
+            version: 1.7.2
             dependencies: 
                 Ling: 
                     - Bat
@@ -1530,16 +1530,14 @@ galaxies:
                     - Light_Kit_Admin
                     - Light_Realform
                     - Light_Kit
-                    - Light_UserRowRestriction
                     - Light_ControllerHub
+                    - Light_UserRowRestriction
                     - Light_User
                     - BabyYaml
                     - Light_BMenu
                     - Light_PluginInstaller
-                    - Light_Realist
                     - Light_UserDatabase
                     - SimplePdoWrapper
-                    - UniverseTools
                 
             
             post_install: 
