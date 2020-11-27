@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2021 -- 2020-11-27
+
+    - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.31.9 --> 1.31.10
+
+
 - 2.0.2020 -- 2020-11-27
 
     - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.13.3 --> 1.13.4
