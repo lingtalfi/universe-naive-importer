@@ -1503,7 +1503,7 @@ galaxies:
             
         
         Light_Kit_Admin_TaskScheduler: 
-            version: 1.5.1
+            version: 1.5.2
             dependencies: 
                 Ling: 
                     - Bat
@@ -1512,7 +1512,6 @@ galaxies:
                     - Light_Kit_Admin
                     - Light_Realform
                     - Light_Kit
-                    - Light_UserRowRestriction
                     - Light_ControllerHub
                 
             

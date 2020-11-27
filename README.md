@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2022 -- 2020-11-27
+
+    - [Ling/Light_Kit_Admin_TaskScheduler](https://github.com/lingtalfi/Light_Kit_Admin_TaskScheduler) 1.5.1 --> 1.5.2
+
+
 - 2.0.2021 -- 2020-11-27
 
     - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.31.9 --> 1.31.10
