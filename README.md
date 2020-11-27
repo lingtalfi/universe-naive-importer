@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2026 -- 2020-11-27
+
+    - [Ling/Light_Events](https://github.com/lingtalfi/Light_Events) 1.9.1 --> 1.9.2
+
+
 - 2.0.2025 -- 2020-11-27
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.285 --> 1.286
