@@ -1667,6 +1667,22 @@ galaxies:
                 map: true
             
         
+        Light_LoginNotifier: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - SimplePdoWrapper
+                    - Light
+                    - Light_Database
+                    - Light_LingStandardService
+                    - Light_Mailer
+                    - Light_User
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Mailer: 
             version: 1.3.3
             dependencies: 
