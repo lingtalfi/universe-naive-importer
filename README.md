@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2030 -- 2020-11-30
+
+    - [Ling/Light_Logger](https://github.com/lingtalfi/Light_Logger) 1.11.2 --> 1.11.3
+
+
 - 2.0.2029 -- 2020-11-30
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.18 --> 1.24.19
