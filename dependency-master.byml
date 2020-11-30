@@ -1502,6 +1502,20 @@ galaxies:
                 map: true
             
         
+        Light_Kit_Admin_LoginNotifier: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                    - Light_Kit
+                    - Light_Kit_Admin
+                    - Light_ControllerHub
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Kit_Admin_TaskScheduler: 
             version: 1.5.2
             dependencies: 
