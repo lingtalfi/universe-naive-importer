@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2034 -- 2020-11-30
+
+    - [Ling/Light_ErrorHandler](https://github.com/lingtalfi/Light_ErrorHandler) 1.0.2 --> 1.0.3
+
+
 - 2.0.2033 -- 2020-11-30
 
     - [Ling/Light_Mailer](https://github.com/lingtalfi/Light_Mailer) 1.3.1 --> 1.3.2

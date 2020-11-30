@@ -1301,12 +1301,12 @@ galaxies:
             
         
         Light_ErrorHandler: 
-            version: 1.0.2
+            version: 1.0.3
             dependencies: 
                 Ling: 
-                    - Bat
                     - Light
                     - Light_Logger
+                    - Bat
                 
             
             post_install: 
