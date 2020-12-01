@@ -1223,7 +1223,7 @@ galaxies:
             
         
         Light_DeveloperWizard: 
-            version: 1.28.7
+            version: 1.28.8
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1232,6 +1232,7 @@ galaxies:
                     - Light_Database
                     - SimplePdoWrapper
                     - SqlWizard
+                    - Light_Kit_Admin
                     - Light_PluginInstaller
                     - UniverseTools
                     - ClassCooker
@@ -1243,7 +1244,6 @@ galaxies:
                     - Light_LingStandardService
                     - Light_UserDatabase
                     - Light_ControllerHub
-                    - Light_Kit_Admin
                     - Jquery
                 
             
