@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2044 -- 2020-12-01
+
+    - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.36.3 --> 1.36.4
+
+
 - 2.0.2043 -- 2020-12-01
 
     - [Ling/Octopus](https://github.com/lingtalfi/Octopus) 1.4.0 --> 1.4.1
