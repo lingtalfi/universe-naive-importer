@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2051 -- 2020-12-01
+
+    - [Ling/Light_TablePrefixInfo](https://github.com/lingtalfi/Light_TablePrefixInfo)  --> 1.0.0
+
+
 - 2.0.2050 -- 2020-12-01
 
     - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.6 --> 1.28.7
