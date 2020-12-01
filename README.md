@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2040 -- 2020-12-01
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.286 --> 1.287
+
+
 - 2.0.2039 -- 2020-11-30
 
     - [Ling/Light_Kit_Admin_LoginNotifier](https://github.com/lingtalfi/Light_Kit_Admin_LoginNotifier) 1.0.0 --> 1.0.1
