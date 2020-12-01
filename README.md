@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2049 -- 2020-12-01
+
+    - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.5 --> 1.28.6
+
+
 - 2.0.2048 -- 2020-12-01
 
     - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.2.1 --> 1.2.2
