@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2052 -- 2020-12-01
+
+    - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.31.10 --> 1.31.11
+
+
 - 2.0.2051 -- 2020-12-01
 
     - [Ling/Light_TablePrefixInfo](https://github.com/lingtalfi/Light_TablePrefixInfo)  --> 1.0.0
