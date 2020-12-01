@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2059 -- 2020-12-01
+
+    - [Ling/Light_Kit_Admin_LoginNotifier](https://github.com/lingtalfi/Light_Kit_Admin_LoginNotifier) 1.0.1 --> 1.0.2
+
+
 - 2.0.2058 -- 2020-12-01
 
     - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.12.2 --> 0.12.3
