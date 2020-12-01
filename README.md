@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2048 -- 2020-12-01
+
+    - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.2.1 --> 1.2.2
+
+
 - 2.0.2047 -- 2020-12-01
 
     - [Ling/Chloroform_HeliumRenderer](https://github.com/lingtalfi/Chloroform_HeliumRenderer) 1.19.9 --> 1.19.10
