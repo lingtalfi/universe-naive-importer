@@ -1424,7 +1424,7 @@ galaxies:
             
         
         Light_Kit_Admin: 
-            version: 0.12.2
+            version: 0.12.3
             dependencies: 
                 Ling: 
                     - Light
@@ -1442,17 +1442,18 @@ galaxies:
                     - Light_CsrfSession
                     - Light_Kit
                     - WiseTool
+                    - Light_Mailer
+                    - Light_UserDatabase
                     - HtmlPageTools
                     - Light_Events
                     - Light_Flasher
                     - Light_MicroPermission
-                    - Light_UserDatabase
                     - Light_Realform
                     - Light_Nugget
                     - SimplePdoWrapper
-                    - Light_ControllerHub
                     - Light_DatabaseUtils
                     - UniverseTools
+                    - Light_ControllerHub
                     - Light_Crud
                     - Light_Realist
                     - Light_UserData
