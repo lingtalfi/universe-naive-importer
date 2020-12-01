@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2042 -- 2020-12-01
+
+    - [Ling/Light_EasyRoute](https://github.com/lingtalfi/Light_EasyRoute) 1.2.2 --> 1.2.3
+
+
 - 2.0.2041 -- 2020-12-01
 
     - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.18.3 --> 1.18.4
