@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2064 -- 2020-12-03
+
+    - [Ling/Light_Nugget](https://github.com/lingtalfi/Light_Nugget) 1.3.3 --> 1.3.4
+
+
 - 2.0.2063 -- 2020-12-03
 
     - [Ling/Light](https://github.com/lingtalfi/Light) 0.69.13 --> 0.69.14
