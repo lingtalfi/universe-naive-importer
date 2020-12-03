@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2070 -- 2020-12-03
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.287 --> 1.288
+
+
 - 2.0.2069 -- 2020-12-03
 
     - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.10.1 --> 1.10.2
