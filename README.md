@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2096 -- 2020-12-04
+
+    - [Ling/BullSheet](https://github.com/lingtalfi/BullSheet) 1.3.0 --> 1.3.1
+
+
 - 2.0.2095 -- 2020-12-04
 
     - [Ling/BeeFramework](https://github.com/lingtalfi/BeeFramework) 1.0.3 --> 1.0.4
