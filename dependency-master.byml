@@ -2679,13 +2679,8 @@ galaxies:
             post_install: []
         
         SecureImageUploader: 
-            version: 1.0.0
-            dependencies: 
-                Ling: 
-                    - Bat
-                    - ThumbnailTools
-                
-            
+            version: 1.0.1
+            dependencies: []
             post_install: []
         
         Select2: 

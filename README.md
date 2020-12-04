@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2335 -- 2020-12-04
+
+    - [Ling/SecureImageUploader](https://github.com/lingtalfi/SecureImageUploader) 1.0.0 --> 1.0.1
+
+
 - 2.0.2334 -- 2020-12-04
 
     - [Ling/SaveOrm](https://github.com/lingtalfi/SaveOrm) 1.18.1 --> 1.18.2
