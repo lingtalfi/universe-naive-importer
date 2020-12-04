@@ -938,7 +938,7 @@ galaxies:
             post_install: []
         
         Kit_PrototypeWidget: 
-            version: 1.1.0
+            version: 1.1.1
             dependencies: 
                 Ling: 
                     - HtmlPageTools

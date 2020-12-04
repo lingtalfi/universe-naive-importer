@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2191 -- 2020-12-04
+
+    - [Ling/Kit_PrototypeWidget](https://github.com/lingtalfi/Kit_PrototypeWidget) 1.1.0 --> 1.1.1
+
+
 - 2.0.2190 -- 2020-12-04
 
     - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget) 1.30.0 --> 1.30.1
