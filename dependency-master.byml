@@ -880,10 +880,11 @@ galaxies:
             post_install: []
         
         KamilleEssentialTools: 
-            version: 1.0.0
+            version: 1.0.1
             dependencies: 
                 Ling: 
                     - Bat
+                    - QuickPdo
                 
             
             post_install: []

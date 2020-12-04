@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2185 -- 2020-12-04
+
+    - [Ling/KamilleEssentialTools](https://github.com/lingtalfi/KamilleEssentialTools) 1.0.0 --> 1.0.1
+
+
 - 2.0.2184 -- 2020-12-04
 
     - [Ling/JumboExploder](https://github.com/lingtalfi/JumboExploder) 1.0.0 --> 1.0.1
