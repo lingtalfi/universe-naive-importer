@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2166 -- 2020-12-04
+
+    - [Ling/JChronometer](https://github.com/lingtalfi/JChronometer) 1.0.0 --> 1.0.1
+
+
 - 2.0.2165 -- 2020-12-04
 
     - [Ling/JBootstrapAutocomplete](https://github.com/lingtalfi/JBootstrapAutocomplete) 1.1.0 --> 1.1.1
