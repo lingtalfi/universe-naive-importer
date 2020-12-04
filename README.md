@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2318 -- 2020-12-04
+
+    - [Ling/PlanetSitemap](https://github.com/lingtalfi/PlanetSitemap) 1.0.2 --> 1.0.3
+
+
 - 2.0.2317 -- 2020-12-04
 
     - [Ling/PhpUploadFileFix](https://github.com/lingtalfi/PhpUploadFileFix) 1.0.0 --> 1.0.1
