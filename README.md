@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2385 -- 2020-12-04
+
+    - [Ling/YouTubeUtils](https://github.com/lingtalfi/YouTubeUtils) 1.2.0 --> 1.2.1
+
+
 - 2.0.2384 -- 2020-12-04
 
     - [Ling/XiaoApi](https://github.com/lingtalfi/XiaoApi) 2.2.4 --> 2.2.5
