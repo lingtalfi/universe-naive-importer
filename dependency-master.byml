@@ -2755,7 +2755,7 @@ galaxies:
             post_install: []
         
         SqlQuery: 
-            version: 1.10.3
+            version: 1.10.4
             dependencies: []
             post_install: []
         

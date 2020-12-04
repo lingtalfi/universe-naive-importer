@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2345 -- 2020-12-04
+
+    - [Ling/SqlQuery](https://github.com/lingtalfi/SqlQuery) 1.10.3 --> 1.10.4
+
+
 - 2.0.2344 -- 2020-12-04
 
     - [Ling/SokoForm](https://github.com/lingtalfi/SokoForm) 1.72.0 --> 1.72.1
