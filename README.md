@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2287 -- 2020-12-04
+
+    - [Ling/MysqlTabular](https://github.com/lingtalfi/MysqlTabular) 1.0.0 --> 1.0.1
+
+
 - 2.0.2286 -- 2020-12-04
 
     - [Ling/MysqlCreateTableUtil](https://github.com/lingtalfi/MysqlCreateTableUtil) 1.0.2 --> 1.0.3
