@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2122 -- 2020-12-04
+
+    - [Ling/Deploy](https://github.com/lingtalfi/Deploy) 1.1.2 --> 1.1.3
+
+
 - 2.0.2121 -- 2020-12-04
 
     - [Ling/DebugLogger](https://github.com/lingtalfi/DebugLogger) 1.1.1 --> 1.1.2
