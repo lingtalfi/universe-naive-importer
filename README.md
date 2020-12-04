@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2078 -- 2020-12-04
+
+    - [Ling/ArrayDiff](https://github.com/lingtalfi/ArrayDiff) 1.0.0 --> 1.0.1
+
+
 - 2.0.2077 -- 2020-12-04
 
     - [Ling/ApplicationLog](https://github.com/lingtalfi/ApplicationLog) 1.0.0 --> 1.0.1
