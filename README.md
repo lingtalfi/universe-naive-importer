@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2322 -- 2020-12-04
+
+    - [Ling/PublicException](https://github.com/lingtalfi/PublicException) 1.0.0 --> 1.0.1
+
+
 - 2.0.2321 -- 2020-12-04
 
     - [Ling/ProjectInfo](https://github.com/lingtalfi/ProjectInfo) 1.0.1 --> 1.0.2
