@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2183 -- 2020-12-04
+
+    - [Ling/JqueryUrlWithDropZone](https://github.com/lingtalfi/JqueryUrlWithDropZone) 1.0.0 --> 1.0.1
+
+
 - 2.0.2182 -- 2020-12-04
 
     - [Ling/Jquery](https://github.com/lingtalfi/Jquery) 1.1.1 --> 1.1.2

@@ -866,12 +866,8 @@ galaxies:
             
         
         JqueryUrlWithDropZone: 
-            version: 1.0.0
-            dependencies: 
-                Ling: 
-                    - Jquery
-                
-            
+            version: 1.0.1
+            dependencies: []
             post_install: []
         
         JumboExploder: 
