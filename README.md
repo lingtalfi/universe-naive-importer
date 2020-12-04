@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2220 -- 2020-12-04
+
+    - [Ling/Light_FileWatcher](https://github.com/lingtalfi/Light_FileWatcher) 1.1.0 --> 1.1.1
+
+
 - 2.0.2219 -- 2020-12-04
 
     - [Ling/Light_ExceptionHandler](https://github.com/lingtalfi/Light_ExceptionHandler) 1.2.1 --> 1.2.2
