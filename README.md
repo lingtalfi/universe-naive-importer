@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2164 -- 2020-12-04
+
+    - [Ling/JBee](https://github.com/lingtalfi/JBee) 1.1.2 --> 1.1.3
+
+
 - 2.0.2163 -- 2020-12-04
 
     - [Ling/JAjaxLoader](https://github.com/lingtalfi/JAjaxLoader) 1.4.0 --> 1.4.1
