@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2126 -- 2020-12-04
+
+    - [Ling/DirTransformer](https://github.com/lingtalfi/DirTransformer) 1.4.0 --> 1.4.1
+
+
 - 2.0.2125 -- 2020-12-04
 
     - [Ling/DirScanner](https://github.com/lingtalfi/DirScanner) 1.13.0 --> 1.13.1
