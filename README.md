@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2192 -- 2020-12-04
+
+    - [Ling/Komin](https://github.com/lingtalfi/Komin) 1.0.0 --> 1.0.1
+    - [Ling/KrankenStein](https://github.com/lingtalfi/KrankenStein) 1.0.1 --> 1.0.2
+
+
 - 2.0.2191 -- 2020-12-04
 
     - [Ling/Kit_PrototypeWidget](https://github.com/lingtalfi/Kit_PrototypeWidget) 1.1.0 --> 1.1.1
