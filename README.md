@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2305 -- 2020-12-04
+
+    - [Ling/ParseDown](https://github.com/lingtalfi/ParseDown) 1.0.0 --> 1.0.1
+
+
 - 2.0.2304 -- 2020-12-04
 
     - [Ling/ParenthesisMirrorParser](https://github.com/lingtalfi/ParenthesisMirrorParser) 1.0.1 --> 1.0.2
