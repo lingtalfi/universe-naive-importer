@@ -1122,7 +1122,7 @@ galaxies:
             
         
         Light_Csrf: 
-            version: 1.0.2
+            version: 1.0.3
             dependencies: 
                 Ling: 
                     - CSRFTools
