@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2107 -- 2020-12-04
+
+    - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.10.4 --> 1.10.5
+
+
 - 2.0.2106 -- 2020-12-04
 
     - [Ling/ClassCreator](https://github.com/lingtalfi/ClassCreator) 1.0.1 --> 1.0.2
