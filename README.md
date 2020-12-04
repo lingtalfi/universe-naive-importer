@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2127 -- 2020-12-04
+
+    - [Ling/DirectoryCleaner](https://github.com/lingtalfi/DirectoryCleaner) 1.0.0 --> 1.0.1
+
+
 - 2.0.2126 -- 2020-12-04
 
     - [Ling/DirTransformer](https://github.com/lingtalfi/DirTransformer) 1.4.0 --> 1.4.1
