@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2100 -- 2020-12-04
+
+    - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.36.4 --> 1.36.5
+
+
 - 2.0.2099 -- 2020-12-04
 
     - [Ling/CheapLogger](https://github.com/lingtalfi/CheapLogger) 1.0.1 --> 1.0.2
