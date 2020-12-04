@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2297 -- 2020-12-04
+
+    - [Ling/OrmTools](https://github.com/lingtalfi/OrmTools) 1.18.0 --> 1.18.1
+
+
 - 2.0.2296 -- 2020-12-04
 
     - [Ling/Options](https://github.com/lingtalfi/Options) 1.1.0 --> 1.1.1

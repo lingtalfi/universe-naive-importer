@@ -2357,8 +2357,13 @@ galaxies:
             post_install: []
         
         OrmTools: 
-            version: 1.18.0
-            dependencies: []
+            version: 1.18.1
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - QuickPdo
+                
+            
             post_install: []
         
         Ornella: 
