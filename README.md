@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2374 -- 2020-12-04
+
+    - [Ling/Uploader](https://github.com/lingtalfi/Uploader) 1.0.0 --> 1.0.1
+
+
 - 2.0.2373 -- 2020-12-04
 
     - [Ling/Updf](https://github.com/lingtalfi/Updf) 1.2.3 --> 1.2.4
