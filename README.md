@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2176 -- 2020-12-04
+
+    - [Ling/JPostForm](https://github.com/lingtalfi/JPostForm) 1.0.0 --> 1.0.1
+
+
 - 2.0.2175 -- 2020-12-04
 
     - [Ling/JInfiniteSlider](https://github.com/lingtalfi/JInfiniteSlider) 1.2.0 --> 1.2.1
