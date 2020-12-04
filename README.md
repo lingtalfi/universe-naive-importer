@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2189 -- 2020-12-04
+
+    - [Ling/Kit](https://github.com/lingtalfi/Kit) 1.12.1 --> 1.12.2
+
+
 - 2.0.2188 -- 2020-12-04
 
     - [Ling/KaminosUtils](https://github.com/lingtalfi/KaminosUtils) 1.0.0 --> 1.0.1
