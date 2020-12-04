@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2077 -- 2020-12-04
+
+    - [Ling/ApplicationLog](https://github.com/lingtalfi/ApplicationLog) 1.0.0 --> 1.0.1
+
+
 - 2.0.2076 -- 2020-12-04
 
     - [Ling/AjaxCommunicationProtocol](https://github.com/lingtalfi/AjaxCommunicationProtocol) 1.1.0 --> 1.1.1
