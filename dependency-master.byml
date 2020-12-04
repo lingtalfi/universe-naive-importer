@@ -62,7 +62,7 @@ galaxies:
             post_install: []
         
         ArrayToString: 
-            version: 1.4.0
+            version: 1.4.1
             dependencies: []
             post_install: []
         
