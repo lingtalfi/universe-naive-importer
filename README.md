@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2134 -- 2020-12-04
+
+    - [Ling/Ecp](https://github.com/lingtalfi/Ecp) 1.5.0 --> 1.5.1
+
+
 - 2.0.2133 -- 2020-12-04
 
     - [Ling/EchartsWrapper](https://github.com/lingtalfi/EchartsWrapper) 1.3.0 --> 1.3.1
