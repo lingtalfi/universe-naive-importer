@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2223 -- 2020-12-04
+
+    - [Ling/Light_HtmlPageCopilot](https://github.com/lingtalfi/Light_HtmlPageCopilot) 1.0.3 --> 1.0.4
+
+
 - 2.0.2222 -- 2020-12-04
 
     - [Ling/Light_Flasher](https://github.com/lingtalfi/Light_Flasher) 1.3.0 --> 1.3.1
