@@ -2200,8 +2200,12 @@ galaxies:
             post_install: []
         
         Localys: 
-            version: 1.9.0
-            dependencies: []
+            version: 1.9.1
+            dependencies: 
+                Ling: 
+                    - Bat
+                
+            
             post_install: []
         
         LogSlicer: 
