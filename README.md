@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2388 -- 2020-12-04
+
+    - [Ling/Zoli](https://github.com/lingtalfi/Zoli) 1.4.0 --> 1.4.1
+
+
 - 2.0.2387 -- 2020-12-04
 
     - [Ling/ZeusTemplateEngine](https://github.com/lingtalfi/ZeusTemplateEngine) 1.3.0 --> 1.3.1
