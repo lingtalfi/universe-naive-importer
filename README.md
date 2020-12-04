@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2383 -- 2020-12-04
+
+    - [Ling/WrappedString](https://github.com/lingtalfi/WrappedString) 1.3.0 --> 1.3.1
+
+
 - 2.0.2382 -- 2020-12-04
 
     - [Ling/WiseTool](https://github.com/lingtalfi/WiseTool) 1.2.0 --> 1.2.1
