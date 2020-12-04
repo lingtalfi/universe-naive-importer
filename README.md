@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2325 -- 2020-12-04
+
+    - [Ling/QuickLog](https://github.com/lingtalfi/QuickLog) 1.0.0 --> 1.0.1
+
+
 - 2.0.2324 -- 2020-12-04
 
     - [Ling/QuickForm](https://github.com/lingtalfi/QuickForm) 4.6.1 --> 4.6.2
