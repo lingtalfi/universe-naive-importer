@@ -3021,11 +3021,11 @@ galaxies:
             post_install: []
         
         VariableToString: 
-            version: 1.1.0
+            version: 1.1.1
             dependencies: 
                 Ling: 
-                    - ArrayToString
                     - ReflectionRepresentation
+                    - ArrayToString
                 
             
             post_install: []
