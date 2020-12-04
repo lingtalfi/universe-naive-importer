@@ -1070,7 +1070,7 @@ galaxies:
             
         
         Light_ChloroformExtension: 
-            version: 1.6.9
+            version: 1.6.10
             dependencies: 
                 Ling: 
                     - Light
