@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2218 -- 2020-12-04
+
+    - [Ling/Light_Events](https://github.com/lingtalfi/Light_Events) 1.9.3 --> 1.9.4
+
+
 - 2.0.2217 -- 2020-12-04
 
     - [Ling/Light_ErrorPop](https://github.com/lingtalfi/Light_ErrorPop) 1.0.2 --> 1.0.3
