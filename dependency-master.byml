@@ -900,12 +900,8 @@ galaxies:
             post_install: []
         
         KamilleWidgets: 
-            version: 1.0.0
-            dependencies: 
-                Ling: 
-                    - Kamille
-                
-            
+            version: 1.0.1
+            dependencies: []
             post_install: []
         
         KaminosUtils: 
