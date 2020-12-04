@@ -680,12 +680,12 @@ galaxies:
             post_install: []
         
         IndentedLines: 
-            version: 1.2.0
+            version: 1.2.1
             dependencies: 
                 Ling: 
-                    - Bat
                     - Bate
                     - Quoter
+                    - Bat
                 
             
             post_install: []
