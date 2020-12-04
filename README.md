@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2116 -- 2020-12-04
+
+    - [Ling/CronTaskBot](https://github.com/lingtalfi/CronTaskBot) 1.0.0 --> 1.0.1
+
+
 - 2.0.2115 -- 2020-12-04
 
     - [Ling/CopyDir](https://github.com/lingtalfi/CopyDir) 1.3.0 --> 1.3.1
