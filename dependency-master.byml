@@ -2996,8 +2996,13 @@ galaxies:
             post_install: []
         
         UploaderHandler: 
-            version: 1.0.0
-            dependencies: []
+            version: 1.0.1
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - Tim
+                
+            
             post_install: []
         
         UrlFriendlyListHelper: 
