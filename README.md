@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2182 -- 2020-12-04
+
+    - [Ling/Jquery](https://github.com/lingtalfi/Jquery) 1.1.1 --> 1.1.2
+
+
 - 2.0.2181 -- 2020-12-04
 
     - [Ling/Jin](https://github.com/lingtalfi/Jin) 1.0.1 --> 1.0.2
