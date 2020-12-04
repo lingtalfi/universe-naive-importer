@@ -2273,8 +2273,12 @@ galaxies:
             post_install: []
         
         Models: 
-            version: 1.26.0
-            dependencies: []
+            version: 1.26.1
+            dependencies: 
+                Ling: 
+                    - Bat
+                
+            
             post_install: []
         
         MySimpleXmlElement: 
