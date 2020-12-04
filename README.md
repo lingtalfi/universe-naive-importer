@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2356 -- 2020-12-04
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.19 --> 1.24.20
+
+
 - 2.0.2355 -- 2020-12-04
 
     - [Ling/TheAnarchist](https://github.com/lingtalfi/TheAnarchist) 1.0.0 --> 1.0.1

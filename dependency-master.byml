@@ -2843,7 +2843,7 @@ galaxies:
             post_install: []
         
         TheBar: 
-            version: 1.24.19
+            version: 1.24.20
             dependencies: []
             post_install: []
         
