@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2160 -- 2020-12-04
+
+    - [Ling/Installer](https://github.com/lingtalfi/Installer) 1.2.2 --> 1.2.3
+
+
 - 2.0.2159 -- 2020-12-04
 
     - [Ling/Ingenico](https://github.com/lingtalfi/Ingenico) 1.5.0 --> 1.5.1
