@@ -2805,7 +2805,7 @@ galaxies:
             post_install: []
         
         SvelteTemplateBuilder: 
-            version: 1.1.0
+            version: 1.1.1
             dependencies: 
                 Ling: 
                     - Bat
