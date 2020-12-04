@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2213 -- 2020-12-04
+
+    - [Ling/Light_EndRoutine](https://github.com/lingtalfi/Light_EndRoutine) 1.3.0 --> 1.3.1
+
+
 - 2.0.2212 -- 2020-12-04
 
     - [Ling/Light_EasyRoute](https://github.com/lingtalfi/Light_EasyRoute) 1.2.3 --> 1.2.4
