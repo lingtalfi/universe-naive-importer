@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2302 -- 2020-12-04
+
+    - [Ling/ParametrizedSqlQuery](https://github.com/lingtalfi/ParametrizedSqlQuery) 1.10.0 --> 1.10.1
+
+
 - 2.0.2301 -- 2020-12-04
 
     - [Ling/Panda_Headers](https://github.com/lingtalfi/Panda_Headers) 1.0.0 --> 1.0.1
