@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2150 -- 2020-12-04
+
+    - [Ling/GuiAdminTable](https://github.com/lingtalfi/GuiAdminTable) 1.12.0 --> 1.12.1
+
+
 - 2.0.2149 -- 2020-12-04
 
     - [Ling/GreekTodoList](https://github.com/lingtalfi/GreekTodoList) 1.4.0 --> 1.4.1
