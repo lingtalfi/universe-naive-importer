@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2131 -- 2020-12-04
+
+    - [Ling/Dreamer](https://github.com/lingtalfi/Dreamer) 1.0.0 --> 1.0.1
+
+
 - 2.0.2130 -- 2020-12-04
 
     - [Ling/DotMenu](https://github.com/lingtalfi/DotMenu) 1.0.1 --> 1.0.2
