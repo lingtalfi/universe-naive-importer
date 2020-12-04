@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2361 -- 2020-12-04
+
+    - [Ling/TinyBullsheeter](https://github.com/lingtalfi/TinyBullsheeter) 1.0.0 --> 1.0.1
+
+
 - 2.0.2360 -- 2020-12-04
 
     - [Ling/TimeFileUtil](https://github.com/lingtalfi/TimeFileUtil) 1.0.0 --> 1.0.1
