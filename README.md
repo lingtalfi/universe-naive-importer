@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2362 -- 2020-12-04
+
+    - [Ling/Tiphaine](https://github.com/lingtalfi/Tiphaine) 1.0.0 --> 1.0.1
+
+
 - 2.0.2361 -- 2020-12-04
 
     - [Ling/TinyBullsheeter](https://github.com/lingtalfi/TinyBullsheeter) 1.0.0 --> 1.0.1
