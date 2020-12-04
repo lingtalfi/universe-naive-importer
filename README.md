@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2180 -- 2020-12-04
+
+    - [Ling/JSortableLists](https://github.com/lingtalfi/JSortableLists) 1.0.0 --> 1.0.1
+
+
 - 2.0.2179 -- 2020-12-04
 
     - [Ling/JSortTable](https://github.com/lingtalfi/JSortTable) 1.0.0 --> 1.0.1
