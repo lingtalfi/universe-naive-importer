@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2239 -- 2020-12-04
+
+    - [Ling/Light_LingStandardService](https://github.com/lingtalfi/Light_LingStandardService) 1.6.1 --> 1.6.2
+
+
 - 2.0.2238 -- 2020-12-04
 
     - [Ling/Light_LingHooks](https://github.com/lingtalfi/Light_LingHooks) 1.0.0 --> 1.0.1
