@@ -2780,10 +2780,11 @@ galaxies:
             post_install: []
         
         StepFormBuilder: 
-            version: 1.1.0
+            version: 1.1.1
             dependencies: 
                 Ling: 
                     - Bat
+                    - OnTheFlyForm
                 
             
             post_install: []

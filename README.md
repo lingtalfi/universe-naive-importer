@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2348 -- 2020-12-04
+
+    - [Ling/StepFormBuilder](https://github.com/lingtalfi/StepFormBuilder) 1.1.0 --> 1.1.1
+
+
 - 2.0.2347 -- 2020-12-04
 
     - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.13.4 --> 1.13.5
