@@ -905,13 +905,8 @@ galaxies:
             post_install: []
         
         KaminosUtils: 
-            version: 1.0.0
-            dependencies: 
-                Ling: 
-                    - CopyDir
-                    - Output
-                
-            
+            version: 1.0.1
+            dependencies: []
             post_install: []
         
         Kit: 
