@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2379 -- 2020-12-04
+
+    - [Ling/VideoSubtitles](https://github.com/lingtalfi/VideoSubtitles) 1.2.0 --> 1.2.1
+
+
 - 2.0.2378 -- 2020-12-04
 
     - [Ling/VariableToString](https://github.com/lingtalfi/VariableToString) 1.1.0 --> 1.1.1
