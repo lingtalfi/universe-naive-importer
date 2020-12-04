@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2336 -- 2020-12-04
+
+    - [Ling/Select2](https://github.com/lingtalfi/Select2) 1.0.1 --> 1.0.2
+
+
 - 2.0.2335 -- 2020-12-04
 
     - [Ling/SecureImageUploader](https://github.com/lingtalfi/SecureImageUploader) 1.0.0 --> 1.0.1
