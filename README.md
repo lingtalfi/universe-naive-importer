@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2246 -- 2020-12-04
+
+    - [Ling/Light_PluginDatabaseInstaller](https://github.com/lingtalfi/Light_PluginDatabaseInstaller) 1.6.1 --> 1.6.2
+
+
 - 2.0.2245 -- 2020-12-04
 
     - [Ling/Light_PasswordProtector](https://github.com/lingtalfi/Light_PasswordProtector) 1.0.1 --> 1.0.2
