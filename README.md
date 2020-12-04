@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2169 -- 2020-12-04
+
+    - [Ling/JCsrfAction](https://github.com/lingtalfi/JCsrfAction) 1.0.1 --> 1.0.2
+
+
 - 2.0.2168 -- 2020-12-04
 
     - [Ling/JCropperJs](https://github.com/lingtalfi/JCropperJs) 1.0.0 --> 1.0.1
