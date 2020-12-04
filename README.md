@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2359 -- 2020-12-04
+
+    - [Ling/Tim](https://github.com/lingtalfi/Tim) 1.6.0 --> 1.6.1
+
+
 - 2.0.2358 -- 2020-12-04
 
     - [Ling/ThumbnailTools](https://github.com/lingtalfi/ThumbnailTools) 1.3.1 --> 1.3.2

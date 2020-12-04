@@ -2862,12 +2862,8 @@ galaxies:
             post_install: []
         
         Tim: 
-            version: 1.6.0
-            dependencies: 
-                Ling: 
-                    - Jquery
-                
-            
+            version: 1.6.1
+            dependencies: []
             post_install: []
         
         TimeFileUtil: 
