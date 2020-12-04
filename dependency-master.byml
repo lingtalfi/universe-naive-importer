@@ -1133,8 +1133,13 @@ galaxies:
             
         
         Light_CsrfSession: 
-            version: 1.0.1
-            dependencies: []
+            version: 1.0.2
+            dependencies: 
+                Ling: 
+                    - Chloroform
+                    - Light
+                
+            
             post_install: 
                 map: true
             
