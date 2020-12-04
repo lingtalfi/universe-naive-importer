@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2161 -- 2020-12-04
+
+    - [Ling/InstantLog](https://github.com/lingtalfi/InstantLog) 1.1.0 --> 1.1.1
+
+
 - 2.0.2160 -- 2020-12-04
 
     - [Ling/Installer](https://github.com/lingtalfi/Installer) 1.2.2 --> 1.2.3
