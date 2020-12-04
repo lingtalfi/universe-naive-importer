@@ -2770,7 +2770,7 @@ galaxies:
             post_install: []
         
         SqlWizard: 
-            version: 1.13.4
+            version: 1.13.5
             dependencies: 
                 Ling: 
                     - SimplePdoWrapper
