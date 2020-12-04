@@ -664,8 +664,14 @@ galaxies:
             post_install: []
         
         HybridList: 
-            version: 1.17.1
-            dependencies: []
+            version: 1.17.2
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - QuickPdo
+                    - SqlQuery
+                
+            
             post_install: []
         
         Icons: 

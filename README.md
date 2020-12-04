@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2156 -- 2020-12-04
+
+    - [Ling/HybridList](https://github.com/lingtalfi/HybridList) 1.17.1 --> 1.17.2
+
+
 - 2.0.2155 -- 2020-12-04
 
     - [Ling/Http4All](https://github.com/lingtalfi/Http4All) 1.1.1 --> 1.1.2
