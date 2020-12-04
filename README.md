@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2331 -- 2020-12-04
+
+    - [Ling/RowsGeneratorWidget](https://github.com/lingtalfi/RowsGeneratorWidget) 1.0.0 --> 1.0.1
+
+
 - 2.0.2330 -- 2020-12-04
 
     - [Ling/RowsGenerator](https://github.com/lingtalfi/RowsGenerator) 1.6.0 --> 1.6.1
