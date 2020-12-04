@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2145 -- 2020-12-04
+
+    - [Ling/FormTools](https://github.com/lingtalfi/FormTools) 1.7.0 --> 1.7.1
+
+
 - 2.0.2144 -- 2020-12-04
 
     - [Ling/FormRenderer](https://github.com/lingtalfi/FormRenderer) 1.7.2 --> 1.7.3
