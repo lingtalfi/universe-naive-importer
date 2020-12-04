@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2310 -- 2020-12-04
+
+    - [Ling/PhpErrorName](https://github.com/lingtalfi/PhpErrorName) 1.0.0 --> 1.0.1
+
+
 - 2.0.2309 -- 2020-12-04
 
     - [Ling/PhpBeast](https://github.com/lingtalfi/PhpBeast) 1.4.0 --> 1.4.1
