@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2321 -- 2020-12-04
+
+    - [Ling/ProjectInfo](https://github.com/lingtalfi/ProjectInfo) 1.0.1 --> 1.0.2
+
+
 - 2.0.2320 -- 2020-12-04
 
     - [Ling/Program](https://github.com/lingtalfi/Program) 1.1.0 --> 1.1.1
