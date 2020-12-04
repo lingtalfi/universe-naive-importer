@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2179 -- 2020-12-04
+
+    - [Ling/JSortTable](https://github.com/lingtalfi/JSortTable) 1.0.0 --> 1.0.1
+
+
 - 2.0.2178 -- 2020-12-04
 
     - [Ling/JRicAdminTableHelper](https://github.com/lingtalfi/JRicAdminTableHelper) 1.0.6 --> 1.0.7
