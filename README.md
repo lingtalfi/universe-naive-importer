@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2186 -- 2020-12-04
+
+    - [Ling/KamillePacker](https://github.com/lingtalfi/KamillePacker) 1.7.0 --> 1.7.1
+
+
 - 2.0.2185 -- 2020-12-04
 
     - [Ling/KamilleEssentialTools](https://github.com/lingtalfi/KamilleEssentialTools) 1.0.0 --> 1.0.1
