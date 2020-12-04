@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2242 -- 2020-12-04
+
+    - [Ling/Light_Mailer](https://github.com/lingtalfi/Light_Mailer) 1.3.3 --> 1.3.4
+
+
 - 2.0.2241 -- 2020-12-04
 
     - [Ling/Light_LoginNotifier](https://github.com/lingtalfi/Light_LoginNotifier) 1.0.0 --> 1.0.1
