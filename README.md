@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2110 -- 2020-12-04
+
+    - [Ling/CommandLineManiac](https://github.com/lingtalfi/CommandLineManiac) 1.0.0 --> 1.0.1
+
+
 - 2.0.2109 -- 2020-12-04
 
     - [Ling/CommandLineInput](https://github.com/lingtalfi/CommandLineInput) 1.2.0 --> 1.2.1
