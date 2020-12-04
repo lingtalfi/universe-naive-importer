@@ -2571,11 +2571,12 @@ galaxies:
             post_install: []
         
         QuickForm: 
-            version: 4.6.1
+            version: 4.6.2
             dependencies: 
                 Ling: 
                     - Bat
                     - QuickPdo
+                    - Icons
                 
             
             post_install: []

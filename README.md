@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2324 -- 2020-12-04
+
+    - [Ling/QuickForm](https://github.com/lingtalfi/QuickForm) 4.6.1 --> 4.6.2
+
+
 - 2.0.2323 -- 2020-12-04
 
     - [Ling/QueryFilterBox](https://github.com/lingtalfi/QueryFilterBox) 1.6.0 --> 1.6.1
