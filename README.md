@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2298 -- 2020-12-04
+
+    - [Ling/Ornella](https://github.com/lingtalfi/Ornella) 1.0.0 --> 1.0.1
+
+
 - 2.0.2297 -- 2020-12-04
 
     - [Ling/OrmTools](https://github.com/lingtalfi/OrmTools) 1.18.0 --> 1.18.1
