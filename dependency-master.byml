@@ -630,7 +630,7 @@ galaxies:
             post_install: []
         
         HashMap: 
-            version: 1.0.1
+            version: 1.0.2
             dependencies: 
                 Ling: 
                     - Bat
