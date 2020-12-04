@@ -2186,8 +2186,12 @@ galaxies:
             post_install: []
         
         ListParams: 
-            version: 1.10.4
-            dependencies: []
+            version: 1.10.5
+            dependencies: 
+                Ling: 
+                    - Bat
+                
+            
             post_install: []
         
         Loader: 

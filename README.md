@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2274 -- 2020-12-04
+
+    - [Ling/ListParams](https://github.com/lingtalfi/ListParams) 1.10.4 --> 1.10.5
+
+
 - 2.0.2273 -- 2020-12-04
 
     - [Ling/ListModifier](https://github.com/lingtalfi/ListModifier) 1.3.0 --> 1.3.1
