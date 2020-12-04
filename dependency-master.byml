@@ -2535,7 +2535,7 @@ galaxies:
             post_install: []
         
         Program: 
-            version: 1.1.0
+            version: 1.1.1
             dependencies: 
                 Ling: 
                     - CommandLineInput
