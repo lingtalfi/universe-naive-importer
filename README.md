@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2342 -- 2020-12-04
+
+    - [Ling/SitemapBuilderBox](https://github.com/lingtalfi/SitemapBuilderBox) 1.0.0 --> 1.0.1
+
+
 - 2.0.2341 -- 2020-12-04
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.30.14 --> 1.30.15
