@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2168 -- 2020-12-04
+
+    - [Ling/JCropperJs](https://github.com/lingtalfi/JCropperJs) 1.0.0 --> 1.0.1
+
+
 - 2.0.2167 -- 2020-12-04
 
     - [Ling/JCookie](https://github.com/lingtalfi/JCookie) 1.0.0 --> 1.0.1
