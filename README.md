@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2209 -- 2020-12-04
+
+    - [Ling/Light_DbSynchronizer](https://github.com/lingtalfi/Light_DbSynchronizer) 1.2.0 --> 1.2.1
+
+
 - 2.0.2208 -- 2020-12-04
 
     - [Ling/Light_DatabaseUtils](https://github.com/lingtalfi/Light_DatabaseUtils) 1.1.5 --> 1.1.6
