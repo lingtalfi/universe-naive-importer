@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2083 -- 2020-12-04
+
+    - [Ling/ArrayToTable](https://github.com/lingtalfi/ArrayToTable) 1.2.0 --> 1.2.1
+
+
 - 2.0.2082 -- 2020-12-04
 
     - [Ling/ArrayToString](https://github.com/lingtalfi/ArrayToString) 1.4.0 --> 1.4.1
