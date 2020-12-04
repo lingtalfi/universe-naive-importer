@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2087 -- 2020-12-04
+
+    - [Ling/Authenticate](https://github.com/lingtalfi/Authenticate) 1.7.1 --> 1.7.2
+
+
 - 2.0.2086 -- 2020-12-04
 
     - [Ling/AssetsList](https://github.com/lingtalfi/AssetsList) 1.0.0 --> 1.0.1
