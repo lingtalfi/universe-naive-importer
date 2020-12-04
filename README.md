@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2273 -- 2020-12-04
+
+    - [Ling/ListModifier](https://github.com/lingtalfi/ListModifier) 1.3.0 --> 1.3.1
+
+
 - 2.0.2272 -- 2020-12-04
 
     - [Ling/Linker](https://github.com/lingtalfi/Linker) 1.0.0 --> 1.0.1
