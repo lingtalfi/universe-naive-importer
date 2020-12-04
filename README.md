@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2106 -- 2020-12-04
+
+    - [Ling/ClassCreator](https://github.com/lingtalfi/ClassCreator) 1.0.1 --> 1.0.2
+
+
 - 2.0.2105 -- 2020-12-04
 
     - [Ling/ClassCooker](https://github.com/lingtalfi/ClassCooker) 1.16.0 --> 1.16.1
