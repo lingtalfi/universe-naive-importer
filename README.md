@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2293 -- 2020-12-04
+
+    - [Ling/Observer](https://github.com/lingtalfi/Observer) 1.0.0 --> 1.0.1
+
+
 - 2.0.2292 -- 2020-12-04
 
     - [Ling/NumericKeyArray](https://github.com/lingtalfi/NumericKeyArray) 1.1.0 --> 1.1.1
