@@ -1553,7 +1553,7 @@ galaxies:
             
         
         Light_Kit_Admin_UserData: 
-            version: 1.7.3
+            version: 1.7.4
             dependencies: 
                 Ling: 
                     - Bat
@@ -1563,6 +1563,7 @@ galaxies:
                     - Light_Realform
                     - Light_Kit
                     - Light_ControllerHub
+                    - Kit_PicassoWidget
                     - Light_UserRowRestriction
                     - Light_User
                     - BabyYaml
