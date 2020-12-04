@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2225 -- 2020-12-04
+
+    - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.17.0 --> 1.17.1
+
+
 - 2.0.2224 -- 2020-12-04
 
     - [Ling/Light_Initializer](https://github.com/lingtalfi/Light_Initializer) 1.3.0 --> 1.3.1
