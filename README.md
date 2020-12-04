@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2373 -- 2020-12-04
+
+    - [Ling/Updf](https://github.com/lingtalfi/Updf) 1.2.3 --> 1.2.4
+
+
 - 2.0.2372 -- 2020-12-04
 
     - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.21.5 --> 1.21.6
