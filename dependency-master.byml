@@ -2600,12 +2600,12 @@ galaxies:
             post_install: []
         
         Quoter: 
-            version: 1.4.0
+            version: 1.4.1
             dependencies: 
                 Ling: 
                     - Bat
-                    - WrappedString
                     - Escaper
+                    - WrappedString
                 
             
             post_install: []
