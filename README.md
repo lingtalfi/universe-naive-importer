@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2099 -- 2020-12-04
+
+    - [Ling/CheapLogger](https://github.com/lingtalfi/CheapLogger) 1.0.1 --> 1.0.2
+
+
 - 2.0.2098 -- 2020-12-04
 
     - [Ling/CSRFTools](https://github.com/lingtalfi/CSRFTools) 1.5.1 --> 1.5.2

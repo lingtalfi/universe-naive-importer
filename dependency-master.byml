@@ -225,7 +225,7 @@ galaxies:
             post_install: []
         
         CheapLogger: 
-            version: 1.0.1
+            version: 1.0.2
             dependencies: 
                 Ling: 
                     - ArrayToString
