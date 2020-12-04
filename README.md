@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2368 -- 2020-12-04
+
+    - [Ling/Uni2](https://github.com/lingtalfi/Uni2) 1.9.4 --> 1.9.5
+
+
 - 2.0.2367 -- 2020-12-04
 
     - [Ling/Umail](https://github.com/lingtalfi/Umail) 1.6.0 --> 1.6.1
