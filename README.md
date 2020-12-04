@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2309 -- 2020-12-04
+
+    - [Ling/PhpBeast](https://github.com/lingtalfi/PhpBeast) 1.4.0 --> 1.4.1
+
+
 - 2.0.2308 -- 2020-12-04
 
     - [Ling/PersistentRowCollection](https://github.com/lingtalfi/PersistentRowCollection) 1.0.0 --> 1.0.1
