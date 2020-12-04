@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2138 -- 2020-12-04
+
+    - [Ling/Ffmpeg](https://github.com/lingtalfi/Ffmpeg) 1.0.0 --> 1.0.1
+
+
 - 2.0.2137 -- 2020-12-04
 
     - [Ling/Explorer](https://github.com/lingtalfi/Explorer) 1.2.0 --> 1.2.1
