@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2097 -- 2020-12-04
+
+    - [Ling/BumbleBee](https://github.com/lingtalfi/BumbleBee) 1.0.0 --> 1.0.1
+
+
 - 2.0.2096 -- 2020-12-04
 
     - [Ling/BullSheet](https://github.com/lingtalfi/BullSheet) 1.3.0 --> 1.3.1
