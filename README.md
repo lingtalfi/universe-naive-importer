@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2323 -- 2020-12-04
+
+    - [Ling/QueryFilterBox](https://github.com/lingtalfi/QueryFilterBox) 1.6.0 --> 1.6.1
+
+
 - 2.0.2322 -- 2020-12-04
 
     - [Ling/PublicException](https://github.com/lingtalfi/PublicException) 1.0.0 --> 1.0.1
