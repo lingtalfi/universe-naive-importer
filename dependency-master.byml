@@ -324,12 +324,13 @@ galaxies:
             post_install: []
         
         Colis: 
-            version: 2.2.0
+            version: 2.2.1
             dependencies: 
                 Ling: 
-                    - Bat
-                    - YouTubeUtils
                     - Tim
+                    - Bat
+                    - DirScanner
+                    - YouTubeUtils
                     - UploaderHandler
                 
             

@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2108 -- 2020-12-04
+
+    - [Ling/Colis](https://github.com/lingtalfi/Colis) 2.2.0 --> 2.2.1
+
+
 - 2.0.2107 -- 2020-12-04
 
     - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.10.4 --> 1.10.5
