@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2132 -- 2020-12-04
+
+    - [Ling/EasyConsoleMenu](https://github.com/lingtalfi/EasyConsoleMenu) 1.0.1 --> 1.0.2
+
+
 - 2.0.2131 -- 2020-12-04
 
     - [Ling/Dreamer](https://github.com/lingtalfi/Dreamer) 1.0.0 --> 1.0.1
