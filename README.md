@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2248 -- 2020-12-04
+
+    - [Ling/Light_PrerouteHub](https://github.com/lingtalfi/Light_PrerouteHub) 1.0.0 --> 1.0.1
+
+
 - 2.0.2247 -- 2020-12-04
 
     - [Ling/Light_PluginInstaller](https://github.com/lingtalfi/Light_PluginInstaller) 1.8.0 --> 1.8.1
