@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2085 -- 2020-12-04
+
+    - [Ling/AssetLoader](https://github.com/lingtalfi/AssetLoader) 1.6.0 --> 1.6.1
+
+
 - 2.0.2084 -- 2020-12-04
 
     - [Ling/ArrayVariableResolver](https://github.com/lingtalfi/ArrayVariableResolver) 1.2.1 --> 1.2.2
