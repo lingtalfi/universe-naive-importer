@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2307 -- 2020-12-04
+
+    - [Ling/PermsHiker](https://github.com/lingtalfi/PermsHiker) 1.1.0 --> 1.1.1
+
+
 - 2.0.2306 -- 2020-12-04
 
     - [Ling/Pea](https://github.com/lingtalfi/Pea) 1.2.0 --> 1.2.1
