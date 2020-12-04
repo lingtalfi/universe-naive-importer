@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2283 -- 2020-12-04
+
+    - [Ling/ModelRenderers](https://github.com/lingtalfi/ModelRenderers) 1.7.3 --> 1.7.4
+
+
 - 2.0.2282 -- 2020-12-04
 
     - [Ling/MikeMagicTools](https://github.com/lingtalfi/MikeMagicTools) 1.1.0 --> 1.1.1
