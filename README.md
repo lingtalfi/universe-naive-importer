@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2140 -- 2020-12-04
+
+    - [Ling/FileCreator](https://github.com/lingtalfi/FileCreator) 1.0.0 --> 1.0.1
+
+
 - 2.0.2139 -- 2020-12-04
 
     - [Ling/FileCleaner](https://github.com/lingtalfi/FileCleaner) 1.1.0 --> 1.1.1
