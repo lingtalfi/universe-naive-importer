@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2253 -- 2020-12-04
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 2.0.5 --> 2.0.6
+
+
 - 2.0.2252 -- 2020-12-04
 
     - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform) 2.0.5 --> 2.0.6
