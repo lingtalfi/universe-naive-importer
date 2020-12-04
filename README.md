@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2279 -- 2020-12-04
+
+    - [Ling/Lys](https://github.com/lingtalfi/Lys) 3.2.0 --> 3.2.1
+
+
 - 2.0.2278 -- 2020-12-04
 
     - [Ling/Logger](https://github.com/lingtalfi/Logger) 1.4.0 --> 1.4.1
