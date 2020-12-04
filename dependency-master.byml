@@ -650,8 +650,12 @@ galaxies:
             post_install: []
         
         HtmlTemplate: 
-            version: 3.4.0
-            dependencies: []
+            version: 3.4.1
+            dependencies: 
+                Ling: 
+                    - DirScanner
+                
+            
             post_install: []
         
         Http4All: 
