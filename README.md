@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2319 -- 2020-12-04
+
+    - [Ling/Privilege](https://github.com/lingtalfi/Privilege) 1.2.0 --> 1.2.1
+
+
 - 2.0.2318 -- 2020-12-04
 
     - [Ling/PlanetSitemap](https://github.com/lingtalfi/PlanetSitemap) 1.0.2 --> 1.0.3
