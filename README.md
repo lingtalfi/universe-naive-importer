@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2091 -- 2020-12-04
+
+    - [Ling/BashColorTool](https://github.com/lingtalfi/BashColorTool) 1.0.0 --> 1.0.1
+
+
 - 2.0.2090 -- 2020-12-04
 
     - [Ling/BabyYamlDatabase](https://github.com/lingtalfi/BabyYamlDatabase) 1.0.2 --> 1.0.3
