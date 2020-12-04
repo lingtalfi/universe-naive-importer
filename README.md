@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2075 -- 2020-12-04
+
+    - [Ling/AdminTable](https://github.com/lingtalfi/AdminTable) 1.6.6 --> 1.6.7
+
+
 - 2.0.2074 -- 2020-12-04
 
     - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.21.4 --> 1.21.5
