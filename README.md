@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2267 -- 2020-12-04
+
+    - [Ling/Light_UserRowRestriction](https://github.com/lingtalfi/Light_UserRowRestriction) 1.3.0 --> 1.3.1
+
+
 - 2.0.2266 -- 2020-12-04
 
     - [Ling/Light_UserPreferences](https://github.com/lingtalfi/Light_UserPreferences) 1.0.0 --> 1.0.1
