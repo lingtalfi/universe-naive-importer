@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2354 -- 2020-12-04
+
+    - [Ling/TemporaryVirtualFileSystem](https://github.com/lingtalfi/TemporaryVirtualFileSystem) 1.11.3 --> 1.11.4
+
+
 - 2.0.2353 -- 2020-12-04
 
     - [Ling/TabathaCache](https://github.com/lingtalfi/TabathaCache) 2.4.0 --> 2.4.1
