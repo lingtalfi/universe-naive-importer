@@ -2947,7 +2947,7 @@ galaxies:
             post_install: []
         
         UniqueNameGenerator: 
-            version: 1.1.0
+            version: 1.1.1
             dependencies: 
                 Ling: 
                     - Bat
