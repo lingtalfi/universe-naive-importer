@@ -405,7 +405,7 @@ galaxies:
             post_install: []
         
         DatePickerHelper: 
-            version: 1.1.0
+            version: 1.1.1
             dependencies: []
             post_install: []
         
