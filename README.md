@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2118 -- 2020-12-04
+
+    - [Ling/Csv](https://github.com/lingtalfi/Csv) 1.3.1 --> 1.3.2
+
+
 - 2.0.2117 -- 2020-12-04
 
     - [Ling/CrudWithFile](https://github.com/lingtalfi/CrudWithFile) 1.0.0 --> 1.0.1
