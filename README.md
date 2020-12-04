@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2124 -- 2020-12-04
+
+    - [Ling/Dir2Symlink](https://github.com/lingtalfi/Dir2Symlink) 1.2.0 --> 1.2.1
+
+
 - 2.0.2123 -- 2020-12-04
 
     - [Ling/DerbyCache](https://github.com/lingtalfi/DerbyCache) 1.5.0 --> 1.5.1
