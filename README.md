@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2660 -- 2020-12-08
+
+    - [Ling/SitemapSlicer](https://github.com/lingtalfi/SitemapSlicer) 1.0.1 --> 1.0.2
+
+
 - 2.0.2659 -- 2020-12-08
 
     - [Ling/SitemapBuilderBox](https://github.com/lingtalfi/SitemapBuilderBox) 1.0.1 --> 1.0.2
