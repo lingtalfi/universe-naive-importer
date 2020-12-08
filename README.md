@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2464 -- 2020-12-08
+
+    - [Ling/GormanJsonDecoder](https://github.com/lingtalfi/GormanJsonDecoder) 1.1.2 --> 1.1.3
+
+
 - 2.0.2463 -- 2020-12-08
 
     - [Ling/GetRowsInterface](https://github.com/lingtalfi/GetRowsInterface) 1.0.1 --> 1.0.2
