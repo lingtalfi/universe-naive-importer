@@ -371,7 +371,7 @@ galaxies:
             post_install: []
         
         CopyDir: 
-            version: 1.3.1
+            version: 1.3.2
             dependencies: []
             post_install: []
         
