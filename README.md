@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2469 -- 2020-12-08
+
+    - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 2.2.1 --> 2.2.2
+
+
 - 2.0.2468 -- 2020-12-08
 
     - [Ling/Here](https://github.com/lingtalfi/Here) 2.2.1 --> 2.2.2
