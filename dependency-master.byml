@@ -2714,7 +2714,7 @@ galaxies:
             post_install: []
         
         SequenceMatcher: 
-            version: 1.0.1
+            version: 1.0.2
             dependencies: []
             post_install: []
         
