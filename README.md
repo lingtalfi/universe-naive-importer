@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2489 -- 2020-12-08
+
+    - [Ling/JGoodies](https://github.com/lingtalfi/JGoodies) 1.1.1 --> 1.1.2
+
+
 - 2.0.2488 -- 2020-12-08
 
     - [Ling/JFullScreen](https://github.com/lingtalfi/JFullScreen) 1.0.1 --> 1.0.2
