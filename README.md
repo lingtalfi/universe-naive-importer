@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2504 -- 2020-12-08
+
+    - [Ling/KaminosUtils](https://github.com/lingtalfi/KaminosUtils) 1.0.1 --> 1.0.2
+
+
 - 2.0.2503 -- 2020-12-08
 
     - [Ling/KamilleWidgets](https://github.com/lingtalfi/KamilleWidgets) 1.0.1 --> 1.0.2
