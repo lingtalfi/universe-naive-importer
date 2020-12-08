@@ -2996,7 +2996,7 @@ galaxies:
             post_install: []
         
         Updf: 
-            version: 1.2.4
+            version: 1.2.5
             dependencies: []
             post_install: 
                 composer: 
