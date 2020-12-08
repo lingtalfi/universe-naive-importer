@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2588 -- 2020-12-08
+
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.23.3 --> 1.23.4
+
+
 - 2.0.2587 -- 2020-12-08
 
     - [Ling/LinearFile](https://github.com/lingtalfi/LinearFile) 1.0.1 --> 1.0.2
