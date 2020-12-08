@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2402 -- 2020-12-08
+
+    - [Ling/AssetsList](https://github.com/lingtalfi/AssetsList) 1.0.1 --> 1.0.2
+
+
 - 2.0.2401 -- 2020-12-08
 
     - [Ling/AssetLoader](https://github.com/lingtalfi/AssetLoader) 1.6.1 --> 1.6.2
