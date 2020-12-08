@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2518 -- 2020-12-08
+
+    - [Ling/Light_Crud](https://github.com/lingtalfi/Light_Crud) 2.0.1 --> 2.0.2
+
+
 - 2.0.2517 -- 2020-12-08
 
     - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.2.3 --> 1.2.4
