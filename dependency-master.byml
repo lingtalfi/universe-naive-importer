@@ -978,7 +978,7 @@ galaxies:
             post_install: []
         
         Light_404Logger: 
-            version: 1.0.1
+            version: 1.0.2
             dependencies: 
                 Ling: 
                     - Bat
