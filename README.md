@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2397 -- 2020-12-08
+
+    - [Ling/ArrayStore](https://github.com/lingtalfi/ArrayStore) 1.1.1 --> 1.1.2
+
+
 - 2.0.2396 -- 2020-12-08
 
     - [Ling/ArrayRefResolver](https://github.com/lingtalfi/ArrayRefResolver) 1.0.1 --> 1.0.2
