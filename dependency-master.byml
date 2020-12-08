@@ -2085,7 +2085,7 @@ galaxies:
             
         
         Light_UserManager: 
-            version: 1.5.4
+            version: 1.5.5
             dependencies: 
                 Ling: 
                     - Light_User
