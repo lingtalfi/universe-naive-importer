@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2559 -- 2020-12-08
+
+    - [Ling/Light_MicroPermission](https://github.com/lingtalfi/Light_MicroPermission) 3.0.5 --> 3.0.6
+
+
 - 2.0.2558 -- 2020-12-08
 
     - [Ling/Light_Mailer](https://github.com/lingtalfi/Light_Mailer) 1.3.4 --> 1.3.5
