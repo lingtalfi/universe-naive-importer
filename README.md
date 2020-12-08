@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2535 -- 2020-12-08
+
+    - [Ling/Light_ExceptionHandler](https://github.com/lingtalfi/Light_ExceptionHandler) 1.2.2 --> 1.2.3
+
+
 - 2.0.2534 -- 2020-12-08
 
     - [Ling/Light_Events](https://github.com/lingtalfi/Light_Events) 1.9.4 --> 1.9.5
