@@ -2702,7 +2702,7 @@ galaxies:
             post_install: []
         
         Select2: 
-            version: 1.0.2
+            version: 1.0.3
             dependencies: []
             post_install: 
                 map: true
