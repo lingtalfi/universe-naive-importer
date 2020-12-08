@@ -2681,7 +2681,7 @@ galaxies:
             post_install: []
         
         SaveOrm: 
-            version: 1.18.2
+            version: 1.18.3
             dependencies: 
                 Ling: 
                     - Bat
@@ -2692,7 +2692,7 @@ galaxies:
             post_install: []
         
         ScreenDebug: 
-            version: 1.0.1
+            version: 1.0.2
             dependencies: []
             post_install: []
         
