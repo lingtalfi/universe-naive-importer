@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2606 -- 2020-12-08
+
+    - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.9.6 --> 1.9.7
+
+
 - 2.0.2605 -- 2020-12-08
 
     - [Ling/NaturallySimpleXmlElement](https://github.com/lingtalfi/NaturallySimpleXmlElement) 1.0.1 --> 1.0.2
