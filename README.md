@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2478 -- 2020-12-08
+
+    - [Ling/JAcpHep](https://github.com/lingtalfi/JAcpHep) 1.2.2 --> 1.2.3
+
+
 - 2.0.2477 -- 2020-12-08
 
     - [Ling/InstantLog](https://github.com/lingtalfi/InstantLog) 1.1.1 --> 1.1.2
