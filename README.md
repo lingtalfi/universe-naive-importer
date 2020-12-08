@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2644 -- 2020-12-08
+
+    - [Ling/Quoter](https://github.com/lingtalfi/Quoter) 1.4.1 --> 1.4.2
+
+
 - 2.0.2643 -- 2020-12-08
 
     - [Ling/QuickPdo](https://github.com/lingtalfi/QuickPdo) 2.41.2 --> 2.41.3
