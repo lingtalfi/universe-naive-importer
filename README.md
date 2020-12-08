@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2583 -- 2020-12-08
+
+    - [Ling/Light_UserPreferences](https://github.com/lingtalfi/Light_UserPreferences) 1.0.1 --> 1.0.2
+
+
 - 2.0.2582 -- 2020-12-08
 
     - [Ling/Light_UserNotifications](https://github.com/lingtalfi/Light_UserNotifications) 1.0.3 --> 1.0.4
