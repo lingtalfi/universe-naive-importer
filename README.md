@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2435 -- 2020-12-08
+
+    - [Ling/Dash2Array](https://github.com/lingtalfi/Dash2Array) 1.0.1 --> 1.0.2
+
+
 - 2.0.2434 -- 2020-12-08
 
     - [Ling/Csv](https://github.com/lingtalfi/Csv) 1.3.2 --> 1.3.3
