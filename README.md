@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2444 -- 2020-12-08
+
+    - [Ling/Dispatcher](https://github.com/lingtalfi/Dispatcher) 1.0.1 --> 1.0.2
+
+
 - 2.0.2443 -- 2020-12-08
 
     - [Ling/DirectoryCleaner](https://github.com/lingtalfi/DirectoryCleaner) 1.0.1 --> 1.0.2
