@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2670 -- 2020-12-08
+
+    - [Ling/TabathaCache](https://github.com/lingtalfi/TabathaCache) 2.4.1 --> 2.4.2
+
+
 - 2.0.2669 -- 2020-12-08
 
     - [Ling/SvgGridGenerator](https://github.com/lingtalfi/SvgGridGenerator) 1.0.1 --> 1.0.2
