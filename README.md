@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2449 -- 2020-12-08
+
+    - [Ling/EchartsWrapper](https://github.com/lingtalfi/EchartsWrapper) 1.3.1 --> 1.3.2
+
+
 - 2.0.2448 -- 2020-12-08
 
     - [Ling/EasyConsoleMenu](https://github.com/lingtalfi/EasyConsoleMenu) 1.0.2 --> 1.0.3
