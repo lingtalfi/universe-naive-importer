@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2458 -- 2020-12-08
+
+    - [Ling/FontAwesome](https://github.com/lingtalfi/FontAwesome) 1.0.2 --> 1.0.3
+
+
 - 2.0.2457 -- 2020-12-08
 
     - [Ling/FileDeletor](https://github.com/lingtalfi/FileDeletor) 1.0.1 --> 1.0.2
