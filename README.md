@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2617 -- 2020-12-08
+
+    - [Ling/Packer](https://github.com/lingtalfi/Packer) 1.2.1 --> 1.2.2
+
+
 - 2.0.2616 -- 2020-12-08
 
     - [Ling/Output](https://github.com/lingtalfi/Output) 1.7.1 --> 1.7.2
