@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2465 -- 2020-12-08
+
+    - [Ling/GreekTodoList](https://github.com/lingtalfi/GreekTodoList) 1.4.1 --> 1.4.2
+
+
 - 2.0.2464 -- 2020-12-08
 
     - [Ling/GormanJsonDecoder](https://github.com/lingtalfi/GormanJsonDecoder) 1.1.2 --> 1.1.3
