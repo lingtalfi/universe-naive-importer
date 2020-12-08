@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2668 -- 2020-12-08
+
+    - [Ling/SvelteTemplateBuilder](https://github.com/lingtalfi/SvelteTemplateBuilder) 1.1.1 --> 1.1.2
+
+
 - 2.0.2667 -- 2020-12-08
 
     - [Ling/SuspiciousException](https://github.com/lingtalfi/SuspiciousException) 1.0.1 --> 1.0.2
