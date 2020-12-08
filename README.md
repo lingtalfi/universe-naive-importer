@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2550 -- 2020-12-08
+
+    - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.18.5 --> 1.18.6
+
+
 - 2.0.2549 -- 2020-12-08
 
     - [Ling/Light_Kit_Admin_UserPreferences](https://github.com/lingtalfi/Light_Kit_Admin_UserPreferences) 1.2.3 --> 1.2.4
