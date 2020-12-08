@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2611 -- 2020-12-08
+
+    - [Ling/Octopus](https://github.com/lingtalfi/Octopus) 1.4.2 --> 1.4.3
+
+
 - 2.0.2610 -- 2020-12-08
 
     - [Ling/Observer](https://github.com/lingtalfi/Observer) 1.0.1 --> 1.0.2
