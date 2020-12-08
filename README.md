@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2592 -- 2020-12-08
+
+    - [Ling/Loader](https://github.com/lingtalfi/Loader) 1.0.1 --> 1.0.2
+
+
 - 2.0.2591 -- 2020-12-08
 
     - [Ling/ListParams](https://github.com/lingtalfi/ListParams) 1.10.5 --> 1.10.6
