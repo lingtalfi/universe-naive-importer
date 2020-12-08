@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2694 -- 2020-12-08
+
+    - [Ling/VSwitch](https://github.com/lingtalfi/VSwitch) 1.3.1 --> 1.3.2
+
+
 - 2.0.2693 -- 2020-12-08
 
     - [Ling/UrlFriendlyListHelper](https://github.com/lingtalfi/UrlFriendlyListHelper) 1.1.1 --> 1.1.2
