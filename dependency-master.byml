@@ -1774,6 +1774,23 @@ galaxies:
                 map: true
             
         
+        Light_PlanetInstaller: 
+            version: 0.0.1
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - CliTools
+                    - UniverseTools
+                    - BabyYaml
+                    - Light
+                    - Light_Logger
+                    - LingTalfi
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_PluginDatabaseInstaller: 
             version: 1.6.2
             dependencies: 
