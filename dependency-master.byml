@@ -962,7 +962,7 @@ galaxies:
             post_install: []
         
         Light: 
-            version: 0.69.17
+            version: 0.69.18
             dependencies: 
                 Ling: 
                     - Light_Events

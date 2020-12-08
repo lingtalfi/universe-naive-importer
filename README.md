@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2509 -- 2020-12-08
+
+    - [Ling/Light](https://github.com/lingtalfi/Light) 0.69.17 --> 0.69.18
+
+
 - 2.0.2508 -- 2020-12-08
 
     - [Ling/Komin](https://github.com/lingtalfi/Komin) 1.0.1 --> 1.0.2
