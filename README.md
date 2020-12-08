@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2666 -- 2020-12-08
+
+    - [Ling/StringFormatter](https://github.com/lingtalfi/StringFormatter) 1.0.1 --> 1.0.2
+
+
 - 2.0.2665 -- 2020-12-08
 
     - [Ling/StepFormBuilder](https://github.com/lingtalfi/StepFormBuilder) 1.1.1 --> 1.1.2
