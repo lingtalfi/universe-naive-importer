@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2613 -- 2020-12-08
+
+    - [Ling/Options](https://github.com/lingtalfi/Options) 1.1.1 --> 1.1.2
+
+
 - 2.0.2612 -- 2020-12-08
 
     - [Ling/OnTheFlyForm](https://github.com/lingtalfi/OnTheFlyForm) 2.19.1 --> 2.19.2
