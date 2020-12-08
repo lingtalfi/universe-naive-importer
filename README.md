@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2625 -- 2020-12-08
+
+    - [Ling/PersistentRowCollection](https://github.com/lingtalfi/PersistentRowCollection) 1.0.1 --> 1.0.2
+
+
 - 2.0.2624 -- 2020-12-08
 
     - [Ling/PermsHiker](https://github.com/lingtalfi/PermsHiker) 1.1.1 --> 1.1.2

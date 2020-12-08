@@ -2456,7 +2456,7 @@ galaxies:
             post_install: []
         
         PersistentRowCollection: 
-            version: 1.0.1
+            version: 1.0.2
             dependencies: 
                 Ling: 
                     - FormModel
