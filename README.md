@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2483 -- 2020-12-08
+
+    - [Ling/JCookie](https://github.com/lingtalfi/JCookie) 1.0.1 --> 1.0.2
+
+
 - 2.0.2482 -- 2020-12-08
 
     - [Ling/JChronometer](https://github.com/lingtalfi/JChronometer) 1.0.1 --> 1.0.2
