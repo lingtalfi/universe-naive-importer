@@ -2218,7 +2218,7 @@ galaxies:
             post_install: []
         
         Localys: 
-            version: 1.9.1
+            version: 1.9.2
             dependencies: 
                 Ling: 
                     - Bat
