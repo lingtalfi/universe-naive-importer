@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2675 -- 2020-12-08
+
+    - [Ling/ThumbnailTools](https://github.com/lingtalfi/ThumbnailTools) 1.3.2 --> 1.3.3
+
+
 - 2.0.2674 -- 2020-12-08
 
     - [Ling/TheScientist](https://github.com/lingtalfi/TheScientist) 1.0.1 --> 1.0.2
