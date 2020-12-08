@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2474 -- 2020-12-08
+
+    - [Ling/IndentedLines](https://github.com/lingtalfi/IndentedLines) 1.2.1 --> 1.2.2
+
+
 - 2.0.2473 -- 2020-12-08
 
     - [Ling/Icons](https://github.com/lingtalfi/Icons) 1.0.3 --> 1.0.4
