@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2548 -- 2020-12-08
+
+    - [Ling/Light_Kit_Admin_UserDatabase](https://github.com/lingtalfi/Light_Kit_Admin_UserDatabase) 0.5.4 --> 0.5.5
+
+
 - 2.0.2547 -- 2020-12-08
 
     - [Ling/Light_Kit_Admin_UserData](https://github.com/lingtalfi/Light_Kit_Admin_UserData) 1.7.4 --> 1.7.5
