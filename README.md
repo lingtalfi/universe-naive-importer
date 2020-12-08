@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2436 -- 2020-12-08
+
+    - [Ling/DatePickerHelper](https://github.com/lingtalfi/DatePickerHelper) 1.1.1 --> 1.1.2
+
+
 - 2.0.2435 -- 2020-12-08
 
     - [Ling/Dash2Array](https://github.com/lingtalfi/Dash2Array) 1.0.1 --> 1.0.2
