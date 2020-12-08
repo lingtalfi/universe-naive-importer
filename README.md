@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2633 -- 2020-12-08
+
+    - [Ling/PhpTemplate](https://github.com/lingtalfi/PhpTemplate) 1.0.1 --> 1.0.2
+
+
 - 2.0.2632 -- 2020-12-08
 
     - [Ling/PhpTailer](https://github.com/lingtalfi/PhpTailer) 1.0.2 --> 1.0.3
