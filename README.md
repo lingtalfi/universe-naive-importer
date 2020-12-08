@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2408 -- 2020-12-08
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.292 --> 1.293
+
+
 - 2.0.2407 -- 2020-12-08
 
     - [Ling/BashColorTool](https://github.com/lingtalfi/BashColorTool) 1.0.1 --> 1.0.2
