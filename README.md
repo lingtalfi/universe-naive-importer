@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2618 -- 2020-12-08
+
+    - [Ling/Panda_Headers](https://github.com/lingtalfi/Panda_Headers) 1.0.1 --> 1.0.2
+
+
 - 2.0.2617 -- 2020-12-08
 
     - [Ling/Packer](https://github.com/lingtalfi/Packer) 1.2.1 --> 1.2.2
