@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2517 -- 2020-12-08
+
+    - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.2.3 --> 1.2.4
+
+
 - 2.0.2516 -- 2020-12-08
 
     - [Ling/Light_ChloroformExtension](https://github.com/lingtalfi/Light_ChloroformExtension) 1.6.10 --> 1.6.11
