@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2623 -- 2020-12-08
+
+    - [Ling/Pea](https://github.com/lingtalfi/Pea) 1.2.1 --> 1.2.2
+
+
 - 2.0.2622 -- 2020-12-08
 
     - [Ling/ParseDown](https://github.com/lingtalfi/ParseDown) 1.0.1 --> 1.0.2
