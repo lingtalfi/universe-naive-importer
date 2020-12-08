@@ -2280,7 +2280,7 @@ galaxies:
             post_install: []
         
         ModelRenderers: 
-            version: 1.7.4
+            version: 1.7.5
             dependencies: 
                 Ling: 
                     - Bat
