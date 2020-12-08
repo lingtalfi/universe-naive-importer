@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2680 -- 2020-12-08
+
+    - [Ling/TokenFun](https://github.com/lingtalfi/TokenFun) 1.11.3 --> 1.11.4
+
+
 - 2.0.2679 -- 2020-12-08
 
     - [Ling/Tiphaine](https://github.com/lingtalfi/Tiphaine) 1.0.1 --> 1.0.2
