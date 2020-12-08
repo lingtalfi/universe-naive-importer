@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2706 -- 2020-12-08
+
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.21.7 --> 1.21.8
+
+
 - 2.0.2705 -- 2020-12-08
 
     - [Ling/Zoli](https://github.com/lingtalfi/Zoli) 1.4.1 --> 1.4.2

@@ -2984,12 +2984,12 @@ galaxies:
             post_install: []
         
         UniverseTools: 
-            version: 1.21.7
+            version: 1.21.8
             dependencies: 
                 Ling: 
-                    - BabyYaml
                     - Bat
                     - DirScanner
+                    - BabyYaml
                     - TokenFun
                 
             
