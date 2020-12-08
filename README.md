@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2459 -- 2020-12-08
+
+    - [Ling/FormModel](https://github.com/lingtalfi/FormModel) 1.5.1 --> 1.5.2
+
+
 - 2.0.2458 -- 2020-12-08
 
     - [Ling/FontAwesome](https://github.com/lingtalfi/FontAwesome) 1.0.2 --> 1.0.3

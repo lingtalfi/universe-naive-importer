@@ -582,7 +582,7 @@ galaxies:
             
         
         FormModel: 
-            version: 1.5.1
+            version: 1.5.2
             dependencies: []
             post_install: []
         
