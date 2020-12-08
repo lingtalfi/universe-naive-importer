@@ -178,7 +178,7 @@ galaxies:
             post_install: []
         
         BeeFramework: 
-            version: 1.0.4
+            version: 1.0.5
             dependencies: 
                 Ling: 
                     - Komin
@@ -187,7 +187,7 @@ galaxies:
             post_install: []
         
         Bootstrap4AdminTable: 
-            version: 1.15.3
+            version: 1.15.4
             dependencies: 
                 Ling: 
                     - Bat

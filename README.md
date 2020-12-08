@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2411 -- 2020-12-08
+
+    - [Ling/BeeFramework](https://github.com/lingtalfi/BeeFramework) 1.0.4 --> 1.0.5
+    - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.15.3 --> 1.15.4
+
+
 - 2.0.2410 -- 2020-12-08
 
     - [Ling/Beauty](https://github.com/lingtalfi/Beauty) 1.4.1 --> 1.4.2
