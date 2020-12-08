@@ -2924,7 +2924,7 @@ galaxies:
             post_install: []
         
         TreeListHelper: 
-            version: 1.0.1
+            version: 1.0.2
             dependencies: 
                 Ling: 
                     - Bat
