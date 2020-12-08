@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2475 -- 2020-12-08
+
+    - [Ling/Ingenico](https://github.com/lingtalfi/Ingenico) 1.5.1 --> 1.5.2
+
+
 - 2.0.2474 -- 2020-12-08
 
     - [Ling/IndentedLines](https://github.com/lingtalfi/IndentedLines) 1.2.1 --> 1.2.2
