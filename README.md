@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2441 -- 2020-12-08
+
+    - [Ling/DirScanner](https://github.com/lingtalfi/DirScanner) 1.13.1 --> 1.13.2
+
+
 - 2.0.2440 -- 2020-12-08
 
     - [Ling/Dir2Symlink](https://github.com/lingtalfi/Dir2Symlink) 1.2.1 --> 1.2.2
