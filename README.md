@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2630 -- 2020-12-08
+
+    - [Ling/PhpFileValidator](https://github.com/lingtalfi/PhpFileValidator) 1.0.1 --> 1.0.2
+
+
 - 2.0.2629 -- 2020-12-08
 
     - [Ling/PhpFile](https://github.com/lingtalfi/PhpFile) 1.1.1 --> 1.1.2
