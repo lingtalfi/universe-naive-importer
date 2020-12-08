@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2491 -- 2020-12-08
+
+    - [Ling/JInfiniteSlider](https://github.com/lingtalfi/JInfiniteSlider) 1.2.1 --> 1.2.2
+
+
 - 2.0.2490 -- 2020-12-08
 
     - [Ling/JImageRotator](https://github.com/lingtalfi/JImageRotator) 1.1.2 --> 1.1.3

@@ -799,7 +799,7 @@ galaxies:
             post_install: []
         
         JInfiniteSlider: 
-            version: 1.2.1
+            version: 1.2.2
             dependencies: []
             post_install: []
         
