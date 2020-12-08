@@ -1834,7 +1834,7 @@ galaxies:
             
         
         Light_PrettyError: 
-            version: 1.5.2
+            version: 1.5.3
             dependencies: 
                 Ling: 
                     - Light
