@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2704 -- 2020-12-08
+
+    - [Ling/ZeusTemplateEngine](https://github.com/lingtalfi/ZeusTemplateEngine) 1.3.1 --> 1.3.2
+
+
 - 2.0.2703 -- 2020-12-08
 
     - [Ling/ZephyrTemplateEngine](https://github.com/lingtalfi/ZephyrTemplateEngine) 1.1.3 --> 1.1.4
