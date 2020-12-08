@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2612 -- 2020-12-08
+
+    - [Ling/OnTheFlyForm](https://github.com/lingtalfi/OnTheFlyForm) 2.19.1 --> 2.19.2
+
+
 - 2.0.2611 -- 2020-12-08
 
     - [Ling/Octopus](https://github.com/lingtalfi/Octopus) 1.4.2 --> 1.4.3

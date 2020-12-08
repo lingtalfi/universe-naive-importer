@@ -2359,7 +2359,7 @@ galaxies:
             post_install: []
         
         OnTheFlyForm: 
-            version: 2.19.1
+            version: 2.19.2
             dependencies: 
                 Ling: 
                     - Bat
