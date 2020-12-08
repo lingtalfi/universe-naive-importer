@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2667 -- 2020-12-08
+
+    - [Ling/SuspiciousException](https://github.com/lingtalfi/SuspiciousException) 1.0.1 --> 1.0.2
+
+
 - 2.0.2666 -- 2020-12-08
 
     - [Ling/StringFormatter](https://github.com/lingtalfi/StringFormatter) 1.0.1 --> 1.0.2
