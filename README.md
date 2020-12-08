@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2594 -- 2020-12-08
+
+    - [Ling/LogSlicer](https://github.com/lingtalfi/LogSlicer) 1.1.1 --> 1.1.2
+
+
 - 2.0.2593 -- 2020-12-08
 
     - [Ling/Localys](https://github.com/lingtalfi/Localys) 1.9.1 --> 1.9.2
