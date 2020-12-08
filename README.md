@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2602 -- 2020-12-08
+
+    - [Ling/MySimpleXmlElement](https://github.com/lingtalfi/MySimpleXmlElement) 1.1.1 --> 1.1.2
+
+
 - 2.0.2601 -- 2020-12-08
 
     - [Ling/Models](https://github.com/lingtalfi/Models) 1.26.1 --> 1.26.2
