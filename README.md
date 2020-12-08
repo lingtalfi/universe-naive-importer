@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2585 -- 2020-12-08
+
+    - [Ling/Light_ZephyrTemplate](https://github.com/lingtalfi/Light_ZephyrTemplate) 1.2.1 --> 1.2.2
+
+
 - 2.0.2584 -- 2020-12-08
 
     - [Ling/Light_UserRowRestriction](https://github.com/lingtalfi/Light_UserRowRestriction) 1.3.1 --> 1.3.2
