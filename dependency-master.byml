@@ -2764,7 +2764,7 @@ galaxies:
             post_install: []
         
         SokoForm: 
-            version: 1.72.1
+            version: 1.72.2
             dependencies: 
                 Ling: 
                     - Bat

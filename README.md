@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2661 -- 2020-12-08
+
+    - [Ling/SokoForm](https://github.com/lingtalfi/SokoForm) 1.72.1 --> 1.72.2
+
+
 - 2.0.2660 -- 2020-12-08
 
     - [Ling/SitemapSlicer](https://github.com/lingtalfi/SitemapSlicer) 1.0.1 --> 1.0.2
