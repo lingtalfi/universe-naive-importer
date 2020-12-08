@@ -324,7 +324,7 @@ galaxies:
             post_install: []
         
         Colis: 
-            version: 2.2.1
+            version: 2.2.2
             dependencies: 
                 Ling: 
                     - Tim
