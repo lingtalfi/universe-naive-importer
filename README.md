@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2645 -- 2020-12-08
+
+    - [Ling/ReflectionRepresentation](https://github.com/lingtalfi/ReflectionRepresentation) 1.0.1 --> 1.0.2
+
+
 - 2.0.2644 -- 2020-12-08
 
     - [Ling/Quoter](https://github.com/lingtalfi/Quoter) 1.4.1 --> 1.4.2
