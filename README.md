@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2597 -- 2020-12-08
+
+    - [Ling/Meredith](https://github.com/lingtalfi/Meredith) 3.1.1 --> 3.1.2
+
+
 - 2.0.2596 -- 2020-12-08
 
     - [Ling/Lys](https://github.com/lingtalfi/Lys) 3.2.1 --> 3.2.2
