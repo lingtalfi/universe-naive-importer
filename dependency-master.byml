@@ -2942,7 +2942,7 @@ galaxies:
             post_install: []
         
         Umail: 
-            version: 1.6.1
+            version: 1.6.2
             dependencies: []
             post_install: 
                 composer: 
