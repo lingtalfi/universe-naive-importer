@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2490 -- 2020-12-08
+
+    - [Ling/JImageRotator](https://github.com/lingtalfi/JImageRotator) 1.1.2 --> 1.1.3
+
+
 - 2.0.2489 -- 2020-12-08
 
     - [Ling/JGoodies](https://github.com/lingtalfi/JGoodies) 1.1.1 --> 1.1.2
