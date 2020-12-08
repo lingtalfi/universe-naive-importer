@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2546 -- 2020-12-08
+
+    - [Ling/Light_Kit_Admin_TaskScheduler](https://github.com/lingtalfi/Light_Kit_Admin_TaskScheduler) 1.5.4 --> 1.5.5
+
+
 - 2.0.2545 -- 2020-12-08
 
     - [Ling/Light_Kit_Admin_LoginNotifier](https://github.com/lingtalfi/Light_Kit_Admin_LoginNotifier) 1.0.3 --> 1.0.4
