@@ -2204,7 +2204,7 @@ galaxies:
             post_install: []
         
         ListParams: 
-            version: 1.10.5
+            version: 1.10.6
             dependencies: 
                 Ling: 
                     - Bat
