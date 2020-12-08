@@ -2579,7 +2579,7 @@ galaxies:
             post_install: []
         
         QueryFilterBox: 
-            version: 1.6.1
+            version: 1.6.2
             dependencies: 
                 Ling: 
                     - QuickPdo
