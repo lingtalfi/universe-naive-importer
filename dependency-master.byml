@@ -15,7 +15,7 @@ galaxies:
             post_install: []
         
         ApplicationLog: 
-            version: 1.0.1
+            version: 1.0.2
             dependencies: 
                 Ling: 
                     - Bat
