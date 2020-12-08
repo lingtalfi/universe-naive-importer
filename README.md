@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2433 -- 2020-12-08
+
+    - [Ling/CrudWithFile](https://github.com/lingtalfi/CrudWithFile) 1.0.1 --> 1.0.2
+
+
 - 2.0.2432 -- 2020-12-08
 
     - [Ling/CronTaskBot](https://github.com/lingtalfi/CronTaskBot) 1.0.1 --> 1.0.2
