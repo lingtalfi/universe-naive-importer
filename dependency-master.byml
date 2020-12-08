@@ -2334,7 +2334,7 @@ galaxies:
             post_install: []
         
         Notifier: 
-            version: 1.0.1
+            version: 1.0.2
             dependencies: []
             post_install: []
         
