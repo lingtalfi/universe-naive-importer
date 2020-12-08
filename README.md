@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2396 -- 2020-12-08
+
+    - [Ling/ArrayRefResolver](https://github.com/lingtalfi/ArrayRefResolver) 1.0.1 --> 1.0.2
+
+
 - 2.0.2395 -- 2020-12-08
 
     - [Ling/ArrayExport](https://github.com/lingtalfi/ArrayExport) 1.1.1 --> 1.1.2
