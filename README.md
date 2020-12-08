@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2410 -- 2020-12-08
+
+    - [Ling/Beauty](https://github.com/lingtalfi/Beauty) 1.4.1 --> 1.4.2
+
+
 - 2.0.2409 -- 2020-12-08
 
     - [Ling/Bate](https://github.com/lingtalfi/Bate) 1.0.1 --> 1.0.2
