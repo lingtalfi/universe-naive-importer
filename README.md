@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2688 -- 2020-12-08
+
+    - [Ling/UniversalTemplateEngine](https://github.com/lingtalfi/UniversalTemplateEngine) 1.1.1 --> 1.1.2
+
+
 - 2.0.2687 -- 2020-12-08
 
     - [Ling/UniversalLogger](https://github.com/lingtalfi/UniversalLogger) 1.1.1 --> 1.1.2
