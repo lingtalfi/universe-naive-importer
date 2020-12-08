@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2445 -- 2020-12-08
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.14.1 --> 1.14.2
+
+
 - 2.0.2444 -- 2020-12-08
 
     - [Ling/Dispatcher](https://github.com/lingtalfi/Dispatcher) 1.0.1 --> 1.0.2
