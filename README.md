@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2467 -- 2020-12-08
+
+    - [Ling/HashMap](https://github.com/lingtalfi/HashMap) 1.0.2 --> 1.0.3
+
+
 - 2.0.2466 -- 2020-12-08
 
     - [Ling/GuiAdminTable](https://github.com/lingtalfi/GuiAdminTable) 1.12.1 --> 1.12.2
