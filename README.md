@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2513 -- 2020-12-08
+
+    - [Ling/Light_BMenu](https://github.com/lingtalfi/Light_BMenu) 1.9.1 --> 1.9.2
+
+
 - 2.0.2512 -- 2020-12-08
 
     - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 2.1.3 --> 2.1.4
