@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2601 -- 2020-12-08
+
+    - [Ling/Models](https://github.com/lingtalfi/Models) 1.26.1 --> 1.26.2
+
+
 - 2.0.2600 -- 2020-12-08
 
     - [Ling/ModelRenderers](https://github.com/lingtalfi/ModelRenderers) 1.7.4 --> 1.7.5
