@@ -910,7 +910,7 @@ galaxies:
             post_install: []
         
         Kit: 
-            version: 1.12.2
+            version: 1.12.3
             dependencies: 
                 Ling: 
                     - BabyYaml
