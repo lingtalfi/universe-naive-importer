@@ -144,7 +144,7 @@ galaxies:
             post_install: []
         
         Bat: 
-            version: 1.29
+            version: 1.292
             dependencies: 
                 Ling: 
                     - TokenFun
@@ -2153,13 +2153,14 @@ galaxies:
             post_install: []
         
         LingTalfi: 
-            version: 1.23.2
+            version: 1.23.3
             dependencies: 
                 Ling: 
                     - DocTools
                     - Kit_PicassoWidget
                     - Bat
                     - BabyYaml
+                    - Light_PlanetInstaller
                     - UniverseTools
                     - CliTools
                     - DirScanner
