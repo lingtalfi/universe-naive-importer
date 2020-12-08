@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2460 -- 2020-12-08
+
+    - [Ling/FormRenderer](https://github.com/lingtalfi/FormRenderer) 1.7.3 --> 1.7.4
+
+
 - 2.0.2459 -- 2020-12-08
 
     - [Ling/FormModel](https://github.com/lingtalfi/FormModel) 1.5.1 --> 1.5.2

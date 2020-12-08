@@ -587,7 +587,7 @@ galaxies:
             post_install: []
         
         FormRenderer: 
-            version: 1.7.3
+            version: 1.7.4
             dependencies: 
                 Ling: 
                     - Bat
