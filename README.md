@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2451 -- 2020-12-08
+
+    - [Ling/Escaper](https://github.com/lingtalfi/Escaper) 1.4.1 --> 1.4.2
+
+
 - 2.0.2450 -- 2020-12-08
 
     - [Ling/Ecp](https://github.com/lingtalfi/Ecp) 1.5.1 --> 1.5.2
