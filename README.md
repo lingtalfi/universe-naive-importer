@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2683 -- 2020-12-08
+
+    - [Ling/UltimateUploadHandler](https://github.com/lingtalfi/UltimateUploadHandler) 1.2.1 --> 1.2.2
+
+
 - 2.0.2682 -- 2020-12-08
 
     - [Ling/TreeListHelper](https://github.com/lingtalfi/TreeListHelper) 1.0.1 --> 1.0.2
