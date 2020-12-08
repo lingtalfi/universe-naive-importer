@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2486 -- 2020-12-08
+
+    - [Ling/JDragSlider](https://github.com/lingtalfi/JDragSlider) 1.1.1 --> 1.1.2
+
+
 - 2.0.2485 -- 2020-12-08
 
     - [Ling/JCsrfAction](https://github.com/lingtalfi/JCsrfAction) 1.0.2 --> 1.0.3
