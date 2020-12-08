@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2616 -- 2020-12-08
+
+    - [Ling/Output](https://github.com/lingtalfi/Output) 1.7.1 --> 1.7.2
+
+
 - 2.0.2615 -- 2020-12-08
 
     - [Ling/Ornella](https://github.com/lingtalfi/Ornella) 1.0.1 --> 1.0.2
