@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2629 -- 2020-12-08
+
+    - [Ling/PhpFile](https://github.com/lingtalfi/PhpFile) 1.1.1 --> 1.1.2
+
+
 - 2.0.2628 -- 2020-12-08
 
     - [Ling/PhpExcelTool](https://github.com/lingtalfi/PhpExcelTool) 1.9.5 --> 1.9.6
