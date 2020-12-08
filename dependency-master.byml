@@ -890,7 +890,7 @@ galaxies:
             post_install: []
         
         KamillePacker: 
-            version: 1.7.1
+            version: 1.7.2
             dependencies: 
                 Ling: 
                     - Bat
