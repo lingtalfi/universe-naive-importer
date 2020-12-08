@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2569 -- 2020-12-08
+
+    - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform) 2.0.6 --> 2.0.7
+
+
 - 2.0.2568 -- 2020-12-08
 
     - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.31.14 --> 1.31.15
