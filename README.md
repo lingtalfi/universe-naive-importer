@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2699 -- 2020-12-08
+
+    - [Ling/WiseTool](https://github.com/lingtalfi/WiseTool) 1.2.1 --> 1.2.2
+
+
 - 2.0.2698 -- 2020-12-08
 
     - [Ling/WebWizardTools](https://github.com/lingtalfi/WebWizardTools) 1.3.2 --> 1.3.3
