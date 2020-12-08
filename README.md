@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2552 -- 2020-12-08
+
+    - [Ling/Light_Kit_WebsiteBuilder](https://github.com/lingtalfi/Light_Kit_WebsiteBuilder) 1.0.2 --> 1.0.3
+
+
 - 2.0.2551 -- 2020-12-08
 
     - [Ling/Light_Kit_Demo](https://github.com/lingtalfi/Light_Kit_Demo) 1.2.1 --> 1.2.2
