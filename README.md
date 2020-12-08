@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2455 -- 2020-12-08
+
+    - [Ling/FileCleaner](https://github.com/lingtalfi/FileCleaner) 1.1.1 --> 1.1.2
+
+
 - 2.0.2454 -- 2020-12-08
 
     - [Ling/Ffmpeg](https://github.com/lingtalfi/Ffmpeg) 1.0.1 --> 1.0.2
