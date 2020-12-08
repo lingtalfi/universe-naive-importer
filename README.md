@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2425 -- 2020-12-08
+
+    - [Ling/CommandLineInput](https://github.com/lingtalfi/CommandLineInput) 1.2.1 --> 1.2.2
+
+
 - 2.0.2424 -- 2020-12-08
 
     - [Ling/Colis](https://github.com/lingtalfi/Colis) 2.2.1 --> 2.2.2
