@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2414 -- 2020-12-08
+
+    - [Ling/CSRFTools](https://github.com/lingtalfi/CSRFTools) 1.5.2 --> 1.5.3
+
+
 - 2.0.2413 -- 2020-12-08
 
     - [Ling/BumbleBee](https://github.com/lingtalfi/BumbleBee) 1.0.1 --> 1.0.2
