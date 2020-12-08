@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2692 -- 2020-12-08
+
+    - [Ling/UploaderHandler](https://github.com/lingtalfi/UploaderHandler) 1.0.1 --> 1.0.2
+
+
 - 2.0.2691 -- 2020-12-08
 
     - [Ling/Uploader](https://github.com/lingtalfi/Uploader) 1.0.1 --> 1.0.2
