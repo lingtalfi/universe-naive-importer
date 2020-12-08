@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2607 -- 2020-12-08
+
+    - [Ling/Notificator](https://github.com/lingtalfi/Notificator) 1.1.1 --> 1.1.2
+
+
 - 2.0.2606 -- 2020-12-08
 
     - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.9.6 --> 1.9.7
