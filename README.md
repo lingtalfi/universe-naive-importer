@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2572 -- 2020-12-08
+
+    - [Ling/Light_Router](https://github.com/lingtalfi/Light_Router) 1.0.1 --> 1.0.2
+
+
 - 2.0.2571 -- 2020-12-08
 
     - [Ling/Light_ReverseRouter](https://github.com/lingtalfi/Light_ReverseRouter) 1.11.2 --> 1.11.3
