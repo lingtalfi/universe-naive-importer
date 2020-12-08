@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2439 -- 2020-12-08
+
+    - [Ling/DerbyCache](https://github.com/lingtalfi/DerbyCache) 1.5.1 --> 1.5.2
+
+
 - 2.0.2438 -- 2020-12-08
 
     - [Ling/Deploy](https://github.com/lingtalfi/Deploy) 1.1.3 --> 1.1.4
