@@ -267,7 +267,7 @@ galaxies:
             
         
         Chloroform_HeliumRenderer: 
-            version: 1.19.11
+            version: 1.19.12
             dependencies: 
                 Ling: 
                     - Bat
