@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2609 -- 2020-12-08
+
+    - [Ling/NumericKeyArray](https://github.com/lingtalfi/NumericKeyArray) 1.1.1 --> 1.1.2
+
+
 - 2.0.2608 -- 2020-12-08
 
     - [Ling/Notifier](https://github.com/lingtalfi/Notifier) 1.0.1 --> 1.0.2
