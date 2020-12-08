@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2452 -- 2020-12-08
+
+    - [Ling/ExceptionCodes](https://github.com/lingtalfi/ExceptionCodes) 1.0.1 --> 1.0.2
+
+
 - 2.0.2451 -- 2020-12-08
 
     - [Ling/Escaper](https://github.com/lingtalfi/Escaper) 1.4.1 --> 1.4.2
