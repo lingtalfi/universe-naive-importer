@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2599 -- 2020-12-08
+
+    - [Ling/MikeMagicTools](https://github.com/lingtalfi/MikeMagicTools) 1.1.1 --> 1.1.2
+
+
 - 2.0.2598 -- 2020-12-08
 
     - [Ling/MethodInjector](https://github.com/lingtalfi/MethodInjector) 1.5.1 --> 1.5.2
