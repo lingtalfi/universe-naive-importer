@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2515 -- 2020-12-08
+
+    - [Ling/Light_Bullsheet](https://github.com/lingtalfi/Light_Bullsheet) 1.1.1 --> 1.1.2
+
+
 - 2.0.2514 -- 2020-12-08
 
     - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.29.9 --> 1.29.10
