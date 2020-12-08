@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2681 -- 2020-12-08
+
+    - [Ling/Tokens](https://github.com/lingtalfi/Tokens) 1.4.1 --> 1.4.2
+
+
 - 2.0.2680 -- 2020-12-08
 
     - [Ling/TokenFun](https://github.com/lingtalfi/TokenFun) 1.11.3 --> 1.11.4

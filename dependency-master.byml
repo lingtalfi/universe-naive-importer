@@ -2915,7 +2915,7 @@ galaxies:
             post_install: []
         
         Tokens: 
-            version: 1.4.1
+            version: 1.4.2
             dependencies: 
                 Ling: 
                     - SequenceMatcher
