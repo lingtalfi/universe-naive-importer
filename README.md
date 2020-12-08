@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2686 -- 2020-12-08
+
+    - [Ling/UniqueNameGenerator](https://github.com/lingtalfi/UniqueNameGenerator) 1.1.1 --> 1.1.2
+
+
 - 2.0.2685 -- 2020-12-08
 
     - [Ling/Uni2](https://github.com/lingtalfi/Uni2) 1.9.5 --> 1.9.6
