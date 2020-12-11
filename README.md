@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2708 -- 2020-12-11
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.293 --> 1.294
+
+
 - 2.0.2707 -- 2020-12-10
 
     - [Ling/AdminTable](https://github.com/lingtalfi/AdminTable) 1.6.8 --> 1.6.9
