@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2712 -- 2020-12-14
+
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.21.8 --> 1.21.9
+
+
 - 2.0.2711 -- 2020-12-14
 
     - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.10.7 --> 1.10.8
