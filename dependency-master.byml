@@ -950,7 +950,11 @@ galaxies:
         
         Komin: 
             version: 1.0.2
-            dependencies: []
+            dependencies: 
+                Ling: 
+                    - BeeFramework
+                
+            
             post_install: []
         
         KrankenStein: 
@@ -1785,7 +1789,9 @@ galaxies:
                     - BabyYaml
                     - Light
                     - Light_Logger
+                    - DirScanner
                     - LingTalfi
+                    - CopyDir
                 
             
             post_install: 
@@ -2985,7 +2991,7 @@ galaxies:
             post_install: []
         
         UniverseTools: 
-            version: 1.21.10
+            version: 1.21.11
             dependencies: 
                 Ling: 
                     - Bat
