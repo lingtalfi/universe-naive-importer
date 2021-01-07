@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2724 -- 2021-01-07
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.297 --> 1.298
+
+
 - 2.0.2723 -- 2021-01-07
 
     - [Ling/ConventionGuy](https://github.com/lingtalfi/ConventionGuy) 1.1.2 --> 1.1.3
