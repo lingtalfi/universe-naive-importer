@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2726 -- 2021-01-07
+
+    - [Ling/DirScanner](https://github.com/lingtalfi/DirScanner) 1.13.2 --> 1.13.3
+
+
 - 2.0.2725 -- 2021-01-07
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.298 --> 1.299
