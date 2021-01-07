@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2722 -- 2021-01-07
+
+    - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.10.11 --> 1.10.12
+
+
 - 2.0.2721 -- 2021-01-05
 
     - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.10.10 --> 1.10.11
