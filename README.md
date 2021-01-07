@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2725 -- 2021-01-07
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.298 --> 1.299
+
+
 - 2.0.2724 -- 2021-01-07
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.297 --> 1.298
