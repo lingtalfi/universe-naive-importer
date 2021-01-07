@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2723 -- 2021-01-07
+
+    - [Ling/ConventionGuy](https://github.com/lingtalfi/ConventionGuy) 1.1.2 --> 1.1.3
+
+
 - 2.0.2722 -- 2021-01-07
 
     - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.10.11 --> 1.10.12
