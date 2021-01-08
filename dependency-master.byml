@@ -144,7 +144,7 @@ galaxies:
             post_install: []
         
         Bat: 
-            version: 1.3
+            version: 1.300
             dependencies: 
                 Ling: 
                     - TokenFun
@@ -315,7 +315,7 @@ galaxies:
             post_install: []
         
         CliTools: 
-            version: 1.10.12
+            version: 1.10.13
             dependencies: 
                 Ling: 
                     - Bat
