@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2730 -- 2021-01-11
+
+    - [Ling/Light_Events](https://github.com/lingtalfi/Light_Events) 1.9.5 --> 1.9.6
+
+
 - 2.0.2729 -- 2021-01-11
 
     - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.10.13 --> 1.10.14
