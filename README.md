@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2731 -- 2021-01-11
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.3 --> 1.301
+
+
 - 2.0.2730 -- 2021-01-11
 
     - [Ling/Light_Events](https://github.com/lingtalfi/Light_Events) 1.9.5 --> 1.9.6
