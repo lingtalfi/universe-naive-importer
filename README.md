@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2740 -- 2021-01-14
+
+    - [Ling/Light_Cli](https://github.com/lingtalfi/Light_Cli) 1.0.0 --> 1.0.1
+
+
 - 2.0.2739 -- 2021-01-14
 
     - [Ling/Light_Cli](https://github.com/lingtalfi/Light_Cli)  --> 1.0.0
