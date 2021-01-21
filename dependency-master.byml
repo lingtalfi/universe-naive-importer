@@ -400,6 +400,15 @@ galaxies:
             
             post_install: []
         
+        CyclicChainDetector: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                
+            
+            post_install: []
+        
         Dash2Array: 
             version: 1.0.2
             dependencies: []

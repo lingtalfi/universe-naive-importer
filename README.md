@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2745 -- 2021-01-21
+
+    - [Ling/CyclicChainDetector](https://github.com/lingtalfi/CyclicChainDetector)  --> 1.0.0
+
+
 - 2.0.2744 -- 2021-01-19
 
     - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.22.1 --> 1.22.2
