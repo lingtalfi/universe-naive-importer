@@ -1232,15 +1232,16 @@ galaxies:
             
         
         Light_DbSynchronizer: 
-            version: 1.2.2
+            version: 1.2.3
             dependencies: 
                 Ling: 
-                    - Bat
                     - Light
                     - Light_Database
-                    - Light_Logger
                     - SimplePdoWrapper
                     - SqlWizard
+                    - UniverseTools
+                    - Bat
+                    - Light_Logger
                 
             
             post_install: 
