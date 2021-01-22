@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2753 -- 2021-01-22
+
+    - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.13.6 --> 1.13.7
+
+
 - 2.0.2752 -- 2021-01-22
 
     - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.22.4 --> 1.22.5
