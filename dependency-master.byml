@@ -3013,7 +3013,7 @@ galaxies:
             post_install: []
         
         UniverseTools: 
-            version: 1.22.4
+            version: 1.22.5
             dependencies: 
                 Ling: 
                     - Bat
