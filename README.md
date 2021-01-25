@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2758 -- 2021-01-25
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.21 --> 1.24.23
+
+
 - 2.0.2757 -- 2021-01-25
 
     - [Ling/Light_DbSynchronizer](https://github.com/lingtalfi/Light_DbSynchronizer) 1.2.5 --> 1.2.6
