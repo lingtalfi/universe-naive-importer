@@ -1836,15 +1836,18 @@ galaxies:
             
         
         Light_PluginInstaller: 
-            version: 1.8.2
+            version: 2.0.0
             dependencies: 
                 Ling: 
-                    - ArrayToString
-                    - Bat
                     - Light
                     - Light_Database
                     - Light_DbSynchronizer
-                    - Light_Logger
+                    - Light_UserDatabase
+                    - UniverseTools
+                    - ArrayToString
+                    - Bat
+                    - CliTools
+                    - CyclicChainDetector
                     - SimplePdoWrapper
                 
             
