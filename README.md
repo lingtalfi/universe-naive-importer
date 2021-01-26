@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2767 -- 2021-01-26
+
+    - [Ling/Light_LingStandardService](https://github.com/lingtalfi/Light_LingStandardService) 1.6.3 --> 1.6.4
+
+
 - 2.0.2766 -- 2021-01-26
 
     - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.22.7 --> 1.22.8
