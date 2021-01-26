@@ -1803,14 +1803,16 @@ galaxies:
             
         
         Light_PlanetInstaller: 
-            version: 0.0.1
+            version: 1.0.0
             dependencies: 
                 Ling: 
-                    - Bat
                     - CliTools
-                    - UniverseTools
-                    - BabyYaml
+                    - Bat
+                    - Light_Cli
                     - Light
+                    - UniverseTools
+                    - Light_PluginInstaller
+                    - BabyYaml
                     - Light_Logger
                     - DirScanner
                     - LingTalfi
