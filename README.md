@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2762 -- 2021-01-26
+
+    - [Ling/Light_PluginInstaller](https://github.com/lingtalfi/Light_PluginInstaller) 2.0.0 --> 2.0.1
+
+
 - 2.0.2761 -- 2021-01-26
 
     - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.22.5 --> 1.22.6
