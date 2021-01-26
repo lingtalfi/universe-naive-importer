@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2769 -- 2021-01-26
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.301 --> 1.302
+
+
 - 2.0.2768 -- 2021-01-26
 
     - [Ling/Light_TaskScheduler](https://github.com/lingtalfi/Light_TaskScheduler) 1.1.2 --> 1.1.3
