@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2763 -- 2021-01-26
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.23 --> 1.24.24
+
+
 - 2.0.2762 -- 2021-01-26
 
     - [Ling/Light_PluginInstaller](https://github.com/lingtalfi/Light_PluginInstaller) 2.0.0 --> 2.0.1
