@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2768 -- 2021-01-26
+
+    - [Ling/Light_TaskScheduler](https://github.com/lingtalfi/Light_TaskScheduler) 1.1.2 --> 1.1.3
+
+
 - 2.0.2767 -- 2021-01-26
 
     - [Ling/Light_LingStandardService](https://github.com/lingtalfi/Light_LingStandardService) 1.6.3 --> 1.6.4
