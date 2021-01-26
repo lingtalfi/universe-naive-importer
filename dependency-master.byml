@@ -3017,7 +3017,7 @@ galaxies:
             post_install: []
         
         UniverseTools: 
-            version: 1.22.7
+            version: 1.22.8
             dependencies: 
                 Ling: 
                     - Bat
