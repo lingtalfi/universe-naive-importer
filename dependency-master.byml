@@ -2097,7 +2097,7 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.31.6
+            version: 1.31.7
             dependencies: 
                 Ling: 
                     - SimplePdoWrapper
@@ -2107,12 +2107,10 @@ galaxies:
                     - Light_Bullsheet
                     - Light_PasswordProtector
                     - TinyBullsheeter
+                    - Light_PluginInstaller
                     - ArrayToString
                     - Light_Events
-                    - Light_PluginInstaller
                     - SqlWizard
-                    - Light_BreezeGenerator
-                    - Light_DbSynchronizer
                     - Light_FileWatcher
                 
             
