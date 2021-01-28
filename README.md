@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2780 -- 2021-01-28
+
+    - [Ling/Light_TaskScheduler](https://github.com/lingtalfi/Light_TaskScheduler) 1.1.3 --> 1.1.4
+
+
 - 2.0.2779 -- 2021-01-28
 
     - [Ling/Light_LoginNotifier](https://github.com/lingtalfi/Light_LoginNotifier) 1.0.4 --> 1.0.5
