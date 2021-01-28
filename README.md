@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2779 -- 2021-01-28
+
+    - [Ling/Light_LoginNotifier](https://github.com/lingtalfi/Light_LoginNotifier) 1.0.4 --> 1.0.5
+
+
 - 2.0.2778 -- 2021-01-28
 
     - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.31.6 --> 1.31.7
