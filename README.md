@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2789 -- 2021-01-29
+
+    - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.12.6 --> 0.12.7
+
+
 - 2.0.2788 -- 2021-01-29
 
     - [Ling/Light_PluginInstaller](https://github.com/lingtalfi/Light_PluginInstaller) 2.0.5 --> 2.0.6
