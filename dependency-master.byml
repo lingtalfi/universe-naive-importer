@@ -1630,7 +1630,7 @@ galaxies:
             
         
         Light_Kit_Admin_UserPreferences: 
-            version: 1.2.4
+            version: 1.2.5
             dependencies: 
                 Ling: 
                     - Chloroform
