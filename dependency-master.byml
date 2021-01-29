@@ -1580,7 +1580,7 @@ galaxies:
             
         
         Light_Kit_Admin_UserData: 
-            version: 1.7.5
+            version: 1.7.6
             dependencies: 
                 Ling: 
                     - Bat
