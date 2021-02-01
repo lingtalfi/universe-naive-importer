@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2800 -- 2021-02-01
+
+    - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.7.5 --> 1.7.6
+
+
 - 2.0.2799 -- 2021-01-29
 
     - [Ling/Light_PlanetInstaller](https://github.com/lingtalfi/Light_PlanetInstaller) 1.0.0 --> 1.0.1
