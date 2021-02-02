@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2801 -- 2021-02-02
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.14.2 --> 1.14.3
+
+
 - 2.0.2800 -- 2021-02-01
 
     - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.7.5 --> 1.7.6
