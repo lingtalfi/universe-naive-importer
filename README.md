@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2807 -- 2021-02-02
+
+    - [Ling/BeeFramework](https://github.com/lingtalfi/BeeFramework) 1.0.5 --> 1.0.6
+
+
 - 2.0.2806 -- 2021-02-02
 
     - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.10.22 --> 1.10.23
