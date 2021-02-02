@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2802 -- 2021-02-02
+
+    - [Ling/TokenFun](https://github.com/lingtalfi/TokenFun) 1.11.4 --> 1.11.5
+
+
 - 2.0.2801 -- 2021-02-02
 
     - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.14.2 --> 1.14.3
