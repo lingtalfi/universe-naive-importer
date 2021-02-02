@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2803 -- 2021-02-02
+
+    - [Ling/Light_PluginInstaller](https://github.com/lingtalfi/Light_PluginInstaller) 2.0.7 --> 2.0.8
+
+
 - 2.0.2802 -- 2021-02-02
 
     - [Ling/TokenFun](https://github.com/lingtalfi/TokenFun) 1.11.4 --> 1.11.5
