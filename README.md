@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2808 -- 2021-02-02
+
+    - [Ling/Light_PlanetInstaller](https://github.com/lingtalfi/Light_PlanetInstaller) 1.0.1 --> 1.0.2
+
+
 - 2.0.2807 -- 2021-02-02
 
     - [Ling/BeeFramework](https://github.com/lingtalfi/BeeFramework) 1.0.5 --> 1.0.6
