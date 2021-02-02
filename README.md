@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2804 -- 2021-02-02
+
+    - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.10.19 --> 1.10.20
+
+
 - 2.0.2803 -- 2021-02-02
 
     - [Ling/Light_PluginInstaller](https://github.com/lingtalfi/Light_PluginInstaller) 2.0.7 --> 2.0.8
