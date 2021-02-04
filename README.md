@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2812 -- 2021-02-04
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.14.3 --> 1.14.4
+
+
 - 2.0.2811 -- 2021-02-04
 
     - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.10.24 --> 1.10.25
