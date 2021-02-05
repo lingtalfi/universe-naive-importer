@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2815 -- 2021-02-05
+
+    - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.7.6 --> 1.7.7
+
+
 - 2.0.2814 -- 2021-02-04
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.24 --> 1.24.25

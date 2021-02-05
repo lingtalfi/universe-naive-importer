@@ -118,8 +118,13 @@ galaxies:
             post_install: []
         
         BabyYaml: 
-            version: 1.7.6
-            dependencies: []
+            version: 1.7.7
+            dependencies: 
+                Ling: 
+                    - Bat
+                    - CheapLogger
+                
+            
             post_install: []
         
         BabyYamlDatabase: 
