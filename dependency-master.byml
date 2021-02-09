@@ -3019,14 +3019,13 @@ galaxies:
             post_install: []
         
         UniverseTools: 
-            version: 1.22.12
+            version: 1.22.13
             dependencies: 
                 Ling: 
                     - Bat
                     - DirScanner
                     - BabyYaml
                     - TokenFun
-                    - LingTalfi
                 
             
             post_install: []
