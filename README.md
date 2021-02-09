@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2824 -- 2021-02-09
+
+    - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.6.3 --> 1.6.4
+
+
 - 2.0.2823 -- 2021-02-09
 
     - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.6.2 --> 1.6.3
