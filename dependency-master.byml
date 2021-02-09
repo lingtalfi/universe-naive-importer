@@ -977,7 +977,7 @@ galaxies:
             post_install: []
         
         Light: 
-            version: 0.69.19
+            version: 0.69.20
             dependencies: 
                 Ling: 
                     - Light_Events
@@ -985,6 +985,7 @@ galaxies:
                     - CheapLogger
                     - Bat
                     - ParenthesisMirrorParser
+                    - BabyYaml
                     - DirScanner
                     - Octopus
                     - PhpUploadFileFix

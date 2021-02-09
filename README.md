@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2825 -- 2021-02-09
+
+    - [Ling/Light](https://github.com/lingtalfi/Light) 0.69.19 --> 0.69.20
+
+
 - 2.0.2824 -- 2021-02-09
 
     - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.6.3 --> 1.6.4
