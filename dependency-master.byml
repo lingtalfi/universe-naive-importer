@@ -144,7 +144,7 @@ galaxies:
             post_install: []
         
         Bat: 
-            version: 1.302
+            version: 1.303
             dependencies: 
                 Ling: 
                     - TokenFun
