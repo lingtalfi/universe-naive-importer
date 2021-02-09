@@ -1803,7 +1803,7 @@ galaxies:
             
         
         Light_PlanetInstaller: 
-            version: 1.0.2
+            version: 1.0.3
             dependencies: 
                 Ling: 
                     - CliTools
@@ -1815,7 +1815,6 @@ galaxies:
                     - BabyYaml
                     - Light_Logger
                     - DirScanner
-                    - LingTalfi
                     - CopyDir
                 
             
