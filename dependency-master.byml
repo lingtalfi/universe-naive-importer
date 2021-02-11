@@ -977,7 +977,7 @@ galaxies:
             post_install: []
         
         Light: 
-            version: 0.69.20
+            version: 0.69.21
             dependencies: 
                 Ling: 
                     - Light_Events
@@ -991,7 +991,9 @@ galaxies:
                     - PhpUploadFileFix
                 
             
-            post_install: []
+            post_install: 
+                map: true
+            
         
         Light_404Logger: 
             version: 1.0.2
