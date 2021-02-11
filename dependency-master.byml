@@ -2128,13 +2128,13 @@ galaxies:
             
         
         Light_UserNotifications: 
-            version: 1.0.5
+            version: 1.0.6
             dependencies: 
                 Ling: 
                     - Light
                     - Light_Database
                     - SimplePdoWrapper
-                    - Light_PluginInstaller
+                    - Light_UserDatabase
                     - Light_LingStandardService
                 
             
