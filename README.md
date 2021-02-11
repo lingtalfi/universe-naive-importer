@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2844 -- 2021-02-11
+
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate)  --> 1.0.0
+    - [Ling/Light_PlanetInstaller](https://github.com/lingtalfi/Light_PlanetInstaller) 1.0.3 --> 1.0.4
+
+
 - 2.0.2843 -- 2021-02-11
 
     - [Ling/PhpUploadFileFix](https://github.com/lingtalfi/PhpUploadFileFix) 1.0.2 --> 1.0.3

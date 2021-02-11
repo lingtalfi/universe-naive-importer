@@ -1045,6 +1045,13 @@ galaxies:
                 map: true
             
         
+        Light_AppBoilerplate: 
+            version: 1.0.0
+            dependencies: []
+            post_install: 
+                map: true
+            
+        
         Light_BMenu: 
             version: 1.9.2
             dependencies: 
@@ -1808,7 +1815,7 @@ galaxies:
             
         
         Light_PlanetInstaller: 
-            version: 1.0.3
+            version: 1.0.4
             dependencies: 
                 Ling: 
                     - CliTools
