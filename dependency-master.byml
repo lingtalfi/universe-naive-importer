@@ -2066,7 +2066,7 @@ galaxies:
             
         
         Light_UserData: 
-            version: 1.19.8
+            version: 1.19.9
             dependencies: 
                 Ling: 
                     - Light
@@ -2081,7 +2081,6 @@ galaxies:
                     - Light_UserManager
                     - Light_ZouUploader
                     - Light_UploadGems
-                    - Light_PluginInstaller
                     - Light_UserDatabase
                     - Light_Realform
                     - ExceptionCodes
