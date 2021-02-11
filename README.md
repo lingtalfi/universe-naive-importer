@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2843 -- 2021-02-11
+
+    - [Ling/PhpUploadFileFix](https://github.com/lingtalfi/PhpUploadFileFix) 1.0.2 --> 1.0.3
+
+
 - 2.0.2842 -- 2021-02-11
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.303 --> 1.304
