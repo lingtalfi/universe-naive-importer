@@ -1840,7 +1840,7 @@ galaxies:
             
         
         Light_PluginInstaller: 
-            version: 2.0.9
+            version: 2.0.10
             dependencies: 
                 Ling: 
                     - Light
@@ -1849,7 +1849,6 @@ galaxies:
                     - Bat
                     - CliTools
                     - CyclicChainDetector
-                    - Light_Database
                     - SimplePdoWrapper
                 
             
