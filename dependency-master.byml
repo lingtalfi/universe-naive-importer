@@ -1470,7 +1470,7 @@ galaxies:
             
         
         Light_Kit_Admin: 
-            version: 0.12.8
+            version: 0.12.9
             dependencies: 
                 Ling: 
                     - Light
@@ -1500,12 +1500,12 @@ galaxies:
                     - Light_DatabaseUtils
                     - UniverseTools
                     - Light_ControllerHub
-                    - Light_PluginInstaller
                     - Light_Crud
                     - Light_Realist
                     - Light_UserData
                     - PhpSpreadSheetTool
                     - Bootstrap4AdminTable
+                    - Light_PluginInstaller
                     - Kit_PicassoWidget
                     - Chloroform_HeliumRenderer
                     - FontAwesome
