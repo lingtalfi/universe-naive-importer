@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2842 -- 2021-02-11
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.303 --> 1.304
+
+
 - 2.0.2841 -- 2021-02-11
 
     - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.31.9 --> 1.31.10
