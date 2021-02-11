@@ -1237,7 +1237,7 @@ galaxies:
             
         
         Light_DbSynchronizer: 
-            version: 1.2.6
+            version: 1.2.7
             dependencies: 
                 Ling: 
                     - Light
@@ -1246,6 +1246,7 @@ galaxies:
                     - SqlWizard
                     - UniverseTools
                     - Bat
+                    - Light_DatabaseInfo
                     - Light_Logger
                 
             
