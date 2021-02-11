@@ -2143,7 +2143,7 @@ galaxies:
             
         
         Light_UserPreferences: 
-            version: 1.0.5
+            version: 1.0.6
             dependencies: 
                 Ling: 
                     - Light_UserManager
@@ -2151,7 +2151,7 @@ galaxies:
                     - SimplePdoWrapper
                     - Light
                     - Light_Database
-                    - Light_PluginInstaller
+                    - Light_UserDatabase
                     - Light_LingStandardService
                 
             
