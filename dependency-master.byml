@@ -1116,12 +1116,12 @@ galaxies:
             
         
         Light_Cli: 
-            version: 1.0.9
+            version: 1.0.10
             dependencies: 
                 Ling: 
-                    - BabyYaml
                     - Bat
                     - CliTools
+                    - UniverseTools
                     - Light
                 
             
