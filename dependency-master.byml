@@ -1046,7 +1046,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.7
+            version: 1.0.8
             dependencies: []
             post_install: 
                 map: true
@@ -1197,7 +1197,7 @@ galaxies:
             
         
         Light_Database: 
-            version: 1.14.11
+            version: 1.14.12
             dependencies: 
                 Ling: 
                     - CheapLogger
@@ -1205,9 +1205,10 @@ galaxies:
                     - Light_Events
                     - Light_Logger
                     - SimplePdoWrapper
+                    - CliTools
+                    - Light_PlanetInstaller
                     - ArrayToString
                     - Bat
-                    - CliTools
                 
             
             post_install: 
