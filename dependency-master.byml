@@ -1046,7 +1046,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.6
+            version: 1.0.7
             dependencies: []
             post_install: 
                 map: true
@@ -2103,7 +2103,7 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.31.10
+            version: 1.31.11
             dependencies: 
                 Ling: 
                     - SimplePdoWrapper
