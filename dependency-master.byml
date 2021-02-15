@@ -1815,7 +1815,7 @@ galaxies:
             
         
         Light_PlanetInstaller: 
-            version: 1.0.4
+            version: 1.0.5
             dependencies: 
                 Ling: 
                     - CliTools
@@ -3027,7 +3027,7 @@ galaxies:
             post_install: []
         
         UniverseTools: 
-            version: 1.22.18
+            version: 1.22.16
             dependencies: 
                 Ling: 
                     - Bat
