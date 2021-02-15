@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2853 -- 2021-02-15
+
+    - [Ling/ArrayToString](https://github.com/lingtalfi/ArrayToString) 1.4.2 --> 1.4.3
+
+
 - 2.0.2852 -- 2021-02-12
 
     - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.22.15 --> 1.22.16
