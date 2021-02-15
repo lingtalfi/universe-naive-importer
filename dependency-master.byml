@@ -144,7 +144,7 @@ galaxies:
             post_install: []
         
         Bat: 
-            version: 1.304
+            version: 1.305
             dependencies: 
                 Ling: 
                     - TokenFun
@@ -1046,7 +1046,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.5
+            version: 1.0.6
             dependencies: []
             post_install: 
                 map: true
