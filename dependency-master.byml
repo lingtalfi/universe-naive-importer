@@ -1046,7 +1046,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.9
+            version: 1.0.10
             dependencies: []
             post_install: 
                 map: true
@@ -2907,7 +2907,7 @@ galaxies:
             post_install: []
         
         TheBar: 
-            version: 1.24.25
+            version: 1.24.26
             dependencies: []
             post_install: []
         
