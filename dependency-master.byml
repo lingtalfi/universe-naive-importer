@@ -1051,7 +1051,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.12
+            version: 1.0.13
             dependencies: []
             post_install: 
                 map: true
@@ -1821,19 +1821,19 @@ galaxies:
             
         
         Light_PlanetInstaller: 
-            version: 1.0.6
+            version: 1.0.7
             dependencies: 
                 Ling: 
-                    - CliTools
-                    - Bat
-                    - Light_Cli
-                    - Light
-                    - UniverseTools
-                    - Light_PluginInstaller
                     - BabyYaml
-                    - Light_Logger
-                    - DirScanner
+                    - Bat
+                    - CliTools
                     - CopyDir
+                    - DirScanner
+                    - Light
+                    - Light_Cli
+                    - Light_Logger
+                    - Light_PluginInstaller
+                    - UniverseTools
                 
             
             post_install: 
