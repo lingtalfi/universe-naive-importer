@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2875 -- 2021-02-18
+
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.22.21 --> 1.22.22
+
+
 - 2.0.2874 -- 2021-02-18
 
     - [Ling/Kwin](https://github.com/lingtalfi/Kwin) 1.0.2 --> 1.0.3
