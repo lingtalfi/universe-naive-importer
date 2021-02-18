@@ -976,6 +976,11 @@ galaxies:
             
             post_install: []
         
+        Kwin: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         Light: 
             version: 0.69.22
             dependencies: 
