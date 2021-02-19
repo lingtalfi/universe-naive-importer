@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2881 -- 2021-02-19
+
+    - [Ling/Light_Cli](https://github.com/lingtalfi/Light_Cli) 1.0.11 --> 1.0.12
+
+
 - 2.0.2880 -- 2021-02-19
 
     - [Ling/Kwin](https://github.com/lingtalfi/Kwin) 1.0.3 --> 1.0.4
