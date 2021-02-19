@@ -1014,7 +1014,7 @@ galaxies:
             
         
         Light_AjaxFileUploadManager: 
-            version: 1.8.3
+            version: 1.8.4
             dependencies: 
                 Ling: 
                     - Light
@@ -1822,7 +1822,7 @@ galaxies:
             
         
         Light_PlanetInstaller: 
-            version: 1.0.7
+            version: 1.0.8
             dependencies: 
                 Ling: 
                     - BabyYaml

@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2884 -- 2021-02-19
+
+    - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.8.3 --> 1.8.4
+    - [Ling/Light_PlanetInstaller](https://github.com/lingtalfi/Light_PlanetInstaller) 1.0.7 --> 1.0.8
+
+
 - 2.0.2883 -- 2021-02-19
 
     - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.23.6 --> 1.23.7
