@@ -1051,7 +1051,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.14
+            version: 1.0.15
             dependencies: []
             post_install: 
                 map: true
@@ -2220,23 +2220,24 @@ galaxies:
             post_install: []
         
         LingTalfi: 
-            version: 1.23.5
+            version: 1.23.6
             dependencies: 
                 Ling: 
-                    - DocTools
-                    - Kit_PicassoWidget
-                    - Bat
                     - BabyYaml
-                    - Light_PlanetInstaller
-                    - UniverseTools
-                    - Light
-                    - Light_DbSynchronizer
-                    - Light_PluginInstaller
+                    - Bat
                     - CliTools
                     - DirScanner
-                    - Uni2
+                    - DocTools
+                    - Kit_PicassoWidget
+                    - Kwin
+                    - Light
+                    - Light_DbSynchronizer
+                    - Light_PlanetInstaller
+                    - Light_PluginInstaller
                     - PlanetSitemap
                     - SimpleCurl
+                    - Uni2
+                    - UniverseTools
                 
             
             post_install: []
