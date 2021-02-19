@@ -103,6 +103,32 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2885 -- 2021-02-19
+
+    - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.8.4 --> 1.8.5
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.15 --> 1.0.16
+    - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.29.10 --> 1.29.11
+    - [Ling/Light_ChloroformExtension](https://github.com/lingtalfi/Light_ChloroformExtension) 1.6.11 --> 1.6.12
+    - [Ling/Light_Cli](https://github.com/lingtalfi/Light_Cli) 1.0.12 --> 1.0.13
+    - [Ling/Light_Crud](https://github.com/lingtalfi/Light_Crud) 2.0.2 --> 2.0.3
+    - [Ling/Light_DatabaseInfo](https://github.com/lingtalfi/Light_DatabaseInfo) 1.12.3 --> 1.12.4
+    - [Ling/Light_DatabaseUtils](https://github.com/lingtalfi/Light_DatabaseUtils) 1.1.7 --> 1.1.8
+    - [Ling/Light_DbSynchronizer](https://github.com/lingtalfi/Light_DbSynchronizer) 1.2.8 --> 1.2.9
+    - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.11 --> 1.28.12
+    - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.12.9 --> 0.12.10
+    - [Ling/Light_Kit_Admin_UserDatabase](https://github.com/lingtalfi/Light_Kit_Admin_UserDatabase) 0.5.7 --> 0.5.8
+    - [Ling/Light_LoginNotifier](https://github.com/lingtalfi/Light_LoginNotifier) 1.0.6 --> 1.0.7
+    - [Ling/Light_PluginInstaller](https://github.com/lingtalfi/Light_PluginInstaller) 2.0.12 --> 2.0.13
+    - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform) 2.0.7 --> 2.0.8
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 2.0.7 --> 2.0.8
+    - [Ling/Light_TaskScheduler](https://github.com/lingtalfi/Light_TaskScheduler) 1.1.5 --> 1.1.6
+    - [Ling/Light_UserData](https://github.com/lingtalfi/Light_UserData) 1.19.10 --> 1.19.11
+    - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.31.11 --> 1.31.12
+    - [Ling/Light_UserNotifications](https://github.com/lingtalfi/Light_UserNotifications) 1.0.6 --> 1.0.7
+    - [Ling/Light_UserPreferences](https://github.com/lingtalfi/Light_UserPreferences) 1.0.6 --> 1.0.7
+    - [Ling/Light_UserRowRestriction](https://github.com/lingtalfi/Light_UserRowRestriction) 1.3.2 --> 1.3.3
+
+
 - 2.0.2884 -- 2021-02-19
 
     - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.8.3 --> 1.8.4
