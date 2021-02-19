@@ -1051,7 +1051,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.13
+            version: 1.0.14
             dependencies: []
             post_install: 
                 map: true
@@ -1363,12 +1363,12 @@ galaxies:
             
         
         Light_ErrorHandler: 
-            version: 1.0.6
+            version: 1.0.7
             dependencies: 
                 Ling: 
+                    - Bat
                     - Light
                     - Light_Logger
-                    - Bat
                 
             
             post_install: 
