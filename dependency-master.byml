@@ -982,18 +982,18 @@ galaxies:
             post_install: []
         
         Light: 
-            version: 0.69.22
+            version: 0.69.23
             dependencies: 
                 Ling: 
-                    - Light_Events
-                    - SicTools
-                    - CheapLogger
-                    - Bat
-                    - ParenthesisMirrorParser
                     - BabyYaml
+                    - Bat
+                    - CheapLogger
                     - DirScanner
+                    - Light_Events
                     - Octopus
+                    - ParenthesisMirrorParser
                     - PhpUploadFileFix
+                    - SicTools
                 
             
             post_install: 
@@ -1051,7 +1051,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.17
+            version: 1.0.18
             dependencies: []
             post_install: 
                 map: true
