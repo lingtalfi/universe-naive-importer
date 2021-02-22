@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2891 -- 2021-02-22
+
+    - [Ling/Light_PrettyError](https://github.com/lingtalfi/Light_PrettyError) 1.5.3 --> 1.5.4
+
+
 - 2.0.2890 -- 2021-02-22
 
     - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.15.4 --> 1.15.5
