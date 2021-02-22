@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2897 -- 2021-02-22
+
+    - [Ling/Light_SpinKitHelper](https://github.com/lingtalfi/Light_SpinKitHelper) 1.0.4 --> 1.0.5
+
+
 - 2.0.2896 -- 2021-02-22
 
     - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 2.0.11 --> 2.0.12
