@@ -1051,7 +1051,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.18
+            version: 1.0.19
             dependencies: []
             post_install: 
                 map: true
@@ -2019,7 +2019,7 @@ galaxies:
             
         
         Light_SpinKitHelper: 
-            version: 1.0.3
+            version: 1.0.4
             dependencies: 
                 Ling: 
                     - Bat
