@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2892 -- 2021-02-22
+
+    - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.12.10 --> 0.12.11
+
+
 - 2.0.2891 -- 2021-02-22
 
     - [Ling/Light_PrettyError](https://github.com/lingtalfi/Light_PrettyError) 1.5.3 --> 1.5.4
