@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2929 -- 2021-02-23
+
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.23.10 --> 1.23.11
+
+
 - 2.0.2928 -- 2021-02-23
 
     - [Ling/Uni2](https://github.com/lingtalfi/Uni2) 1.9.9 --> 1.9.10
