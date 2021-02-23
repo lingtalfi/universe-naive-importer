@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2906 -- 2021-02-23
+
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.23.7 --> 1.23.8
+
+
 - 2.0.2905 -- 2021-02-23
 
     - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.2.5 --> 1.2.6
