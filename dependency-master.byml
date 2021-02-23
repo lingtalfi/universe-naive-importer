@@ -3018,15 +3018,15 @@ galaxies:
             
         
         Uni2: 
-            version: 1.9.9
+            version: 1.9.10
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
                     - CliTools
+                    - DirScanner
                     - Octopus
                     - UniverseTools
-                    - DirScanner
                 
             
             post_install: []
