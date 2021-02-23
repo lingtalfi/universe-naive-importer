@@ -103,6 +103,29 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2921 -- 2021-02-23
+
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.27 --> 1.0.28
+    - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.13 --> 1.28.14
+
+
+- 2.0.2920 -- 2021-02-23
+
+    - [Ling/ArrayToString](https://github.com/lingtalfi/ArrayToString) 1.4.3 --> 1.4.4
+    - [Ling/Light_DbSynchronizer](https://github.com/lingtalfi/Light_DbSynchronizer) 1.2.10 --> 1.2.11
+
+
+- 2.0.2919 -- 2021-02-23
+
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.26 --> 1.0.27
+    - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.2.8 --> 1.2.9
+
+
+- 2.0.2918 -- 2021-02-23
+
+    - [Ling/Light_Cli](https://github.com/lingtalfi/Light_Cli) 1.0.14 --> 1.0.15
+
+
 - 2.0.2917 -- 2021-02-23
 
     - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.14.4 --> 1.14.7

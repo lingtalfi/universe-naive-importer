@@ -62,7 +62,7 @@ galaxies:
             post_install: []
         
         ArrayToString: 
-            version: 1.4.3
+            version: 1.4.4
             dependencies: []
             post_install: []
         
@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.26
+            version: 1.0.28
             dependencies: []
             post_install: 
                 map: true
@@ -1123,7 +1123,7 @@ galaxies:
             
         
         Light_Cli: 
-            version: 1.0.14
+            version: 1.0.15
             dependencies: 
                 Ling: 
                     - Bat
@@ -1138,7 +1138,7 @@ galaxies:
             
         
         Light_ControllerHub: 
-            version: 1.2.8
+            version: 1.2.9
             dependencies: 
                 Ling: 
                     - Bat
@@ -1256,17 +1256,17 @@ galaxies:
             
         
         Light_DbSynchronizer: 
-            version: 1.2.10
+            version: 1.2.11
             dependencies: 
                 Ling: 
+                    - Bat
                     - Light
                     - Light_Database
+                    - Light_DatabaseInfo
+                    - Light_Logger
                     - SimplePdoWrapper
                     - SqlWizard
                     - UniverseTools
-                    - Bat
-                    - Light_DatabaseInfo
-                    - Light_Logger
                 
             
             post_install: 
@@ -1290,28 +1290,28 @@ galaxies:
             
         
         Light_DeveloperWizard: 
-            version: 1.28.13
+            version: 1.28.14
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
+                    - ClassCooker
+                    - Jquery
                     - Light
+                    - Light_ControllerHub
                     - Light_Database
+                    - Light_DatabaseInfo
+                    - Light_DbSynchronizer
+                    - Light_Kit_Admin
+                    - Light_Kit_Admin_Generator
+                    - Light_LingStandardService
+                    - Light_PluginInstaller
+                    - Light_UserDatabase
                     - SimplePdoWrapper
                     - SqlWizard
-                    - Light_Kit_Admin
-                    - Light_PluginInstaller
-                    - UniverseTools
-                    - ClassCooker
                     - TokenFun
+                    - UniverseTools
                     - WebWizardTools
-                    - Light_DbSynchronizer
-                    - Light_Kit_Admin_Generator
-                    - Light_DatabaseInfo
-                    - Light_LingStandardService
-                    - Light_UserDatabase
-                    - Light_ControllerHub
-                    - Jquery
                 
             
             post_install: 
