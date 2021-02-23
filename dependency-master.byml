@@ -1139,12 +1139,15 @@ galaxies:
             
         
         Light_ControllerHub: 
-            version: 1.2.4
+            version: 1.2.5
             dependencies: 
                 Ling: 
-                    - Light
                     - Bat
+                    - CliTools
+                    - Light
+                    - Light_EasyRoute
                     - Light_Kit_Admin
+                    - Light_PlanetInstaller
                     - UniverseTools
                 
             
