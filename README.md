@@ -103,6 +103,13 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2898 -- 2021-02-23
+
+    - [Ling/Light](https://github.com/lingtalfi/Light) 0.69.23 --> 0.69.24
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.19 --> 1.0.20
+    - [Ling/Light_PlanetInstaller](https://github.com/lingtalfi/Light_PlanetInstaller) 1.0.9 --> 1.0.10
+
+
 - 2.0.2897 -- 2021-02-22
 
     - [Ling/Light_SpinKitHelper](https://github.com/lingtalfi/Light_SpinKitHelper) 1.0.4 --> 1.0.5
