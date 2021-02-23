@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2914 -- 2021-02-23
+
+    - [Ling/Light_PlanetInstaller](https://github.com/lingtalfi/Light_PlanetInstaller) 1.0.10 --> 1.0.11
+
+
 - 2.0.2913 -- 2021-02-23
 
     - [Ling/Light_Database](https://github.com/lingtalfi/Light_Database) 1.14.13 --> 1.14.14
