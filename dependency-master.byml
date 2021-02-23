@@ -1036,13 +1036,16 @@ galaxies:
             
         
         Light_AjaxHandler: 
-            version: 2.1.4
+            version: 2.1.5
             dependencies: 
                 Ling: 
-                    - Light
-                    - Light_Events
-                    - Light_CsrfSession
                     - Bat
+                    - CliTools
+                    - Light
+                    - Light_CsrfSession
+                    - Light_EasyRoute
+                    - Light_Events
+                    - Light_PlanetInstaller
                     - Light_ReverseRouter
                 
             
