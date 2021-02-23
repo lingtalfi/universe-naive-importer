@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.29
+            version: 1.0.30
             dependencies: []
             post_install: 
                 map: true
@@ -2234,7 +2234,7 @@ galaxies:
             post_install: []
         
         LingTalfi: 
-            version: 1.23.9
+            version: 1.23.10
             dependencies: 
                 Ling: 
                     - BabyYaml
