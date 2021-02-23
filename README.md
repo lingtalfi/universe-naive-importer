@@ -103,6 +103,22 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2917 -- 2021-02-23
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.14.4 --> 1.14.7
+    - [Ling/Light_Cli](https://github.com/lingtalfi/Light_Cli) 1.0.13 --> 1.0.14
+    - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.2.7 --> 1.2.8
+    - [Ling/Light_DbSynchronizer](https://github.com/lingtalfi/Light_DbSynchronizer) 1.2.9 --> 1.2.10
+    - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.12 --> 1.28.13
+    - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.12.14 --> 0.12.15
+    - [Ling/Light_Kit_Admin_Generator](https://github.com/lingtalfi/Light_Kit_Admin_Generator) 1.19.7 --> 1.19.8
+    - [Ling/Light_LingStandardService](https://github.com/lingtalfi/Light_LingStandardService) 1.6.5 --> 1.6.6
+    - [Ling/Light_PlanetInstaller](https://github.com/lingtalfi/Light_PlanetInstaller) 1.0.11 --> 1.0.12
+    - [Ling/Light_PluginInstaller](https://github.com/lingtalfi/Light_PluginInstaller) 2.0.13 --> 2.0.14
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.23.8 --> 1.23.9
+    - [Ling/Uni2](https://github.com/lingtalfi/Uni2) 1.9.8 --> 1.9.9
+
+
 - 2.0.2916 -- 2021-02-23
 
     - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.15.5 --> 1.15.6
