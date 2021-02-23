@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2938 -- 2021-02-23
+
+    - [Ling/Light_LingStandardService](https://github.com/lingtalfi/Light_LingStandardService) 1.6.7 --> 1.6.8
+
+
 - 2.0.2937 -- 2021-02-23
 
     - [Ling/Light_Kit_Admin_Generator](https://github.com/lingtalfi/Light_Kit_Admin_Generator) 1.19.9 --> 1.19.10
