@@ -1559,17 +1559,17 @@ galaxies:
             
         
         Light_Kit_Admin_Generator: 
-            version: 1.19.8
+            version: 1.19.9
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
+                    - Light_ControllerHub
                     - Light_Kit_Admin
                     - Light_RealGenerator
                     - Light_TablePrefixInfo
                     - SqlWizard
                     - UniverseTools
-                    - Light_ControllerHub
                 
             
             post_install: 
