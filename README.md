@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2935 -- 2021-02-23
+
+    - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.14 --> 1.28.15
+
+
 - 2.0.2934 -- 2021-02-23
 
     - [Ling/Light_DbSynchronizer](https://github.com/lingtalfi/Light_DbSynchronizer) 1.2.11 --> 1.2.12
