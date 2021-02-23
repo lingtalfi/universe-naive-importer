@@ -1486,7 +1486,7 @@ galaxies:
             
         
         Light_Kit_Admin: 
-            version: 0.12.12
+            version: 0.12.13
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1494,6 +1494,7 @@ galaxies:
                     - Bootstrap4AdminTable
                     - Chloroform
                     - Chloroform_HeliumRenderer
+                    - CliTools
                     - FontAwesome
                     - HtmlPageTools
                     - JBee
@@ -1510,12 +1511,14 @@ galaxies:
                     - Light_Database
                     - Light_DatabaseInfo
                     - Light_DatabaseUtils
+                    - Light_EasyRoute
                     - Light_Events
                     - Light_Flasher
                     - Light_Kit
                     - Light_Mailer
                     - Light_MicroPermission
                     - Light_Nugget
+                    - Light_PlanetInstaller
                     - Light_PluginInstaller
                     - Light_Realform
                     - Light_Realist
