@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2954 -- 2021-02-25
+
+    - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.12.17 --> 0.12.18
+
+
 - 2.0.2953 -- 2021-02-25
 
     - [Ling/Light_DbSynchronizer](https://github.com/lingtalfi/Light_DbSynchronizer) 1.2.12 --> 1.2.13
