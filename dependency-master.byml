@@ -144,7 +144,7 @@ galaxies:
             post_install: []
         
         Bat: 
-            version: 1.306
+            version: 1.307
             dependencies: 
                 Ling: 
                     - ArrayToString
@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.40
+            version: 1.0.41
             dependencies: []
             post_install: 
                 map: true
