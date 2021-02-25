@@ -1138,7 +1138,7 @@ galaxies:
             
         
         Light_ControllerHub: 
-            version: 1.2.10
+            version: 1.2.11
             dependencies: 
                 Ling: 
                     - Bat
