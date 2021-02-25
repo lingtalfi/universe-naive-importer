@@ -144,17 +144,17 @@ galaxies:
             post_install: []
         
         Bat: 
-            version: 1.305
+            version: 1.306
             dependencies: 
                 Ling: 
-                    - TokenFun
                     - ArrayToString
-                    - BeeFramework
-                    - DirScanner
-                    - CopyDir
                     - BabyYaml
-                    - Tiphaine
+                    - BeeFramework
                     - ClassCooker
+                    - CopyDir
+                    - DirScanner
+                    - Tiphaine
+                    - TokenFun
                 
             
             post_install: []
@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.38
+            version: 1.0.39
             dependencies: []
             post_install: 
                 map: true
