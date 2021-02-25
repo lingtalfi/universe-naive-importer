@@ -2205,6 +2205,17 @@ galaxies:
                 map: true
             
         
+        Light_Vars: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_ZephyrTemplate: 
             version: 1.2.2
             dependencies: 
