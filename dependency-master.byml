@@ -1492,7 +1492,7 @@ galaxies:
             
         
         Light_Kit_Admin: 
-            version: 0.12.19
+            version: 0.12.20
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1534,6 +1534,7 @@ galaxies:
                     - Light_UserData
                     - Light_UserDatabase
                     - Light_UserManager
+                    - Light_Vars
                     - PhpSpreadSheetTool
                     - SimplePdoWrapper
                     - UniverseTools
