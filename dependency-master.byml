@@ -981,7 +981,7 @@ galaxies:
             post_install: []
         
         Light: 
-            version: 0.69.28
+            version: 0.69.29
             dependencies: 
                 Ling: 
                     - BabyYaml
