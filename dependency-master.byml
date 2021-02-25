@@ -1870,7 +1870,7 @@ galaxies:
             
         
         Light_PluginInstaller: 
-            version: 2.0.16
+            version: 2.0.17
             dependencies: 
                 Ling: 
                     - Bat
