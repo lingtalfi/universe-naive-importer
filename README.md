@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2963 -- 2021-02-25
+
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.46 --> 1.0.47
+    - [Ling/Light_EasyRoute](https://github.com/lingtalfi/Light_EasyRoute) 1.3.0 --> 1.3.1
+
+
 - 2.0.2962 -- 2021-02-25
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.45 --> 1.0.46
