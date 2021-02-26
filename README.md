@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2972 -- 2021-02-26
+
+    - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.9.7 --> 1.9.8
+
+
 - 2.0.2971 -- 2021-02-26
 
     - [Ling/Light_EasyRoute](https://github.com/lingtalfi/Light_EasyRoute) 1.3.2 --> 1.3.3
