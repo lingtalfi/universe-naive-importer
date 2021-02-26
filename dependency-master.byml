@@ -1476,13 +1476,15 @@ galaxies:
             
         
         Light_Kit: 
-            version: 1.17.2
+            version: 1.17.3
             dependencies: 
                 Ling: 
+                    - ArrayVariableResolver
                     - Bat
                     - HtmlPageTools
                     - Kit
-                    - ArrayVariableResolver
+                    - Kit_PicassoWidget
+                    - Kit_PrototypeWidget
                     - Light
                     - Light_Events
                 
