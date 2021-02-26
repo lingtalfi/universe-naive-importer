@@ -1494,7 +1494,7 @@ galaxies:
             
         
         Light_Kit_Admin: 
-            version: 0.12.21
+            version: 0.12.22
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1524,6 +1524,7 @@ galaxies:
                     - Light_Flasher
                     - Light_HtmlPageCopilot
                     - Light_Kit
+                    - Light_Kit_BootstrapWidgetLibrary
                     - Light_Mailer
                     - Light_MicroPermission
                     - Light_Nugget
