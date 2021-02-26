@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2978 -- 2021-02-26
+
+    - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.9.9 --> 1.9.10
+
+
 - 2.0.2977 -- 2021-02-26
 
     - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.17.3 --> 1.17.4
