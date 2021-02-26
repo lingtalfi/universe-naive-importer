@@ -1688,13 +1688,13 @@ galaxies:
             
         
         Light_Kit_BootstrapWidgetLibrary: 
-            version: 1.18.6
+            version: 1.18.7
             dependencies: 
                 Ling: 
-                    - Kit_PicassoWidget
-                    - HtmlPageTools
-                    - Bat
                     - BabyYaml
+                    - Bat
+                    - HtmlPageTools
+                    - Kit_PicassoWidget
                 
             
             post_install: 
