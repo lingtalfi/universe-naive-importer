@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.48
+            version: 1.0.49
             dependencies: []
             post_install: 
                 map: true
@@ -2130,22 +2130,22 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.31.12
+            version: 1.31.13
             dependencies: 
                 Ling: 
-                    - SimplePdoWrapper
-                    - Light
-                    - Light_Database
-                    - Bat
-                    - Light_Bullsheet
-                    - Light_PasswordProtector
-                    - TinyBullsheeter
-                    - Light_DbSynchronizer
-                    - Light_PluginInstaller
                     - ArrayToString
+                    - Bat
+                    - Light
+                    - Light_Bullsheet
+                    - Light_Database
+                    - Light_DbSynchronizer
                     - Light_Events
-                    - SqlWizard
                     - Light_FileWatcher
+                    - Light_PasswordProtector
+                    - Light_PluginInstaller
+                    - SimplePdoWrapper
+                    - SqlWizard
+                    - TinyBullsheeter
                 
             
             post_install: 
