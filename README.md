@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2985 -- 2021-03-01
+
+    - [Ling/DotMenu](https://github.com/lingtalfi/DotMenu) 1.0.3 --> 1.0.4
+
+
 - 2.0.2984 -- 2021-03-01
 
     - [Ling/Light_Kit_Admin_TaskScheduler](https://github.com/lingtalfi/Light_Kit_Admin_TaskScheduler) 1.5.6 --> 1.5.7
