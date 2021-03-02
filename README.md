@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2990 -- 2021-03-02
+
+    - [Ling/Kit](https://github.com/lingtalfi/Kit) 1.12.3 --> 1.12.4
+
+
 - 2.0.2989 -- 2021-03-02
 
     - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.17.4 --> 1.17.5
