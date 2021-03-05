@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3036 -- 2021-03-05
+
+    - [Ling/CyclicChainDetector](https://github.com/lingtalfi/CyclicChainDetector) 1.1.1 --> 1.1.2
+
+
 - 2.0.3035 -- 2021-03-05
 
     - [Ling/Csv](https://github.com/lingtalfi/Csv) 1.3.3 --> 1.3.4
