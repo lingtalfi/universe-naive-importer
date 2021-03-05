@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3065 -- 2021-03-05
+
+    - [Ling/GetRowsInterface](https://github.com/lingtalfi/GetRowsInterface) 1.0.2 --> 1.0.3
+
+
 - 2.0.3064 -- 2021-03-05
 
     - [Ling/GetFileSize](https://github.com/lingtalfi/GetFileSize) 1.1.2 --> 1.1.3
