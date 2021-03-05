@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3055 -- 2021-03-05
+
+    - [Ling/Explorer](https://github.com/lingtalfi/Explorer) 1.2.2 --> 1.2.3
+
+
 - 2.0.3054 -- 2021-03-05
 
     - [Ling/ExceptionCodes](https://github.com/lingtalfi/ExceptionCodes) 1.0.2 --> 1.0.3

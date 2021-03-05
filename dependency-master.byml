@@ -555,11 +555,11 @@ galaxies:
             post_install: []
         
         Explorer: 
-            version: 1.2.2
+            version: 1.2.3
             dependencies: 
                 Ling: 
-                    - Bat
                     - BabyYaml
+                    - Bat
                 
             
             post_install: []
