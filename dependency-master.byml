@@ -1585,13 +1585,13 @@ galaxies:
             
         
         Light_Kit_Admin_LoginNotifier: 
-            version: 1.0.5
+            version: 1.0.6
             dependencies: 
                 Ling: 
                     - Light
+                    - Light_ControllerHub
                     - Light_Kit
                     - Light_Kit_Admin
-                    - Light_ControllerHub
                 
             
             post_install: 
