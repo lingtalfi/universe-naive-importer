@@ -2240,7 +2240,7 @@ galaxies:
             
         
         Light_ZephyrTemplate: 
-            version: 1.2.2
+            version: 1.2.3
             dependencies: 
                 Ling: 
                     - ZephyrTemplateEngine
