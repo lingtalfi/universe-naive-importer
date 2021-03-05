@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3004 -- 2021-03-05
+
+    - [Ling/BabyDash](https://github.com/lingtalfi/BabyDash) 1.1.10 --> 1.1.11
+
+
 - 2.0.3003 -- 2021-03-05
 
     - [Ling/Authenticate](https://github.com/lingtalfi/Authenticate) 1.7.3 --> 1.7.4
