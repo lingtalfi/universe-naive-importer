@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3099 -- 2021-03-05
+
+    - [Ling/Jin](https://github.com/lingtalfi/Jin) 1.0.3 --> 1.0.4
+
+
 - 2.0.3098 -- 2021-03-05
 
     - [Ling/JSortableLists](https://github.com/lingtalfi/JSortableLists) 1.0.2 --> 1.0.3
