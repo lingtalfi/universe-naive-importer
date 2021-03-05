@@ -764,7 +764,7 @@ galaxies:
             post_install: []
         
         JCropperJs: 
-            version: 1.0.2
+            version: 1.0.3
             dependencies: []
             post_install: 
                 map: true
