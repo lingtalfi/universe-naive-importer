@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2998 -- 2021-03-05
+
+    - [Ling/ArrayToString](https://github.com/lingtalfi/ArrayToString) 1.4.4 --> 1.4.5
+
+
 - 2.0.2997 -- 2021-03-05
 
     - [Ling/ArrayStore](https://github.com/lingtalfi/ArrayStore) 1.1.2 --> 1.1.3
