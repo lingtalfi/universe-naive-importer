@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3276 -- 2021-03-05
+
+    - [Ling/SvgGridGenerator](https://github.com/lingtalfi/SvgGridGenerator) 1.0.2 --> 1.0.3
+
+
 - 2.0.3275 -- 2021-03-05
 
     - [Ling/SvelteTemplateBuilder](https://github.com/lingtalfi/SvelteTemplateBuilder) 1.1.2 --> 1.1.3
