@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3263 -- 2021-03-05
+
+    - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.6.4 --> 1.6.5
+
+
 - 2.0.3262 -- 2021-03-05
 
     - [Ling/SequenceMatcher](https://github.com/lingtalfi/SequenceMatcher) 1.0.2 --> 1.0.3
