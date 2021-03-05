@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3271 -- 2021-03-05
+
+    - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.13.7 --> 1.13.8
+
+
 - 2.0.3270 -- 2021-03-05
 
     - [Ling/SqlQueryWrapper](https://github.com/lingtalfi/SqlQueryWrapper) 1.6.2 --> 1.6.3
