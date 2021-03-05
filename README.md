@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3205 -- 2021-03-05
+
+    - [Ling/MethodInjector](https://github.com/lingtalfi/MethodInjector) 1.5.2 --> 1.5.3
+
+
 - 2.0.3204 -- 2021-03-05
 
     - [Ling/Meredith](https://github.com/lingtalfi/Meredith) 3.1.2 --> 3.1.3
