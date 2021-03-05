@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3075 -- 2021-03-05
+
+    - [Ling/Icons](https://github.com/lingtalfi/Icons) 1.0.4 --> 1.0.5
+
+
 - 2.0.3074 -- 2021-03-05
 
     - [Ling/HybridList](https://github.com/lingtalfi/HybridList) 1.17.3 --> 1.17.4
