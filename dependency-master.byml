@@ -967,7 +967,7 @@ galaxies:
             post_install: []
         
         KrankenStein: 
-            version: 1.0.3
+            version: 1.0.4
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.62
+            version: 1.0.63
             dependencies: []
             post_install: 
                 map: true
