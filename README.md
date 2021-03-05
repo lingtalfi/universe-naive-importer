@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3250 -- 2021-03-05
+
+    - [Ling/QuickPdo](https://github.com/lingtalfi/QuickPdo) 2.41.3 --> 2.41.4
+
+
 - 2.0.3249 -- 2021-03-05
 
     - [Ling/QuickLog](https://github.com/lingtalfi/QuickLog) 1.0.2 --> 1.0.3
