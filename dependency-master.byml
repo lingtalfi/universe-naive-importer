@@ -1391,14 +1391,14 @@ galaxies:
             
         
         Light_Events: 
-            version: 1.9.6
+            version: 1.9.7
             dependencies: 
                 Ling: 
-                    - Light
                     - BabyYaml
                     - Bat
                     - CliTools
                     - DirScanner
+                    - Light
                     - Light_Logger
                 
             
