@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3028 -- 2021-03-05
+
+    - [Ling/CommandLineOutput](https://github.com/lingtalfi/CommandLineOutput) 1.0.2 --> 1.0.3
+
+
 - 2.0.3027 -- 2021-03-05
 
     - [Ling/CommandLineManiac](https://github.com/lingtalfi/CommandLineManiac) 1.0.2 --> 1.0.3
