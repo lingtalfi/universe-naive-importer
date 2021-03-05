@@ -2880,11 +2880,11 @@ galaxies:
             post_install: []
         
         SqlQueryWrapper: 
-            version: 1.6.2
+            version: 1.6.3
             dependencies: 
                 Ling: 
-                    - SqlQuery
                     - QuickPdo
+                    - SqlQuery
                 
             
             post_install: []

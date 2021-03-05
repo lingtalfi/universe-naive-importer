@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3270 -- 2021-03-05
+
+    - [Ling/SqlQueryWrapper](https://github.com/lingtalfi/SqlQueryWrapper) 1.6.2 --> 1.6.3
+
+
 - 2.0.3269 -- 2021-03-05
 
     - [Ling/SqlQuery](https://github.com/lingtalfi/SqlQuery) 1.10.5 --> 1.10.6
