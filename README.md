@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3032 -- 2021-03-05
+
+    - [Ling/CopyDir](https://github.com/lingtalfi/CopyDir) 1.3.2 --> 1.3.3
+
+
 - 2.0.3031 -- 2021-03-05
 
     - [Ling/ConventionGuy](https://github.com/lingtalfi/ConventionGuy) 1.1.3 --> 1.1.4
