@@ -367,7 +367,7 @@ galaxies:
             post_install: []
         
         ConventionGuy: 
-            version: 1.1.3
+            version: 1.1.4
             dependencies: []
             post_install: []
         
