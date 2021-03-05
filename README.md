@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3304 -- 2021-03-05
+
+    - [Ling/WebBox](https://github.com/lingtalfi/WebBox) 1.0.3 --> 1.0.4
+
+
 - 2.0.3303 -- 2021-03-05
 
     - [Ling/VideoSubtitles](https://github.com/lingtalfi/VideoSubtitles) 1.2.2 --> 1.2.3
