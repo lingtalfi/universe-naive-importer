@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3239 -- 2021-03-05
+
+    - [Ling/PhpTailer](https://github.com/lingtalfi/PhpTailer) 1.0.3 --> 1.0.4
+
+
 - 2.0.3238 -- 2021-03-05
 
     - [Ling/PhpSpreadSheetTool](https://github.com/lingtalfi/PhpSpreadSheetTool) 1.0.5 --> 1.0.6
