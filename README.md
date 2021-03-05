@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3210 -- 2021-03-05
+
+    - [Ling/MysqlCreateTableUtil](https://github.com/lingtalfi/MysqlCreateTableUtil) 1.0.4 --> 1.0.5
+
+
 - 2.0.3209 -- 2021-03-05
 
     - [Ling/MySimpleXmlElement](https://github.com/lingtalfi/MySimpleXmlElement) 1.1.2 --> 1.1.3
