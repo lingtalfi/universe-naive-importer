@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3039 -- 2021-03-05
+
+    - [Ling/DebugLogger](https://github.com/lingtalfi/DebugLogger) 1.1.3 --> 1.1.4
+
+
 - 2.0.3038 -- 2021-03-05
 
     - [Ling/DatePickerHelper](https://github.com/lingtalfi/DatePickerHelper) 1.1.2 --> 1.1.3
