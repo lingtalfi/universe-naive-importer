@@ -457,7 +457,7 @@ galaxies:
             post_install: []
         
         DirScanner: 
-            version: 1.13.3
+            version: 1.13.4
             dependencies: []
             post_install: []
         
