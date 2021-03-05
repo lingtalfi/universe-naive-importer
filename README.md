@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3048 -- 2021-03-05
+
+    - [Ling/DotMenu](https://github.com/lingtalfi/DotMenu) 1.0.4 --> 1.0.5
+
+
 - 2.0.3047 -- 2021-03-05
 
     - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.14.8 --> 1.14.9
