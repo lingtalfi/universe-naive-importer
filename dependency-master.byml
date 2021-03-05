@@ -2451,11 +2451,11 @@ galaxies:
             post_install: []
         
         Octopus: 
-            version: 1.4.3
+            version: 1.4.4
             dependencies: 
                 Ling: 
-                    - SicTools
                     - ClassCreator
+                    - SicTools
                 
             
             post_install: []
