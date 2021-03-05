@@ -2096,15 +2096,15 @@ galaxies:
             
         
         Light_UploadGems: 
-            version: 1.8.8
+            version: 1.8.9
             dependencies: 
                 Ling: 
                     - Bat
                     - Light
                     - Light_AjaxFileUploadManager
-                    - ThumbnailTools
                     - Light_Nugget
                     - PhpFileValidator
+                    - ThumbnailTools
                 
             
             post_install: 
