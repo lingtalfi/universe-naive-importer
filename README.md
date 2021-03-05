@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3059 -- 2021-03-05
+
+    - [Ling/FileDeletor](https://github.com/lingtalfi/FileDeletor) 1.0.2 --> 1.0.3
+
+
 - 2.0.3058 -- 2021-03-05
 
     - [Ling/FileCreator](https://github.com/lingtalfi/FileCreator) 1.0.2 --> 1.0.3
