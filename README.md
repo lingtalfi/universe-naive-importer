@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3014 -- 2021-03-05
+
+    - [Ling/BumbleBee](https://github.com/lingtalfi/BumbleBee) 1.0.2 --> 1.0.3
+
+
 - 2.0.3013 -- 2021-03-05
 
     - [Ling/BullSheet](https://github.com/lingtalfi/BullSheet) 1.3.2 --> 1.3.3
