@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3096 -- 2021-03-05
+
+    - [Ling/JRicAdminTableHelper](https://github.com/lingtalfi/JRicAdminTableHelper) 1.0.8 --> 1.0.9
+
+
 - 2.0.3095 -- 2021-03-05
 
     - [Ling/JResponsiveTableHelper](https://github.com/lingtalfi/JResponsiveTableHelper) 1.5.4 --> 1.5.5
