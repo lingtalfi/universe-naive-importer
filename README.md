@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2992 -- 2021-03-05
+
+    - [Ling/AjaxCommunicationProtocol](https://github.com/lingtalfi/AjaxCommunicationProtocol) 1.1.2 --> 1.1.3
+
+
 - 2.0.2991 -- 2021-03-05
 
     - [Ling/AdminTable](https://github.com/lingtalfi/AdminTable) 1.6.9 --> 1.6.10
