@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3029 -- 2021-03-05
+
+    - [Ling/ConditionResolver](https://github.com/lingtalfi/ConditionResolver) 1.1.2 --> 1.1.3
+
+
 - 2.0.3028 -- 2021-03-05
 
     - [Ling/CommandLineOutput](https://github.com/lingtalfi/CommandLineOutput) 1.0.2 --> 1.0.3
