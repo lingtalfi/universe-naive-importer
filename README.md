@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3089 -- 2021-03-05
+
+    - [Ling/JFileUploader](https://github.com/lingtalfi/JFileUploader) 3.0.7 --> 3.0.8
+
+
 - 2.0.3088 -- 2021-03-05
 
     - [Ling/JDragSlider](https://github.com/lingtalfi/JDragSlider) 1.1.2 --> 1.1.3
