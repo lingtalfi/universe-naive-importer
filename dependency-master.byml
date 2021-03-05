@@ -606,7 +606,7 @@ galaxies:
             post_install: []
         
         FormTools: 
-            version: 1.7.2
+            version: 1.7.3
             dependencies: []
             post_install: []
         
