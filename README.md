@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3131 -- 2021-03-05
+
+    - [Ling/Light_DebugTrace](https://github.com/lingtalfi/Light_DebugTrace) 1.0.2 --> 1.0.3
+
+
 - 2.0.3130 -- 2021-03-05
 
     - [Ling/Light_DbSynchronizer](https://github.com/lingtalfi/Light_DbSynchronizer) 1.2.13 --> 1.2.14
