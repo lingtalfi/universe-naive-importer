@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3155 -- 2021-03-05
+
+    - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.18.8 --> 1.18.9
+
+
 - 2.0.3154 -- 2021-03-05
 
     - [Ling/Light_Kit_Admin_UserPreferences](https://github.com/lingtalfi/Light_Kit_Admin_UserPreferences) 1.2.5 --> 1.2.6
