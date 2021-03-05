@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3212 -- 2021-03-05
+
+    - [Ling/NaturallySimpleXmlElement](https://github.com/lingtalfi/NaturallySimpleXmlElement) 1.0.2 --> 1.0.3
+
+
 - 2.0.3211 -- 2021-03-05
 
     - [Ling/MysqlTabular](https://github.com/lingtalfi/MysqlTabular) 1.0.2 --> 1.0.3
