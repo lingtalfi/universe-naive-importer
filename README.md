@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3037 -- 2021-03-05
+
+    - [Ling/Dash2Array](https://github.com/lingtalfi/Dash2Array) 1.0.2 --> 1.0.3
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.60 --> 1.0.61
+
+
 - 2.0.3036 -- 2021-03-05
 
     - [Ling/CyclicChainDetector](https://github.com/lingtalfi/CyclicChainDetector) 1.1.1 --> 1.1.2

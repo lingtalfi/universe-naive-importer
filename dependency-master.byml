@@ -410,7 +410,7 @@ galaxies:
             post_install: []
         
         Dash2Array: 
-            version: 1.0.2
+            version: 1.0.3
             dependencies: []
             post_install: []
         
@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.60
+            version: 1.0.61
             dependencies: []
             post_install: 
                 map: true
