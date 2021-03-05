@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3284 -- 2021-03-05
+
+    - [Ling/TimeFileUtil](https://github.com/lingtalfi/TimeFileUtil) 1.0.2 --> 1.0.3
+
+
 - 2.0.3283 -- 2021-03-05
 
     - [Ling/Tim](https://github.com/lingtalfi/Tim) 1.6.2 --> 1.6.3
