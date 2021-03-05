@@ -1156,14 +1156,14 @@ galaxies:
             
         
         Light_Crud: 
-            version: 2.0.3
+            version: 2.0.4
             dependencies: 
                 Ling: 
                     - Bat
                     - Light
                     - Light_AjaxHandler
-                    - Light_DatabaseInfo
                     - Light_Database
+                    - Light_DatabaseInfo
                     - Light_MicroPermission
                     - SimplePdoWrapper
                 
