@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3105 -- 2021-03-05
+
+    - [Ling/KamilleWidgets](https://github.com/lingtalfi/KamilleWidgets) 1.0.2 --> 1.0.3
+
+
 - 2.0.3104 -- 2021-03-05
 
     - [Ling/KamillePacker](https://github.com/lingtalfi/KamillePacker) 1.7.2 --> 1.7.3
