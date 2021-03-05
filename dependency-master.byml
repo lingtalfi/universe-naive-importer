@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.68
+            version: 1.0.69
             dependencies: []
             post_install: 
                 map: true
@@ -1894,7 +1894,7 @@ galaxies:
             
         
         Light_PrerouteHub: 
-            version: 1.0.2
+            version: 1.0.3
             dependencies: 
                 Ling: 
                     - Light
