@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.66
+            version: 1.0.67
             dependencies: []
             post_install: 
                 map: true
@@ -1770,16 +1770,16 @@ galaxies:
             
         
         Light_LoginNotifier: 
-            version: 1.0.7
+            version: 1.0.8
             dependencies: 
                 Ling: 
-                    - SimplePdoWrapper
                     - Light
                     - Light_Database
-                    - Light_UserDatabase
                     - Light_LingStandardService
                     - Light_Mailer
                     - Light_User
+                    - Light_UserDatabase
+                    - SimplePdoWrapper
                 
             
             post_install: 
