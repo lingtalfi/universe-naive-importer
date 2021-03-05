@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3040 -- 2021-03-05
+
+    - [Ling/Deploy](https://github.com/lingtalfi/Deploy) 1.1.4 --> 1.1.5
+
+
 - 2.0.3039 -- 2021-03-05
 
     - [Ling/DebugLogger](https://github.com/lingtalfi/DebugLogger) 1.1.3 --> 1.1.4
