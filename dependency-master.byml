@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.71
+            version: 1.0.72
             dependencies: []
             post_install: 
                 map: true
@@ -2640,7 +2640,7 @@ galaxies:
             post_install: []
         
         PlanetSitemap: 
-            version: 1.0.4
+            version: 1.0.5
             dependencies: 
                 Ling: 
                     - Bat

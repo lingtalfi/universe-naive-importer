@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3242 -- 2021-03-05
+
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.71 --> 1.0.72
+    - [Ling/PlanetSitemap](https://github.com/lingtalfi/PlanetSitemap) 1.0.4 --> 1.0.5
+
+
 - 2.0.3241 -- 2021-03-05
 
     - [Ling/PhpUploadFileFix](https://github.com/lingtalfi/PhpUploadFileFix) 1.0.3 --> 1.0.4
