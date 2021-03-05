@@ -1291,7 +1291,7 @@ galaxies:
             
         
         Light_DeveloperWizard: 
-            version: 1.28.16
+            version: 1.28.17
             dependencies: 
                 Ling: 
                     - BabyYaml
