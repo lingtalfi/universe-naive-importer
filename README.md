@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3291 -- 2021-03-05
+
+    - [Ling/Umail](https://github.com/lingtalfi/Umail) 1.6.2 --> 1.6.3
+
+
 - 2.0.3290 -- 2021-03-05
 
     - [Ling/UltimateUploadHandler](https://github.com/lingtalfi/UltimateUploadHandler) 1.2.2 --> 1.2.3
