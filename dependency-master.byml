@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.69
+            version: 1.0.70
             dependencies: []
             post_install: 
                 map: true
@@ -2461,11 +2461,11 @@ galaxies:
             post_install: []
         
         OnTheFlyForm: 
-            version: 2.19.2
+            version: 2.19.3
             dependencies: 
                 Ling: 
-                    - Bat
                     - ArrayToString
+                    - Bat
                     - FormTools
                 
             
