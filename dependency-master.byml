@@ -1672,17 +1672,17 @@ galaxies:
             
         
         Light_Kit_Admin_UserPreferences: 
-            version: 1.2.5
+            version: 1.2.6
             dependencies: 
                 Ling: 
-                    - Chloroform
-                    - Light_Kit_Admin
-                    - Light_UserPreferences
                     - Bat
+                    - Chloroform
                     - Light
-                    - Light_Realform
-                    - Light_Kit
                     - Light_ControllerHub
+                    - Light_Kit
+                    - Light_Kit_Admin
+                    - Light_Realform
+                    - Light_UserPreferences
                 
             
             post_install: 
