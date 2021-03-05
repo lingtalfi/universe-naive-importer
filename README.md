@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3137 -- 2021-03-05
+
+    - [Ling/Light_ErrorHandler](https://github.com/lingtalfi/Light_ErrorHandler) 1.0.7 --> 1.0.8
+
+
 - 2.0.3136 -- 2021-03-05
 
     - [Ling/Light_EndRoutine_Debugger](https://github.com/lingtalfi/Light_EndRoutine_Debugger) 1.2.3 --> 1.2.4
