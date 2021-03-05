@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3281 -- 2021-03-05
+
+    - [Ling/TheScientist](https://github.com/lingtalfi/TheScientist) 1.0.2 --> 1.0.3
+
+
 - 2.0.3280 -- 2021-03-05
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.29 --> 1.24.30
