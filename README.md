@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3193 -- 2021-03-05
+
+    - [Ling/Light_ZouUploader](https://github.com/lingtalfi/Light_ZouUploader) 1.1.3 --> 1.1.4
+
+
 - 2.0.3192 -- 2021-03-05
 
     - [Ling/Light_ZephyrTemplate](https://github.com/lingtalfi/Light_ZephyrTemplate) 1.2.2 --> 1.2.3
