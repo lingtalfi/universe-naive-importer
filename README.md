@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3100 -- 2021-03-05
+
+    - [Ling/Jquery](https://github.com/lingtalfi/Jquery) 1.1.3 --> 1.1.4
+
+
 - 2.0.3099 -- 2021-03-05
 
     - [Ling/Jin](https://github.com/lingtalfi/Jin) 1.0.3 --> 1.0.4
