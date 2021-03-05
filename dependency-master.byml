@@ -1729,7 +1729,7 @@ galaxies:
             
         
         Light_LingHooks: 
-            version: 1.0.2
+            version: 1.0.3
             dependencies: 
                 Ling: 
                     - Light
