@@ -2569,7 +2569,7 @@ galaxies:
             post_install: []
         
         PhpBeast: 
-            version: 1.4.2
+            version: 1.4.3
             dependencies: 
                 Ling: 
                     - ArrayToTable
