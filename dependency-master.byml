@@ -932,16 +932,16 @@ galaxies:
             post_install: []
         
         Kit_PicassoWidget: 
-            version: 1.30.2
+            version: 1.30.3
             dependencies: 
                 Ling: 
-                    - Kit
                     - BabyYaml
                     - Bat
                     - DirScanner
+                    - HtmlPageTools
+                    - Kit
                     - Light
                     - Light_Kit
-                    - HtmlPageTools
                     - ZephyrTemplateEngine
                 
             
