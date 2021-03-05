@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.72
+            version: 1.0.73
             dependencies: []
             post_install: 
                 map: true
@@ -2833,7 +2833,7 @@ galaxies:
             post_install: []
         
         SimpleCurl: 
-            version: 1.0.5
+            version: 1.0.6
             dependencies: []
             post_install: []
         
