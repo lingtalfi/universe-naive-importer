@@ -2487,7 +2487,7 @@ galaxies:
             post_install: []
         
         Ornella: 
-            version: 1.0.2
+            version: 1.0.3
             dependencies: []
             post_install: []
         
