@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3106 -- 2021-03-05
+
+    - [Ling/KaminosUtils](https://github.com/lingtalfi/KaminosUtils) 1.0.2 --> 1.0.3
+
+
 - 2.0.3105 -- 2021-03-05
 
     - [Ling/KamilleWidgets](https://github.com/lingtalfi/KamilleWidgets) 1.0.2 --> 1.0.3
