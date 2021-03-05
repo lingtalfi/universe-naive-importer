@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3090 -- 2021-03-05
+
+    - [Ling/JFullScreen](https://github.com/lingtalfi/JFullScreen) 1.0.2 --> 1.0.3
+
+
 - 2.0.3089 -- 2021-03-05
 
     - [Ling/JFileUploader](https://github.com/lingtalfi/JFileUploader) 3.0.7 --> 3.0.8
