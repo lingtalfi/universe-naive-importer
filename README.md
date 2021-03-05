@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3227 -- 2021-03-05
+
+    - [Ling/ParentChild](https://github.com/lingtalfi/ParentChild) 1.0.2 --> 1.0.3
+
+
 - 2.0.3226 -- 2021-03-05
 
     - [Ling/ParametrizedSqlQuery](https://github.com/lingtalfi/ParametrizedSqlQuery) 1.10.2 --> 1.10.3
