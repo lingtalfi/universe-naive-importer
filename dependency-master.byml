@@ -169,13 +169,16 @@ galaxies:
             post_install: []
         
         Beauty: 
-            version: 1.4.3
+            version: 1.4.4
             dependencies: 
                 Ling: 
+                    - Bat
                     - DirScanner
                 
             
-            post_install: []
+            post_install: 
+                map: true
+            
         
         BeeFramework: 
             version: 1.0.7
@@ -1053,7 +1056,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.78
+            version: 1.0.79
             dependencies: []
             post_install: 
                 map: true
