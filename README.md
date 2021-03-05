@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3287 -- 2021-03-05
+
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.74 --> 1.0.75
+    - [Ling/TokenFun](https://github.com/lingtalfi/TokenFun) 1.11.5 --> 1.11.6
+
+
 - 2.0.3286 -- 2021-03-05
 
     - [Ling/Tiphaine](https://github.com/lingtalfi/Tiphaine) 1.0.2 --> 1.0.3
