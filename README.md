@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3298 -- 2021-03-05
+
+    - [Ling/Uploader](https://github.com/lingtalfi/Uploader) 1.0.2 --> 1.0.3
+
+
 - 2.0.3297 -- 2021-03-05
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.77 --> 1.0.78
