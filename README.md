@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3064 -- 2021-03-05
+
+    - [Ling/GetFileSize](https://github.com/lingtalfi/GetFileSize) 1.1.2 --> 1.1.3
+
+
 - 2.0.3063 -- 2021-03-05
 
     - [Ling/FormTools](https://github.com/lingtalfi/FormTools) 1.7.2 --> 1.7.3
