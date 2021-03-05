@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3025 -- 2021-03-05
+
+    - [Ling/Colis](https://github.com/lingtalfi/Colis) 2.2.2 --> 2.2.3
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.58 --> 1.0.59
+
+
 - 2.0.3024 -- 2021-03-05
 
     - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.10.25 --> 1.10.26

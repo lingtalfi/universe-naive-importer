@@ -325,14 +325,14 @@ galaxies:
             post_install: []
         
         Colis: 
-            version: 2.2.2
+            version: 2.2.3
             dependencies: 
                 Ling: 
-                    - Tim
                     - Bat
                     - DirScanner
-                    - YouTubeUtils
+                    - Tim
                     - UploaderHandler
+                    - YouTubeUtils
                 
             
             post_install: []
@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.58
+            version: 1.0.59
             dependencies: []
             post_install: 
                 map: true
