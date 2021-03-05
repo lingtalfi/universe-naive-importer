@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3072 -- 2021-03-05
+
+    - [Ling/HtmlTemplate](https://github.com/lingtalfi/HtmlTemplate) 3.4.2 --> 3.4.3
+
+
 - 2.0.3071 -- 2021-03-05
 
     - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 2.2.2 --> 2.2.3
