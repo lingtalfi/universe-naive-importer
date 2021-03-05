@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3267 -- 2021-03-05
+
+    - [Ling/SitemapSlicer](https://github.com/lingtalfi/SitemapSlicer) 1.0.2 --> 1.0.3
+
+
 - 2.0.3266 -- 2021-03-05
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.73 --> 1.0.74
