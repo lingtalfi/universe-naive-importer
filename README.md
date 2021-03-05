@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3241 -- 2021-03-05
+
+    - [Ling/PhpUploadFileFix](https://github.com/lingtalfi/PhpUploadFileFix) 1.0.3 --> 1.0.4
+
+
 - 2.0.3240 -- 2021-03-05
 
     - [Ling/PhpTemplate](https://github.com/lingtalfi/PhpTemplate) 1.0.2 --> 1.0.3
