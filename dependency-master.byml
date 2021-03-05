@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.77
+            version: 1.0.78
             dependencies: []
             post_install: 
                 map: true
@@ -3098,7 +3098,7 @@ galaxies:
             post_install: []
         
         Updf: 
-            version: 1.2.5
+            version: 1.2.6
             dependencies: []
             post_install: 
                 composer: 
