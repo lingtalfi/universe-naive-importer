@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3073 -- 2021-03-05
+
+    - [Ling/Http4All](https://github.com/lingtalfi/Http4All) 1.1.3 --> 1.1.4
+
+
 - 2.0.3072 -- 2021-03-05
 
     - [Ling/HtmlTemplate](https://github.com/lingtalfi/HtmlTemplate) 3.4.2 --> 3.4.3
