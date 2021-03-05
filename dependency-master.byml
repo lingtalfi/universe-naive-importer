@@ -735,7 +735,7 @@ galaxies:
             
         
         JAjaxLoader: 
-            version: 1.4.2
+            version: 1.4.3
             dependencies: []
             post_install: []
         

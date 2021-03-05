@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3081 -- 2021-03-05
+
+    - [Ling/JAjaxLoader](https://github.com/lingtalfi/JAjaxLoader) 1.4.2 --> 1.4.3
+
+
 - 2.0.3080 -- 2021-03-05
 
     - [Ling/JAcpHep](https://github.com/lingtalfi/JAcpHep) 1.2.3 --> 1.2.4
