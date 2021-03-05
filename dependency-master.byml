@@ -3116,7 +3116,7 @@ galaxies:
             post_install: []
         
         UploaderHandler: 
-            version: 1.0.2
+            version: 1.0.3
             dependencies: 
                 Ling: 
                     - Bat
