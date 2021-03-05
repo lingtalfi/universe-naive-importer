@@ -2507,7 +2507,7 @@ galaxies:
             post_install: []
         
         Panda_Headers: 
-            version: 1.0.2
+            version: 1.0.3
             dependencies: 
                 Ling: 
                     - Light
