@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3009 -- 2021-03-05
+
+    - [Ling/Bate](https://github.com/lingtalfi/Bate) 1.0.2 --> 1.0.3
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.52 --> 1.0.53
+
+
 - 2.0.3008 -- 2021-03-05
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.307 --> 1.308
