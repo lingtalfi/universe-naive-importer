@@ -1616,7 +1616,7 @@ galaxies:
             
         
         Light_Kit_Admin_UserData: 
-            version: 1.7.7
+            version: 1.7.8
             dependencies: 
                 Ling: 
                     - BabyYaml
