@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3240 -- 2021-03-05
+
+    - [Ling/PhpTemplate](https://github.com/lingtalfi/PhpTemplate) 1.0.2 --> 1.0.3
+
+
 - 2.0.3239 -- 2021-03-05
 
     - [Ling/PhpTailer](https://github.com/lingtalfi/PhpTailer) 1.0.3 --> 1.0.4
