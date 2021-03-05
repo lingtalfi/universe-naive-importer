@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3120 -- 2021-03-05
+
+    - [Ling/Light_ChloroformExtension](https://github.com/lingtalfi/Light_ChloroformExtension) 1.6.12 --> 1.6.13
+
+
 - 2.0.3119 -- 2021-03-05
 
     - [Ling/Light_Bullsheet](https://github.com/lingtalfi/Light_Bullsheet) 1.1.2 --> 1.1.3

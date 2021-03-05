@@ -1103,20 +1103,20 @@ galaxies:
             
         
         Light_ChloroformExtension: 
-            version: 1.6.12
+            version: 1.6.13
             dependencies: 
                 Ling: 
+                    - ArrayToString
+                    - Chloroform
                     - Light
                     - Light_AjaxHandler
                     - Light_CsrfSession
-                    - Light_MicroPermission
-                    - ArrayToString
                     - Light_Database
+                    - Light_MicroPermission
                     - Light_Nugget
+                    - Light_Realform
                     - SimplePdoWrapper
                     - SqlWizard
-                    - Chloroform
-                    - Light_Realform
                 
             
             post_install: 
