@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3015 -- 2021-03-05
+
+    - [Ling/CSRFTools](https://github.com/lingtalfi/CSRFTools) 1.5.3 --> 1.5.4
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.54 --> 1.0.55
+
+
 - 2.0.3014 -- 2021-03-05
 
     - [Ling/BumbleBee](https://github.com/lingtalfi/BumbleBee) 1.0.2 --> 1.0.3

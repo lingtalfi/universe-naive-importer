@@ -216,7 +216,7 @@ galaxies:
             post_install: []
         
         CSRFTools: 
-            version: 1.5.3
+            version: 1.5.4
             dependencies: 
                 Ling: 
                     - ArrayToString
@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.54
+            version: 1.0.55
             dependencies: []
             post_install: 
                 map: true
