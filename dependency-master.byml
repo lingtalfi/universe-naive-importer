@@ -2740,7 +2740,7 @@ galaxies:
             post_install: []
         
         Registry: 
-            version: 1.0.2
+            version: 1.0.3
             dependencies: []
             post_install: []
         

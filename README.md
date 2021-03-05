@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3253 -- 2021-03-05
+
+    - [Ling/Registry](https://github.com/lingtalfi/Registry) 1.0.2 --> 1.0.3
+
+
 - 2.0.3252 -- 2021-03-05
 
     - [Ling/ReflectionRepresentation](https://github.com/lingtalfi/ReflectionRepresentation) 1.0.2 --> 1.0.3
