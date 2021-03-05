@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2999 -- 2021-03-05
+
+    - [Ling/ArrayToTable](https://github.com/lingtalfi/ArrayToTable) 1.2.2 --> 1.2.3
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.50 --> 1.0.51
+
+
 - 2.0.2998 -- 2021-03-05
 
     - [Ling/ArrayToString](https://github.com/lingtalfi/ArrayToString) 1.4.4 --> 1.4.5

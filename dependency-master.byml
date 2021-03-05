@@ -67,7 +67,7 @@ galaxies:
             post_install: []
         
         ArrayToTable: 
-            version: 1.2.2
+            version: 1.2.3
             dependencies: 
                 Ling: 
                     - Bat
@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.50
+            version: 1.0.51
             dependencies: []
             post_install: 
                 map: true
