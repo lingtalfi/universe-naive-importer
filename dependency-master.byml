@@ -187,7 +187,7 @@ galaxies:
             post_install: []
         
         Bootstrap4AdminTable: 
-            version: 1.15.6
+            version: 1.15.7
             dependencies: 
                 Ling: 
                     - Bat
@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.53
+            version: 1.0.54
             dependencies: []
             post_install: 
                 map: true

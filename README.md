@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3012 -- 2021-03-05
+
+    - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.15.6 --> 1.15.7
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.53 --> 1.0.54
+
+
 - 2.0.3011 -- 2021-03-05
 
     - [Ling/BeeFramework](https://github.com/lingtalfi/BeeFramework) 1.0.6 --> 1.0.7
