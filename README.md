@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3168 -- 2021-03-05
+
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.67 --> 1.0.68
+    - [Ling/Light_PluginDatabaseInstaller](https://github.com/lingtalfi/Light_PluginDatabaseInstaller) 1.6.3 --> 1.6.4
+
+
 - 2.0.3167 -- 2021-03-05
 
     - [Ling/Light_PlanetInstaller](https://github.com/lingtalfi/Light_PlanetInstaller) 1.0.18 --> 1.0.19

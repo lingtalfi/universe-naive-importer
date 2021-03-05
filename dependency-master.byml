@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.67
+            version: 1.0.68
             dependencies: []
             post_install: 
                 map: true
@@ -1864,12 +1864,12 @@ galaxies:
             
         
         Light_PluginDatabaseInstaller: 
-            version: 1.6.3
+            version: 1.6.4
             dependencies: 
                 Ling: 
-                    - Light
                     - Bat
                     - DirScanner
+                    - Light
                     - Light_Events
                 
             
