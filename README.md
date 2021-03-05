@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3194 -- 2021-03-05
+
+    - [Ling/LinearFile](https://github.com/lingtalfi/LinearFile) 1.0.2 --> 1.0.3
+
+
 - 2.0.3193 -- 2021-03-05
 
     - [Ling/Light_ZouUploader](https://github.com/lingtalfi/Light_ZouUploader) 1.1.3 --> 1.1.4
