@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3200 -- 2021-03-05
+
+    - [Ling/Localys](https://github.com/lingtalfi/Localys) 1.9.2 --> 1.9.3
+
+
 - 2.0.3199 -- 2021-03-05
 
     - [Ling/Loader](https://github.com/lingtalfi/Loader) 1.0.2 --> 1.0.3
