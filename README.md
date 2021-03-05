@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3243 -- 2021-03-05
+
+    - [Ling/Privilege](https://github.com/lingtalfi/Privilege) 1.2.2 --> 1.2.3
+
+
 - 2.0.3242 -- 2021-03-05
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.71 --> 1.0.72
