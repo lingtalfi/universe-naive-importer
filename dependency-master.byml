@@ -1932,16 +1932,16 @@ galaxies:
             
         
         Light_RealGenerator: 
-            version: 1.31.15
+            version: 1.31.16
             dependencies: 
                 Ling: 
+                    - ArrayVariableResolver
+                    - BabyYaml
                     - Bat
                     - Light
                     - Light_DatabaseInfo
-                    - SqlWizard
-                    - ArrayVariableResolver
-                    - BabyYaml
                     - Light_Logger
+                    - SqlWizard
                 
             
             post_install: 
