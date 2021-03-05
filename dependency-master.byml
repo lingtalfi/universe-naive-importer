@@ -2516,7 +2516,7 @@ galaxies:
             post_install: []
         
         ParametrizedSqlQuery: 
-            version: 1.10.2
+            version: 1.10.3
             dependencies: 
                 Ling: 
                     - BabyYaml
