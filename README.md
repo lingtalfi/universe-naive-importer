@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2995 -- 2021-03-05
+
+    - [Ling/ArrayExport](https://github.com/lingtalfi/ArrayExport) 1.1.2 --> 1.1.3
+
+
 - 2.0.2994 -- 2021-03-05
 
     - [Ling/ArrayDiff](https://github.com/lingtalfi/ArrayDiff) 1.0.2 --> 1.0.3
