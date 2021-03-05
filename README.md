@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3005 -- 2021-03-05
+
+    - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.7.7 --> 1.7.8
+
+
 - 2.0.3004 -- 2021-03-05
 
     - [Ling/BabyDash](https://github.com/lingtalfi/BabyDash) 1.1.10 --> 1.1.11
