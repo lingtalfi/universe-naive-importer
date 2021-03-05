@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3110 -- 2021-03-05
+
+    - [Ling/Komin](https://github.com/lingtalfi/Komin) 1.0.2 --> 1.0.3
+
+
 - 2.0.3109 -- 2021-03-05
 
     - [Ling/Kit_PrototypeWidget](https://github.com/lingtalfi/Kit_PrototypeWidget) 1.1.2 --> 1.1.3
