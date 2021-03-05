@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.2991 -- 2021-03-05
+
+    - [Ling/AdminTable](https://github.com/lingtalfi/AdminTable) 1.6.9 --> 1.6.10
+
+
 - 2.0.2990 -- 2021-03-02
 
     - [Ling/Kit](https://github.com/lingtalfi/Kit) 1.12.3 --> 1.12.4
