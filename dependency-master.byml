@@ -178,7 +178,7 @@ galaxies:
             post_install: []
         
         BeeFramework: 
-            version: 1.0.6
+            version: 1.0.7
             dependencies: 
                 Ling: 
                     - Komin
