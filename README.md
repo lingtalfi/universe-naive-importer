@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3254 -- 2021-03-05
+
+    - [Ling/RowsGenerator](https://github.com/lingtalfi/RowsGenerator) 1.6.2 --> 1.6.3
+
+
 - 2.0.3253 -- 2021-03-05
 
     - [Ling/Registry](https://github.com/lingtalfi/Registry) 1.0.2 --> 1.0.3
