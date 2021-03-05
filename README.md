@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3266 -- 2021-03-05
+
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.73 --> 1.0.74
+    - [Ling/SitemapBuilderBox](https://github.com/lingtalfi/SitemapBuilderBox) 1.0.2 --> 1.0.3
+
+
 - 2.0.3265 -- 2021-03-05
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.30.16 --> 1.30.17
