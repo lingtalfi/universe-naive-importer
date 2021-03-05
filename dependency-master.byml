@@ -447,7 +447,7 @@ galaxies:
             post_install: []
         
         Dir2Symlink: 
-            version: 1.2.2
+            version: 1.2.3
             dependencies: 
                 Ling: 
                     - Bat
