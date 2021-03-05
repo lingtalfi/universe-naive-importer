@@ -1803,13 +1803,13 @@ galaxies:
             
         
         Light_MicroPermission: 
-            version: 3.0.6
+            version: 3.0.7
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Light
-                    - Light_UserManager
                     - Light_User
+                    - Light_UserManager
                 
             
             post_install: 
