@@ -2720,7 +2720,7 @@ galaxies:
             post_install: []
         
         Quoter: 
-            version: 1.4.2
+            version: 1.4.3
             dependencies: 
                 Ling: 
                     - Bat
