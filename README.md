@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3095 -- 2021-03-05
+
+    - [Ling/JResponsiveTableHelper](https://github.com/lingtalfi/JResponsiveTableHelper) 1.5.4 --> 1.5.5
+
+
 - 2.0.3094 -- 2021-03-05
 
     - [Ling/JPostForm](https://github.com/lingtalfi/JPostForm) 1.0.2 --> 1.0.3
