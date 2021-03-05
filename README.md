@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3209 -- 2021-03-05
+
+    - [Ling/MySimpleXmlElement](https://github.com/lingtalfi/MySimpleXmlElement) 1.1.2 --> 1.1.3
+
+
 - 2.0.3208 -- 2021-03-05
 
     - [Ling/Models](https://github.com/lingtalfi/Models) 1.26.2 --> 1.26.3
