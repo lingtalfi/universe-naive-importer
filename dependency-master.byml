@@ -246,19 +246,19 @@ galaxies:
             post_install: []
         
         Chloroform_HeliumLightRenderer: 
-            version: 1.6.7
+            version: 1.6.8
             dependencies: 
                 Ling: 
                     - Bat
                     - Chloroform_HeliumRenderer
+                    - FontAwesome
                     - GormanJsonDecoder
                     - HtmlPageTools
+                    - JSortableLists
+                    - Jquery
                     - Light
                     - Light_AjaxHandler
                     - Light_CsrfSession
-                    - FontAwesome
-                    - JSortableLists
-                    - Jquery
                     - Select2
                 
             
