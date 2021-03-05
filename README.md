@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3044 -- 2021-03-05
+
+    - [Ling/DirTransformer](https://github.com/lingtalfi/DirTransformer) 1.4.2 --> 1.4.3
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.61 --> 1.0.62
+
+
 - 2.0.3043 -- 2021-03-05
 
     - [Ling/DirScanner](https://github.com/lingtalfi/DirScanner) 1.13.3 --> 1.13.4
