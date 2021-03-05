@@ -235,11 +235,11 @@ galaxies:
             post_install: []
         
         Chloroform: 
-            version: 1.36.6
+            version: 1.36.7
             dependencies: 
                 Ling: 
-                    - CSRFTools
                     - Bat
+                    - CSRFTools
                     - PhpUploadFileFix
                 
             
@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.55
+            version: 1.0.56
             dependencies: []
             post_install: 
                 map: true
