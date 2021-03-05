@@ -2583,7 +2583,7 @@ galaxies:
             post_install: []
         
         PhpExcelTool: 
-            version: 1.9.6
+            version: 1.9.7
             dependencies: 
                 Ling: 
                     - Bat
