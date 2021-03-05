@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3181 -- 2021-03-05
+
+    - [Ling/Light_TaskScheduler](https://github.com/lingtalfi/Light_TaskScheduler) 1.1.6 --> 1.1.7
+
+
 - 2.0.3180 -- 2021-03-05
 
     - [Ling/Light_TablePrefixInfo](https://github.com/lingtalfi/Light_TablePrefixInfo) 1.0.2 --> 1.0.3

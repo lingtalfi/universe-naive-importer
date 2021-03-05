@@ -2065,15 +2065,15 @@ galaxies:
             
         
         Light_TaskScheduler: 
-            version: 1.1.6
+            version: 1.1.7
             dependencies: 
                 Ling: 
+                    - Bat
                     - Light
                     - Light_Database
-                    - SimplePdoWrapper
-                    - Light_UserDatabase
-                    - Bat
                     - Light_LingStandardService
+                    - Light_UserDatabase
+                    - SimplePdoWrapper
                 
             
             post_install: 
