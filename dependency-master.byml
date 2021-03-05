@@ -536,7 +536,7 @@ galaxies:
             post_install: []
         
         Ecp: 
-            version: 1.5.2
+            version: 1.5.3
             dependencies: []
             post_install: []
         
