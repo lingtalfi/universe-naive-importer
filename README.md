@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3102 -- 2021-03-05
+
+    - [Ling/JumboExploder](https://github.com/lingtalfi/JumboExploder) 1.0.2 --> 1.0.3
+
+
 - 2.0.3101 -- 2021-03-05
 
     - [Ling/JqueryUrlWithDropZone](https://github.com/lingtalfi/JqueryUrlWithDropZone) 1.0.2 --> 1.0.3
