@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3196 -- 2021-03-05
+
+    - [Ling/Linker](https://github.com/lingtalfi/Linker) 1.0.2 --> 1.0.3
+
+
 - 2.0.3195 -- 2021-03-05
 
     - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.23.14 --> 1.23.15
