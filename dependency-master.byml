@@ -690,12 +690,12 @@ galaxies:
             post_install: []
         
         IndentedLines: 
-            version: 1.2.2
+            version: 1.2.3
             dependencies: 
                 Ling: 
+                    - Bat
                     - Bate
                     - Quoter
-                    - Bat
                 
             
             post_install: []
