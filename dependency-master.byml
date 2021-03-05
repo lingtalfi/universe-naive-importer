@@ -2958,7 +2958,7 @@ galaxies:
             post_install: []
         
         TheAnarchist: 
-            version: 1.0.2
+            version: 1.0.3
             dependencies: []
             post_install: []
         
