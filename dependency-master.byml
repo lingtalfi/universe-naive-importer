@@ -1447,7 +1447,7 @@ galaxies:
             
         
         Light_Flasher: 
-            version: 1.3.2
+            version: 1.3.3
             dependencies: []
             post_install: 
                 map: true
