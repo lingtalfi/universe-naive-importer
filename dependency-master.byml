@@ -338,7 +338,7 @@ galaxies:
             post_install: []
         
         CommandLineInput: 
-            version: 1.2.2
+            version: 1.2.3
             dependencies: 
                 Ling: 
                     - Output
