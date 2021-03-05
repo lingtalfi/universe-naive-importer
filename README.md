@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3262 -- 2021-03-05
+
+    - [Ling/SequenceMatcher](https://github.com/lingtalfi/SequenceMatcher) 1.0.2 --> 1.0.3
+
+
 - 2.0.3261 -- 2021-03-05
 
     - [Ling/SelectChain](https://github.com/lingtalfi/SelectChain) 1.0.2 --> 1.0.3
