@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3092 -- 2021-03-05
+
+    - [Ling/JImageRotator](https://github.com/lingtalfi/JImageRotator) 1.1.3 --> 1.1.4
+
+
 - 2.0.3091 -- 2021-03-05
 
     - [Ling/JGoodies](https://github.com/lingtalfi/JGoodies) 1.1.2 --> 1.1.3
