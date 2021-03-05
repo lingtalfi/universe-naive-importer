@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3024 -- 2021-03-05
+
+    - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.10.25 --> 1.10.26
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.57 --> 1.0.58
+
+
 - 2.0.3023 -- 2021-03-05
 
     - [Ling/ClassCreator](https://github.com/lingtalfi/ClassCreator) 1.0.3 --> 1.0.4

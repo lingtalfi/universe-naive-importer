@@ -315,7 +315,7 @@ galaxies:
             post_install: []
         
         CliTools: 
-            version: 1.10.25
+            version: 1.10.26
             dependencies: 
                 Ling: 
                     - Bat
@@ -1053,7 +1053,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.57
+            version: 1.0.58
             dependencies: []
             post_install: 
                 map: true
