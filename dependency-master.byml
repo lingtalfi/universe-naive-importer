@@ -1060,12 +1060,13 @@ galaxies:
             
         
         Light_BMenu: 
-            version: 1.9.2
+            version: 1.9.3
             dependencies: 
                 Ling: 
-                    - DotMenu
                     - BabyYaml
                     - Bat
+                    - CheapLogger
+                    - DotMenu
                 
             
             post_install: 
