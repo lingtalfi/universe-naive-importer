@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3033 -- 2021-03-05
+
+    - [Ling/CronTaskBot](https://github.com/lingtalfi/CronTaskBot) 1.0.2 --> 1.0.3
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.59 --> 1.0.60
+
+
 - 2.0.3032 -- 2021-03-05
 
     - [Ling/CopyDir](https://github.com/lingtalfi/CopyDir) 1.3.2 --> 1.3.3
