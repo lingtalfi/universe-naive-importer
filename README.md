@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3030 -- 2021-03-05
+
+    - [Ling/ConsoleTool](https://github.com/lingtalfi/ConsoleTool) 1.0.2 --> 1.0.3
+
+
 - 2.0.3029 -- 2021-03-05
 
     - [Ling/ConditionResolver](https://github.com/lingtalfi/ConditionResolver) 1.1.2 --> 1.1.3
