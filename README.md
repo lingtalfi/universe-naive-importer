@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3321 -- 2021-03-08
+
+    - [Ling/BumbleBee](https://github.com/lingtalfi/BumbleBee) 1.0.3 --> 1.0.4
+    - [Ling/TokenFun](https://github.com/lingtalfi/TokenFun) 1.11.6 --> 1.11.7
+
+
 - 2.0.3320 -- 2021-03-08
 
     - [Ling/Beauty](https://github.com/lingtalfi/Beauty) 1.4.5 --> 1.4.8

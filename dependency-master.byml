@@ -214,7 +214,7 @@ galaxies:
             post_install: []
         
         BumbleBee: 
-            version: 1.0.3
+            version: 1.0.4
             dependencies: []
             post_install: []
         
@@ -3010,7 +3010,7 @@ galaxies:
             post_install: []
         
         TokenFun: 
-            version: 1.11.6
+            version: 1.11.7
             dependencies: 
                 Ling: 
                     - Bat
