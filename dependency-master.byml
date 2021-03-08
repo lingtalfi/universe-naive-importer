@@ -2272,7 +2272,7 @@ galaxies:
             post_install: []
         
         LingTalfi: 
-            version: 1.23.16
+            version: 1.23.17
             dependencies: 
                 Ling: 
                     - BabyYaml
