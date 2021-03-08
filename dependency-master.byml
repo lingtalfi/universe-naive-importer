@@ -169,7 +169,7 @@ galaxies:
             post_install: []
         
         Beauty: 
-            version: 1.4.5
+            version: 1.4.8
             dependencies: 
                 Ling: 
                     - Bat
@@ -1056,7 +1056,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.79
+            version: 1.0.80
             dependencies: []
             post_install: 
                 map: true
