@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3319 -- 2021-03-08
+
+    - [Ling/DirScanner](https://github.com/lingtalfi/DirScanner) 1.13.4 --> 1.13.5
+
+
 - 2.0.3318 -- 2021-03-08
 
     - [Ling/PhpBeast](https://github.com/lingtalfi/PhpBeast) 1.4.4 --> 1.4.5
