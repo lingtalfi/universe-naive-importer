@@ -1713,6 +1713,22 @@ galaxies:
                 map: true
             
         
+        Light_Kit_Editor: 
+            version: 0.1.0
+            dependencies: 
+                Ling: 
+                    - BabyYaml
+                    - Bat
+                    - Kit
+                    - Light
+                    - Light_Database
+                    - SimplePdoWrapper
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Kit_WebsiteBuilder: 
             version: 1.0.4
             dependencies: []
