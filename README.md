@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3322 -- 2021-03-08
+
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.80 --> 1.0.82
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.23.15 --> 1.23.16
+
+
 - 2.0.3321 -- 2021-03-08
 
     - [Ling/BumbleBee](https://github.com/lingtalfi/BumbleBee) 1.0.3 --> 1.0.4
