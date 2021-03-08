@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3318 -- 2021-03-08
+
+    - [Ling/PhpBeast](https://github.com/lingtalfi/PhpBeast) 1.4.4 --> 1.4.5
+
+
 - 2.0.3317 -- 2021-03-08
 
     - [Ling/Dreamer](https://github.com/lingtalfi/Dreamer) 1.0.3 --> 1.0.4
