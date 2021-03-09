@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3330 -- 2021-03-09
+
+    - [Ling/Light_QuickMailAlert](https://github.com/lingtalfi/Light_QuickMailAlert) 1.1.3 --> 1.1.4
+
+
 - 2.0.3329 -- 2021-03-09
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.83 --> 1.0.84
