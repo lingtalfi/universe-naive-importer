@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3354 -- 2021-03-09
+
+    - [Ling/Light_Nugget](https://github.com/lingtalfi/Light_Nugget) 1.3.7 --> 1.3.8
+
+
 - 2.0.3353 -- 2021-03-09
 
     - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.2.12 --> 1.2.13
