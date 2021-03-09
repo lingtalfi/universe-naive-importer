@@ -103,6 +103,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3349 -- 2021-03-09
+
+    - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.8.6 --> 1.8.7
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.84 --> 1.0.85
+
+
 - 2.0.3348 -- 2021-03-09
 
     - [Ling/Light](https://github.com/lingtalfi/Light) 0.69.32 --> 0.70.0

@@ -1016,7 +1016,7 @@ galaxies:
             
         
         Light_AjaxFileUploadManager: 
-            version: 1.8.6
+            version: 1.8.7
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1056,7 +1056,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.84
+            version: 1.0.85
             dependencies: []
             post_install: 
                 map: true
