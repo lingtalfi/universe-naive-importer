@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3351 -- 2021-03-09
+
+    - [Ling/Light_EasyRoute](https://github.com/lingtalfi/Light_EasyRoute) 1.3.5 --> 1.3.6
+
+
 - 2.0.3350 -- 2021-03-09
 
     - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 2.1.6 --> 2.1.7
