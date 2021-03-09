@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3335 -- 2021-03-09
+
+    - [Ling/Light_Kit_Demo](https://github.com/lingtalfi/Light_Kit_Demo) 1.2.4 --> 1.2.5
+
+
 - 2.0.3334 -- 2021-03-09
 
     - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.18.9 --> 1.18.10
