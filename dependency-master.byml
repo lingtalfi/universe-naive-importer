@@ -1619,7 +1619,7 @@ galaxies:
             
         
         Light_Kit_Admin_UserData: 
-            version: 1.7.10
+            version: 1.7.11
             dependencies: 
                 Ling: 
                     - BabyYaml
