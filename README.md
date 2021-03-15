@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3380 -- 2021-03-15
+
+    - [Ling/Light_FileWatcher](https://github.com/lingtalfi/Light_FileWatcher) 1.1.3 --> 1.1.4
+
+
 - 2.0.3379 -- 2021-03-15
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.86 --> 1.0.87
