@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3415 -- 2021-03-15
+
+    - [Ling/Light_Train](https://github.com/lingtalfi/Light_Train) 1.0.0 --> 1.0.1
+
+
 - 2.0.3414 -- 2021-03-15
 
     - [Ling/Light_TaskScheduler](https://github.com/lingtalfi/Light_TaskScheduler) 1.1.7 --> 1.1.8
