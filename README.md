@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3386 -- 2021-03-15
+
+    - [Ling/Light_Kit_Admin_DebugTrace](https://github.com/lingtalfi/Light_Kit_Admin_DebugTrace) 1.6.8 --> 1.6.9
+
+
 - 2.0.3385 -- 2021-03-15
 
     - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.12.25 --> 0.12.26
