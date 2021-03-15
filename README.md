@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3355 -- 2021-03-15
+
+    - [Ling/Light_404Logger](https://github.com/lingtalfi/Light_404Logger) 1.0.3 --> 1.0.4
+
+
 - 2.0.3354 -- 2021-03-09
 
     - [Ling/Light_Nugget](https://github.com/lingtalfi/Light_Nugget) 1.3.7 --> 1.3.8
