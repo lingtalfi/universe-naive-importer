@@ -1077,7 +1077,7 @@ galaxies:
             
         
         Light_BreezeGenerator: 
-            version: 1.29.12
+            version: 1.29.13
             dependencies: 
                 Ling: 
                     - BabyYaml

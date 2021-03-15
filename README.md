@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3358 -- 2021-03-15
+
+    - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.29.12 --> 1.29.13
+
+
 - 2.0.3357 -- 2021-03-15
 
     - [Ling/Light_BMenu](https://github.com/lingtalfi/Light_BMenu) 1.9.3 --> 1.9.4
