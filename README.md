@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3417 -- 2021-03-15
+
+    - [Ling/Light_UserData](https://github.com/lingtalfi/Light_UserData) 1.19.12 --> 1.19.13
+
+
 - 2.0.3416 -- 2021-03-15
 
     - [Ling/Light_UploadGems](https://github.com/lingtalfi/Light_UploadGems) 1.8.9 --> 1.8.10
