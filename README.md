@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3406 -- 2021-03-15
+
+    - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.31.16 --> 1.31.17
+
+
 - 2.0.3405 -- 2021-03-15
 
     - [Ling/Light_QuickMailAlert](https://github.com/lingtalfi/Light_QuickMailAlert) 1.1.4 --> 1.1.5
