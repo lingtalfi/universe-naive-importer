@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3404 -- 2021-03-15
+
+    - [Ling/Light_PrettyError](https://github.com/lingtalfi/Light_PrettyError) 1.5.6 --> 1.5.7
+
+
 - 2.0.3403 -- 2021-03-15
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.89 --> 1.0.90
