@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3377 -- 2021-03-15
+
+    - [Ling/Light_ErrorPop](https://github.com/lingtalfi/Light_ErrorPop) 1.0.5 --> 1.0.6
+
+
 - 2.0.3376 -- 2021-03-15
 
     - [Ling/Light_ErrorHandler](https://github.com/lingtalfi/Light_ErrorHandler) 1.0.8 --> 1.0.9
