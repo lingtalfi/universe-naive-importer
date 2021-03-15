@@ -2115,7 +2115,7 @@ galaxies:
             
         
         Light_UploadGems: 
-            version: 1.8.9
+            version: 1.8.10
             dependencies: 
                 Ling: 
                     - Bat
