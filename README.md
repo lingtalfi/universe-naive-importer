@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3361 -- 2021-03-15
+
+    - [Ling/Light_404Logger](https://github.com/lingtalfi/Light_404Logger) 1.0.4 --> 1.0.5
+
+
 - 2.0.3360 -- 2021-03-15
 
     - [Ling/Light_ChloroformExtension](https://github.com/lingtalfi/Light_ChloroformExtension) 1.6.13 --> 1.6.14
