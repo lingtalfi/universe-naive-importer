@@ -1106,7 +1106,7 @@ galaxies:
             
         
         Light_ChloroformExtension: 
-            version: 1.6.13
+            version: 1.6.14
             dependencies: 
                 Ling: 
                     - ArrayToString
