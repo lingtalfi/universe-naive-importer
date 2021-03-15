@@ -1602,7 +1602,7 @@ galaxies:
             
         
         Light_Kit_Admin_TaskScheduler: 
-            version: 1.5.9
+            version: 1.5.10
             dependencies: 
                 Ling: 
                     - Bat
