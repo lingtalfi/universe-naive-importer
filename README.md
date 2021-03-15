@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3393 -- 2021-03-15
+
+    - [Ling/Light_Kit_Editor](https://github.com/lingtalfi/Light_Kit_Editor) 0.1.1 --> 0.1.2
+
+
 - 2.0.3392 -- 2021-03-15
 
     - [Ling/Light_Kit_Admin_UserPreferences](https://github.com/lingtalfi/Light_Kit_Admin_UserPreferences) 1.2.8 --> 1.2.9
