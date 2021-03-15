@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3381 -- 2021-03-15
+
+    - [Ling/Light_Flasher](https://github.com/lingtalfi/Light_Flasher) 1.3.3 --> 1.3.4
+
+
 - 2.0.3380 -- 2021-03-15
 
     - [Ling/Light_FileWatcher](https://github.com/lingtalfi/Light_FileWatcher) 1.1.3 --> 1.1.4
