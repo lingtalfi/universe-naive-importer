@@ -1056,7 +1056,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.87
+            version: 1.0.88
             dependencies: []
             post_install: 
                 map: true
@@ -1789,7 +1789,7 @@ galaxies:
             
         
         Light_LoginNotifier: 
-            version: 1.0.9
+            version: 1.0.10
             dependencies: 
                 Ling: 
                     - Light
