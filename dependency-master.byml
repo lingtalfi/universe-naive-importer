@@ -1056,7 +1056,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.88
+            version: 1.0.89
             dependencies: []
             post_install: 
                 map: true
@@ -1897,7 +1897,7 @@ galaxies:
             
         
         Light_PluginInstaller: 
-            version: 2.0.18
+            version: 2.0.19
             dependencies: 
                 Ling: 
                     - Bat
