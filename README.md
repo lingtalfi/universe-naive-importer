@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3373 -- 2021-03-15
+
+    - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.17 --> 1.28.18
+
+
 - 2.0.3372 -- 2021-03-15
 
     - [Ling/Light_DebugTrace](https://github.com/lingtalfi/Light_DebugTrace) 1.0.3 --> 1.0.4
