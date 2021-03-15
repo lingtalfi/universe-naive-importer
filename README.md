@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3411 -- 2021-03-15
+
+    - [Ling/Light_SimpleHttpServer](https://github.com/lingtalfi/Light_SimpleHttpServer) 1.0.7 --> 1.0.8
+
+
 - 2.0.3410 -- 2021-03-15
 
     - [Ling/Light_Router](https://github.com/lingtalfi/Light_Router) 1.0.3 --> 1.0.4

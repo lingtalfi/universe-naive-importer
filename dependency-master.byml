@@ -2047,7 +2047,7 @@ galaxies:
             
         
         Light_SimpleHttpServer: 
-            version: 1.0.7
+            version: 1.0.8
             dependencies: 
                 Ling: 
                     - ExceptionCodes
