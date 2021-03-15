@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3395 -- 2021-03-15
+
+    - [Ling/Light_Logger](https://github.com/lingtalfi/Light_Logger) 1.11.6 --> 1.11.7
+
+
 - 2.0.3394 -- 2021-03-15
 
     - [Ling/Light_LingHooks](https://github.com/lingtalfi/Light_LingHooks) 1.0.3 --> 1.0.4

@@ -1775,7 +1775,7 @@ galaxies:
             
         
         Light_Logger: 
-            version: 1.11.6
+            version: 1.11.7
             dependencies: 
                 Ling: 
                     - ArrayToString
