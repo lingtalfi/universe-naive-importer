@@ -103,6 +103,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3364 -- 2021-03-15
+
+    - [Ling/Light_Crud](https://github.com/lingtalfi/Light_Crud) 2.0.4 --> 2.0.5
+
+
 - 2.0.3363 -- 2021-03-15
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.85 --> 1.0.86
