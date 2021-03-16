@@ -1,6 +1,16 @@
 UniverseNaiveImporter
 =========================
-2017-03-11 --> 2019-03-12
+2017-03-11 --> 2021-03-16
+
+
+
+Warning: although the development team still uses this in the background, 
+you generally should consider using the [planet installer plugin](https://github.com/lingtalfi/Light_PlanetInstaller) instead to install your planets,
+and consider the uni tool deprecated in general.
+
+
+
+
 
 
 A naive importer for the [universe](https://github.com/karayabin/universe-snapshot) framework.
