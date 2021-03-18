@@ -1625,7 +1625,7 @@ galaxies:
             
         
         Light_Kit_Admin_UserData: 
-            version: 1.7.11
+            version: 1.7.12
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1634,18 +1634,14 @@ galaxies:
                     - CliTools
                     - Kit_PicassoWidget
                     - Light
-                    - Light_BMenu
                     - Light_ControllerHub
                     - Light_EasyRoute
                     - Light_Kit
                     - Light_Kit_Admin
                     - Light_PlanetInstaller
-                    - Light_PluginInstaller
                     - Light_Realform
                     - Light_User
-                    - Light_UserDatabase
                     - Light_UserRowRestriction
-                    - SimplePdoWrapper
                 
             
             post_install: 
