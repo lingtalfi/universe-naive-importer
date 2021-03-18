@@ -1605,7 +1605,7 @@ galaxies:
             
         
         Light_Kit_Admin_TaskScheduler: 
-            version: 1.5.11
+            version: 1.5.12
             dependencies: 
                 Ling: 
                     - BabyYaml
