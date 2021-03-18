@@ -1588,13 +1588,16 @@ galaxies:
             
         
         Light_Kit_Admin_LoginNotifier: 
-            version: 1.0.8
+            version: 1.0.9
             dependencies: 
                 Ling: 
+                    - BabyYaml
+                    - CliTools
                     - Light
                     - Light_ControllerHub
                     - Light_Kit
                     - Light_Kit_Admin
+                    - Light_PlanetInstaller
                 
             
             post_install: 
