@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3453 -- 2021-03-18
+
+    - [Ling/Light_DebugTrace](https://github.com/lingtalfi/Light_DebugTrace) 1.0.4 --> 1.0.5
+
+
 - 2.0.3452 -- 2021-03-18
 
     - [Ling/Light_PrettyError](https://github.com/lingtalfi/Light_PrettyError) 1.5.7 --> 1.5.8
