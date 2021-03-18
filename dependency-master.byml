@@ -1649,7 +1649,7 @@ galaxies:
             
         
         Light_Kit_Admin_UserDatabase: 
-            version: 0.5.12
+            version: 0.5.13
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1657,7 +1657,6 @@ galaxies:
                     - Chloroform
                     - CliTools
                     - Light
-                    - Light_BMenu
                     - Light_ControllerHub
                     - Light_Database
                     - Light_EasyRoute
