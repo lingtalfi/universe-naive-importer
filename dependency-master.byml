@@ -1056,7 +1056,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.93
+            version: 1.0.94
             dependencies: []
             post_install: 
                 map: true
@@ -1497,7 +1497,7 @@ galaxies:
             
         
         Light_Kit_Admin: 
-            version: 0.12.27
+            version: 0.12.28
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1534,7 +1534,6 @@ galaxies:
                     - Light_MicroPermission
                     - Light_Nugget
                     - Light_PlanetInstaller
-                    - Light_PluginInstaller
                     - Light_Realform
                     - Light_Realist
                     - Light_ReverseRouter
