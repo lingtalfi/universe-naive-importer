@@ -3109,7 +3109,7 @@ galaxies:
             post_install: []
         
         UniverseTools: 
-            version: 1.22.31
+            version: 1.22.32
             dependencies: 
                 Ling: 
                     - BabyYaml
