@@ -1603,18 +1603,15 @@ galaxies:
             
         
         Light_Kit_Admin_TaskScheduler: 
-            version: 1.5.12
+            version: 1.5.13
             dependencies: 
                 Ling: 
-                    - BabyYaml
                     - Bat
                     - Chloroform
-                    - CliTools
                     - Light
                     - Light_ControllerHub
                     - Light_Kit
                     - Light_Kit_Admin
-                    - Light_PlanetInstaller
                     - Light_Realform
                 
             
