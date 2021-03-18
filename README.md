@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3449 -- 2021-03-18
+
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.23.18 --> 1.23.19
+
+
 - 2.0.3448 -- 2021-03-18
 
     - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.12.28 --> 0.12.29
