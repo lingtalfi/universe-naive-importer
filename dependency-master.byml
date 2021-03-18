@@ -1056,7 +1056,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.90
+            version: 1.0.91
             dependencies: []
             post_install: 
                 map: true
@@ -1498,12 +1498,13 @@ galaxies:
             
         
         Light_Kit_Admin: 
-            version: 0.12.26
+            version: 0.12.27
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
                     - Bootstrap4AdminTable
+                    - CheapLogger
                     - Chloroform
                     - Chloroform_HeliumRenderer
                     - CliTools
