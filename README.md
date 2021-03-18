@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3425 -- 2021-03-18
+
+    - [Ling/Light_BMenu](https://github.com/lingtalfi/Light_BMenu) 1.9.4 --> 2.0.0
+
+
 - 2.0.3424 -- 2021-03-15
 
     - [Ling/Light_ZephyrTemplate](https://github.com/lingtalfi/Light_ZephyrTemplate) 1.2.3 --> 1.2.4
