@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3445 -- 2021-03-18
+
+    - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.19 --> 1.28.20
+
+
 - 2.0.3444 -- 2021-03-18
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.92 --> 1.0.93

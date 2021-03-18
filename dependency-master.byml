@@ -1294,7 +1294,7 @@ galaxies:
             
         
         Light_DeveloperWizard: 
-            version: 1.28.19
+            version: 1.28.20
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1308,7 +1308,6 @@ galaxies:
                     - Light_DbSynchronizer
                     - Light_Kit_Admin
                     - Light_Kit_Admin_Generator
-                    - Light_LingStandardService
                     - Light_PluginInstaller
                     - Light_UserDatabase
                     - SimplePdoWrapper
