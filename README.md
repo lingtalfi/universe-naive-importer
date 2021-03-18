@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3432 -- 2021-03-18
+
+    - [Ling/Light_Kit_Admin_UserData](https://github.com/lingtalfi/Light_Kit_Admin_UserData) 1.7.12 --> 1.7.13
+
+
 - 2.0.3431 -- 2021-03-18
 
     - [Ling/Light_Kit_Admin_TaskScheduler](https://github.com/lingtalfi/Light_Kit_Admin_TaskScheduler) 1.5.11 --> 1.5.12
