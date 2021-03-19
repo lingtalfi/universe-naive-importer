@@ -1393,7 +1393,7 @@ galaxies:
             
         
         Light_Events: 
-            version: 1.9.10
+            version: 1.10.0
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1402,6 +1402,7 @@ galaxies:
                     - DirScanner
                     - Light
                     - Light_Logger
+                    - SectionComment
                 
             
             post_install: 
