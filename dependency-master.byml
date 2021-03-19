@@ -1409,7 +1409,7 @@ galaxies:
             
         
         Light_ExceptionHandler: 
-            version: 1.2.5
+            version: 1.2.6
             dependencies: 
                 Ling: 
                     - Light
