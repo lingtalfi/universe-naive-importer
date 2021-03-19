@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3463 -- 2021-03-19
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.30 --> 1.24.31
+
+
 - 2.0.3462 -- 2021-03-19
 
     - [Ling/Light_Kit_Admin_DebugTrace](https://github.com/lingtalfi/Light_Kit_Admin_DebugTrace) 1.6.9 --> 1.6.10
