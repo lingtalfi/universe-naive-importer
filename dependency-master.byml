@@ -1056,7 +1056,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.95
+            version: 1.0.96
             dependencies: []
             post_install: 
                 map: true
@@ -2809,6 +2809,15 @@ galaxies:
         ScreenDebug: 
             version: 1.0.3
             dependencies: []
+            post_install: []
+        
+        SectionComment: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Bat
+                
+            
             post_install: []
         
         SecureImageUploader: 
