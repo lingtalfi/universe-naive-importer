@@ -1212,7 +1212,7 @@ galaxies:
             
         
         Light_Database: 
-            version: 1.14.18
+            version: 1.14.19
             dependencies: 
                 Ling: 
                     - ArrayToString
