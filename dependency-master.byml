@@ -1398,7 +1398,7 @@ galaxies:
             
         
         Light_Events: 
-            version: 1.10.0
+            version: 1.10.1
             dependencies: 
                 Ling: 
                     - BabyYaml
