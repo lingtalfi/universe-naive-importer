@@ -1753,10 +1753,13 @@ galaxies:
             
         
         Light_LingHooks: 
-            version: 1.0.4
+            version: 1.0.5
             dependencies: 
                 Ling: 
+                    - CliTools
                     - Light
+                    - Light_Events
+                    - Light_PlanetInstaller
                     - Light_QuickMailAlert
                 
             
