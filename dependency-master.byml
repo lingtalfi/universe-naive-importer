@@ -1410,11 +1410,14 @@ galaxies:
             
         
         Light_ExceptionHandler: 
-            version: 1.2.7
+            version: 1.2.8
             dependencies: 
                 Ling: 
+                    - CliTools
                     - Light
+                    - Light_Events
                     - Light_Logger
+                    - Light_PlanetInstaller
                 
             
             post_install: 

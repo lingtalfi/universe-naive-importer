@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3472 -- 2021-03-22
+
+    - [Ling/Light_ExceptionHandler](https://github.com/lingtalfi/Light_ExceptionHandler) 1.2.7 --> 1.2.8
+
+
 - 2.0.3471 -- 2021-03-22
 
     - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform) 2.0.10 --> 2.0.11
