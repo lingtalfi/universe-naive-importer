@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3474 -- 2021-03-22
+
+    - [Ling/Light_ExceptionHandler](https://github.com/lingtalfi/Light_ExceptionHandler) 1.2.8 --> 1.2.9
+
+
 - 2.0.3473 -- 2021-03-22
 
     - [Ling/Light_SimpleHttpServer](https://github.com/lingtalfi/Light_SimpleHttpServer) 1.0.8 --> 1.0.9
