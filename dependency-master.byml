@@ -1562,15 +1562,17 @@ galaxies:
             
         
         Light_Kit_Admin_DebugTrace: 
-            version: 1.6.10
+            version: 1.6.11
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
+                    - CliTools
                     - Light
                     - Light_CsrfSession
                     - Light_CsrfSimple
                     - Light_Events
+                    - Light_PlanetInstaller
                 
             
             post_install: 
