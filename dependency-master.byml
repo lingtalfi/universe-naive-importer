@@ -2149,16 +2149,19 @@ galaxies:
             
         
         Light_UserData: 
-            version: 1.19.13
+            version: 1.19.14
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
                     - Chloroform
+                    - CliTools
                     - ExceptionCodes
                     - Light
                     - Light_AjaxHandler
                     - Light_Database
+                    - Light_Events
+                    - Light_PlanetInstaller
                     - Light_Realform
                     - Light_ReverseRouter
                     - Light_SimpleHttpServer
