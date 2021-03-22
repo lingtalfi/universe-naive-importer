@@ -1003,12 +1003,15 @@ galaxies:
             
         
         Light_404Logger: 
-            version: 1.0.7
+            version: 1.0.8
             dependencies: 
                 Ling: 
                     - Bat
+                    - CliTools
                     - Light
+                    - Light_Events
                     - Light_Logger
+                    - Light_PlanetInstaller
                 
             
             post_install: 
