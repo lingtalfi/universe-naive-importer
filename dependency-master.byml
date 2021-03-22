@@ -1281,15 +1281,17 @@ galaxies:
             
         
         Light_DebugTrace: 
-            version: 1.0.6
+            version: 1.0.7
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
+                    - CliTools
                     - Light
                     - Light_CsrfSession
                     - Light_CsrfSimple
                     - Light_Events
+                    - Light_PlanetInstaller
                 
             
             post_install: 
