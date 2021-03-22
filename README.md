@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3486 -- 2021-03-22
+
+    - [Ling/Light_Events](https://github.com/lingtalfi/Light_Events) 1.10.1 --> 1.10.2
+
+
 - 2.0.3485 -- 2021-03-22
 
     - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.20 --> 1.28.21
