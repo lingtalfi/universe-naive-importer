@@ -113,6 +113,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3470 -- 2021-03-22
+
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.97 --> 1.0.98
+    - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.12.30 --> 0.12.31
+
+
 - 2.0.3469 -- 2021-03-22
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.96 --> 1.0.97
