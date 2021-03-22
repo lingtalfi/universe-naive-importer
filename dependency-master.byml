@@ -1501,7 +1501,7 @@ galaxies:
             
         
         Light_Kit_Admin: 
-            version: 0.12.31
+            version: 0.12.32
             dependencies: 
                 Ling: 
                     - BabyYaml
