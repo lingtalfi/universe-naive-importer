@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3497 -- 2021-03-23
+
+    - [Ling/CheapLogger](https://github.com/lingtalfi/CheapLogger) 1.0.5 --> 1.0.6
+
+
 - 2.0.3496 -- 2021-03-23
 
     - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.14.9 --> 1.14.10
