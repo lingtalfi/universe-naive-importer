@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3495 -- 2021-03-23
+
+    - [Ling/CheapLogger](https://github.com/lingtalfi/CheapLogger) 1.0.4 --> 1.0.5
+
+
 - 2.0.3494 -- 2021-03-23
 
     - [Ling/Light_Kit_Admin_UserPreferences](https://github.com/lingtalfi/Light_Kit_Admin_UserPreferences) 1.2.11 --> 1.2.12
