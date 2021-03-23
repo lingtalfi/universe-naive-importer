@@ -1059,7 +1059,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.99
+            version: 1.0.100
             dependencies: []
             post_install: 
                 map: true
@@ -2006,7 +2006,7 @@ galaxies:
             
         
         Light_Realist: 
-            version: 2.0.14
+            version: 2.0.15
             dependencies: 
                 Ling: 
                     - ArrayToString
