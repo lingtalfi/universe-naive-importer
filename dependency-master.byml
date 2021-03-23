@@ -488,7 +488,7 @@ galaxies:
             post_install: []
         
         DocTools: 
-            version: 1.14.9
+            version: 1.14.10
             dependencies: 
                 Ling: 
                     - ArrayToString
@@ -1059,7 +1059,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.100
+            version: 1.0.101
             dependencies: []
             post_install: 
                 map: true
