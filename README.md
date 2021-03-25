@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3500 -- 2021-03-25
+
+    - [Ling/RowsSortHelper](https://github.com/lingtalfi/RowsSortHelper)  --> 1.0.0
+
+
 - 2.0.3499 -- 2021-03-25
 
     - [Ling/UrlFriendlyListHelper](https://github.com/lingtalfi/UrlFriendlyListHelper) 1.1.3 --> 1.1.4
