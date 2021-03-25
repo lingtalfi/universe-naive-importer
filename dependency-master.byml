@@ -1059,7 +1059,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.101
+            version: 1.0.102
             dependencies: []
             post_install: 
                 map: true
@@ -2536,6 +2536,11 @@ galaxies:
                     - TokenFun
                 
             
+            post_install: []
+        
+        PaginationHelper: 
+            version: 1.0.0
+            dependencies: []
             post_install: []
         
         Panda_Headers: 
