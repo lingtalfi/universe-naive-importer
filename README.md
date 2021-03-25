@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3499 -- 2021-03-25
+
+    - [Ling/UrlFriendlyListHelper](https://github.com/lingtalfi/UrlFriendlyListHelper) 1.1.3 --> 1.1.4
+
+
 - 2.0.3498 -- 2021-03-25
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.101 --> 1.0.102
