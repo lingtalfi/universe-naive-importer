@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3502 -- 2021-03-26
+
+    - [Ling/ConditionResolver](https://github.com/lingtalfi/ConditionResolver) 1.1.3 --> 1.1.4
+
+
 - 2.0.3501 -- 2021-03-26
 
     - [Ling/LogicalOperator](https://github.com/lingtalfi/LogicalOperator)  --> 1.0.0
