@@ -2379,6 +2379,11 @@ galaxies:
             
             post_install: []
         
+        LogicalOperator: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         Lys: 
             version: 3.2.3
             dependencies: []

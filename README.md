@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3501 -- 2021-03-26
+
+    - [Ling/LogicalOperator](https://github.com/lingtalfi/LogicalOperator)  --> 1.0.0
+
+
 - 2.0.3500 -- 2021-03-25
 
     - [Ling/RowsSortHelper](https://github.com/lingtalfi/RowsSortHelper)  --> 1.0.0
