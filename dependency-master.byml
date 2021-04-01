@@ -1487,7 +1487,7 @@ galaxies:
             
         
         Light_Kit: 
-            version: 1.17.7
+            version: 1.17.9
             dependencies: 
                 Ling: 
                     - ArrayVariableResolver

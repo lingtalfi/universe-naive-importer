@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3503 -- 2021-04-01
+
+    - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.17.7 --> 1.17.9
+
+
 - 2.0.3502 -- 2021-03-26
 
     - [Ling/ConditionResolver](https://github.com/lingtalfi/ConditionResolver) 1.1.3 --> 1.1.4
