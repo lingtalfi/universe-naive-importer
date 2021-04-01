@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3504 -- 2021-04-01
+
+    - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 2.1.9 --> 2.2.0
+
+
 - 2.0.3503 -- 2021-04-01
 
     - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.17.7 --> 1.17.9
