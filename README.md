@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3507 -- 2021-04-02
+
+    - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 2.2.0 --> 2.2.1
+
+
 - 2.0.3506 -- 2021-04-02
 
     - [Ling/JAcpHep](https://github.com/lingtalfi/JAcpHep) 1.2.4 --> 1.2.5
