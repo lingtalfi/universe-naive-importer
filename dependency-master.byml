@@ -823,6 +823,13 @@ galaxies:
                 map: true
             
         
+        JRadioHide: 
+            version: 1.0.0
+            dependencies: []
+            post_install: 
+                map: true
+            
+        
         JResponsiveTableHelper: 
             version: 1.5.5
             dependencies: []

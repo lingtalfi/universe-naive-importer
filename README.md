@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3508 -- 2021-04-02
+
+    - [Ling/JRadioHide](https://github.com/lingtalfi/JRadioHide)  --> 1.0.0
+
+
 - 2.0.3507 -- 2021-04-02
 
     - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 2.2.0 --> 2.2.1
