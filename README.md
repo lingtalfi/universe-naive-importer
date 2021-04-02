@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3506 -- 2021-04-02
+
+    - [Ling/JAcpHep](https://github.com/lingtalfi/JAcpHep) 1.2.4 --> 1.2.5
+
+
 - 2.0.3505 -- 2021-04-01
 
     - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.2.14 --> 1.3.0
