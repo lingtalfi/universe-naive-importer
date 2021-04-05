@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3512 -- 2021-04-05
+
+    - [Ling/JSelectHide](https://github.com/lingtalfi/JSelectHide) 1.0.0 --> 1.0.1
+
+
 - 2.0.3511 -- 2021-04-05
 
     - [Ling/JRadioHide](https://github.com/lingtalfi/JRadioHide) 1.0.1 --> 1.0.2
