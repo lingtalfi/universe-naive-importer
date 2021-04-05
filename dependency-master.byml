@@ -796,6 +796,13 @@ galaxies:
                 map: true
             
         
+        JFormCollect: 
+            version: 1.0.0
+            dependencies: []
+            post_install: 
+                map: true
+            
+        
         JFullScreen: 
             version: 1.0.3
             dependencies: []

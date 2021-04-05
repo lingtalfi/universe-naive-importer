@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3513 -- 2021-04-05
+
+    - [Ling/JFormCollect](https://github.com/lingtalfi/JFormCollect)  --> 1.0.0
+
+
 - 2.0.3512 -- 2021-04-05
 
     - [Ling/JSelectHide](https://github.com/lingtalfi/JSelectHide) 1.0.0 --> 1.0.1
