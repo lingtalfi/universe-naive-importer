@@ -844,6 +844,13 @@ galaxies:
                 map: true
             
         
+        JSelectHide: 
+            version: 1.0.0
+            dependencies: []
+            post_install: 
+                map: true
+            
+        
         JSortTable: 
             version: 1.0.3
             dependencies: []
