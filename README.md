@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3516 -- 2021-04-06
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.33 --> 1.24.34
+
+
 - 2.0.3515 -- 2021-04-06
 
     - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 2.2.1 --> 2.2.2
