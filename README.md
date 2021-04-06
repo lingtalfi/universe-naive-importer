@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3515 -- 2021-04-06
+
+    - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 2.2.1 --> 2.2.2
+
+
 - 2.0.3514 -- 2021-04-05
 
     - [Ling/JFormCollect](https://github.com/lingtalfi/JFormCollect) 1.0.0 --> 1.0.1
