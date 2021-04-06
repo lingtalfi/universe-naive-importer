@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3519 -- 2021-04-06
+
+    - [Ling/Light_DbSynchronizer](https://github.com/lingtalfi/Light_DbSynchronizer) 1.2.15 --> 1.2.16
+
+
 - 2.0.3518 -- 2021-04-06
 
     - [Ling/JumboExploder](https://github.com/lingtalfi/JumboExploder) 1.0.3 --> 1.0.4
