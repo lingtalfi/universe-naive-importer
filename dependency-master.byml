@@ -905,7 +905,7 @@ galaxies:
             post_install: []
         
         JumboExploder: 
-            version: 1.0.3
+            version: 1.0.4
             dependencies: 
                 Ling: 
                     - Bat
@@ -1080,7 +1080,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.102
+            version: 1.0.103
             dependencies: []
             post_install: 
                 map: true

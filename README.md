@@ -113,6 +113,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3518 -- 2021-04-06
+
+    - [Ling/JumboExploder](https://github.com/lingtalfi/JumboExploder) 1.0.3 --> 1.0.4
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.102 --> 1.0.103
+
+
 - 2.0.3517 -- 2021-04-06
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.31 --> 1.311
