@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3517 -- 2021-04-06
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.31 --> 1.311
+
+
 - 2.0.3516 -- 2021-04-06
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.33 --> 1.24.34
