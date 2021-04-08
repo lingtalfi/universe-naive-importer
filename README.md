@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3521 -- 2021-04-08
+
+    - [Ling/Kit_PrototypeWidget](https://github.com/lingtalfi/Kit_PrototypeWidget) 1.1.3 --> 1.1.4
+
+
 - 2.0.3520 -- 2021-04-08
 
     - [Ling/Kit](https://github.com/lingtalfi/Kit) 1.12.6 --> 1.13.0
