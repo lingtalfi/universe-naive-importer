@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3524 -- 2021-04-08
+
+    - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget) 1.30.4 --> 1.30.5
+
+
 - 2.0.3523 -- 2021-04-08
 
     - [Ling/Kit_PrototypeWidget](https://github.com/lingtalfi/Kit_PrototypeWidget) 1.1.4 --> 1.1.5
