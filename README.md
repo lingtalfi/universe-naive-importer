@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3531 -- 2021-04-09
+
+    - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.17.10 --> 1.18.0
+
+
 - 2.0.3530 -- 2021-04-09
 
     - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget) 1.30.6 --> 1.30.7
