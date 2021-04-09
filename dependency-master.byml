@@ -2027,11 +2027,12 @@ galaxies:
             
         
         Light_Realist: 
-            version: 2.0.15
+            version: 2.0.16
             dependencies: 
                 Ling: 
                     - ArrayToString
                     - Bat
+                    - CheapLogger
                     - JAcpHep
                     - JResponsiveTableHelper
                     - JRicAdminTableHelper
