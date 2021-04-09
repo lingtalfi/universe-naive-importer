@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3529 -- 2021-04-09
+
+    - [Ling/Light_Kit_Editor](https://github.com/lingtalfi/Light_Kit_Editor) 0.1.2 --> 0.2.0
+
+
 - 2.0.3528 -- 2021-04-09
 
     - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 2.0.15 --> 2.0.16
