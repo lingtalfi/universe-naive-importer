@@ -872,6 +872,13 @@ galaxies:
                 map: true
             
         
+        JimToolbox: 
+            version: 1.0.0
+            dependencies: []
+            post_install: 
+                map: true
+            
+        
         Jin: 
             version: 1.0.4
             dependencies: 
