@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3536 -- 2021-04-15
+
+    - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.18.11 --> 1.18.12
+
+
 - 2.0.3535 -- 2021-04-15
 
     - [Ling/Kit_PicassoWidget](https://github.com/lingtalfi/Kit_PicassoWidget) 1.30.7 --> 1.30.8
