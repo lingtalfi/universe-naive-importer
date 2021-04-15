@@ -963,7 +963,7 @@ galaxies:
             post_install: []
         
         Kit_PicassoWidget: 
-            version: 1.30.7
+            version: 1.30.8
             dependencies: 
                 Ling: 
                     - BabyYaml
