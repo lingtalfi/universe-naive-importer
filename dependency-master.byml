@@ -1320,7 +1320,7 @@ galaxies:
             
         
         Light_DeveloperWizard: 
-            version: 1.28.22
+            version: 1.28.23
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1526,7 +1526,7 @@ galaxies:
             
         
         Light_Kit_Admin: 
-            version: 0.12.33
+            version: 0.12.34
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1538,8 +1538,12 @@ galaxies:
                     - CliTools
                     - FontAwesome
                     - HtmlPageTools
+                    - JAcpHep
                     - JBee
+                    - JFormCollect
                     - JPostForm
+                    - JRadioHide
+                    - JSelectHide
                     - Jquery
                     - Kit_PicassoWidget
                     - Light
