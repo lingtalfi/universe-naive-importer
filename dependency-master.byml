@@ -873,8 +873,12 @@ galaxies:
             
         
         JimToolbox: 
-            version: 1.0.0
-            dependencies: []
+            version: 1.0.1
+            dependencies: 
+                Ling: 
+                    - JAcpHep
+                
+            
             post_install: 
                 map: true
             
