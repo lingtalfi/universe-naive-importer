@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3538 -- 2021-05-01
+
+    - [Ling/JAcpHep](https://github.com/lingtalfi/JAcpHep) 1.2.6 --> 1.2.7
+
+
 - 2.0.3537 -- 2021-05-01
 
     - [Ling/JAcpHep](https://github.com/lingtalfi/JAcpHep) 1.2.5 --> 1.2.6
