@@ -1597,7 +1597,7 @@ galaxies:
             
         
         Light_Kit_Admin_DebugTrace: 
-            version: 1.6.12
+            version: 1.6.13
             dependencies: 
                 Ling: 
                     - BabyYaml
