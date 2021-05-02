@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3546 -- 2021-05-02
+
+    - [Ling/Light_Kit_Admin_DebugTrace](https://github.com/lingtalfi/Light_Kit_Admin_DebugTrace) 1.6.13 --> 1.6.14
+
+
 - 2.0.3545 -- 2021-05-02
 
     - [Ling/JimToolbox](https://github.com/lingtalfi/JimToolbox) 1.0.1 --> 1.0.2
