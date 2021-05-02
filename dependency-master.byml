@@ -3238,6 +3238,11 @@ galaxies:
             
             post_install: []
         
+        UrlSmuggler: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         VSwitch: 
             version: 1.3.3
             dependencies: []

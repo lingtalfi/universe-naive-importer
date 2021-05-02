@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3544 -- 2021-05-02
+
+    - [Ling/UrlSmuggler](https://github.com/lingtalfi/UrlSmuggler)  --> 1.0.0
+
+
 - 2.0.3543 -- 2021-05-02
 
     - [Ling/Light_Kit_Admin_DebugTrace](https://github.com/lingtalfi/Light_Kit_Admin_DebugTrace) 1.6.12 --> 1.6.13
