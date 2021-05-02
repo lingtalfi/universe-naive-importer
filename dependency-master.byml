@@ -1537,7 +1537,7 @@ galaxies:
             
         
         Light_Kit_Admin: 
-            version: 0.12.34
+            version: 0.12.35
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1589,6 +1589,7 @@ galaxies:
                     - PhpSpreadSheetTool
                     - SimplePdoWrapper
                     - UniverseTools
+                    - UrlSmuggler
                     - WiseTool
                 
             
