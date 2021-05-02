@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3545 -- 2021-05-02
+
+    - [Ling/JimToolbox](https://github.com/lingtalfi/JimToolbox) 1.0.1 --> 1.0.2
+
+
 - 2.0.3544 -- 2021-05-02
 
     - [Ling/UrlSmuggler](https://github.com/lingtalfi/UrlSmuggler)  --> 1.0.0
