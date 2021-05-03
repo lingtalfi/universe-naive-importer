@@ -1410,7 +1410,7 @@ galaxies:
             
         
         Light_ErrorHandler: 
-            version: 1.0.10
+            version: 1.0.11
             dependencies: 
                 Ling: 
                     - Bat
