@@ -1051,7 +1051,7 @@ galaxies:
             
         
         Light_AjaxFileUploadManager: 
-            version: 1.8.9
+            version: 1.8.10
             dependencies: 
                 Ling: 
                     - BabyYaml
