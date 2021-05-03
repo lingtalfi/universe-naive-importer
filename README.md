@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3562 -- 2021-05-03
+
+    - [Ling/Light_CsrfSimple](https://github.com/lingtalfi/Light_CsrfSimple) 1.2.5 --> 1.2.6
+
+
 - 2.0.3561 -- 2021-05-03
 
     - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.8.7 --> 1.8.8
