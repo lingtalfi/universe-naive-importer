@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3617 -- 2021-05-03
+
+    - [Ling/Light_LingHooks](https://github.com/lingtalfi/Light_LingHooks) 1.0.7 --> 1.0.8
+
+
 - 2.0.3616 -- 2021-05-03
 
     - [Ling/Light_Kit_Admin_DebugTrace](https://github.com/lingtalfi/Light_Kit_Admin_DebugTrace) 1.6.15 --> 1.6.16
