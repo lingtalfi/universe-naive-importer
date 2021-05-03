@@ -1035,7 +1035,7 @@ galaxies:
             
         
         Light_404Logger: 
-            version: 1.0.8
+            version: 1.0.9
             dependencies: 
                 Ling: 
                     - Bat
@@ -1091,7 +1091,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.114
+            version: 1.0.115
             dependencies: []
             post_install: 
                 map: true
