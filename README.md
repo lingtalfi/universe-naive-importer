@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3639 -- 2021-05-03
+
+    - [Ling/Light_LingStandardService](https://github.com/lingtalfi/Light_LingStandardService) 1.6.11 --> 1.6.12
+
+
 - 2.0.3638 -- 2021-05-03
 
     - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.24 --> 1.28.25
