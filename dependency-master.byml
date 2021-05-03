@@ -1091,7 +1091,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.111
+            version: 1.0.112
             dependencies: []
             post_install: 
                 map: true
@@ -1844,7 +1844,7 @@ galaxies:
             
         
         Light_Logger: 
-            version: 1.11.7
+            version: 1.11.8
             dependencies: 
                 Ling: 
                     - ArrayToString
