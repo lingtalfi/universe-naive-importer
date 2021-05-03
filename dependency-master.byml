@@ -1091,7 +1091,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.115
+            version: 1.0.116
             dependencies: []
             post_install: 
                 map: true
@@ -1462,7 +1462,7 @@ galaxies:
             
         
         Light_FileWatcher: 
-            version: 1.1.4
+            version: 1.1.5
             dependencies: 
                 Ling: 
                     - BabyYaml
