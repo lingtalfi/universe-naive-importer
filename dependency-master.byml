@@ -1815,7 +1815,7 @@ galaxies:
             
         
         Light_LingHooks: 
-            version: 1.0.6
+            version: 1.0.7
             dependencies: 
                 Ling: 
                     - CliTools
