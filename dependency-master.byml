@@ -1091,7 +1091,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.105
+            version: 1.0.106
             dependencies: []
             post_install: 
                 map: true
@@ -1932,7 +1932,7 @@ galaxies:
             
         
         Light_PlanetInstaller: 
-            version: 1.0.21
+            version: 1.0.22
             dependencies: 
                 Ling: 
                     - BabyYaml
