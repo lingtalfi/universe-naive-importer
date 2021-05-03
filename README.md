@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3580 -- 2021-05-03
+
+    - [Ling/Light_RealGenerator](https://github.com/lingtalfi/Light_RealGenerator) 1.31.17 --> 1.31.18
+
+
 - 2.0.3579 -- 2021-05-03
 
     - [Ling/Light_LingStandardService](https://github.com/lingtalfi/Light_LingStandardService) 1.6.9 --> 1.6.10
