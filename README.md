@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3549 -- 2021-05-03
+
+    - [Ling/Light_PlanetInstaller](https://github.com/lingtalfi/Light_PlanetInstaller) 1.0.20 --> 1.0.21
+
+
 - 2.0.3548 -- 2021-05-02
 
     - [Ling/Light_Kit_Admin_JimToolbox_PhpstormWidgetLinks](https://github.com/lingtalfi/Light_Kit_Admin_JimToolbox_PhpstormWidgetLinks)  --> 1.0.0
