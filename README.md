@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3563 -- 2021-05-03
+
+    - [Ling/Light_DebugTrace](https://github.com/lingtalfi/Light_DebugTrace) 1.0.7 --> 1.0.8
+
+
 - 2.0.3562 -- 2021-05-03
 
     - [Ling/Light_CsrfSimple](https://github.com/lingtalfi/Light_CsrfSimple) 1.2.5 --> 1.2.6
