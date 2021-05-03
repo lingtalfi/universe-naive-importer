@@ -1035,7 +1035,7 @@ galaxies:
             
         
         Light_404Logger: 
-            version: 1.0.11
+            version: 1.0.12
             dependencies: 
                 Ling: 
                     - Bat

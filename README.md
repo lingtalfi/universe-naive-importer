@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3625 -- 2021-05-03
+
+    - [Ling/Light_404Logger](https://github.com/lingtalfi/Light_404Logger) 1.0.11 --> 1.0.12
+
+
 - 2.0.3624 -- 2021-05-03
 
     - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.31.17 --> 1.31.18
