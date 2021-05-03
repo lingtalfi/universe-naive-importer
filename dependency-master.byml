@@ -1830,7 +1830,7 @@ galaxies:
             
         
         Light_LingStandardService: 
-            version: 1.6.9
+            version: 1.6.10
             dependencies: 
                 Ling: 
                     - Light
