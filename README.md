@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3567 -- 2021-05-03
+
+    - [Ling/Light_PluginDatabaseInstaller](https://github.com/lingtalfi/Light_PluginDatabaseInstaller) 1.6.4 --> 1.6.5
+
+
 - 2.0.3566 -- 2021-05-03
 
     - [Ling/Light_Mailer](https://github.com/lingtalfi/Light_Mailer) 1.3.9 --> 1.3.10
