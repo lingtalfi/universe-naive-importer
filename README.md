@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3566 -- 2021-05-03
+
+    - [Ling/Light_Mailer](https://github.com/lingtalfi/Light_Mailer) 1.3.9 --> 1.3.10
+
+
 - 2.0.3565 -- 2021-05-03
 
     - [Ling/Light_LingHooks](https://github.com/lingtalfi/Light_LingHooks) 1.0.5 --> 1.0.6
