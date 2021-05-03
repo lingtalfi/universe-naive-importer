@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3604 -- 2021-05-03
+
+    - [Ling/Light_PlanetInstaller](https://github.com/lingtalfi/Light_PlanetInstaller) 1.0.27 --> 1.0.28
+
+
 - 2.0.3603 -- 2021-05-03
 
     - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.23.21 --> 1.24.0

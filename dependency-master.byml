@@ -1933,11 +1933,12 @@ galaxies:
             
         
         Light_PlanetInstaller: 
-            version: 1.0.27
+            version: 1.0.28
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
+                    - CheapLogger
                     - CliTools
                     - CopyDir
                     - DirScanner
