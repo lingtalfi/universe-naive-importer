@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3643 -- 2021-05-03
+
+    - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.25 --> 1.28.26
+
+
 - 2.0.3642 -- 2021-05-03
 
     - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.24.1 --> 1.24.2
