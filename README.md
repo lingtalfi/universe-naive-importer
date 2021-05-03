@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3570 -- 2021-05-03
+
+    - [Ling/Light_SimpleHttpServer](https://github.com/lingtalfi/Light_SimpleHttpServer) 1.0.9 --> 1.0.10
+
+
 - 2.0.3569 -- 2021-05-03
 
     - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform) 2.0.11 --> 2.0.12
