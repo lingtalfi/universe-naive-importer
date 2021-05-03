@@ -1933,7 +1933,7 @@ galaxies:
             
         
         Light_PlanetInstaller: 
-            version: 1.0.29
+            version: 1.0.30
             dependencies: 
                 Ling: 
                     - BabyYaml
