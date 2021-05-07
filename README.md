@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3649 -- 2021-05-07
+
+    - [Ling/InvoiceGenerator](https://github.com/lingtalfi/InvoiceGenerator) 1.0.0 --> 1.0.1
+
+
 - 2.0.3648 -- 2021-05-07
 
     - [Ling/InvoiceGenerator](https://github.com/lingtalfi/InvoiceGenerator)  --> 1.0.0
