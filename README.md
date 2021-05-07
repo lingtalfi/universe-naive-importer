@@ -113,6 +113,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3648 -- 2021-05-07
+
+    - [Ling/InvoiceGenerator](https://github.com/lingtalfi/InvoiceGenerator)  --> 1.0.0
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.125 --> 1.0.126
+
+
 - 2.0.3647 -- 2021-05-06
 
     - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.314 --> 1.315
