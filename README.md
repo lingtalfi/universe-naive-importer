@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3652 -- 2021-05-07
+
+    - [Ling/JRadioHide](https://github.com/lingtalfi/JRadioHide) 1.0.4 --> 1.0.5
+
+
 - 2.0.3651 -- 2021-05-07
 
     - [Ling/JRadioHide](https://github.com/lingtalfi/JRadioHide) 1.0.3 --> 1.0.4
