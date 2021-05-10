@@ -1901,7 +1901,7 @@ galaxies:
             
         
         Light_MicroPermission: 
-            version: 3.0.8
+            version: 3.0.9
             dependencies: 
                 Ling: 
                     - BabyYaml
