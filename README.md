@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3671 -- 2021-05-10
+
+    - [Ling/Light_Firewall](https://github.com/lingtalfi/Light_Firewall) 1.1.3 --> 1.1.4
+
+
 - 2.0.3670 -- 2021-05-10
 
     - [Ling/Light_ErrorPop](https://github.com/lingtalfi/Light_ErrorPop) 1.0.6 --> 1.0.7
