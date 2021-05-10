@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3682 -- 2021-05-10
+
+    - [Ling/Light_TablePrefixInfo](https://github.com/lingtalfi/Light_TablePrefixInfo) 1.0.4 --> 1.0.5
+
+
 - 2.0.3681 -- 2021-05-10
 
     - [Ling/Light_Router](https://github.com/lingtalfi/Light_Router) 1.0.4 --> 1.0.5
