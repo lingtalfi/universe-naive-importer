@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3656 -- 2021-05-10
+
+    - [Ling/Light_PasswordProtector](https://github.com/lingtalfi/Light_PasswordProtector) 1.0.5 --> 1.0.6
+
+
 - 2.0.3655 -- 2021-05-10
 
     - [Ling/JFormCollect](https://github.com/lingtalfi/JFormCollect) 1.0.1 --> 1.0.2
