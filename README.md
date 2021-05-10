@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3679 -- 2021-05-10
+
+    - [Ling/Light_QuickMailAlert](https://github.com/lingtalfi/Light_QuickMailAlert) 1.1.5 --> 1.1.6
+
+
 - 2.0.3678 -- 2021-05-10
 
     - [Ling/Light_PrerouteHub](https://github.com/lingtalfi/Light_PrerouteHub) 1.0.4 --> 1.0.5
