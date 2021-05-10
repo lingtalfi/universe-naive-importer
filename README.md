@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3678 -- 2021-05-10
+
+    - [Ling/Light_PrerouteHub](https://github.com/lingtalfi/Light_PrerouteHub) 1.0.4 --> 1.0.5
+
+
 - 2.0.3677 -- 2021-05-10
 
     - [Ling/Light_Nugget](https://github.com/lingtalfi/Light_Nugget) 1.3.9 --> 1.3.10
