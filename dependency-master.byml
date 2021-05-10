@@ -1432,7 +1432,7 @@ galaxies:
             
         
         Light_ErrorPop: 
-            version: 1.0.6
+            version: 1.0.7
             dependencies: []
             post_install: 
                 map: true

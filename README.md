@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3670 -- 2021-05-10
+
+    - [Ling/Light_ErrorPop](https://github.com/lingtalfi/Light_ErrorPop) 1.0.6 --> 1.0.7
+
+
 - 2.0.3669 -- 2021-05-10
 
     - [Ling/Light_EndRoutine_CsrfPageCleaner](https://github.com/lingtalfi/Light_EndRoutine_CsrfPageCleaner) 1.4.3 --> 1.4.4
