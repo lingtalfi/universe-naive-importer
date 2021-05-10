@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3672 -- 2021-05-10
+
+    - [Ling/Light_Flasher](https://github.com/lingtalfi/Light_Flasher) 1.3.4 --> 1.3.5
+
+
 - 2.0.3671 -- 2021-05-10
 
     - [Ling/Light_Firewall](https://github.com/lingtalfi/Light_Firewall) 1.1.3 --> 1.1.4
