@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3680 -- 2021-05-10
+
+    - [Ling/Light_ReverseRouter](https://github.com/lingtalfi/Light_ReverseRouter) 1.11.5 --> 1.11.6
+
+
 - 2.0.3679 -- 2021-05-10
 
     - [Ling/Light_QuickMailAlert](https://github.com/lingtalfi/Light_QuickMailAlert) 1.1.5 --> 1.1.6
