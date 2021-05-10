@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3655 -- 2021-05-10
+
+    - [Ling/JFormCollect](https://github.com/lingtalfi/JFormCollect) 1.0.1 --> 1.0.2
+
+
 - 2.0.3654 -- 2021-05-07
 
     - [Ling/JimToolbox](https://github.com/lingtalfi/JimToolbox) 1.0.2 --> 1.0.3
