@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3663 -- 2021-05-10
+
+    - [Ling/Light_CsrfSimple](https://github.com/lingtalfi/Light_CsrfSimple) 1.2.11 --> 1.2.12
+
+
 - 2.0.3662 -- 2021-05-10
 
     - [Ling/Light_CsrfSimple](https://github.com/lingtalfi/Light_CsrfSimple) 1.2.10 --> 1.2.11
