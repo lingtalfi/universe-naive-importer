@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3687 -- 2021-05-10
+
+    - [Ling/Light_ZephyrTemplate](https://github.com/lingtalfi/Light_ZephyrTemplate) 1.2.4 --> 1.2.5
+
+
 - 2.0.3686 -- 2021-05-10
 
     - [Ling/Light_Vars](https://github.com/lingtalfi/Light_Vars) 1.0.4 --> 1.0.5
