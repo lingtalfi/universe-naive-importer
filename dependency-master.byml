@@ -1243,7 +1243,7 @@ galaxies:
             
         
         Light_CsrfSimple: 
-            version: 1.2.15
+            version: 1.2.8
             dependencies: 
                 Ling: 
                     - Chloroform
@@ -1368,7 +1368,7 @@ galaxies:
             
         
         Light_EasyRoute: 
-            version: 1.3.7
+            version: 1.3.8
             dependencies: 
                 Ling: 
                     - BabyYaml
