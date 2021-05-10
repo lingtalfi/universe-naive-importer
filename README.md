@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3686 -- 2021-05-10
+
+    - [Ling/Light_Vars](https://github.com/lingtalfi/Light_Vars) 1.0.4 --> 1.0.5
+
+
 - 2.0.3685 -- 2021-05-10
 
     - [Ling/Light_UserRowRestriction](https://github.com/lingtalfi/Light_UserRowRestriction) 1.3.5 --> 1.3.6
