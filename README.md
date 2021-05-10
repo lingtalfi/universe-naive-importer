@@ -113,6 +113,16 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3661 -- 2021-05-10
+
+    - universe minor increment
+
+
+- 2.0.3660 -- 2021-05-10
+
+    - [Ling/Light_CsrfSimple](https://github.com/lingtalfi/Light_CsrfSimple) 1.2.9 --> 1.2.10
+
+
 - 2.0.3659 -- 2021-05-10
 
     - universe minor increment
