@@ -1506,7 +1506,7 @@ galaxies:
             
         
         Light_HtmlPageCopilot: 
-            version: 1.0.7
+            version: 1.0.8
             dependencies: 
                 Ling: 
                     - HtmlPageTools
