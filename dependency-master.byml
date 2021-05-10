@@ -1243,7 +1243,7 @@ galaxies:
             
         
         Light_CsrfSimple: 
-            version: 1.2.10
+            version: 1.2.11
             dependencies: 
                 Ling: 
                     - Chloroform
