@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3684 -- 2021-05-10
+
+    - [Ling/Light_UserManager](https://github.com/lingtalfi/Light_UserManager) 1.5.7 --> 1.5.8
+
+
 - 2.0.3683 -- 2021-05-10
 
     - [Ling/Light_UploadGems](https://github.com/lingtalfi/Light_UploadGems) 1.8.10 --> 1.8.11
