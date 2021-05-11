@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3698 -- 2021-05-11
+
+    - [Ling/Light_EndRoutine](https://github.com/lingtalfi/Light_EndRoutine) 1.3.4 --> 1.3.5
+
+
 - 2.0.3697 -- 2021-05-11
 
     - [Ling/Light_Crud](https://github.com/lingtalfi/Light_Crud) 2.0.5 --> 2.0.6
