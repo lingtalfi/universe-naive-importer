@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3701 -- 2021-05-11
+
+    - [Ling/Light_LightInstance](https://github.com/lingtalfi/Light_LightInstance) 1.2.5 --> 1.2.6
+
+
 - 2.0.3700 -- 2021-05-11
 
     - [Ling/Light_Firewall](https://github.com/lingtalfi/Light_Firewall) 1.1.4 --> 1.1.5
