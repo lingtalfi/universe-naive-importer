@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3708 -- 2021-05-11
+
+    - [Ling/Light_Nugget](https://github.com/lingtalfi/Light_Nugget) 1.3.10 --> 1.3.11
+
+
 - 2.0.3707 -- 2021-05-11
 
     - [Ling/Light_MicroPermission](https://github.com/lingtalfi/Light_MicroPermission) 3.0.9 --> 3.0.10
