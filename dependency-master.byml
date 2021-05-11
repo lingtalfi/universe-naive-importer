@@ -1780,7 +1780,7 @@ galaxies:
             
         
         Light_Kit_Editor: 
-            version: 0.2.0
+            version: 0.2.1
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1795,6 +1795,7 @@ galaxies:
                     - Light_PlanetInstaller
                     - Light_Realform
                     - Light_Realist
+                    - Light_Vars
                     - LogicalOperator
                     - PaginationHelper
                     - RowsSortHelper
