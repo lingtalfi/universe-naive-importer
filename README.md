@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3704 -- 2021-05-11
+
+    - [Ling/Light_Kit_Admin_UserDatabase](https://github.com/lingtalfi/Light_Kit_Admin_UserDatabase) 0.5.16 --> 0.5.17
+
+
 - 2.0.3703 -- 2021-05-11
 
     - [Ling/Light_Kit_Admin_Generator](https://github.com/lingtalfi/Light_Kit_Admin_Generator) 1.19.14 --> 1.19.15
