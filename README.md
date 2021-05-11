@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3707 -- 2021-05-11
+
+    - [Ling/Light_MicroPermission](https://github.com/lingtalfi/Light_MicroPermission) 3.0.9 --> 3.0.10
+
+
 - 2.0.3706 -- 2021-05-11
 
     - [Ling/Light_LingHooks](https://github.com/lingtalfi/Light_LingHooks) 1.0.8 --> 1.0.9
