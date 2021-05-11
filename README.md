@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3690 -- 2021-05-11
+
+    - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.12.37 --> 0.12.38
+
+
 - 2.0.3689 -- 2021-05-11
 
     - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.3.0 --> 1.3.1
