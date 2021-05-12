@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3720 -- 2021-05-12
+
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.22.33 --> 1.22.34
+
+
 - 2.0.3719 -- 2021-05-11
 
     - [Ling/Light_EndRoutine_CsrfPageCleaner](https://github.com/lingtalfi/Light_EndRoutine_CsrfPageCleaner) 1.4.5 --> 1.4.6
