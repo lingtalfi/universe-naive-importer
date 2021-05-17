@@ -1100,7 +1100,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.130
+            version: 1.0.131
             dependencies: []
             post_install: 
                 map: true
@@ -3217,7 +3217,7 @@ galaxies:
             post_install: []
         
         UniverseTools: 
-            version: 1.22.36
+            version: 1.22.37
             dependencies: 
                 Ling: 
                     - BabyYaml
