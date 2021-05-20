@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3735 -- 2021-05-20
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.318 --> 1.319
+
+
 - 2.0.3734 -- 2021-05-18
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.134 --> 1.0.135
