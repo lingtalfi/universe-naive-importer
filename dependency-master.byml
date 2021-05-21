@@ -118,7 +118,7 @@ galaxies:
             post_install: []
         
         BabyYaml: 
-            version: 1.7.9
+            version: 1.7.10
             dependencies: 
                 Ling: 
                     - Bat
@@ -144,7 +144,7 @@ galaxies:
             post_install: []
         
         Bat: 
-            version: 1.32
+            version: 1.320
             dependencies: 
                 Ling: 
                     - ArrayToString
