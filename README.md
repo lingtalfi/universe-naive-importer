@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3742 -- 2021-05-21
+
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.138 --> 1.0.139
+
+
 - 2.0.3741 -- 2021-05-21
 
     - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.7.9 --> 1.7.10
