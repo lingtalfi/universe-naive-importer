@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3750 -- 2021-05-27
+
+    - [Ling/SectionComment](https://github.com/lingtalfi/SectionComment) 1.0.1 --> 1.0.2
+
+
 - 2.0.3749 -- 2021-05-25
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.142 --> 1.0.143
