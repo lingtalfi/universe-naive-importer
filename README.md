@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4028 -- 2021-05-31
+
+    - [Ling/ScreenDebug](https://github.com/lingtalfi/ScreenDebug) 1.0.3 --> 1.0.4
+
+
 - 2.0.4027 -- 2021-05-31
 
     - [Ling/SaveOrm](https://github.com/lingtalfi/SaveOrm) 1.18.4 --> 1.18.5
