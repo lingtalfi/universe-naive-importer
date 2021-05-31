@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4055 -- 2021-05-31
+
+    - [Ling/ThumbnailTools](https://github.com/lingtalfi/ThumbnailTools) 1.3.4 --> 1.3.5
+
+
 - 2.0.4054 -- 2021-05-31
 
     - [Ling/TheScientist](https://github.com/lingtalfi/TheScientist) 1.0.3 --> 1.0.4
