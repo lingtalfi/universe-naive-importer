@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4010 -- 2021-05-31
+
+    - [Ling/PlanetSitemap](https://github.com/lingtalfi/PlanetSitemap) 1.0.5 --> 1.0.6
+
+
 - 2.0.4009 -- 2021-05-31
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.170 --> 1.0.171
