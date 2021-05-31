@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3836 -- 2021-05-31
+
+    - [Ling/ExceptionCodes](https://github.com/lingtalfi/ExceptionCodes) 1.0.3 --> 1.0.4
+
+
 - 2.0.3835 -- 2021-05-31
 
     - [Ling/EasyConsoleMenu](https://github.com/lingtalfi/EasyConsoleMenu) 1.0.4 --> 1.0.5
