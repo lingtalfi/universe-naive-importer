@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4084 -- 2021-05-31
+
+    - [Ling/WebWizardTools](https://github.com/lingtalfi/WebWizardTools) 1.3.4 --> 1.3.5
+
+
 - 2.0.4083 -- 2021-05-31
 
     - [Ling/WebBox](https://github.com/lingtalfi/WebBox) 1.0.4 --> 1.0.5
