@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3965 -- 2021-05-31
+
+    - [Ling/Logger](https://github.com/lingtalfi/Logger) 1.4.3 --> 1.4.4
+
+
 - 2.0.3964 -- 2021-05-31
 
     - [Ling/LogSlicer](https://github.com/lingtalfi/LogSlicer) 1.1.3 --> 1.1.4
