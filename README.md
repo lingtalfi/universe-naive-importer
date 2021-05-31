@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3880 -- 2021-05-31
+
+    - [Ling/Light_Crud](https://github.com/lingtalfi/Light_Crud) 2.0.6 --> 2.0.7
+
+
 - 2.0.3879 -- 2021-05-31
 
     - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.3.3 --> 1.3.4
