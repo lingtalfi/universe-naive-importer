@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3766 -- 2021-05-31
+
+    - [Ling/Uni2](https://github.com/lingtalfi/Uni2) 1.9.12 --> 1.9.13
+
+
 - 2.0.3765 -- 2021-05-31
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.148 --> 1.0.149
