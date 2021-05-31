@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4001 -- 2021-05-31
+
+    - [Ling/PhpErrorName](https://github.com/lingtalfi/PhpErrorName) 1.0.3 --> 1.0.4
+
+
 - 2.0.4000 -- 2021-05-31
 
     - [Ling/PhpBeast](https://github.com/lingtalfi/PhpBeast) 1.4.5 --> 1.4.6
