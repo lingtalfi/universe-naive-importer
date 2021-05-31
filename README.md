@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3832 -- 2021-05-31
+
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.160 --> 1.0.161
+
+
 - 2.0.3831 -- 2021-05-31
 
     - [Ling/DirScanner](https://github.com/lingtalfi/DirScanner) 1.13.5 --> 1.13.6
