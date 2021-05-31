@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3935 -- 2021-05-31
+
+    - [Ling/Light_QuickMailAlert](https://github.com/lingtalfi/Light_QuickMailAlert) 1.1.6 --> 1.1.7
+
+
 - 2.0.3934 -- 2021-05-31
 
     - [Ling/Light_PrettyError](https://github.com/lingtalfi/Light_PrettyError) 1.5.14 --> 1.5.15
