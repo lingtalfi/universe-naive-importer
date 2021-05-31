@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3920 -- 2021-05-31
+
+    - [Ling/Light_LingHooks](https://github.com/lingtalfi/Light_LingHooks) 1.0.10 --> 1.0.11
+
+
 - 2.0.3919 -- 2021-05-31
 
     - [Ling/Light_LightInstance](https://github.com/lingtalfi/Light_LightInstance) 1.2.6 --> 1.2.7
