@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3849 -- 2021-05-31
+
+    - [Ling/JPostForm](https://github.com/lingtalfi/JPostForm) 1.0.3 --> 1.0.4
+
+
 - 2.0.3848 -- 2021-05-31
 
     - [Ling/JFormCollect](https://github.com/lingtalfi/JFormCollect) 1.0.2 --> 1.0.3
