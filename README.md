@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3824 -- 2021-05-31
+
+    - [Ling/ConditionResolver](https://github.com/lingtalfi/ConditionResolver) 1.1.4 --> 1.1.5
+
+
 - 2.0.3823 -- 2021-05-31
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.158 --> 1.0.159
