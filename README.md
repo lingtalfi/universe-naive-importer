@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4089 -- 2021-05-31
+
+    - [Ling/ZephyrTemplateEngine](https://github.com/lingtalfi/ZephyrTemplateEngine) 1.1.5 --> 1.1.6
+
+
 - 2.0.4088 -- 2021-05-31
 
     - [Ling/YouTubeUtils](https://github.com/lingtalfi/YouTubeUtils) 1.2.3 --> 1.2.4
