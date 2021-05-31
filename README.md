@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3966 -- 2021-05-31
+
+    - [Ling/LogicalOperator](https://github.com/lingtalfi/LogicalOperator) 1.0.0 --> 1.0.1
+
+
 - 2.0.3965 -- 2021-05-31
 
     - [Ling/Logger](https://github.com/lingtalfi/Logger) 1.4.3 --> 1.4.4
