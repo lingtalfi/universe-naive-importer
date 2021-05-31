@@ -2560,14 +2560,8 @@ galaxies:
             post_install: []
         
         OnTheFlyForm: 
-            version: 2.19.3
-            dependencies: 
-                Ling: 
-                    - ArrayToString
-                    - Bat
-                    - FormTools
-                
-            
+            version: 2.19.4
+            dependencies: []
             post_install: []
         
         Options: 
