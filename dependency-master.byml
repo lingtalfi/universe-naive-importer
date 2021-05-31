@@ -2818,12 +2818,10 @@ galaxies:
             post_install: []
         
         SaveOrm: 
-            version: 1.18.4
+            version: 1.18.5
             dependencies: 
                 Ling: 
-                    - Bat
-                    - BeeFramework
-                    - ThumbnailTools
+                    - QuickPdo
                 
             
             post_install: []

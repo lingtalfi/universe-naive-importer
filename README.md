@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4027 -- 2021-05-31
+
+    - [Ling/SaveOrm](https://github.com/lingtalfi/SaveOrm) 1.18.4 --> 1.18.5
+
+
 - 2.0.4026 -- 2021-05-31
 
     - [Ling/SafeUploader](https://github.com/lingtalfi/SafeUploader) 1.2.3 --> 1.2.4
