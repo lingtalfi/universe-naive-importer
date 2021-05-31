@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3948 -- 2021-05-31
+
+    - [Ling/Light_UserData](https://github.com/lingtalfi/Light_UserData) 1.19.19 --> 1.19.20
+
+
 - 2.0.3947 -- 2021-05-31
 
     - [Ling/Light_User](https://github.com/lingtalfi/Light_User) 1.7.3 --> 1.7.4
