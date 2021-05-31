@@ -1646,7 +1646,7 @@ galaxies:
             
         
         Light_Kit_Admin_JimToolbox_PhpstormWidgetLinks: 
-            version: 1.0.1
+            version: 1.0.2
             dependencies: 
                 Ling: 
                     - BabyYaml
