@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4052 -- 2021-05-31
+
+    - [Ling/TheAnarchist](https://github.com/lingtalfi/TheAnarchist) 1.0.3 --> 1.0.4
+
+
 - 2.0.4051 -- 2021-05-31
 
     - [Ling/TemporaryVirtualFileSystem](https://github.com/lingtalfi/TemporaryVirtualFileSystem) 1.11.6 --> 1.11.7
