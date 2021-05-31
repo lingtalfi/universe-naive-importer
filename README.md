@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3840 -- 2021-05-31
+
+    - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 2.2.3 --> 2.2.4
+
+
 - 2.0.3839 -- 2021-05-31
 
     - [Ling/HashMap](https://github.com/lingtalfi/HashMap) 1.0.4 --> 1.0.5
