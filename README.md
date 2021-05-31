@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4091 -- 2021-05-31
+
+    - [Ling/Zoli](https://github.com/lingtalfi/Zoli) 1.4.3 --> 1.4.4
+
+
 - 2.0.4090 -- 2021-05-31
 
     - [Ling/ZeusTemplateEngine](https://github.com/lingtalfi/ZeusTemplateEngine) 1.3.3 --> 1.3.4
