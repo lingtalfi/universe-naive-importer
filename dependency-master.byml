@@ -1976,15 +1976,8 @@ galaxies:
             
         
         Light_PluginDatabaseInstaller: 
-            version: 1.6.7
-            dependencies: 
-                Ling: 
-                    - Bat
-                    - DirScanner
-                    - Light
-                    - Light_Events
-                
-            
+            version: 1.6.8
+            dependencies: []
             post_install: 
                 map: true
             
