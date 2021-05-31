@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4069 -- 2021-05-31
+
+    - [Ling/UniqueNameGenerator](https://github.com/lingtalfi/UniqueNameGenerator) 1.1.3 --> 1.1.4
+
+
 - 2.0.4068 -- 2021-05-31
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.175 --> 1.0.176
