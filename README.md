@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3838 -- 2021-05-31
+
+    - [Ling/GormanJsonDecoder](https://github.com/lingtalfi/GormanJsonDecoder) 1.1.4 --> 1.1.5
+
+
 - 2.0.3837 -- 2021-05-31
 
     - [Ling/FontAwesome](https://github.com/lingtalfi/FontAwesome) 1.0.4 --> 1.0.5
