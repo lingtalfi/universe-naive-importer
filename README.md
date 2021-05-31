@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3802 -- 2021-05-31
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.321 --> 1.322
+
+
 - 2.0.3801 -- 2021-05-31
 
     - [Ling/BabyYamlDatabase](https://github.com/lingtalfi/BabyYamlDatabase) 1.0.5 --> 1.0.6
