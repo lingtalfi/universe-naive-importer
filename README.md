@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3900 -- 2021-05-31
+
+    - [Ling/Light_Firewall](https://github.com/lingtalfi/Light_Firewall) 1.1.5 --> 1.1.6
+
+
 - 2.0.3899 -- 2021-05-31
 
     - [Ling/Light_FileWatcher](https://github.com/lingtalfi/Light_FileWatcher) 1.1.6 --> 1.1.7
