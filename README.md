@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3970 -- 2021-05-31
+
+    - [Ling/MikeMagicTools](https://github.com/lingtalfi/MikeMagicTools) 1.1.3 --> 1.1.4
+
+
 - 2.0.3969 -- 2021-05-31
 
     - [Ling/MethodInjector](https://github.com/lingtalfi/MethodInjector) 1.5.3 --> 1.5.4
