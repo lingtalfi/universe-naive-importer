@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4067 -- 2021-05-31
+
+    - [Ling/Uni2](https://github.com/lingtalfi/Uni2) 1.9.13 --> 1.9.14
+
+
 - 2.0.4066 -- 2021-05-31
 
     - [Ling/Umail](https://github.com/lingtalfi/Umail) 1.6.3 --> 1.6.4
