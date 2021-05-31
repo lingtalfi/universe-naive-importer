@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3798 -- 2021-05-31
+
+    - [Ling/ArrayVariableResolver](https://github.com/lingtalfi/ArrayVariableResolver) 1.2.4 --> 1.2.5
+
+
 - 2.0.3797 -- 2021-05-31
 
     - [Ling/ArrayToTable](https://github.com/lingtalfi/ArrayToTable) 1.2.3 --> 1.2.4
