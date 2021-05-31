@@ -2960,7 +2960,7 @@ galaxies:
             post_install: []
         
         SvgGridGenerator: 
-            version: 1.0.3
+            version: 1.0.4
             dependencies: []
             post_install: []
         
