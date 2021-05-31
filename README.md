@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3818 -- 2021-05-31
+
+    - [Ling/ClassCooker](https://github.com/lingtalfi/ClassCooker) 1.16.3 --> 1.16.4
+
+
 - 2.0.3817 -- 2021-05-31
 
     - [Ling/Chronos](https://github.com/lingtalfi/Chronos) 1.0.3 --> 1.0.4
