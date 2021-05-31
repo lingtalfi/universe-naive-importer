@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4087 -- 2021-05-31
+
+    - [Ling/XiaoApi](https://github.com/lingtalfi/XiaoApi) 2.2.7 --> 2.2.8
+
+
 - 2.0.4086 -- 2021-05-31
 
     - [Ling/WrappedString](https://github.com/lingtalfi/WrappedString) 1.3.3 --> 1.3.4

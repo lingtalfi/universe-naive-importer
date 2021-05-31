@@ -3195,11 +3195,9 @@ galaxies:
             post_install: []
         
         XiaoApi: 
-            version: 2.2.7
+            version: 2.2.8
             dependencies: 
                 Ling: 
-                    - ArrayToString
-                    - Bat
                     - QuickPdo
                 
             
