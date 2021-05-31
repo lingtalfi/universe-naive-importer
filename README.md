@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3979 -- 2021-05-31
+
+    - [Ling/Notifier](https://github.com/lingtalfi/Notifier) 1.0.3 --> 1.0.4
+
+
 - 2.0.3978 -- 2021-05-31
 
     - [Ling/Notificator](https://github.com/lingtalfi/Notificator) 1.1.3 --> 1.1.4
