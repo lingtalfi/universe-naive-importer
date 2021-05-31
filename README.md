@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3761 -- 2021-05-31
+
+    - [Ling/Light](https://github.com/lingtalfi/Light) 0.70.4 --> 0.70.5
+
+
 - 2.0.3760 -- 2021-05-31
 
     - [Ling/Kwin](https://github.com/lingtalfi/Kwin) 1.0.5 --> 1.0.6
