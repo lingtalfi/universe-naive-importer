@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3863 -- 2021-05-31
+
+    - [Ling/Komin](https://github.com/lingtalfi/Komin) 1.0.3 --> 1.0.4
+
+
 - 2.0.3862 -- 2021-05-31
 
     - [Ling/Kit_PrototypeWidget](https://github.com/lingtalfi/Kit_PrototypeWidget) 1.1.5 --> 1.1.6
