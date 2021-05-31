@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3946 -- 2021-05-31
+
+    - [Ling/Light_UploadGems](https://github.com/lingtalfi/Light_UploadGems) 1.8.12 --> 1.8.13
+
+
 - 2.0.3945 -- 2021-05-31
 
     - [Ling/Light_Train](https://github.com/lingtalfi/Light_Train) 1.0.1 --> 1.0.2
