@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3845 -- 2021-05-31
+
+    - [Ling/JCropperJs](https://github.com/lingtalfi/JCropperJs) 1.0.3 --> 1.0.4
+
+
 - 2.0.3844 -- 2021-05-31
 
     - [Ling/JBootstrapAutocomplete](https://github.com/lingtalfi/JBootstrapAutocomplete) 1.1.3 --> 1.1.4
