@@ -2798,12 +2798,8 @@ galaxies:
             post_install: []
         
         RowsGeneratorWidget: 
-            version: 1.0.3
-            dependencies: 
-                Ling: 
-                    - RowsGenerator
-                
-            
+            version: 1.0.4
+            dependencies: []
             post_install: []
         
         RowsSortHelper: 
