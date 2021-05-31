@@ -1808,6 +1808,17 @@ galaxies:
                 map: true
             
         
+        Light_Kit_Store: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Kit_WebsiteBuilder: 
             version: 1.0.4
             dependencies: []
