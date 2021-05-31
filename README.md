@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3919 -- 2021-05-31
+
+    - [Ling/Light_LightInstance](https://github.com/lingtalfi/Light_LightInstance) 1.2.6 --> 1.2.7
+
+
 - 2.0.3918 -- 2021-05-31
 
     - [Ling/Light_Kit_WebsiteBuilder](https://github.com/lingtalfi/Light_Kit_WebsiteBuilder) 1.0.4 --> 1.0.5
