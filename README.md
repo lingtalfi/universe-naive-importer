@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3791 -- 2021-05-31
+
+    - [Ling/Light_UserPreferences](https://github.com/lingtalfi/Light_UserPreferences) 1.0.10 --> 1.0.11
+
+
 - 2.0.3790 -- 2021-05-31
 
     - [Ling/Light_UserNotifications](https://github.com/lingtalfi/Light_UserNotifications) 1.0.9 --> 1.0.10
