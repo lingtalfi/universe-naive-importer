@@ -3029,7 +3029,7 @@ galaxies:
             post_install: []
         
         TokenFun: 
-            version: 1.11.7
+            version: 1.11.8
             dependencies: 
                 Ling: 
                     - Bat
