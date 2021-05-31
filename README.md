@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3795 -- 2021-05-31
+
+    - [Ling/ArrayToString](https://github.com/lingtalfi/ArrayToString) 1.4.5 --> 1.4.6
+
+
 - 2.0.3794 -- 2021-05-31
 
     - [Ling/ArrayDiff](https://github.com/lingtalfi/ArrayDiff) 1.0.3 --> 1.0.4
