@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3820 -- 2021-05-31
+
+    - [Ling/ClassCreator](https://github.com/lingtalfi/ClassCreator) 1.0.4 --> 1.0.5
+
+
 - 2.0.3819 -- 2021-05-31
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.156 --> 1.0.157
