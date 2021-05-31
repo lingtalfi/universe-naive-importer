@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3806 -- 2021-05-31
+
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.153 --> 1.0.154
+
+
 - 2.0.3805 -- 2021-05-31
 
     - [Ling/BeeFramework](https://github.com/lingtalfi/BeeFramework) 1.0.7 --> 1.0.8
