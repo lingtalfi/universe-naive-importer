@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3804 -- 2021-05-31
+
+    - [Ling/Beauty](https://github.com/lingtalfi/Beauty) 1.4.8 --> 1.4.9
+
+
 - 2.0.3803 -- 2021-05-31
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.152 --> 1.0.153
