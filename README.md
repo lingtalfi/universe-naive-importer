@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4014 -- 2021-05-31
+
+    - [Ling/PublicException](https://github.com/lingtalfi/PublicException) 1.0.3 --> 1.0.4
+
+
 - 2.0.4013 -- 2021-05-31
 
     - [Ling/ProjectInfo](https://github.com/lingtalfi/ProjectInfo) 1.0.4 --> 1.0.5
