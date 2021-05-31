@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3879 -- 2021-05-31
+
+    - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.3.3 --> 1.3.4
+
+
 - 2.0.3878 -- 2021-05-31
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.164 --> 1.0.165
