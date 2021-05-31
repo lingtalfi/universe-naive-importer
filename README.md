@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3773 -- 2021-05-31
+
+    - [Ling/Light_DebugTrace](https://github.com/lingtalfi/Light_DebugTrace) 1.0.10 --> 1.1.0
+
+
 - 2.0.3772 -- 2021-05-31
 
     - [Ling/Light_Database](https://github.com/lingtalfi/Light_Database) 1.14.24 --> 1.14.25
