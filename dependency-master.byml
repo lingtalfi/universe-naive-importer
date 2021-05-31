@@ -3166,12 +3166,8 @@ galaxies:
             post_install: []
         
         WebBox: 
-            version: 1.0.4
-            dependencies: 
-                Ling: 
-                    - Bat
-                
-            
+            version: 1.0.5
+            dependencies: []
             post_install: []
         
         WebWizardTools: 
