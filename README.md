@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3774 -- 2021-05-31
+
+    - [Ling/Light_ExceptionHandler](https://github.com/lingtalfi/Light_ExceptionHandler) 1.2.13 --> 1.2.14
+
+
 - 2.0.3773 -- 2021-05-31
 
     - [Ling/Light_DebugTrace](https://github.com/lingtalfi/Light_DebugTrace) 1.0.10 --> 1.1.0
