@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3998 -- 2021-05-31
+
+    - [Ling/PermsHiker](https://github.com/lingtalfi/PermsHiker) 1.1.3 --> 1.1.4
+
+
 - 2.0.3997 -- 2021-05-31
 
     - [Ling/Pea](https://github.com/lingtalfi/Pea) 1.2.3 --> 1.2.4
