@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4033 -- 2021-05-31
+
+    - [Ling/SelectChain](https://github.com/lingtalfi/SelectChain) 1.0.3 --> 1.0.4
+
+
 - 2.0.4032 -- 2021-05-31
 
     - [Ling/Select2](https://github.com/lingtalfi/Select2) 1.0.4 --> 1.0.5
