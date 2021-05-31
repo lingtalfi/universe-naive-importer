@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3787 -- 2021-05-31
+
+    - [Ling/Light_TaskScheduler](https://github.com/lingtalfi/Light_TaskScheduler) 1.1.8 --> 1.1.9
+
+
 - 2.0.3786 -- 2021-05-31
 
     - [Ling/Light_PrettyError](https://github.com/lingtalfi/Light_PrettyError) 1.5.13 --> 1.5.14
