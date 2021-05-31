@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3794 -- 2021-05-31
+
+    - [Ling/ArrayDiff](https://github.com/lingtalfi/ArrayDiff) 1.0.3 --> 1.0.4
+
+
 - 2.0.3793 -- 2021-05-31
 
     - [Ling/AjaxCommunicationProtocol](https://github.com/lingtalfi/AjaxCommunicationProtocol) 1.1.3 --> 1.1.4
