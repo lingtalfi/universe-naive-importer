@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3990 -- 2021-05-31
+
+    - [Ling/PaginationHelper](https://github.com/lingtalfi/PaginationHelper) 1.0.0 --> 1.0.1
+
+
 - 2.0.3989 -- 2021-05-31
 
     - [Ling/Packer](https://github.com/lingtalfi/Packer) 1.2.3 --> 1.2.4
