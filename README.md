@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3942 -- 2021-05-31
+
+    - [Ling/Light_SpinKitHelper](https://github.com/lingtalfi/Light_SpinKitHelper) 1.0.7 --> 1.0.8
+
+
 - 2.0.3941 -- 2021-05-31
 
     - [Ling/Light_SimpleHttpServer](https://github.com/lingtalfi/Light_SimpleHttpServer) 1.0.12 --> 1.0.13
