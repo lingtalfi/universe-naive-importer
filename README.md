@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3810 -- 2021-05-31
+
+    - [Ling/CSRFTools](https://github.com/lingtalfi/CSRFTools) 1.5.4 --> 1.5.5
+
+
 - 2.0.3809 -- 2021-05-31
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.154 --> 1.0.155
