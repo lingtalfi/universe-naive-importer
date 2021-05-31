@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4025 -- 2021-05-31
+
+    - [Ling/RssUtil](https://github.com/lingtalfi/RssUtil) 1.0.3 --> 1.0.4
+
+
 - 2.0.4024 -- 2021-05-31
 
     - [Ling/RowsSortHelper](https://github.com/lingtalfi/RowsSortHelper) 1.0.0 --> 1.0.1
