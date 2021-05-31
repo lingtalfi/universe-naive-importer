@@ -2894,13 +2894,8 @@ galaxies:
             post_install: []
         
         SitemapSlicer: 
-            version: 1.0.3
-            dependencies: 
-                Ling: 
-                    - Bat
-                    - SitemapBuilderBox
-                
-            
+            version: 1.0.4
+            dependencies: []
             post_install: []
         
         SokoForm: 
