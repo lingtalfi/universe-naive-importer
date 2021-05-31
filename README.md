@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3757 -- 2021-05-31
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.34 --> 1.24.35
+
+
 - 2.0.3756 -- 2021-05-28
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.145 --> 1.0.146
