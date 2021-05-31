@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3848 -- 2021-05-31
+
+    - [Ling/JFormCollect](https://github.com/lingtalfi/JFormCollect) 1.0.2 --> 1.0.3
+
+
 - 2.0.3847 -- 2021-05-31
 
     - [Ling/JFileUploader](https://github.com/lingtalfi/JFileUploader) 3.0.8 --> 3.0.9
