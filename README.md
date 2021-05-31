@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3833 -- 2021-05-31
+
+    - [Ling/DocTools](https://github.com/lingtalfi/DocTools) 1.14.10 --> 1.14.11
+
+
 - 2.0.3832 -- 2021-05-31
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.160 --> 1.0.161

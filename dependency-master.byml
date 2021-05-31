@@ -488,7 +488,7 @@ galaxies:
             post_install: []
         
         DocTools: 
-            version: 1.14.10
+            version: 1.14.11
             dependencies: 
                 Ling: 
                     - ArrayToString
