@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3857 -- 2021-05-31
+
+    - [Ling/Jin](https://github.com/lingtalfi/Jin) 1.0.4 --> 1.0.5
+
+
 - 2.0.3856 -- 2021-05-31
 
     - [Ling/JimToolbox](https://github.com/lingtalfi/JimToolbox) 1.0.3 --> 1.0.4
