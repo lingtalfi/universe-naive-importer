@@ -2253,11 +2253,12 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.31.20
+            version: 1.31.21
             dependencies: 
                 Ling: 
                     - ArrayToString
                     - Bat
+                    - CliTools
                     - Light
                     - Light_Bullsheet
                     - Light_Database
@@ -2265,10 +2266,12 @@ galaxies:
                     - Light_Events
                     - Light_FileWatcher
                     - Light_PasswordProtector
+                    - Light_PlanetInstaller
                     - Light_PluginInstaller
                     - SimplePdoWrapper
                     - SqlWizard
                     - TinyBullsheeter
+                    - UniverseTools
                 
             
             post_install: 
