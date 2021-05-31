@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3831 -- 2021-05-31
+
+    - [Ling/DirScanner](https://github.com/lingtalfi/DirScanner) 1.13.5 --> 1.13.6
+
+
 - 2.0.3830 -- 2021-05-31
 
     - [Ling/Deploy](https://github.com/lingtalfi/Deploy) 1.1.5 --> 1.1.6
