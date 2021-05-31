@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4073 -- 2021-05-31
+
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.22.40 --> 1.22.41
+
+
 - 2.0.4072 -- 2021-05-31
 
     - [Ling/UniversalTemplateEngine](https://github.com/lingtalfi/UniversalTemplateEngine) 1.1.3 --> 1.1.4
