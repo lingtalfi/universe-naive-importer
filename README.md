@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3938 -- 2021-05-31
+
+    - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 2.0.17 --> 2.0.18
+
+
 - 2.0.3937 -- 2021-05-31
 
     - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform) 2.0.15 --> 2.0.16
