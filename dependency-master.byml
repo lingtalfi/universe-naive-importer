@@ -1661,7 +1661,7 @@ galaxies:
             
         
         Light_Kit_Admin_LoginNotifier: 
-            version: 1.0.13
+            version: 1.0.14
             dependencies: 
                 Ling: 
                     - Light

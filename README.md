@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3909 -- 2021-05-31
+
+    - [Ling/Light_Kit_Admin_LoginNotifier](https://github.com/lingtalfi/Light_Kit_Admin_LoginNotifier) 1.0.13 --> 1.0.14
+
+
 - 2.0.3908 -- 2021-05-31
 
     - [Ling/Light_Kit_Admin_JimToolbox_PhpstormWidgetLinks](https://github.com/lingtalfi/Light_Kit_Admin_JimToolbox_PhpstormWidgetLinks) 1.0.1 --> 1.0.2
