@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3882 -- 2021-05-31
+
+    - [Ling/Light_CsrfSession](https://github.com/lingtalfi/Light_CsrfSession) 1.0.5 --> 1.0.6
+
+
 - 2.0.3881 -- 2021-05-31
 
     - [Ling/Light_Csrf](https://github.com/lingtalfi/Light_Csrf) 1.0.6 --> 1.0.7
