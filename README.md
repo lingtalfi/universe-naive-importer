@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4070 -- 2021-05-31
+
+    - [Ling/UniversalLogger](https://github.com/lingtalfi/UniversalLogger) 1.1.3 --> 1.1.4
+
+
 - 2.0.4069 -- 2021-05-31
 
     - [Ling/UniqueNameGenerator](https://github.com/lingtalfi/UniqueNameGenerator) 1.1.3 --> 1.1.4
