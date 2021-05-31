@@ -1304,7 +1304,7 @@ galaxies:
             
         
         Light_DbSynchronizer: 
-            version: 1.2.18
+            version: 1.2.19
             dependencies: 
                 Ling: 
                     - Bat
