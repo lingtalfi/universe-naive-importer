@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4056 -- 2021-05-31
+
+    - [Ling/Tim](https://github.com/lingtalfi/Tim) 1.6.3 --> 1.6.4
+
+
 - 2.0.4055 -- 2021-05-31
 
     - [Ling/ThumbnailTools](https://github.com/lingtalfi/ThumbnailTools) 1.3.4 --> 1.3.5
