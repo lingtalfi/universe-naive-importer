@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4079 -- 2021-05-31
+
+    - [Ling/UrlSmuggler](https://github.com/lingtalfi/UrlSmuggler) 1.0.0 --> 1.0.1
+
+
 - 2.0.4078 -- 2021-05-31
 
     - [Ling/UrlFriendlyListHelper](https://github.com/lingtalfi/UrlFriendlyListHelper) 1.1.4 --> 1.1.5
