@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3813 -- 2021-05-31
+
+    - [Ling/Chloroform](https://github.com/lingtalfi/Chloroform) 1.36.7 --> 1.36.8
+
+
 - 2.0.3812 -- 2021-05-31
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.155 --> 1.0.156
