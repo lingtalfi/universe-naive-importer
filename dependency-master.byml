@@ -2941,13 +2941,8 @@ galaxies:
             post_install: []
         
         StringFormatter: 
-            version: 1.0.3
-            dependencies: 
-                Ling: 
-                    - ArrayToString
-                    - VariableToString
-                
-            
+            version: 1.0.4
+            dependencies: []
             post_install: []
         
         SuspiciousException: 
