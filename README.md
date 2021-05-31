@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3786 -- 2021-05-31
+
+    - [Ling/Light_PrettyError](https://github.com/lingtalfi/Light_PrettyError) 1.5.13 --> 1.5.14
+
+
 - 2.0.3785 -- 2021-05-31
 
     - [Ling/Light_LoginNotifier](https://github.com/lingtalfi/Light_LoginNotifier) 1.0.10 --> 1.0.11
