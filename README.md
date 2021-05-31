@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3764 -- 2021-05-31
+
+    - [Ling/Light_Cli](https://github.com/lingtalfi/Light_Cli) 1.0.22 --> 1.0.23
+
+
 - 2.0.3763 -- 2021-05-31
 
     - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.25.0 --> 1.25.1
