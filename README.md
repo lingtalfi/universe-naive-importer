@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3899 -- 2021-05-31
+
+    - [Ling/Light_FileWatcher](https://github.com/lingtalfi/Light_FileWatcher) 1.1.6 --> 1.1.7
+
+
 - 2.0.3898 -- 2021-05-31
 
     - [Ling/Light_ExceptionHandler](https://github.com/lingtalfi/Light_ExceptionHandler) 1.2.14 --> 1.2.15
