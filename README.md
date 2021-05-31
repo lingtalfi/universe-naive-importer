@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3847 -- 2021-05-31
+
+    - [Ling/JFileUploader](https://github.com/lingtalfi/JFileUploader) 3.0.8 --> 3.0.9
+
+
 - 2.0.3846 -- 2021-05-31
 
     - [Ling/JCsrfAction](https://github.com/lingtalfi/JCsrfAction) 1.0.4 --> 1.0.5
