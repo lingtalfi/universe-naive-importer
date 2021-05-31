@@ -2813,14 +2813,8 @@ galaxies:
             post_install: []
         
         SafeUploader: 
-            version: 1.2.3
-            dependencies: 
-                Ling: 
-                    - Bat
-                    - BeeFramework
-                    - ThumbnailTools
-                
-            
+            version: 1.2.4
+            dependencies: []
             post_install: []
         
         SaveOrm: 

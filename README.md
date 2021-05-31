@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4026 -- 2021-05-31
+
+    - [Ling/SafeUploader](https://github.com/lingtalfi/SafeUploader) 1.2.3 --> 1.2.4
+
+
 - 2.0.4025 -- 2021-05-31
 
     - [Ling/RssUtil](https://github.com/lingtalfi/RssUtil) 1.0.3 --> 1.0.4
