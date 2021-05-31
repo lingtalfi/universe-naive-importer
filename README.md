@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4078 -- 2021-05-31
+
+    - [Ling/UrlFriendlyListHelper](https://github.com/lingtalfi/UrlFriendlyListHelper) 1.1.4 --> 1.1.5
+
+
 - 2.0.4077 -- 2021-05-31
 
     - [Ling/UploaderHandler](https://github.com/lingtalfi/UploaderHandler) 1.0.3 --> 1.0.4
