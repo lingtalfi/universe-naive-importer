@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3865 -- 2021-05-31
+
+    - [Ling/KrankenStein](https://github.com/lingtalfi/KrankenStein) 1.0.4 --> 1.0.5
+
+
 - 2.0.3864 -- 2021-05-31
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.161 --> 1.0.162
