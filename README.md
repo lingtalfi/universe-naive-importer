@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4031 -- 2021-05-31
+
+    - [Ling/SecureImageUploader](https://github.com/lingtalfi/SecureImageUploader) 1.0.3 --> 1.0.4
+
+
 - 2.0.4030 -- 2021-05-31
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.171 --> 1.0.172
