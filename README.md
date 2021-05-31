@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3808 -- 2021-05-31
+
+    - [Ling/BumbleBee](https://github.com/lingtalfi/BumbleBee) 1.0.4 --> 1.0.5
+
+
 - 2.0.3807 -- 2021-05-31
 
     - [Ling/Bootstrap4AdminTable](https://github.com/lingtalfi/Bootstrap4AdminTable) 1.15.7 --> 1.15.8
