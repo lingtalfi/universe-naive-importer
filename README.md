@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3943 -- 2021-05-31
+
+    - [Ling/Light_TablePrefixInfo](https://github.com/lingtalfi/Light_TablePrefixInfo) 1.0.5 --> 1.0.6
+
+
 - 2.0.3942 -- 2021-05-31
 
     - [Ling/Light_SpinKitHelper](https://github.com/lingtalfi/Light_SpinKitHelper) 1.0.7 --> 1.0.8
