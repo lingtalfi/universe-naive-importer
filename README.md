@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4013 -- 2021-05-31
+
+    - [Ling/ProjectInfo](https://github.com/lingtalfi/ProjectInfo) 1.0.4 --> 1.0.5
+
+
 - 2.0.4012 -- 2021-05-31
 
     - [Ling/Program](https://github.com/lingtalfi/Program) 1.1.3 --> 1.1.4
