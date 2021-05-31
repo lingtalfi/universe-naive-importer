@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4065 -- 2021-05-31
+
+    - [Ling/UltimateUploadHandler](https://github.com/lingtalfi/UltimateUploadHandler) 1.2.3 --> 1.2.4
+
+
 - 2.0.4064 -- 2021-05-31
 
     - [Ling/TreeListHelper](https://github.com/lingtalfi/TreeListHelper) 1.0.3 --> 1.0.4

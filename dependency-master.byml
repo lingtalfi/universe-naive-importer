@@ -3049,7 +3049,7 @@ galaxies:
             post_install: []
         
         UltimateUploadHandler: 
-            version: 1.2.3
+            version: 1.2.4
             dependencies: 
                 Ling: 
                     - Bat
