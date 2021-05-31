@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3841 -- 2021-05-31
+
+    - [Ling/InvoiceGenerator](https://github.com/lingtalfi/InvoiceGenerator) 1.0.1 --> 1.0.2
+
+
 - 2.0.3840 -- 2021-05-31
 
     - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 2.2.3 --> 2.2.4
