@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3884 -- 2021-05-31
+
+    - [Ling/Light_Database](https://github.com/lingtalfi/Light_Database) 1.14.25 --> 1.14.26
+
+
 - 2.0.3883 -- 2021-05-31
 
     - [Ling/Light_CsrfSimple](https://github.com/lingtalfi/Light_CsrfSimple) 1.2.9 --> 1.2.10
