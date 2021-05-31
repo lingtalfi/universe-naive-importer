@@ -3039,12 +3039,8 @@ galaxies:
             post_install: []
         
         Tokens: 
-            version: 1.4.3
-            dependencies: 
-                Ling: 
-                    - SequenceMatcher
-                
-            
+            version: 1.4.4
+            dependencies: []
             post_install: []
         
         TreeListHelper: 
