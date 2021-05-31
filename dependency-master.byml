@@ -2471,12 +2471,8 @@ galaxies:
             post_install: []
         
         MethodInjector: 
-            version: 1.5.3
-            dependencies: 
-                Ling: 
-                    - Bat
-                
-            
+            version: 1.5.4
+            dependencies: []
             post_install: []
         
         MikeMagicTools: 
