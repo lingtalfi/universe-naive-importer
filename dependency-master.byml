@@ -1082,7 +1082,7 @@ galaxies:
             
         
         Light_AjaxHandler: 
-            version: 2.2.6
+            version: 2.2.7
             dependencies: 
                 Ling: 
                     - Bat
