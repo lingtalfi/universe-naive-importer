@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3904 -- 2021-05-31
+
+    - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.18.3 --> 1.18.4
+
+
 - 2.0.3903 -- 2021-05-31
 
     - [Ling/Light_Initializer](https://github.com/lingtalfi/Light_Initializer) 1.3.5 --> 1.3.6
