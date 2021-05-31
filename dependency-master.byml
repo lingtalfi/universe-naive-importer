@@ -2642,12 +2642,10 @@ galaxies:
             post_install: []
         
         PersistentRowCollection: 
-            version: 1.0.3
+            version: 1.0.4
             dependencies: 
                 Ling: 
                     - FormModel
-                    - QuickPdo
-                    - RowsGenerator
                 
             
             post_install: []
