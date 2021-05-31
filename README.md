@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4053 -- 2021-05-31
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.35 --> 1.24.36
+
+
 - 2.0.4052 -- 2021-05-31
 
     - [Ling/TheAnarchist](https://github.com/lingtalfi/TheAnarchist) 1.0.3 --> 1.0.4
