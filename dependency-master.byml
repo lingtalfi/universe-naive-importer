@@ -118,7 +118,7 @@ galaxies:
             post_install: []
         
         BabyYaml: 
-            version: 1.7.10
+            version: 1.7.11
             dependencies: 
                 Ling: 
                     - Bat

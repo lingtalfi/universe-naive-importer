@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3799 -- 2021-05-31
+
+    - [Ling/BabyYaml](https://github.com/lingtalfi/BabyYaml) 1.7.10 --> 1.7.11
+
+
 - 2.0.3798 -- 2021-05-31
 
     - [Ling/ArrayVariableResolver](https://github.com/lingtalfi/ArrayVariableResolver) 1.2.4 --> 1.2.5
