@@ -2779,12 +2779,8 @@ galaxies:
             post_install: []
         
         ReflectionRepresentation: 
-            version: 1.0.3
-            dependencies: 
-                Ling: 
-                    - VariableToString
-                
-            
+            version: 1.0.4
+            dependencies: []
             post_install: []
         
         Registry: 
