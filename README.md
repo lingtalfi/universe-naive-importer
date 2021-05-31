@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3853 -- 2021-05-31
+
+    - [Ling/JSelectHide](https://github.com/lingtalfi/JSelectHide) 1.0.1 --> 1.0.2
+
+
 - 2.0.3852 -- 2021-05-31
 
     - [Ling/JRicAdminTableHelper](https://github.com/lingtalfi/JRicAdminTableHelper) 1.0.9 --> 1.0.10
