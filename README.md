@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4081 -- 2021-05-31
+
+    - [Ling/VariableToString](https://github.com/lingtalfi/VariableToString) 1.1.3 --> 1.1.4
+
+
 - 2.0.4080 -- 2021-05-31
 
     - [Ling/VSwitch](https://github.com/lingtalfi/VSwitch) 1.3.3 --> 1.3.4
