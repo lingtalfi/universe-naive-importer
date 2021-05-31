@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4060 -- 2021-05-31
+
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.173 --> 1.0.174
+
+
 - 2.0.4059 -- 2021-05-31
 
     - [Ling/Tiphaine](https://github.com/lingtalfi/Tiphaine) 1.0.3 --> 1.0.4
