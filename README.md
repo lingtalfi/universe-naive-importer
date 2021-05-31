@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3977 -- 2021-05-31
+
+    - [Ling/NotationFan](https://github.com/lingtalfi/NotationFan) 1.9.11 --> 1.9.12
+
+
 - 2.0.3976 -- 2021-05-31
 
     - [Ling/NaturallySimpleXmlElement](https://github.com/lingtalfi/NaturallySimpleXmlElement) 1.0.3 --> 1.0.4
