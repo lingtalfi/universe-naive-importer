@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3903 -- 2021-05-31
+
+    - [Ling/Light_Initializer](https://github.com/lingtalfi/Light_Initializer) 1.3.5 --> 1.3.6
+
+
 - 2.0.3902 -- 2021-05-31
 
     - [Ling/Light_HtmlPageCopilot](https://github.com/lingtalfi/Light_HtmlPageCopilot) 1.0.8 --> 1.0.9
