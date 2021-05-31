@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3788 -- 2021-05-31
+
+    - [Ling/Light_UserData](https://github.com/lingtalfi/Light_UserData) 1.19.18 --> 1.19.19
+
+
 - 2.0.3787 -- 2021-05-31
 
     - [Ling/Light_TaskScheduler](https://github.com/lingtalfi/Light_TaskScheduler) 1.1.8 --> 1.1.9
