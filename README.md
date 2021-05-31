@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3994 -- 2021-05-31
+
+    - [Ling/ParenthesisMirrorParser](https://github.com/lingtalfi/ParenthesisMirrorParser) 1.0.4 --> 1.0.5
+
+
 - 2.0.3993 -- 2021-05-31
 
     - [Ling/ParentChild](https://github.com/lingtalfi/ParentChild) 1.0.3 --> 1.0.4
