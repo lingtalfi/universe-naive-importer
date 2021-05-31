@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4058 -- 2021-05-31
+
+    - [Ling/TinyBullsheeter](https://github.com/lingtalfi/TinyBullsheeter) 1.0.3 --> 1.0.4
+
+
 - 2.0.4057 -- 2021-05-31
 
     - [Ling/TimeFileUtil](https://github.com/lingtalfi/TimeFileUtil) 1.0.3 --> 1.0.4
