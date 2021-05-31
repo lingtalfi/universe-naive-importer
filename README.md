@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3817 -- 2021-05-31
+
+    - [Ling/Chronos](https://github.com/lingtalfi/Chronos) 1.0.3 --> 1.0.4
+
+
 - 2.0.3816 -- 2021-05-31
 
     - [Ling/Chloroform_HydrogenRenderer](https://github.com/lingtalfi/Chloroform_HydrogenRenderer) 1.4.3 --> 1.4.4
