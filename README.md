@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3924 -- 2021-05-31
+
+    - [Ling/Light_LoginNotifier](https://github.com/lingtalfi/Light_LoginNotifier) 1.0.11 --> 1.0.12
+
+
 - 2.0.3923 -- 2021-05-31
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.166 --> 1.0.167
