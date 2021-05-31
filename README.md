@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4037 -- 2021-05-31
+
+    - [Ling/SimpleCurl](https://github.com/lingtalfi/SimpleCurl) 1.0.6 --> 1.0.7
+
+
 - 2.0.4036 -- 2021-05-31
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.172 --> 1.0.173
