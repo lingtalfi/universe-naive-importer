@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3997 -- 2021-05-31
+
+    - [Ling/Pea](https://github.com/lingtalfi/Pea) 1.2.3 --> 1.2.4
+
+
 - 2.0.3996 -- 2021-05-31
 
     - [Ling/ParseDown](https://github.com/lingtalfi/ParseDown) 1.0.3 --> 1.0.4
