@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3928 -- 2021-05-31
+
+    - [Ling/Light_PasswordProtector](https://github.com/lingtalfi/Light_PasswordProtector) 1.0.6 --> 1.0.7
+
+
 - 2.0.3927 -- 2021-05-31
 
     - [Ling/Light_Nugget](https://github.com/lingtalfi/Light_Nugget) 1.3.11 --> 1.3.12
