@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3835 -- 2021-05-31
+
+    - [Ling/EasyConsoleMenu](https://github.com/lingtalfi/EasyConsoleMenu) 1.0.4 --> 1.0.5
+
+
 - 2.0.3834 -- 2021-05-31
 
     - [Ling/DotMenu](https://github.com/lingtalfi/DotMenu) 1.0.5 --> 1.0.6
