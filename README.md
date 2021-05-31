@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3823 -- 2021-05-31
+
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.158 --> 1.0.159
+
+
 - 2.0.3822 -- 2021-05-31
 
     - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.10.28 --> 1.10.29
