@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3805 -- 2021-05-31
+
+    - [Ling/BeeFramework](https://github.com/lingtalfi/BeeFramework) 1.0.7 --> 1.0.8
+
+
 - 2.0.3804 -- 2021-05-31
 
     - [Ling/Beauty](https://github.com/lingtalfi/Beauty) 1.4.8 --> 1.4.9
