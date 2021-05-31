@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4005 -- 2021-05-31
+
+    - [Ling/PhpSpreadSheetTool](https://github.com/lingtalfi/PhpSpreadSheetTool) 1.0.6 --> 1.0.7
+
+
 - 2.0.4004 -- 2021-05-31
 
     - [Ling/PhpFileValidator](https://github.com/lingtalfi/PhpFileValidator) 1.0.3 --> 1.0.4

@@ -2685,7 +2685,7 @@ galaxies:
             post_install: []
         
         PhpSpreadSheetTool: 
-            version: 1.0.6
+            version: 1.0.7
             dependencies: 
                 Ling: 
                     - Bat
