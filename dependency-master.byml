@@ -2774,14 +2774,8 @@ galaxies:
             post_install: []
         
         Quoter: 
-            version: 1.4.3
-            dependencies: 
-                Ling: 
-                    - Bat
-                    - Escaper
-                    - WrappedString
-                
-            
+            version: 1.4.4
+            dependencies: []
             post_install: []
         
         ReflectionRepresentation: 
