@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3933 -- 2021-05-31
+
+    - [Ling/Light_PrerouteHub](https://github.com/lingtalfi/Light_PrerouteHub) 1.0.5 --> 1.0.6
+
+
 - 2.0.3932 -- 2021-05-31
 
     - [Ling/Light_PluginInstaller](https://github.com/lingtalfi/Light_PluginInstaller) 2.0.21 --> 2.0.22
