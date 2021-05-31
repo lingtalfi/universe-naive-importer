@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3866 -- 2021-05-31
+
+    - [Ling/Kwin](https://github.com/lingtalfi/Kwin) 1.0.6 --> 1.0.7
+
+
 - 2.0.3865 -- 2021-05-31
 
     - [Ling/KrankenStein](https://github.com/lingtalfi/KrankenStein) 1.0.4 --> 1.0.5

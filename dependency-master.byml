@@ -1020,7 +1020,7 @@ galaxies:
             post_install: []
         
         Kwin: 
-            version: 1.0.6
+            version: 1.0.7
             dependencies: []
             post_install: []
         
