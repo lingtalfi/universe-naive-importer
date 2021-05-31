@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3934 -- 2021-05-31
+
+    - [Ling/Light_PrettyError](https://github.com/lingtalfi/Light_PrettyError) 1.5.14 --> 1.5.15
+
+
 - 2.0.3933 -- 2021-05-31
 
     - [Ling/Light_PrerouteHub](https://github.com/lingtalfi/Light_PrerouteHub) 1.0.5 --> 1.0.6
