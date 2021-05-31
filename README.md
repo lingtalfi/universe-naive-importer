@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3792 -- 2021-05-31
+
+    - [Ling/AdminTable](https://github.com/lingtalfi/AdminTable) 1.6.10 --> 1.6.11
+
+
 - 2.0.3791 -- 2021-05-31
 
     - [Ling/Light_UserPreferences](https://github.com/lingtalfi/Light_UserPreferences) 1.0.10 --> 1.0.11
