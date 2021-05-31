@@ -752,7 +752,7 @@ galaxies:
             post_install: []
         
         JBee: 
-            version: 1.1.5
+            version: 1.1.6
             dependencies: []
             post_install: 
                 map: true
