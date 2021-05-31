@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3844 -- 2021-05-31
+
+    - [Ling/JBootstrapAutocomplete](https://github.com/lingtalfi/JBootstrapAutocomplete) 1.1.3 --> 1.1.4
+
+
 - 2.0.3843 -- 2021-05-31
 
     - [Ling/JBee](https://github.com/lingtalfi/JBee) 1.1.5 --> 1.1.6
