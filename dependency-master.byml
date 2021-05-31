@@ -249,7 +249,7 @@ galaxies:
             post_install: []
         
         Chloroform_HeliumLightRenderer: 
-            version: 1.6.8
+            version: 1.6.9
             dependencies: 
                 Ling: 
                     - Bat
