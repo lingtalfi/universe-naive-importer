@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4075 -- 2021-05-31
+
+    - [Ling/Updf](https://github.com/lingtalfi/Updf) 1.2.6 --> 1.2.7
+
+
 - 2.0.4074 -- 2021-05-31
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.177 --> 1.0.178
