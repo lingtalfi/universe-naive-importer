@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3860 -- 2021-05-31
+
+    - [Ling/Kit](https://github.com/lingtalfi/Kit) 1.14.1 --> 1.14.2
+
+
 - 2.0.3859 -- 2021-05-31
 
     - [Ling/JumboExploder](https://github.com/lingtalfi/JumboExploder) 1.0.4 --> 1.0.5
