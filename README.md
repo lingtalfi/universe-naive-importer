@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3851 -- 2021-05-31
+
+    - [Ling/JResponsiveTableHelper](https://github.com/lingtalfi/JResponsiveTableHelper) 1.5.5 --> 1.5.6
+
+
 - 2.0.3850 -- 2021-05-31
 
     - [Ling/JRadioHide](https://github.com/lingtalfi/JRadioHide) 1.0.6 --> 1.0.7
