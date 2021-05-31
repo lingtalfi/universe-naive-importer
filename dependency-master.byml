@@ -318,7 +318,7 @@ galaxies:
             post_install: []
         
         CliTools: 
-            version: 1.10.28
+            version: 1.10.29
             dependencies: 
                 Ling: 
                     - Bat
