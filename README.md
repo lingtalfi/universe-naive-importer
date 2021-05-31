@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3929 -- 2021-05-31
+
+    - [Ling/Light_PlanetInstaller](https://github.com/lingtalfi/Light_PlanetInstaller) 2.0.0 --> 2.0.1
+
+
 - 2.0.3928 -- 2021-05-31
 
     - [Ling/Light_PasswordProtector](https://github.com/lingtalfi/Light_PasswordProtector) 1.0.6 --> 1.0.7
