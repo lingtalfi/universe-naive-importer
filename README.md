@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4029 -- 2021-05-31
+
+    - [Ling/SectionComment](https://github.com/lingtalfi/SectionComment) 1.0.2 --> 1.0.3
+
+
 - 2.0.4028 -- 2021-05-31
 
     - [Ling/ScreenDebug](https://github.com/lingtalfi/ScreenDebug) 1.0.3 --> 1.0.4
