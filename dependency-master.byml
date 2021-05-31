@@ -2889,12 +2889,8 @@ galaxies:
             post_install: []
         
         SitemapBuilderBox: 
-            version: 1.0.3
-            dependencies: 
-                Ling: 
-                    - Bat
-                
-            
+            version: 1.0.4
+            dependencies: []
             post_install: []
         
         SitemapSlicer: 
