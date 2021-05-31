@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.3830 -- 2021-05-31
+
+    - [Ling/Deploy](https://github.com/lingtalfi/Deploy) 1.1.5 --> 1.1.6
+
+
 - 2.0.3829 -- 2021-05-31
 
     - [Ling/CyclicChainDetector](https://github.com/lingtalfi/CyclicChainDetector) 1.1.2 --> 1.1.3
