@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4088 -- 2021-05-31
+
+    - [Ling/YouTubeUtils](https://github.com/lingtalfi/YouTubeUtils) 1.2.3 --> 1.2.4
+
+
 - 2.0.4087 -- 2021-05-31
 
     - [Ling/XiaoApi](https://github.com/lingtalfi/XiaoApi) 2.2.7 --> 2.2.8
