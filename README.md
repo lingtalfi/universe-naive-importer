@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4103 -- 2021-06-01
+
+    - [Ling/Light_Database](https://github.com/lingtalfi/Light_Database) 1.14.26 --> 1.14.27
+
+
 - 2.0.4102 -- 2021-06-01
 
     - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.31.22 --> 1.31.23
