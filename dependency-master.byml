@@ -2062,12 +2062,15 @@ galaxies:
             
         
         Light_Realform: 
-            version: 2.0.16
+            version: 2.1.0
             dependencies: 
                 Ling: 
                     - ArrayToString
+                    - ArrayVariableResolver
+                    - BabyYaml
                     - Bat
                     - Chloroform
+                    - ConventionTools
                     - Light
                     - Light_ChloroformExtension
                     - Light_Crud
