@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4127 -- 2021-06-03
+
+    - [Ling/Light_Kit_Admin_UserData](https://github.com/lingtalfi/Light_Kit_Admin_UserData) 1.7.18 --> 1.7.19
+
+
 - 2.0.4126 -- 2021-06-03
 
     - [Ling/Light_Kit_Admin_JimToolbox_PhpstormWidgetLinks](https://github.com/lingtalfi/Light_Kit_Admin_JimToolbox_PhpstormWidgetLinks) 1.0.2 --> 1.0.3
