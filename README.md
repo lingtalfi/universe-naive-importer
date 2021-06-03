@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4121 -- 2021-06-03
+
+    - [Ling/Light_Database](https://github.com/lingtalfi/Light_Database) 1.14.27 --> 1.14.28
+
+
 - 2.0.4120 -- 2021-06-03
 
     - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.3.4 --> 1.3.5

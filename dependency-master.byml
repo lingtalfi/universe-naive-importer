@@ -1261,7 +1261,7 @@ galaxies:
             
         
         Light_Database: 
-            version: 1.14.27
+            version: 1.14.28
             dependencies: 
                 Ling: 
                     - ArrayToString
@@ -1269,10 +1269,12 @@ galaxies:
                     - CheapLogger
                     - CliTools
                     - Light
+                    - Light_DbSynchronizer
                     - Light_Events
                     - Light_Logger
                     - Light_PlanetInstaller
                     - SimplePdoWrapper
+                    - UniverseTools
                 
             
             post_install: 
