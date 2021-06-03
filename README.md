@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4131 -- 2021-06-03
+
+    - [Ling/Light_PrettyError](https://github.com/lingtalfi/Light_PrettyError) 1.5.15 --> 1.5.16
+
+
 - 2.0.4130 -- 2021-06-03
 
     - [Ling/Light_LingHooks](https://github.com/lingtalfi/Light_LingHooks) 1.0.11 --> 1.0.12
