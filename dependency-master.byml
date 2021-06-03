@@ -1816,10 +1816,12 @@ galaxies:
             
         
         Light_Kit_Store: 
-            version: 1.0.0
+            version: 1.0.2
             dependencies: 
                 Ling: 
                     - Light
+                    - Light_Database
+                    - Light_PlanetInstaller
                 
             
             post_install: 
