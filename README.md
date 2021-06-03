@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4111 -- 2021-06-03
+
+    - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.12.42 --> 0.12.43
+
+
 - 2.0.4110 -- 2021-06-03
 
     - [Ling/Light_Realform](https://github.com/lingtalfi/Light_Realform) 2.1.0 --> 2.1.1
