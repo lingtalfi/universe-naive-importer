@@ -1961,7 +1961,7 @@ galaxies:
             
         
         Light_PlanetInstaller: 
-            version: 2.0.3
+            version: 2.0.4
             dependencies: 
                 Ling: 
                     - BabyYaml
