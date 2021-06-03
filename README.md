@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4120 -- 2021-06-03
+
+    - [Ling/Light_ControllerHub](https://github.com/lingtalfi/Light_ControllerHub) 1.3.4 --> 1.3.5
+
+
 - 2.0.4119 -- 2021-06-03
 
     - [Ling/Light_AjaxHandler](https://github.com/lingtalfi/Light_AjaxHandler) 2.2.8 --> 2.2.9
