@@ -2062,7 +2062,7 @@ galaxies:
             
         
         Light_Realform: 
-            version: 2.1.1
+            version: 2.1.2
             dependencies: 
                 Ling: 
                     - ArrayToString
@@ -2070,7 +2070,9 @@ galaxies:
                     - BabyYaml
                     - Bat
                     - Chloroform
+                    - CliTools
                     - ConventionTools
+                    - DirScanner
                     - Light
                     - Light_ChloroformExtension
                     - Light_Crud
