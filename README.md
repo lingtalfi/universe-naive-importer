@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4144 -- 2021-06-04
+
+    - [Ling/TokenFun](https://github.com/lingtalfi/TokenFun) 1.11.10 --> 1.11.11
+
+
 - 2.0.4143 -- 2021-06-04
 
     - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.29 --> 1.28.30
