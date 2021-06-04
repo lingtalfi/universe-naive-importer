@@ -1937,6 +1937,17 @@ galaxies:
                 map: true
             
         
+        Light_MiniTrustChallenger: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Nugget: 
             version: 1.3.12
             dependencies: 
