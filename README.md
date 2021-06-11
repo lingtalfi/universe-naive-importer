@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4150 -- 2021-06-11
+
+    - [Ling/Light_ProjectVars](https://github.com/lingtalfi/Light_ProjectVars)  --> 1.0.0
+
+
 - 2.0.4149 -- 2021-06-04
 
     - [Ling/Light_MiniTrustChallenger](https://github.com/lingtalfi/Light_MiniTrustChallenger)  --> 1.0.0
