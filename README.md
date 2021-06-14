@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4152 -- 2021-06-14
+
+    - [Ling/Light_User](https://github.com/lingtalfi/Light_User) 1.7.4 --> 1.7.5
+
+
 - 2.0.4151 -- 2021-06-11
 
     - [Ling/JFormCollect](https://github.com/lingtalfi/JFormCollect) 1.0.3 --> 1.0.4
