@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4153 -- 2021-06-14
+
+    - [Ling/Light_UserManager](https://github.com/lingtalfi/Light_UserManager) 1.5.9 --> 1.5.10
+
+
 - 2.0.4152 -- 2021-06-14
 
     - [Ling/Light_User](https://github.com/lingtalfi/Light_User) 1.7.4 --> 1.7.5
