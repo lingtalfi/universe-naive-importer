@@ -2300,10 +2300,11 @@ galaxies:
             
         
         Light_UserDatabase: 
-            version: 1.31.24
+            version: 1.31.25
             dependencies: 
                 Ling: 
                     - ArrayToString
+                    - BabyYaml
                     - Bat
                     - CliTools
                     - Light
@@ -2312,9 +2313,7 @@ galaxies:
                     - Light_Events
                     - Light_FileWatcher
                     - Light_PasswordProtector
-                    - Light_PluginInstaller
                     - SimplePdoWrapper
-                    - SqlWizard
                     - TinyBullsheeter
                 
             
