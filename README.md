@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4160 -- 2021-06-15
+
+    - [Ling/Light_Mailer](https://github.com/lingtalfi/Light_Mailer) 1.3.14 --> 1.3.15
+
+
 - 2.0.4159 -- 2021-06-15
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.36 --> 1.24.37
