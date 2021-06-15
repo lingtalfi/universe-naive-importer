@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4159 -- 2021-06-15
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.36 --> 1.24.37
+
+
 - 2.0.4158 -- 2021-06-15
 
     - [Ling/Light_UserDatabase](https://github.com/lingtalfi/Light_UserDatabase) 1.31.24 --> 1.31.25
