@@ -1908,15 +1908,17 @@ galaxies:
             
         
         Light_Mailer: 
-            version: 1.3.16
+            version: 1.3.17
             dependencies: 
                 Ling: 
                     - ArrayToString
                     - ArrayVariableResolver
                     - Bat
+                    - CliTools
                     - Light
                     - Light_Events
                     - Light_Logger
+                    - Light_PlanetInstaller
                 
             
             post_install: 
