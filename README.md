@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4162 -- 2021-06-15
+
+    - [Ling/BeeFramework](https://github.com/lingtalfi/BeeFramework) 1.0.8 --> 1.0.9
+
+
 - 2.0.4161 -- 2021-06-15
 
     - [Ling/Light_Mailer](https://github.com/lingtalfi/Light_Mailer) 1.3.15 --> 1.3.16
