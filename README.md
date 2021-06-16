@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4168 -- 2021-06-16
+
+    - [Ling/Light_MicroPermission](https://github.com/lingtalfi/Light_MicroPermission) 3.0.11 --> 3.1.0
+
+
 - 2.0.4167 -- 2021-06-16
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.37 --> 1.24.38
