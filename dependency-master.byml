@@ -1723,7 +1723,7 @@ galaxies:
             
         
         Light_Kit_Admin_UserDatabase: 
-            version: 0.5.23
+            version: 0.5.24
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1740,6 +1740,7 @@ galaxies:
                     - Light_Nugget
                     - Light_PlanetInstaller
                     - Light_Realform
+                    - Light_Realist
                     - Light_User
                     - Light_UserData
                     - Light_UserDatabase
