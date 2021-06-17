@@ -1752,7 +1752,7 @@ galaxies:
             
         
         Light_Kit_Admin_UserPreferences: 
-            version: 1.2.15
+            version: 1.2.16
             dependencies: 
                 Ling: 
                     - Bat
