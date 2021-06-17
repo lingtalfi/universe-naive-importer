@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4178 -- 2021-06-17
+
+    - [Ling/Light_PlanetInstaller](https://github.com/lingtalfi/Light_PlanetInstaller) 2.0.4 --> 2.0.5
+
+
 - 2.0.4177 -- 2021-06-17
 
     - [Ling/Light_Kit_Admin_UserPreferences](https://github.com/lingtalfi/Light_Kit_Admin_UserPreferences) 1.2.14 --> 1.2.15
