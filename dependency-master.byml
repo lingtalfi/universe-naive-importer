@@ -1635,7 +1635,7 @@ galaxies:
             
         
         Light_Kit_Admin_Generator: 
-            version: 1.19.16
+            version: 1.19.17
             dependencies: 
                 Ling: 
                     - BabyYaml
