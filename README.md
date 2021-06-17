@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4170 -- 2021-06-17
+
+    - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.12.45 --> 0.12.46
+
+
 - 2.0.4169 -- 2021-06-17
 
     - [Ling/Light_MicroPermission](https://github.com/lingtalfi/Light_MicroPermission) 3.1.0 --> 3.1.1
