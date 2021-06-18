@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4207 -- 2021-06-18
+
+    - [Ling/Light_Kit_Admin_MailStats](https://github.com/lingtalfi/Light_Kit_Admin_MailStats) 0.0.1 --> 0.0.2
+
+
 - 2.0.4206 -- 2021-06-18
 
     - [Ling/Light_Kit_Admin_Kit_Editor](https://github.com/lingtalfi/Light_Kit_Admin_Kit_Editor)  --> 0.0.1
