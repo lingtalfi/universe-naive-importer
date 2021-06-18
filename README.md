@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4215 -- 2021-06-18
+
+    - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.34 --> 1.28.35
+
+
 - 2.0.4214 -- 2021-06-18
 
     - [Ling/Light_Kit_Admin_Generator](https://github.com/lingtalfi/Light_Kit_Admin_Generator) 1.19.20 --> 1.19.21
