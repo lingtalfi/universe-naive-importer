@@ -113,6 +113,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4206 -- 2021-06-18
+
+    - [Ling/Light_Kit_Admin_Kit_Editor](https://github.com/lingtalfi/Light_Kit_Admin_Kit_Editor)  --> 0.0.1
+    - [Ling/Light_Kit_Admin_LoginNotifier](https://github.com/lingtalfi/Light_Kit_Admin_LoginNotifier) 1.0.17 --> 1.0.18
+
+
 - 2.0.4205 -- 2021-06-18
 
     - [Ling/Light_Kit_Store](https://github.com/lingtalfi/Light_Kit_Store) 1.1.0 --> 0.0.1

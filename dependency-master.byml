@@ -1667,8 +1667,32 @@ galaxies:
                 map: true
             
         
+        Light_Kit_Admin_Kit_Editor: 
+            version: 0.0.1
+            dependencies: 
+                Ling: 
+                    - BabyYaml
+                    - Bat
+                    - CliTools
+                    - Kit_PicassoWidget
+                    - Light
+                    - Light_AjaxHandler
+                    - Light_ControllerHub
+                    - Light_CsrfSession
+                    - Light_Kit
+                    - Light_Kit_Admin
+                    - Light_Kit_Editor
+                    - Light_MicroPermission
+                    - Light_PlanetInstaller
+                    - UniverseTools
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Kit_Admin_LoginNotifier: 
-            version: 1.0.17
+            version: 1.0.18
             dependencies: 
                 Ling: 
                     - Light
