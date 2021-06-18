@@ -1842,7 +1842,7 @@ galaxies:
             
         
         Light_Kit_Editor: 
-            version: 0.2.5
+            version: 0.2.6
             dependencies: 
                 Ling: 
                     - BabyYaml
