@@ -1831,7 +1831,7 @@ galaxies:
             
         
         Light_Kit_Store: 
-            version: 1.1.0
+            version: 0.0.1
             dependencies: 
                 Ling: 
                     - Bat
