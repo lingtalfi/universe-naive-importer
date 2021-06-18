@@ -1789,7 +1789,7 @@ galaxies:
             
         
         Light_Kit_Admin_UserNotifications: 
-            version: 0.0.1
+            version: 0.0.2
             dependencies: 
                 Ling: 
                     - Light
