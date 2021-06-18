@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4227 -- 2021-06-18
+
+    - [Ling/Jquery](https://github.com/lingtalfi/Jquery) 1.1.5 --> 1.1.6
+
+
 - 2.0.4226 -- 2021-06-18
 
     - [Ling/Light_Kit_Admin_UserPreferences](https://github.com/lingtalfi/Light_Kit_Admin_UserPreferences) 1.2.17 --> 1.2.18
