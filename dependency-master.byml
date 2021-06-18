@@ -1908,6 +1908,19 @@ galaxies:
                 map: true
             
         
+        Light_MailStats: 
+            version: 0.0.1
+            dependencies: 
+                Ling: 
+                    - Light
+                    - Light_Database
+                    - SimplePdoWrapper
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Mailer: 
             version: 1.3.17
             dependencies: 

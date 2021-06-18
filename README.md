@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4197 -- 2021-06-18
+
+    - [Ling/Light_MailStats](https://github.com/lingtalfi/Light_MailStats)  --> 0.0.1
+
+
 - 2.0.4196 -- 2021-06-17
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.30.18 --> 1.30.19
