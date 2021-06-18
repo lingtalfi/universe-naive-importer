@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4204 -- 2021-06-18
+
+    - [Ling/Light_Kit_Store](https://github.com/lingtalfi/Light_Kit_Store) 1.0.2 --> 1.1.0
+
+
 - 2.0.4203 -- 2021-06-18
 
     - [Ling/Light_Kit_Admin_Generator](https://github.com/lingtalfi/Light_Kit_Admin_Generator) 1.19.19 --> 1.19.20

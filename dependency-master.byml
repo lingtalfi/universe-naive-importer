@@ -1831,12 +1831,18 @@ galaxies:
             
         
         Light_Kit_Store: 
-            version: 1.0.2
+            version: 1.1.0
             dependencies: 
                 Ling: 
+                    - Bat
+                    - CliTools
                     - Light
                     - Light_Database
-                    - Light_PlanetInstaller
+                    - Light_Kit_Editor
+                    - Light_MailStats
+                    - Light_Mailer
+                    - Light_PasswordProtector
+                    - SimplePdoWrapper
                 
             
             post_install: 
