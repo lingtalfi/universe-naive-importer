@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4238 -- 2021-06-21
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.325 --> 1.326
+
+
 - 2.0.4237 -- 2021-06-21
 
     - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.35 --> 1.28.36
