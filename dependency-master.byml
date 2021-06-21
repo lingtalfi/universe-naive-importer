@@ -1824,13 +1824,17 @@ galaxies:
             
         
         Light_Kit_BootstrapWidgetLibrary: 
-            version: 1.18.13
+            version: 1.18.14
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
+                    - CliTools
                     - HtmlPageTools
                     - Kit_PicassoWidget
+                    - Light
+                    - Light_Cli
+                    - Light_Logger
                 
             
             post_install: 
