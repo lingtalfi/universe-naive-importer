@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4249 -- 2021-06-22
+
+    - [Ling/JFormCollect](https://github.com/lingtalfi/JFormCollect) 1.0.5 --> 1.0.6
+
+
 - 2.0.4248 -- 2021-06-22
 
     - [Ling/Kit_PrototypeWidget](https://github.com/lingtalfi/Kit_PrototypeWidget) 1.1.6 --> 1.1.7
