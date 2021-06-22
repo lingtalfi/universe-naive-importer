@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4245 -- 2021-06-22
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.327 --> 1.328
+
+
 - 2.0.4244 -- 2021-06-21
 
     - [Ling/Light_Kit_Store](https://github.com/lingtalfi/Light_Kit_Store) 0.0.3 --> 0.0.4
