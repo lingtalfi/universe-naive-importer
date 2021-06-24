@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4263 -- 2021-06-24
+
+    - [Ling/JAlcp](https://github.com/lingtalfi/JAlcp)  --> 1.0.0
+
+
 - 2.0.4262 -- 2021-06-24
 
     - [Ling/Light_UserManager](https://github.com/lingtalfi/Light_UserManager) 1.5.15 --> 1.5.16
