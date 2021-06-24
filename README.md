@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4261 -- 2021-06-24
+
+    - [Ling/Light_User](https://github.com/lingtalfi/Light_User) 1.7.5 --> 1.8.0
+
+
 - 2.0.4260 -- 2021-06-24
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.30.19 --> 1.30.20
