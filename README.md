@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4269 -- 2021-06-25
+
+    - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.18.6 --> 1.18.7
+
+
 - 2.0.4268 -- 2021-06-25
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.38 --> 1.24.39

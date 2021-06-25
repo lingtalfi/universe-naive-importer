@@ -1544,7 +1544,7 @@ galaxies:
             
         
         Light_Kit: 
-            version: 1.18.6
+            version: 1.18.7
             dependencies: 
                 Ling: 
                     - ArrayVariableResolver
@@ -1555,6 +1555,7 @@ galaxies:
                     - Kit_PrototypeWidget
                     - Light
                     - Light_Events
+                    - Light_Vars
                 
             
             post_install: 
