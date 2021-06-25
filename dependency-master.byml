@@ -2180,15 +2180,17 @@ galaxies:
             
         
         Light_RealGenerator: 
-            version: 1.31.23
+            version: 1.31.24
             dependencies: 
                 Ling: 
                     - ArrayVariableResolver
                     - BabyYaml
                     - Bat
+                    - CliTools
                     - Light
                     - Light_DatabaseInfo
                     - Light_Logger
+                    - Light_PlanetInstaller
                     - SqlWizard
                 
             
