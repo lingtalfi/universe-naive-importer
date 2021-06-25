@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4267 -- 2021-06-25
+
+    - [Ling/Light_Vars](https://github.com/lingtalfi/Light_Vars) 1.0.6 --> 1.0.7
+
+
 - 2.0.4266 -- 2021-06-25
 
     - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.18.5 --> 1.18.6
