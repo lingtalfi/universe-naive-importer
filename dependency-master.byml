@@ -1955,12 +1955,15 @@ galaxies:
             
         
         Light_Logger: 
-            version: 1.11.9
+            version: 1.11.10
             dependencies: 
                 Ling: 
                     - ArrayToString
+                    - BabyYaml
                     - Bat
                     - CliTools
+                    - Light
+                    - SicTools
                     - UniversalLogger
                 
             
