@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4299 -- 2021-06-25
+
+    - [Ling/Light_ErrorPop](https://github.com/lingtalfi/Light_ErrorPop) 1.0.8 --> 1.0.9
+
+
 - 2.0.4298 -- 2021-06-25
 
     - [Ling/Light_TaskScheduler](https://github.com/lingtalfi/Light_TaskScheduler) 1.1.10 --> 1.1.11

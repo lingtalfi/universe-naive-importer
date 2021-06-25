@@ -1448,8 +1448,14 @@ galaxies:
             
         
         Light_ErrorPop: 
-            version: 1.0.8
-            dependencies: []
+            version: 1.0.9
+            dependencies: 
+                Ling: 
+                    - CliTools
+                    - Light_Logger
+                    - Light_PlanetInstaller
+                
+            
             post_install: 
                 map: true
             
