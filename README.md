@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4280 -- 2021-06-25
+
+    - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.6.6 --> 1.6.7
+
+
 - 2.0.4279 -- 2021-06-25
 
     - [Ling/Light_CsrfSimple](https://github.com/lingtalfi/Light_CsrfSimple) 1.2.10 --> 1.2.11

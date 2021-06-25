@@ -1,0 +1,6 @@
+dependencies: 
+    Ling: 
+        - BeeFramework
+    
+
+post_install: []
