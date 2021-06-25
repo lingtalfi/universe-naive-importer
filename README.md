@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4297 -- 2021-06-25
+
+    - [Ling/Light_PluginInstaller](https://github.com/lingtalfi/Light_PluginInstaller) 2.0.22 --> 2.0.23
+
+
 - 2.0.4296 -- 2021-06-25
 
     - [Ling/Light_ExceptionHandler](https://github.com/lingtalfi/Light_ExceptionHandler) 1.2.16 --> 1.2.17

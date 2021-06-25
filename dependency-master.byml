@@ -2112,13 +2112,15 @@ galaxies:
             
         
         Light_PluginInstaller: 
-            version: 2.0.22
+            version: 2.0.23
             dependencies: 
                 Ling: 
                     - Bat
                     - CliTools
                     - CyclicChainDetector
                     - Light
+                    - Light_Logger
+                    - Light_PlanetInstaller
                     - SimplePdoWrapper
                     - UniverseTools
                 
