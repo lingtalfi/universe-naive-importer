@@ -1254,7 +1254,7 @@ galaxies:
             
         
         Light_CsrfSimple: 
-            version: 1.2.10
+            version: 1.2.11
             dependencies: 
                 Ling: 
                     - Chloroform
@@ -2517,7 +2517,7 @@ galaxies:
             post_install: []
         
         LingTalfi: 
-            version: 1.25.3
+            version: 1.25.4
             dependencies: 
                 Ling: 
                     - BabyYaml
