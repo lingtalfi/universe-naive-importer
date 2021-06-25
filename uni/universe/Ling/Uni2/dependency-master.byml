@@ -1455,7 +1455,7 @@ galaxies:
             
         
         Light_Events: 
-            version: 1.10.6
+            version: 1.10.7
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -1464,6 +1464,7 @@ galaxies:
                     - DirScanner
                     - Light
                     - Light_Logger
+                    - Light_PlanetInstaller
                     - SectionComment
                     - UniverseTools
                 
