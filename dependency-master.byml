@@ -1037,12 +1037,11 @@ galaxies:
             post_install: []
         
         Light: 
-            version: 0.70.10
+            version: 0.70.11
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
-                    - CheapLogger
                     - DirScanner
                     - Light_Events
                     - Octopus
