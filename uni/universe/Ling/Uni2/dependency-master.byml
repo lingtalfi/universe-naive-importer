@@ -1957,7 +1957,7 @@ galaxies:
             
         
         Light_Logger: 
-            version: 1.11.10
+            version: 1.11.11
             dependencies: 
                 Ling: 
                     - ArrayToString
