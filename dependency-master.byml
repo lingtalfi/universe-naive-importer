@@ -1987,11 +1987,14 @@ galaxies:
             
         
         Light_MailStats: 
-            version: 0.0.2
+            version: 0.0.3
             dependencies: 
                 Ling: 
+                    - CliTools
                     - Light
                     - Light_Database
+                    - Light_EasyRoute
+                    - Light_PlanetInstaller
                     - SimplePdoWrapper
                 
             

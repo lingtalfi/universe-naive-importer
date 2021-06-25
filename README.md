@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4270 -- 2021-06-25
+
+    - [Ling/Light_MailStats](https://github.com/lingtalfi/Light_MailStats) 0.0.2 --> 0.0.3
+
+
 - 2.0.4269 -- 2021-06-25
 
     - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.18.6 --> 1.18.7
