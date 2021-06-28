@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4305 -- 2021-06-28
+
+    - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.18.14 --> 1.18.15
+
+
 - 2.0.4304 -- 2021-06-28
 
     - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.8.14 --> 1.8.15

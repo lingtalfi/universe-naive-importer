@@ -1846,7 +1846,7 @@ galaxies:
             
         
         Light_Kit_BootstrapWidgetLibrary: 
-            version: 1.18.14
+            version: 1.18.15
             dependencies: 
                 Ling: 
                     - BabyYaml
