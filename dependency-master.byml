@@ -1956,12 +1956,11 @@ galaxies:
             
         
         Light_LingStandardService: 
-            version: 1.6.13
+            version: 1.6.14
             dependencies: 
                 Ling: 
                     - Light
                     - Light_Logger
-                    - Light_PluginInstaller
                     - Light_UserDatabase
                     - UniverseTools
                 
