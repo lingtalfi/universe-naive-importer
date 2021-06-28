@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4301 -- 2021-06-28
+
+    - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.39 --> 1.28.40
+
+
 - 2.0.4300 -- 2021-06-28
 
     - [Ling/Light_FileWatcher](https://github.com/lingtalfi/Light_FileWatcher) 1.1.8 --> 1.1.9
