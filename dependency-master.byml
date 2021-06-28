@@ -2321,6 +2321,19 @@ galaxies:
                 map: true
             
         
+        Light_SqlWizard: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                    - Light_Database
+                    - SqlWizard
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_TablePrefixInfo: 
             version: 1.0.6
             dependencies: 
