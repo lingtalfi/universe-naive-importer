@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4309 -- 2021-06-28
+
+    - [Ling/ClassCooker](https://github.com/lingtalfi/ClassCooker) 1.16.5 --> 1.16.6
+
+
 - 2.0.4308 -- 2021-06-28
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.207 --> 1.0.208
