@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4315 -- 2021-06-28
+
+    - [Ling/Light_ExceptionHandler](https://github.com/lingtalfi/Light_ExceptionHandler) 1.2.17 --> 1.2.18
+
+
 - 2.0.4314 -- 2021-06-28
 
     - [Ling/Light_404Logger](https://github.com/lingtalfi/Light_404Logger) 1.0.16 --> 1.0.17
