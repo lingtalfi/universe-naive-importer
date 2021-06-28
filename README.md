@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4307 -- 2021-06-28
+
+    - [Ling/Light_Events](https://github.com/lingtalfi/Light_Events) 1.10.7 --> 1.10.8
+
+
 - 2.0.4306 -- 2021-06-28
 
     - [Ling/Light_ErrorHandler](https://github.com/lingtalfi/Light_ErrorHandler) 1.0.13 --> 1.0.14
