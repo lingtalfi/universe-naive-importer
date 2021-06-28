@@ -1071,18 +1071,21 @@ galaxies:
             
         
         Light_AjaxFileUploadManager: 
-            version: 1.8.13
+            version: 1.8.14
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
+                    - CliTools
                     - JFileUploader
                     - Light
                     - Light_CsrfSession
                     - Light_Database
+                    - Light_EasyRoute
                     - Light_Events
                     - Light_HtmlPageCopilot
                     - Light_Logger
+                    - Light_PlanetInstaller
                     - Light_UserData
                     - Light_UserManager
                     - ThumbnailTools
