@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4331 -- 2021-06-28
+
+    - [Ling/Light_ProjectVars](https://github.com/lingtalfi/Light_ProjectVars) 1.0.0 --> 1.0.1
+
+
 - 2.0.4330 -- 2021-06-28
 
     - [Ling/Light_DbSynchronizer](https://github.com/lingtalfi/Light_DbSynchronizer) 1.2.21 --> 1.2.22
