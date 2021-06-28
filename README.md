@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4317 -- 2021-06-28
+
+    - [Ling/Light_EndRoutine_Debugger](https://github.com/lingtalfi/Light_EndRoutine_Debugger) 1.2.8 --> 1.2.9
+
+
 - 2.0.4316 -- 2021-06-28
 
     - [Ling/Light_Mailer](https://github.com/lingtalfi/Light_Mailer) 1.3.19 --> 1.3.20
