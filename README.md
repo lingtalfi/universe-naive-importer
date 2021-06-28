@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4322 -- 2021-06-28
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.329 --> 1.330
+
+
 - 2.0.4321 -- 2021-06-28
 
     - [Ling/Light_SqlWizard](https://github.com/lingtalfi/Light_SqlWizard)  --> 1.0.0
