@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4318 -- 2021-06-28
+
+    - [Ling/Light_PlanetInstaller](https://github.com/lingtalfi/Light_PlanetInstaller) 2.0.7 --> 2.0.8
+
+
 - 2.0.4317 -- 2021-06-28
 
     - [Ling/Light_EndRoutine_Debugger](https://github.com/lingtalfi/Light_EndRoutine_Debugger) 1.2.8 --> 1.2.9

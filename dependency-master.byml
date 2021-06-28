@@ -2091,12 +2091,11 @@ galaxies:
             
         
         Light_PlanetInstaller: 
-            version: 2.0.7
+            version: 2.0.8
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
-                    - CheapLogger
                     - CliTools
                     - DirScanner
                     - Light
