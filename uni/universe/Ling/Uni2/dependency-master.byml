@@ -1114,7 +1114,7 @@ galaxies:
             
         
         Light_AppBoilerplate: 
-            version: 1.0.210
+            version: 1.0.211
             dependencies: []
             post_install: 
                 map: true
