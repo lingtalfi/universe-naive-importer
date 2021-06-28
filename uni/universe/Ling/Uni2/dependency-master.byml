@@ -3092,11 +3092,10 @@ galaxies:
             post_install: []
         
         SqlWizard: 
-            version: 1.13.10
+            version: 1.13.11
             dependencies: 
                 Ling: 
                     - Bat
-                    - BeeFramework
                     - JumboExploder
                     - SimplePdoWrapper
                 
