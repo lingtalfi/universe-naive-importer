@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4306 -- 2021-06-28
+
+    - [Ling/Light_ErrorHandler](https://github.com/lingtalfi/Light_ErrorHandler) 1.0.13 --> 1.0.14
+
+
 - 2.0.4305 -- 2021-06-28
 
     - [Ling/Light_Kit_BootstrapWidgetLibrary](https://github.com/lingtalfi/Light_Kit_BootstrapWidgetLibrary) 1.18.14 --> 1.18.15
