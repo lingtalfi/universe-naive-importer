@@ -1270,12 +1270,11 @@ galaxies:
             
         
         Light_Database: 
-            version: 1.14.29
+            version: 1.14.30
             dependencies: 
                 Ling: 
                     - ArrayToString
                     - Bat
-                    - CheapLogger
                     - CliTools
                     - Light
                     - Light_DbSynchronizer
