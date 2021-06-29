@@ -3111,7 +3111,7 @@ galaxies:
             post_install: []
         
         SqlWizard: 
-            version: 1.13.16
+            version: 1.13.17
             dependencies: 
                 Ling: 
                     - Bat
