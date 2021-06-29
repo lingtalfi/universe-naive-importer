@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4334 -- 2021-06-29
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.40 --> 1.24.41
+
+
 - 2.0.4333 -- 2021-06-29
 
     - [Ling/Light_EasyRoute](https://github.com/lingtalfi/Light_EasyRoute) 1.3.10 --> 1.3.11
