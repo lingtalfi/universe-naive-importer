@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4341 -- 2021-06-29
+
+    - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.13.14 --> 1.13.15
+
+
 - 2.0.4340 -- 2021-06-29
 
     - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.41 --> 1.28.42
