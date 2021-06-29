@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4337 -- 2021-06-29
+
+    - [Ling/Light_AjaxFileUploadManager](https://github.com/lingtalfi/Light_AjaxFileUploadManager) 1.8.15 --> 1.8.16
+
+
 - 2.0.4336 -- 2021-06-29
 
     - [Ling/Light_EasyRoute](https://github.com/lingtalfi/Light_EasyRoute) 1.3.11 --> 1.3.12
