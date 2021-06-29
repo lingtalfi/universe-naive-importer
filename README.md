@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4336 -- 2021-06-29
+
+    - [Ling/Light_EasyRoute](https://github.com/lingtalfi/Light_EasyRoute) 1.3.11 --> 1.3.12
+
+
 - 2.0.4335 -- 2021-06-29
 
     - [Ling/Digger](https://github.com/lingtalfi/Digger)  --> 1.0.0
