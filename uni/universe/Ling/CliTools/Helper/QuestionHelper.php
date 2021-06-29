@@ -58,7 +58,7 @@ class QuestionHelper
      *
      * Depending on your taste, you might end the question with a PHP_EOL (I personally tend to prefer to have the user's response
      * on the same line, but adding the PHP_EOL at the end will put the user response on the next line).
-     * Same with the retry message, you can end it with a PhP_EOL or not.
+     * Same with the retry message, you can end it with a PHP_EOL or not.
      * The retry message should probably re-introduce the question, or part of it.
      *
      * For instance, a typical question/retryMessage would be:
