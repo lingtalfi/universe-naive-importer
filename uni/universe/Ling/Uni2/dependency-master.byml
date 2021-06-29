@@ -1396,10 +1396,11 @@ galaxies:
             
         
         Light_EasyRoute: 
-            version: 1.3.12
+            version: 1.3.13
             dependencies: 
                 Ling: 
                     - BabyYaml
+                    - Bat
                     - Digger
                     - Light
                     - Light_Vars
