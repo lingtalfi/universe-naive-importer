@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4335 -- 2021-06-29
+
+    - [Ling/Digger](https://github.com/lingtalfi/Digger)  --> 1.0.0
+
+
 - 2.0.4334 -- 2021-06-29
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.40 --> 1.24.41
