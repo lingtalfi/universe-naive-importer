@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4343 -- 2021-06-29
+
+    - [Ling/JAlcp](https://github.com/lingtalfi/JAlcp) 1.0.0 --> 1.0.1
+
+
 - 2.0.4342 -- 2021-06-29
 
     - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.13.15 --> 1.13.16
