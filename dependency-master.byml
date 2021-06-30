@@ -755,6 +755,11 @@ galaxies:
             
             post_install: []
         
+        IsoTools: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         JAcpHep: 
             version: 1.2.8
             dependencies: []

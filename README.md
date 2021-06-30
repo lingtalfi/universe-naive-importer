@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4347 -- 2021-06-30
+
+    - [Ling/IsoTools](https://github.com/lingtalfi/IsoTools)  --> 1.0.0
+
+
 - 2.0.4346 -- 2021-06-29
 
     - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.42 --> 1.28.43
