@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4348 -- 2021-07-01
+
+    - [Ling/JFormCollect](https://github.com/lingtalfi/JFormCollect) 1.0.6 --> 1.0.7
+
+
 - 2.0.4347 -- 2021-06-30
 
     - [Ling/IsoTools](https://github.com/lingtalfi/IsoTools)  --> 1.0.0
