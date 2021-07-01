@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4349 -- 2021-07-01
+
+    - [Ling/HtmlToolbox](https://github.com/lingtalfi/HtmlToolbox)  --> 1.0.0
+
+
 - 2.0.4348 -- 2021-07-01
 
     - [Ling/JFormCollect](https://github.com/lingtalfi/JFormCollect) 1.0.6 --> 1.0.7
