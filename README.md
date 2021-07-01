@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4350 -- 2021-07-01
+
+    - [Ling/Light_Vars](https://github.com/lingtalfi/Light_Vars) 1.0.7 --> 1.0.8
+
+
 - 2.0.4349 -- 2021-07-01
 
     - [Ling/HtmlToolbox](https://github.com/lingtalfi/HtmlToolbox)  --> 1.0.0
