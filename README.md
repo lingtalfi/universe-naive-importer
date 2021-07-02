@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4354 -- 2021-07-02
+
+    - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.13.17 --> 1.13.18
+
+
 - 2.0.4353 -- 2021-07-02
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.30.20 --> 1.30.21
