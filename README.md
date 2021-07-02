@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4357 -- 2021-07-02
+
+    - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.13.19 --> 1.13.20
+
+
 - 2.0.4356 -- 2021-07-02
 
     - [Ling/Light_DatabaseFakeDataMaker](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker) 1.0.0 --> 1.0.1
