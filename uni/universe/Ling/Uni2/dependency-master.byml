@@ -1311,6 +1311,19 @@ galaxies:
                 map: true
             
         
+        Light_DatabaseFakeDataMaker: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - Light
+                    - Light_Database
+                    - Light_SqlWizard
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_DatabaseInfo: 
             version: 1.12.7
             dependencies: 

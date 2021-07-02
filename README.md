@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4352 -- 2021-07-02
+
+    - [Ling/Light_DatabaseFakeDataMaker](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker)  --> 1.0.0
+
+
 - 2.0.4351 -- 2021-07-02
 
     - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.41 --> 1.24.42
