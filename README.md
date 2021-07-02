@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4351 -- 2021-07-02
+
+    - [Ling/TheBar](https://github.com/lingtalfi/TheBar) 1.24.41 --> 1.24.42
+
+
 - 2.0.4350 -- 2021-07-01
 
     - [Ling/Light_Vars](https://github.com/lingtalfi/Light_Vars) 1.0.7 --> 1.0.8
