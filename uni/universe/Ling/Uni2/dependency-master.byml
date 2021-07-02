@@ -1312,12 +1312,13 @@ galaxies:
             
         
         Light_DatabaseFakeDataMaker: 
-            version: 1.0.0
+            version: 1.0.1
             dependencies: 
                 Ling: 
                     - Light
                     - Light_Database
                     - Light_SqlWizard
+                    - SqlWizard
                 
             
             post_install: 
