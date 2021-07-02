@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4353 -- 2021-07-02
+
+    - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.30.20 --> 1.30.21
+
+
 - 2.0.4352 -- 2021-07-02
 
     - [Ling/Light_DatabaseFakeDataMaker](https://github.com/lingtalfi/Light_DatabaseFakeDataMaker)  --> 1.0.0
