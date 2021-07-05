@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4358 -- 2021-07-05
+
+    - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.29.16 --> 1.29.17
+
+
 - 2.0.4357 -- 2021-07-02
 
     - [Ling/SqlWizard](https://github.com/lingtalfi/SqlWizard) 1.13.19 --> 1.13.20
