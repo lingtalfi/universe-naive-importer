@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4362 -- 2021-07-06
+
+    - [Ling/SqlFiddler](https://github.com/lingtalfi/SqlFiddler) 1.0.1 --> 1.0.2
+
+
 - 2.0.4361 -- 2021-07-06
 
     - [Ling/SqlFiddler](https://github.com/lingtalfi/SqlFiddler) 1.0.0 --> 1.0.1
