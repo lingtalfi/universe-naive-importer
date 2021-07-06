@@ -3120,6 +3120,11 @@ galaxies:
             
             post_install: []
         
+        SqlFiddler: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         SqlQuery: 
             version: 1.10.7
             dependencies: []
