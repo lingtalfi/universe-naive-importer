@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4366 -- 2021-07-06
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.331 --> 1.332
+
+
 - 2.0.4365 -- 2021-07-06
 
     - [Ling/SqlFiddler](https://github.com/lingtalfi/SqlFiddler) 1.0.2 --> 1.0.3
