@@ -3121,8 +3121,12 @@ galaxies:
             post_install: []
         
         SqlFiddler: 
-            version: 1.0.4
-            dependencies: []
+            version: 1.0.5
+            dependencies: 
+                Ling: 
+                    - SimplePdoWrapper
+                
+            
             post_install: []
         
         SqlQuery: 
