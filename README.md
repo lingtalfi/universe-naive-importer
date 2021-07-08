@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4388 -- 2021-07-08
+
+    - [Ling/CliTools](https://github.com/lingtalfi/CliTools) 1.10.29 --> 1.10.30
+
+
 - 2.0.4387 -- 2021-07-08
 
     - [Ling/Light_JimToolbox](https://github.com/lingtalfi/Light_JimToolbox) 1.0.2 --> 1.0.3

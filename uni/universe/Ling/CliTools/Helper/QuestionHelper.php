@@ -92,6 +92,16 @@ class QuestionHelper
     }
 
 
+    /**
+     * Asks the user to choose from the given list.
+     * The question argument is prepended to the list choice.
+     *
+     *
+     * @param OutputInterface $output
+     * @param string $question
+     * @param array $list
+     * @return string
+     */
     public static function askSelectListItem(OutputInterface $output, string $question, array $list)
     {
 
