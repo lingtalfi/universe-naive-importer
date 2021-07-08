@@ -1600,11 +1600,12 @@ galaxies:
             
         
         Light_JimToolbox: 
-            version: 1.0.0
+            version: 1.0.1
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
+                    - JimToolbox
                     - Light
                     - Light_ControllerHub
                     - Light_ReverseRouter
