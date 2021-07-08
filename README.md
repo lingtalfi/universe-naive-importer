@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4392 -- 2021-07-08
+
+    - [Ling/SqlFiddler](https://github.com/lingtalfi/SqlFiddler) 1.0.5 --> 1.0.6
+
+
 - 2.0.4391 -- 2021-07-08
 
     - [Ling/Light_Kit](https://github.com/lingtalfi/Light_Kit) 1.18.7 --> 1.18.8
