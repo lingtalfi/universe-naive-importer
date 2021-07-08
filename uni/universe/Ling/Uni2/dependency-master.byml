@@ -1967,6 +1967,21 @@ galaxies:
                 map: true
             
         
+        Light_Kit_JimToolbox_PhpstormWidgetLinks: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - BabyYaml
+                    - CliTools
+                    - Light_JimToolbox
+                    - Light_Kit_DebugTrace
+                    - Light_PlanetInstaller
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Kit_Store: 
             version: 0.0.5
             dependencies: 
