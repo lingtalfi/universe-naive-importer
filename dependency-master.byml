@@ -1921,6 +1921,21 @@ galaxies:
                 map: true
             
         
+        Light_Kit_DebugTrace: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - BabyYaml
+                    - Bat
+                    - Light
+                    - Light_CsrfSession
+                    - Light_Events
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Kit_Demo: 
             version: 1.2.6
             dependencies: []
