@@ -92,6 +92,26 @@ class QuestionHelper
     }
 
 
+    public static function askSelectListItem(OutputInterface $output, string $question, array $list)
+    {
+
+        $dataType = "number";
+        $sItems = "";
+        foreach ($list as $k => $v) {
+            if (false === is_numeric($k)) {
+                $dataType = "letter";
+            }
+            $sItems .= "- <b>$k</b>: $v" . PHP_EOL;
+        }
+        $retryMessage = "Invalid answer, try again (type a $dataType):";
+        $q = $question . PHP_EOL .  $sItems;
+
+        return self::askClear($output, $q, $retryMessage, function ($response) use ($list) {
+            return array_key_exists($response, $list);
+        });
+    }
+
+
     /**
      * Asks the given question to the user, repeats it until the answer is either y or n, and returns whether the answer was y.
      * If it's something else, ask to try again until the answer is y or n.
