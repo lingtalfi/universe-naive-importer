@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4373 -- 2021-07-08
+
+    - [Ling/Light_JimToolbox](https://github.com/lingtalfi/Light_JimToolbox)  --> 1.0.0
+
+
 - 2.0.4372 -- 2021-07-08
 
     - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.43 --> 1.28.44

@@ -1599,6 +1599,22 @@ galaxies:
                 map: true
             
         
+        Light_JimToolbox: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - BabyYaml
+                    - Bat
+                    - Light
+                    - Light_ControllerHub
+                    - Light_ReverseRouter
+                    - UrlSmuggler
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Kit: 
             version: 1.18.7
             dependencies: 
