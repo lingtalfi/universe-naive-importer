@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4374 -- 2021-07-08
+
+    - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.13.4 --> 0.13.5
+
+
 - 2.0.4373 -- 2021-07-08
 
     - [Ling/Light_JimToolbox](https://github.com/lingtalfi/Light_JimToolbox)  --> 1.0.0
