@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4398 -- 2021-07-09
+
+    - [Ling/PaginationHelper](https://github.com/lingtalfi/PaginationHelper) 1.0.1 --> 1.0.2
+
+
 - 2.0.4397 -- 2021-07-09
 
     - [Ling/SqlFiddler](https://github.com/lingtalfi/SqlFiddler) 1.0.8 --> 1.0.9
