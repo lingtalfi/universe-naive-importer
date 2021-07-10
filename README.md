@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4399 -- 2021-07-10
+
+    - [Ling/JBee](https://github.com/lingtalfi/JBee) 1.1.6 --> 1.1.7
+
+
 - 2.0.4398 -- 2021-07-09
 
     - [Ling/PaginationHelper](https://github.com/lingtalfi/PaginationHelper) 1.0.1 --> 1.0.2
