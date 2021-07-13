@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4402 -- 2021-07-13
+
+    - [Ling/JBee](https://github.com/lingtalfi/JBee) 1.1.8 --> 1.1.9
+
+
 - 2.0.4401 -- 2021-07-13
 
     - [Ling/JBee](https://github.com/lingtalfi/JBee) 1.1.7 --> 1.1.8
