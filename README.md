@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4404 -- 2021-07-17
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.333 --> 1.334
+
+
 - 2.0.4403 -- 2021-07-15
 
     - [Ling/Light_JimToolbox](https://github.com/lingtalfi/Light_JimToolbox) 1.0.3 --> 1.0.4
