@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4411 -- 2021-07-22
+
+    - [Ling/Bat](https://github.com/lingtalfi/Bat) 1.335 --> 1.336
+
+
 - 2.0.4410 -- 2021-07-22
 
     - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.29.18 --> 1.29.19
