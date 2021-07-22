@@ -1156,7 +1156,7 @@ galaxies:
             
         
         Light_BreezeGenerator: 
-            version: 1.29.18
+            version: 1.29.19
             dependencies: 
                 Ling: 
                     - ArrayToString
