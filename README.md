@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4409 -- 2021-07-22
+
+    - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.30.21 --> 1.30.22
+
+
 - 2.0.4408 -- 2021-07-22
 
     - [Ling/Light_BreezeGenerator](https://github.com/lingtalfi/Light_BreezeGenerator) 1.29.17 --> 1.29.18
