@@ -1968,6 +1968,20 @@ galaxies:
                 map: true
             
         
+        Light_Kit_JimToolbox_LingTools: 
+            version: 1.0.0
+            dependencies: 
+                Ling: 
+                    - CliTools
+                    - Light_EasyRoute
+                    - Light_JimToolbox
+                    - Light_PlanetInstaller
+                
+            
+            post_install: 
+                map: true
+            
+        
         Light_Kit_JimToolbox_PhpstormWidgetLinks: 
             version: 1.0.4
             dependencies: 
