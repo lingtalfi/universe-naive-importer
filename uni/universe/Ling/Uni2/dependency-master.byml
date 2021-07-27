@@ -3153,7 +3153,7 @@ galaxies:
             post_install: []
         
         SimplePdoWrapper: 
-            version: 1.30.22
+            version: 1.30.23
             dependencies: 
                 Ling: 
                     - Bat

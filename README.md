@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4423 -- 2021-07-27
+
+    - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.30.22 --> 1.30.23
+
+
 - 2.0.4422 -- 2021-07-27
 
     - [Ling/Light_Kit_JimToolbox_LingTools](https://github.com/lingtalfi/Light_Kit_JimToolbox_LingTools)  --> 1.0.0
