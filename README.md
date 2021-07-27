@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4417 -- 2021-07-27
+
+    - [Ling/JimToolbox](https://github.com/lingtalfi/JimToolbox) 1.0.4 --> 1.0.5
+
+
 - 2.0.4416 -- 2021-07-22
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.221 --> 1.0.222
