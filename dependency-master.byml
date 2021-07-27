@@ -1969,7 +1969,7 @@ galaxies:
             
         
         Light_Kit_JimToolbox_PhpstormWidgetLinks: 
-            version: 1.0.3
+            version: 1.0.4
             dependencies: 
                 Ling: 
                     - BabyYaml

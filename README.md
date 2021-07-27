@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4421 -- 2021-07-27
+
+    - [Ling/Light_Kit_JimToolbox_PhpstormWidgetLinks](https://github.com/lingtalfi/Light_Kit_JimToolbox_PhpstormWidgetLinks) 1.0.3 --> 1.0.4
+
+
 - 2.0.4420 -- 2021-07-27
 
     - [Ling/Light_EasyRoute](https://github.com/lingtalfi/Light_EasyRoute) 1.3.13 --> 1.3.14
