@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4424 -- 2021-07-27
+
+    - [Ling/SqlFiddler](https://github.com/lingtalfi/SqlFiddler) 1.0.10 --> 1.0.11
+
+
 - 2.0.4423 -- 2021-07-27
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.30.22 --> 1.30.23
