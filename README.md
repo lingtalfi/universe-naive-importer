@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4425 -- 2021-07-29
+
+    - [Ling/JFormCollect](https://github.com/lingtalfi/JFormCollect) 1.0.7 --> 1.0.8
+
+
 - 2.0.4424 -- 2021-07-27
 
     - [Ling/SqlFiddler](https://github.com/lingtalfi/SqlFiddler) 1.0.10 --> 1.0.11
