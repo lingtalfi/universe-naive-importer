@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4438 -- 2021-07-30
+
+    - [Ling/Light_Kit_Store](https://github.com/lingtalfi/Light_Kit_Store) 0.0.7 --> 0.0.8
+
+
 - 2.0.4437 -- 2021-07-30
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.224 --> 1.0.225
