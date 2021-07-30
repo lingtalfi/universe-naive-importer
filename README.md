@@ -113,6 +113,12 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4436 -- 2021-07-30
+
+    - [Ling/Light_Kit_Store](https://github.com/lingtalfi/Light_Kit_Store) 0.0.6 --> 0.0.7
+    - [Ling/UniverseTools](https://github.com/lingtalfi/UniverseTools) 1.22.43 --> 1.22.44
+
+
 - 2.0.4435 -- 2021-07-30
 
     - [Ling/Light_Kit_Store](https://github.com/lingtalfi/Light_Kit_Store) 0.0.5 --> 0.0.6

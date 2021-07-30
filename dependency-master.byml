@@ -1999,7 +1999,7 @@ galaxies:
             
         
         Light_Kit_Store: 
-            version: 0.0.6
+            version: 0.0.7
             dependencies: 
                 Ling: 
                     - BabyYaml
@@ -3388,7 +3388,7 @@ galaxies:
             post_install: []
         
         UniverseTools: 
-            version: 1.22.43
+            version: 1.22.44
             dependencies: 
                 Ling: 
                     - BabyYaml
