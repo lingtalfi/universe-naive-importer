@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4432 -- 2021-07-30
+
+    - [Ling/Light_Kit_Admin](https://github.com/lingtalfi/Light_Kit_Admin) 0.13.5 --> 0.13.6
+
+
 - 2.0.4431 -- 2021-07-30
 
     - [Ling/WiseTool](https://github.com/lingtalfi/WiseTool) 1.2.4 --> 1.2.5
