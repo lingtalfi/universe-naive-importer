@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4426 -- 2021-07-30
+
+    - [Ling/Light](https://github.com/lingtalfi/Light) 0.70.12 --> 0.70.13
+
+
 - 2.0.4425 -- 2021-07-29
 
     - [Ling/JFormCollect](https://github.com/lingtalfi/JFormCollect) 1.0.7 --> 1.0.8

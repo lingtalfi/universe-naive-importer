@@ -1058,13 +1058,14 @@ galaxies:
             post_install: []
         
         Light: 
-            version: 0.70.12
+            version: 0.70.13
             dependencies: 
                 Ling: 
                     - BabyYaml
                     - Bat
                     - DirScanner
                     - Light_Events
+                    - Light_Logger
                     - Octopus
                     - ParenthesisMirrorParser
                     - PhpUploadFileFix
