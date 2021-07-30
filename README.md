@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4431 -- 2021-07-30
+
+    - [Ling/WiseTool](https://github.com/lingtalfi/WiseTool) 1.2.4 --> 1.2.5
+
+
 - 2.0.4430 -- 2021-07-30
 
     - [Ling/Light_Realist](https://github.com/lingtalfi/Light_Realist) 2.1.2 --> 2.1.3
