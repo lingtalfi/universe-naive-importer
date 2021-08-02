@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4443 -- 2021-08-02
+
+    - [Ling/JqZoom](https://github.com/lingtalfi/JqZoom) 1.0.0 --> 1.0.1
+
+
 - 2.0.4442 -- 2021-08-02
 
     - [Ling/JqZoom](https://github.com/lingtalfi/JqZoom)  --> 1.0.0
