@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4442 -- 2021-08-02
+
+    - [Ling/JqZoom](https://github.com/lingtalfi/JqZoom)  --> 1.0.0
+
+
 - 2.0.4441 -- 2021-08-02
 
     - [Ling/Light_Kit_Store](https://github.com/lingtalfi/Light_Kit_Store) 0.0.8 --> 0.0.9

@@ -945,6 +945,13 @@ galaxies:
             
             post_install: []
         
+        JqZoom: 
+            version: 1.0.0
+            dependencies: []
+            post_install: 
+                map: true
+            
+        
         Jquery: 
             version: 1.1.6
             dependencies: []
