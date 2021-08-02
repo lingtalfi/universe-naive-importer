@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4440 -- 2021-08-02
+
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.25.4 --> 1.25.5
+
+
 - 2.0.4439 -- 2021-07-30
 
     - [Ling/JAlcp](https://github.com/lingtalfi/JAlcp) 1.0.1 --> 1.0.2
