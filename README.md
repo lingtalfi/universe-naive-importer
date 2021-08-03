@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4449 -- 2021-08-03
+
+    - [Ling/Light_Kit_DebugTrace](https://github.com/lingtalfi/Light_Kit_DebugTrace) 1.0.1 --> 1.0.2
+
+
 - 2.0.4448 -- 2021-08-03
 
     - [Ling/Light_Kit_Editor](https://github.com/lingtalfi/Light_Kit_Editor) 0.2.9 --> 0.3.0
