@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4445 -- 2021-08-03
+
+    - [Ling/JLingHelpers](https://github.com/lingtalfi/JLingHelpers) 1.0.0 --> 1.0.1
+
+
 - 2.0.4444 -- 2021-08-03
 
     - [Ling/JLingHelpers](https://github.com/lingtalfi/JLingHelpers)  --> 1.0.0
