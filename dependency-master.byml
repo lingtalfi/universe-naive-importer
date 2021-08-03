@@ -865,6 +865,13 @@ galaxies:
             dependencies: []
             post_install: []
         
+        JLingHelpers: 
+            version: 1.0.0
+            dependencies: []
+            post_install: 
+                map: true
+            
+        
         JPostForm: 
             version: 1.0.4
             dependencies: []
