@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4448 -- 2021-08-03
+
+    - [Ling/Light_Kit_Editor](https://github.com/lingtalfi/Light_Kit_Editor) 0.2.9 --> 0.3.0
+
+
 - 2.0.4447 -- 2021-08-03
 
     - [Ling/JLingHelpers](https://github.com/lingtalfi/JLingHelpers) 1.0.2 --> 1.0.3
