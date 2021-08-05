@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4451 -- 2021-08-05
+
+    - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 2.2.4 --> 2.2.5
+
+
 - 2.0.4450 -- 2021-08-03
 
     - [Ling/Light_Kit_JimToolbox_PhpstormWidgetLinks](https://github.com/lingtalfi/Light_Kit_JimToolbox_PhpstormWidgetLinks) 1.0.4 --> 1.0.5
