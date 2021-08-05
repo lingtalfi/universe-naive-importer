@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4455 -- 2021-08-05
+
+    - [Ling/Light_Logger](https://github.com/lingtalfi/Light_Logger) 1.11.11 --> 1.11.12
+
+
 - 2.0.4454 -- 2021-08-05
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.225 --> 1.0.226
