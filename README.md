@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4453 -- 2021-08-05
+
+    - [Ling/SicTools](https://github.com/lingtalfi/SicTools) 1.6.7 --> 1.6.8
+
+
 - 2.0.4452 -- 2021-08-05
 
     - [Ling/JModules](https://github.com/lingtalfi/JModules)  --> 1.0.0
