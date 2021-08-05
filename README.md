@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4452 -- 2021-08-05
+
+    - [Ling/JModules](https://github.com/lingtalfi/JModules)  --> 1.0.0
+
+
 - 2.0.4451 -- 2021-08-05
 
     - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 2.2.4 --> 2.2.5
