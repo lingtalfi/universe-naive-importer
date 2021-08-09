@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4459 -- 2021-08-09
+
+    - [Ling/JAlcp](https://github.com/lingtalfi/JAlcp) 1.0.2 --> 1.0.3
+
+
 - 2.0.4458 -- 2021-08-05
 
     - [Ling/SimplePdoWrapper](https://github.com/lingtalfi/SimplePdoWrapper) 1.31.0 --> 1.32.0
