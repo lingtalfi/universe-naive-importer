@@ -2280,14 +2280,14 @@ galaxies:
             
         
         Light_PrettyError: 
-            version: 1.5.16
+            version: 1.5.17
             dependencies: 
                 Ling: 
                     - CliTools
                     - Light
                     - Light_Events
                     - Light_PlanetInstaller
-                    - UniversalTemplateEngine
+                    - Light_ZephyrTemplate
                 
             
             post_install: 

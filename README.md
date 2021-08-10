@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4464 -- 2021-08-10
+
+    - [Ling/Light_PrettyError](https://github.com/lingtalfi/Light_PrettyError) 1.5.16 --> 1.5.17
+
+
 - 2.0.4463 -- 2021-08-10
 
     - [Ling/Light_ZephyrTemplate](https://github.com/lingtalfi/Light_ZephyrTemplate) 1.2.6 --> 1.2.7
