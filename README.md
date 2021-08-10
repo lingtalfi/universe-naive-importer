@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4462 -- 2021-08-10
+
+    - [Ling/JModules](https://github.com/lingtalfi/JModules) 1.0.0 --> 1.0.1
+
+
 - 2.0.4461 -- 2021-08-10
 
     - [Ling/HtmlToolbox](https://github.com/lingtalfi/HtmlToolbox) 1.0.0 --> 1.0.1
