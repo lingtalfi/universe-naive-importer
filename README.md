@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4471 -- 2021-08-12
+
+    - [Ling/StripeTools](https://github.com/lingtalfi/StripeTools)  --> 0.0.1
+
+
 - 2.0.4470 -- 2021-08-12
 
     - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.44 --> 1.28.45

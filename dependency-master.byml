@@ -3263,6 +3263,11 @@ galaxies:
             dependencies: []
             post_install: []
         
+        StripeTools: 
+            version: 0.0.1
+            dependencies: []
+            post_install: []
+        
         SuspiciousException: 
             version: 1.0.4
             dependencies: []
