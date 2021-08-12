@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4470 -- 2021-08-12
+
+    - [Ling/Light_DeveloperWizard](https://github.com/lingtalfi/Light_DeveloperWizard) 1.28.44 --> 1.28.45
+
+
 - 2.0.4469 -- 2021-08-12
 
     - [Ling/PaypalTools](https://github.com/lingtalfi/PaypalTools)  --> 1.0.0
