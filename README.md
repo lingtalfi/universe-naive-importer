@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4469 -- 2021-08-12
+
+    - [Ling/PaypalTools](https://github.com/lingtalfi/PaypalTools)  --> 1.0.0
+
+
 - 2.0.4468 -- 2021-08-10
 
     - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.228 --> 1.0.229

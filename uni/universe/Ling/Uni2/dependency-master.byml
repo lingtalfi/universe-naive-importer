@@ -2934,6 +2934,11 @@ galaxies:
             dependencies: []
             post_install: []
         
+        PaypalTools: 
+            version: 1.0.0
+            dependencies: []
+            post_install: []
+        
         Pea: 
             version: 1.2.4
             dependencies: []
