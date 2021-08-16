@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4474 -- 2021-08-16
+
+    - [Ling/Light_AppBoilerplate](https://github.com/lingtalfi/Light_AppBoilerplate) 1.0.229 --> 1.0.230
+
+
 - 2.0.4473 -- 2021-08-16
 
     - [Ling/TokenFun](https://github.com/lingtalfi/TokenFun) 1.11.11 --> 1.11.12
