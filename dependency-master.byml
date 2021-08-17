@@ -674,7 +674,7 @@ galaxies:
             post_install: []
         
         HtmlPageTools: 
-            version: 2.2.5
+            version: 2.2.6
             dependencies: []
             post_install: []
         
