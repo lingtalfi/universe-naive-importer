@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4478 -- 2021-12-01
+
+    - [Ling/Light_It4Tools](https://github.com/lingtalfi/Light_It4Tools)  --> 1.0.0
+
+
 - 2.0.4477 -- 2021-08-17
 
     - [Ling/HtmlPageTools](https://github.com/lingtalfi/HtmlPageTools) 2.2.5 --> 2.2.6
