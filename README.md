@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4482 -- 2021-12-02
+
+    - [Ling/LingTalfi](https://github.com/lingtalfi/LingTalfi) 1.25.5 --> 1.25.6
+
+
 - 2.0.4481 -- 2021-12-02
 
     - [Ling/Light_It4Tools](https://github.com/lingtalfi/Light_It4Tools) 1.0.2 --> 1.0.3
