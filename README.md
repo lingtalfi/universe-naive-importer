@@ -113,6 +113,11 @@ History Log
 
 **&nbsp;**
 
+- 2.0.4486 -- 2021-12-05
+
+    - [Ling/Light_It4Tools](https://github.com/lingtalfi/Light_It4Tools) 1.0.4 --> 1.0.5
+
+
 - 2.0.4485 -- 2021-12-05
 
     - [Ling/Light_It4Tools](https://github.com/lingtalfi/Light_It4Tools) 1.0.3 --> 1.0.4
