@@ -1625,7 +1625,7 @@ galaxies:
             
         
         Light_It4Tools: 
-            version: 1.0.3
+            version: 1.0.4
             dependencies: 
                 Ling: 
                     - BabyYaml
