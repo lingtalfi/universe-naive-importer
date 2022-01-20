@@ -1182,7 +1182,7 @@ galaxies:
             
         
         Light_BreezeGenerator: 
-            version: 1.29.19
+            version: 1.29.20
             dependencies: 
                 Ling: 
                     - ArrayToString
